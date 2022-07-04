@@ -3679,59 +3679,59 @@
   </entry>
   <entry>
     <key>IPFinishedOne individual, however, rebelled against the decision, and was able to briefly release the Eye’s signal back into space before being caught and imprisoned in solitude for this betrayal.</key>
-    <value>Jeden jednotlivec se ale proti tomuto rozhodnutí vzbouřil, a na krátkou chvíli uvolnil signál Oka zpět do vesmíru, než ho zbytek jeho kmene chytil a uvěznil v samovazbě za jeho zradu.</value>
+    <value>Jeden jednotlivec se ale proti tomuto rozhodnutí vzbouřil, a na krátkou chvíli vypustil signál Oka zpět do vesmíru, než ho zbytek jeho kmene chytil a uvěznil v samovazbě za jeho zradu.</value>
   </entry>
   <entry>
     <key>CASSAVA: Conoy, Daz and I were lifting &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; components into orbit for assembly, and one somehow sank down down &lt;i&gt;beneath&lt;/i&gt; the current.</key>
-    <value>CASSAVA：CONOY、DAZ和我正在將&lt;color=orange&gt;軌道探測炮&lt;/color&gt;的部件送往軌道\\n進行組裝，可是其中一個不知怎麽回事掉到了水流的&lt;i&gt;下面&lt;/i&gt;去。</value>
+    <value>CASSAVA：Conoy, Daz a já jsme zvedali 將&lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; na oběžnou dráhu, abychom je tam sestavili, ale jedna ze součástek se záhadným způsobem ponořila &lt;i&gt;pod&lt;/i&gt; planetární proud.</value>
   </entry>
   <entry>
     <key>DAZ: Cassava convinced me not to try to recreate the phenomenon myself using other cannon parts, but we’re very curious to know what happened! How could something pass through the current?</key>
-    <value>DAZ：CASSAVA讓我不要用大炮的其它零件自己嘗試再現這一現象。但我們非常想要知道到底發生了什麽事！\\n怎麽會有東西往水流下面掉呢？</value>
+    <value>DAZ：Cassava mě přemluvil, abych se nesnažil problém reprodukovat pomocí dalších součástek, ale velmi by nás zajímalo, co se stalo! Jak může něco proniknout planetárním proudem?</value>
   </entry>
   <entry>
     <key>CONOY: My gratitude for your interesting question! This is exciting: Spire constructed a model of &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; here at &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s &lt;color=orange&gt;Southern Observatory&lt;/color&gt;, and it's revealed how an object might sink below the current.</key>
-    <value>CONOY：我感謝你提出了這個有趣的問題！這真是激動人心：SPIRE在&lt;color=lightblue&gt;碎空星&lt;/color&gt;的&lt;color=orange&gt;南部天文台&lt;/color&gt;這里構築了一個&lt;color=lightblue&gt;深巨星&lt;/color&gt;的模型，\\n它告訴了我們為什麽物體會沈到水流下面去。</value>
+    <value>CONOY：Mnohé díky za zajímavou otázku! Tohle je vzrušující: Spire postavil model &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt; tady na &lt;color=orange&gt;Křehkoduté planetě&lt;/color&gt; v &lt;color=lightblue&gt;Jižní observatoři&lt;/color&gt;, a objevil způsob, jakým se objekt může ponořit pod proud.</value>
   </entry>
   <entry>
     <key>CASSAVA: Conoy, I’m unable to grasp the answer by looking through the &lt;color=orange&gt;projection pool&lt;/color&gt;. If I visit the &lt;color=orange&gt;observatory&lt;/color&gt;, would you kindly explain?</key>
-    <value>CASSAVA：CONOY，光是看&lt;color=orange&gt;投影池&lt;/color&gt;我無法理解其中的原因。\\n如果我造訪&lt;color=orange&gt;天文台&lt;/color&gt;，能不能請你給我解釋一下？</value>
+    <value>CASSAVA：Conoyi, nepodařilo se mi pochopit pointu modelu ani potom, co jsem se na něj podíval skrz &lt;color=orange&gt;projekční jezírko&lt;/color&gt;. Pokud navštívím &lt;color=orange&gt;observatoř&lt;/color&gt;, byl bys tak laskav a vysvětlil mi ji osobně?</value>
   </entry>
   <entry>
     <key>CONOY: If you don’t mind the trek beneath the surface to the south pole, I’d be delighted to see you! (There are two trailheads, one at &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;'s &lt;color=orange&gt;gravity cannon&lt;/color&gt; and one at the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.)</key>
-    <value>CONOY：如果你不介意從地表下面跋涉前往南極，\\n我將很高興接待你！（有兩個入口，一個在&lt;color=orange&gt;碎空星重力炮&lt;/color&gt;，一個在&lt;color=orange&gt;量子知識之塔&lt;/color&gt;。）</value>
+    <value>CONOY：Pokud ti nevadí trek pod povrchem k jižnímu pólu, moc rád bych tě viděl! (Jsou tu dvě stezky - jedna začíná u &lt;color=orange&gt;gravitačního kanónu&lt;/color&gt;，a druhá u &lt;color=orange&gt;Věže kvantového poznání&lt;/color&gt;, obě samozřejmě na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;.)</value>
   </entry>
   <entry>
     <key>DAZ: Conoy, you should’ve seen it! We’d thought it was impossible for any cannon components to sink even partially below the current, but ours sank straight to the core!</key>
-    <value>DAZ：CONOY，你真該來看看！我們本以為不管哪種大炮部件，都絕對\\n不可能往水流的下面沈。然而我們的部件卻直接沈到了核心里！</value>
+    <value>DAZ：Conoyi, měl jsi to vidět! Mysleli jsme, že je nemožné, aby se jakákoliv součástka ponořila jen částečně pod proud, ale ta naše se ponořila úplně k jádru!</value>
   </entry>
   <entry>
     <key>COLEUS: I was upstairs testing the &lt;color=orange&gt;Eye signal locator&lt;/color&gt;, and it can hear and follow the signals from the &lt;color=lightblue&gt;sun&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, and &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-    <value>COLEUS：我正在樓上測試&lt;color=orange&gt;眼信號定位器&lt;/color&gt;，它可以接收並跟蹤\\n&lt;color=lightblue&gt;太陽&lt;/color&gt;、&lt;color=lightblue&gt;深巨星&lt;/color&gt;，還有&lt;color=lightblue&gt;碎空星&lt;/color&gt;發出的信號。</value>
+    <value>COLEUS：Byl jsem nahoře testovat &lt;color=orange&gt;Lokátor signálu oka&lt;/color&gt;, a umí sledovat signály ze &lt;color=lightblue&gt;slunce&lt;/color&gt;, &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;, a 還有&lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;發出的信號.</value>
   </entry>
   <entry>
     <key>COLEUS: However, something strange is happening when I ask the &lt;color=orange&gt;Eye signal locator&lt;/color&gt; to follow the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal: The device’s indicator rotates wildly and never points to just one direction.</key>
-    <value>COLEUS：但是，就在我讓&lt;color=orange&gt;眼信號定位器&lt;/color&gt;跟蹤&lt;color=lightblue&gt;眼&lt;/color&gt;信號的時候，\\\n發生了奇怪的事情：設備的指示器瘋狂旋轉，無法指向固定的方位。</value>
+    <value>COLEUS：Něco zvláštního se ale děje, když požádám &lt;color=orange&gt;lokátor&lt;/color&gt;, aby ukázal na &lt;color=lightblue&gt;Oko&lt;/color&gt; samotné. Ukazatel na přístroji se divoce točí a nikdy se neustálí na jednom směru.</value>
   </entry>
   <entry>
     <key>THATCH: This is a curious result. It’s possible the &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped calling out its signal.</key>
-    <value>THATCH：真是個奇怪的結果。有可能&lt;color=lightblue&gt;眼&lt;/color&gt;停止發射信號了。</value>
+    <value>THATCH：To je zajímavý výsledek. Je možné, že &lt;color=lightblue&gt;Oko&lt;/color&gt; přestalo vysílat svůj signál.</value>
   </entry>
   <entry>
     <key>FILIX: I see! I most likely calibrated the locator incorrectly. Privet (my apprentice) and I will make adjustments and try again.</key>
-    <value>FILIX：我懂了！我一定是沒有把定位器校準好。PRIVET（我的\\n徒弟）和我會進行調節，然後再試一次。</value>
+    <value>FILIX: Ach tak! Pravděpodobně jsem lokátor nastavil chybně. Privet (můj učedník) a já jej upravíme a zkusíme to znovu.</value>
   </entry>
   <entry>
     <key>FILIX: An update: Disappointingly, everything is correctly calibrated after all.</key>
-    <value>FILIX：更新：很遺憾，原來所有的內容都有校準好。</value>
+    <value>FILIX：Update: Bohužel, všechno je opravdu správně zkalibrované.</value>
   </entry>
   <entry>
     <key>CASSAVA: It saddens me to posit this, my friends, but I believe this &lt;color=orange&gt;locator&lt;/color&gt; cannot detect the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal. We would need to build a more sensitive device if we want to locate the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-    <value>CASSAVA：這麽說讓我很難過，我的朋友們，但是我相信這台&lt;color=orange&gt;眼信號定位器&lt;/color&gt;無法探測到&lt;color=lightblue&gt;眼&lt;/color&gt;的信號。我們需要建造一台\\n更加覆雜的設備，才能找到&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的確切位置。</value>
+    <value>CASSAVA：Rmoutí mě takto hypotetizovat, mí přátelé, ale věřím, že tento &lt;color=orange&gt;lokátor&lt;/color&gt; nedokáže detekovat signál &lt;color=lightblue&gt;Oka&lt;/color&gt;. Pokud chceme nalézt &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;, budeme muset postavit citlivější přístroj.</value>
   </entry>
   <entry>
     <key>THATCH: Then we will build it. Don’t lose hope, Cassava; our search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is what brought our clan to this place. We won’t give up so easily!</key>
-    <value>THATCH：那我們就造。不要灰心，CASSAVA；正是因為要尋找&lt;color=lightblue&gt;眼&lt;/color&gt;，\\n我們的家族才來到了這里。我們是不會輕易放棄的！</value>
+    <value>THATCH：Tak ho tedy vybudujeme. Neztrácej naději, Cassavo, hledání &lt;color=lightblue&gt;Oka&lt;/color&gt; přivedlo náš klan sem. Nevzdáme se tak jednoduše!</value>
   </entry>
   <entry>
     <key>Hal</key>
@@ -3739,214 +3739,214 @@
   </entry>
   <entry>
     <key>Friend1aHey, hey, it’s my favorite astronaut! Launch day at last, huh, buddy? It’s the translator tool’s inaugural flight, too! I’m so excited it’s making me nauseous.</key>
-    <value>嘿，嘿，這不是我最喜歡的宇航員嗎！終於到發射的日子了，對嗎，\\n夥計？這也是翻譯工具的處女航！我激動得都快吐了。</value>
+    <value>Ahoj ahoj, vždyť je to můj oblíbený astronaut! Konečně den vzletu, co, kámo? Je to taky první den pro náš překladač! Jsem tak nadšený, až je mi trošku nevolno.</value>
   </entry>
   <entry>
     <key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
-    <value>想想看，不管去哪兒，你都能隨時翻譯任何挪麥文字。\\n我們倆花了不少時間來發明這種工具，所以別把它弄壞了，行嗎？\\n哈哈！&lt;Pause&gt;……哦天哪。&lt;i&gt;別把它弄壞了。&lt;/i&gt;</value>
+    <value>Jen považ - budeš moci přeložit kterýkoli text, který kdy Nomai napsali, ať už budeš kdekoliv. My dva jsme do vynálezu tohohle přístroje investovali spoustu hodin, takže ho nerozbij, oukej? Haha! &lt;Pauza&gt; ...A jéje. &lt;i&gt;Nerozbij ho.&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>Friend1a...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are &lt;i&gt;you&lt;/i&gt; feeling?</key>
-    <value>……呃，我沒事。上太空的人根本不是我，我都這麽緊張！\\n&lt;i&gt;你&lt;/i&gt;的感覺如何？</value>
+    <value>...Uh, nevšímej si mě, oukej? Jsem jen nervózní. A to ani nejsem ten z nás, co jde do vesmíru! Jak se cítíš &lt;i&gt;ty&lt;/i&gt;?</value>
   </entry>
   <entry>
     <key>HalFriend1aI’m excited!</key>
-    <value>我很激動！</value>
+    <value>Jsem nadšený!</value>
   </entry>
   <entry>
     <key>HalFriend1aI’m terrified!</key>
-    <value>我害怕極了！</value>
+    <value>Jsem vyděšený!</value>
   </entry>
   <entry>
     <key>FriendExcitedGood! You’ve only been waiting for this day since we were hatchlings. I can’t wait to see all your training pay off!</key>
-    <value>很好！從我們小時候起，你就一直在等著這一天。\\n我等不及要看看你的訓練成果了！</value>
+    <value>To je dobře! Čekal jsi na tenhle den jen od té doby, co jsme byli mláďata. Nemůžu se dočkat, až se všechen tvůj trénink vyplatí!</value>
   </entry>
   <entry>
     <key>FriendScaredAw, don’t let me make you nervous. You’ve been training for this day since we were hatchlings, remember? You’ll do great, I promise!</key>
-    <value>啊，別讓我把你也弄緊張了。還記得嗎？從我們小時候起，\\n你就一直在為了這一天而接受訓練。你會幹得很出色的，我保證！</value>
+    <value>Ale ne, nenech mě, abych tě znervóznil. Připravoval ses na tento den od té doby, co jsme byli mláďata, vzpomínáš? Všechno bude v pořádku, slibuju!</value>
   </entry>
   <entry>
     <key>Friend1bSo what’s the dirt? You here to see the new Nomai statue?</key>
-    <value>那麽，有什麽新聞嗎？你是來看新的挪麥雕像對吧？</value>
+    <value>Tak co máš na plánu? Chceš se podívat na tu novou sochu Nomai?</value>
   </entry>
   <entry>
     <key>HalFriend1bNew statue?</key>
-    <value>什麽新的雕像？</value>
+    <value>Novou sochu?</value>
   </entry>
   <entry>
     <key>HalFriend1bOf course!</key>
-    <value>當然了！</value>
+    <value>Samozřejmě!</value>
   </entry>
   <entry>
     <key>HalFriend1bJust here for the launch codes.</key>
-    <value>我是為了發射密碼來的。</value>
+    <value>Jsem tu jen pro spouštěcí kódy.</value>
   </entry>
   <entry>
     <key>Friend2Heh, I knew you’d want to see it before you headed off! Hornfels just finished prepping it for display today. Amazing, isn’t it?</key>
-    <value>嘿，我就知道你在出發前想要看看它！\\nHornfels今天剛剛完成展出的準備工作。很神奇，不是嗎？</value>
+    <value>Ha, věděl jsem, že se na ni budeš chtít podívat, než odletíš! Hornfels ji zrovna dnes připravil na výstavu. Úžasný, co?</value>
   </entry>
   <entry>
     <key>Friend3You haven’t heard? Gabbro brought it back with them from Giant’s Deep, and Hornfels just finished prepping it for display. This is it right here. Neat, huh?</key>
-    <value>你沒聽說嗎？Gabbro把它從深巨星上帶了回來，\\nHornfels剛剛做好展出的準備工作。它就在這兒。很棒對吧？</value>
+    <value>Tys o ní ještě neslyšel? Gabbro ji přivezl s sebou z Obří hlubiny a Hornfels ji zrovna dnes připravil na výstavu. To je ona, hned tady. Pěkný, co?</value>
   </entry>
   <entry>
     <key>Friend4Yeah, I get that you’re dying to head out into space, but seriously, you’ve got to see this statue before you go. It’s an amazing find!</key>
-    <value>是啊，我知道你迫切地想要上太空，不過說真的，\\n你真該在走之前看看這座雕像。這一發現真的很了不起！</value>
+    <value>Jo, chápu, že umíráš touhou po vesmíru, ale vážně se na tuhle sochu musíš podívat předtím, než poletíš. Je to úžasný nález!</value>
   </entry>
   <entry>
     <key>Friend5Makes me wish we could see what a real live Nomai looks like, but I guess this is as close as we’ll ever get. Check it out - looks like they had fur! Fur is &lt;i&gt;weird&lt;/i&gt;.</key>
-    <value>看著它，我真希望能夠瞧瞧活生生的挪麥人長什麽樣，\\n不過我猜我們只能從雕像上進行最為詳實的了解了。\\n瞧啊，看上去他好像身上長著皮毛！皮毛有點&lt;i&gt;奇怪&lt;/i&gt;。</value>
+    <value>Přál bych si, abychom mohli vidět, jak vypadá skutečný živý Nomai, ale blíž než k soše se patrně nedostaneme. Podívej se na ní - vypadá to, že měli srst! Srst je &lt;i&gt;divná&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>Friend5This is the first fully intact statue ever found, you know. And for how old it is, it’s in great shape!</key>
-    <value>知道嗎，這是我們發現的第一尊完好的雕像。\\n鑒於它的年代久遠，這座雕像的保存狀況十分良好！</value>
+    <value>Tohle je první nepoškozená socha, kterou jsme kdy našli. A na to, jak je stará, je ve skvělé formě!</value>
   </entry>
   <entry>
     <key>Friend5...Ah geez, I got a little carried away there. Go on, you have a ship to launch! Take care of yourself out there, you hear?</key>
-    <value>……啊，天哪，我有點跑題了。去吧，你還要發射宇宙飛船呢！\\n在太空里你可得多保重，聽見了嗎？</value>
+    <value>...ale to jsem se nechal trošku unést. Běž, máš loď, kterou musíš odpilotovat! Opatruj se, slyšíš mě?</value>
   </entry>
   <entry>
     <key>StatueEyesOpenHey, I was just about to come find you! Look look look, you’ve gotta see this — the Nomai statue’s eyes are open!</key>
-    <value>嘿，我正想找你呢！來來來，你得瞧瞧這個：挪麥雕像的眼睛是睜開的！</value>
+    <value>Hej, právě jsem tě šel hledat! Podívej se, tohle musíš vidět - oči sochy Nomai jsou otevřené!</value>
   </entry>
   <entry>
     <key>StatueEyesOpenThey, uh, used to be closed. Probably should’ve started with that. And now they’ve opened!</key>
-    <value>這些眼睛，呃，以前是閉起來的。也許這句話我該先說。\\n不過現在它們睜開了！</value>
+    <value>Bývaly, um, zavřené. Pravděpodobně jsem měl začít tím, že byly zavřené. A teď se otevřely!</value>
   </entry>
   <entry>
     <key>StatueEyesOpenWe’re not sure &lt;i&gt;why&lt;/i&gt; they opened, since no one actually saw it happen, but this is huge news!</key>
-    <value>我們還不確定它們&lt;i&gt;為什麽&lt;/i&gt;會睜開，因為當時沒人親眼見到，\\n不過這可是大新聞！</value>
+    <value>Nejsme si jistí, &lt;i&gt;proč&lt;/i&gt; se otevřely, protože nikdo u toho nebyl, ale tohle je ohromná novinka!</value>
   </entry>
   <entry>
     <key>StatueEyesOpenShould someone tell Gabbro? Or maybe Riebeck? Oh, stars, this is so exciting, it’s making my stomach hurt!</key>
-    <value>是不是該去告訴Gabbro？或者告訴Riebeck？哦群星哪，真是叫人太激動，\\n我的肚子都疼了！</value>
+    <value>Měl by to někdo říci Gabbrovi? Nebo možná Riebeckovi? Ah, hvězdy nade mnou, tohle je tak vzrušující, že mě z toho bolí břicho!</value>
   </entry>
   <entry>
     <key>HalStatueEyesOpenHal! Can you help me translate this new alien language I found?</key>
-    <value>Hal！你能不能來幫我翻譯一下我找到的這門新的外星語言？</value>
+    <value>Hale! Můžeš mi pomoci přeložit tenhle nový mimozemský jazyk, který jsem našel?</value>
   </entry>
   <entry>
     <key>MoreTranslationA new language?! YES! Absolutely! Stars above, you BET I can!</key>
-    <value>一門新的語言？！可以！沒問題！群星在上，我一定給你搞定！</value>
+    <value>Nový jazyk? ANO! Jasně! Jako že jsou hvězdy nade mnou, to si PIŠ, že můžu!</value>
   </entry>
   <entry>
     <key>MoreTranslationJust give me… let’s call it a hundred samples, some form of epigraphical codex, and six months, and I should have the vague gist of the sort of graphemes this new language is working with!</key>
-    <value>你只需要給我……比如說，一百份樣本，\\n某種形式的象形文字索引，和六個月的時間，\\n到那時我就可以對這種新語言所使用的字素總結出一個模糊的規則了！</value>
+    <value>Jen mi dej... řekněme sto vzorků, nějaký epigrafický kodex a šest měsíců, a pak bych měl mít vágní představu o hrubé podobě grafémů, které tenhle nový jazyk používá!</value>
   </entry>
   <entry>
     <key>MoreTranslationGosh, I can’t wait to get started!</key>
-    <value>天啊，我已經等不及想要開始了！</value>
+    <value>Šmarjá, nemůžu se dočkat, až začnu!</value>
   </entry>
   <entry>
     <key>FriendNot5_TO_CHANGEHey again! What’s up?</key>
-    <value>又見面了！有事嗎？</value>
+    <value>Ahoj! Copak se děje?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhere on Giant’s Deep would I find Gabbro?</key>
-    <value>我要在深巨星的哪兒才能找到Gabbro？</value>
+    <value>Kde na Obří hlubině najdu Gabbra?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhere did this statue come from?</key>
-    <value>這座雕像是從哪兒來的？</value>
+    <value>Odkud se tahle socha vzala?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhy did the Nomai make this statue?</key>
-    <value>挪麥人為什麽要制作那個雕像？</value>
+    <value>Proč Nomai vytvořili tuhle sochu?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEThink I’ll discover anything cool in space?</key>
-    <value>你覺得我在太空里會有了不起的發現嗎？</value>
+    <value>Myslíš, že ve vesmíru objevím něco kůlovatýho?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGESorry, nevermind.</key>
-    <value>抱歉，沒事。</value>
+    <value>Promiň, musím jít.</value>
   </entry>
   <entry>
     <key>FriendMenuWas there something else?</key>
-    <value>還有別的事嗎？</value>
+    <value>Můžu ti pomoci s něčím dalším?</value>
   </entry>
   <entry>
     <key>HalFriendMenuWhere’d you say this statue came from?</key>
-    <value>你說這座雕像是從哪兒來的？</value>
+    <value>Odkud jsi říkal, že se tahle socha vzala?</value>
   </entry>
   <entry>
     <key>HalFriendMenuWhere can I find Gabbro?</key>
-    <value>我要去哪兒才能找到Gabbro？</value>
+    <value>Kde můžu najít Gabbra?</value>
   </entry>
   <entry>
     <key>HalFriendMenuWhy did the Nomai make this statue?</key>
-    <value>挪麥人為什麽要制作那個雕像？</value>
+    <value>Proč Nomai vytvořili tuhle sochu?</value>
   </entry>
   <entry>
     <key>HalFriendMenuThink I’ll discover anything cool in space?</key>
-    <value>你覺得我在太空里會有了不起的發現嗎？</value>
+    <value>Myslíš, že ve vesmíru objevím něco kůlovatýho?</value>
   </entry>
   <entry>
     <key>HalFriendMenuNope, that was it.</key>
-    <value>不，沒事了。</value>
+    <value>Ne, díky.</value>
   </entry>
   <entry>
     <key>Friend6Good question! So Gabbro found this fully intact statue on Giant’s Deep, right? Well, Hornfels told me it’s made from the same type of special stone as the partial statue Chert brought back from the Hourglass Twins.</key>
-    <value>問得好！Gabbro在深巨星發現了這座完好無缺的雕像，對吧？\\nHornfels跟我說，它是一種特別的石頭制作的，\\n和Chert從沙漏雙星帶回來的雕像碎片是同種石頭。</value>
+    <value>Dobrá otázka! Gabbro našel tuhle netknutou sochu na Obří hlubině, chápeš? A Hornfels mi řekl, že je vyrobená z toho samého zvláštního kamene, jako částečná socha, kterou Chert přinesl z Přesýpacích dvojčat.</value>
   </entry>
   <entry>
     <key>Friend6That’s why when Gabbro, you know, chipped the Giant’s Deep statue, that stone fragment was repurposed for your ship’s computer.</key>
-    <value>這就是為什麽當Gabbro從深巨星雕像上切下一小塊之後，\\n又對這塊石頭碎片進行了重新加工，用在了你的宇宙飛船電腦上。</value>
+    <value>A když Gabbro z té sochy omylem uštípnul trochu kamene, tak jsme ten kousek vzali a udělali z něj paměťový čip pro počítač ve tvé lodi.</value>
   </entry>
   <entry>
     <key>Friend6Maybe the statues were made for storing information?</key>
-    <value>也許那座雕像是用來儲存信息的？</value>
+    <value>Možná vytvořili ty sochy pro ukládání informací?</value>
   </entry>
   <entry>
     <key>Friend7From Giant’s Deep! Gabbro fished it out of the oceans and brought it back here for study.</key>
-    <value>是深巨星上找到的！Gabbro把它從海里釣了上來，帶回去進行研究。</value>
+    <value>Z Obří hlubiny! Gabbro ji vylovil z oceánů a přinesl ji sem pro důkladnější studium.</value>
   </entry>
   <entry>
     <key>Friend7Hornfels doesn’t know much about it yet, just that it’s &lt;i&gt;crazy&lt;/i&gt; old and super tough. I wonder why the Nomai carved it?</key>
-    <value>Hornfels對它的了解還不多，只知道它&lt;i&gt;特別&lt;/i&gt;古老，非常堅固。\\n不知道挪麥人為什麽要雕刻這尊雕像？</value>
+    <value>Hornfels o ní zatím mnoho neví, jen že je &lt;i&gt;šílená&lt;/i&gt;, stará a hodně tuhá. Zajímalo by mě, proč ji Nomai vytesali?</value>
   </entry>
   <entry>
     <key>Friend7Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there.</key>
-    <value>很顯然，Gabbro打算回到深巨星，對雕像作進一步的調查。\\n也許他可以在那里找到一些答案。</value>
+    <value>Gabbro podle všeho šel zpátky do Obří hlubiny, aby objevil víc ohledně té sochy. Možná nějaké odpovědi najdeš tam.</value>
   </entry>
   <entry>
     <key>Friend8Hey, you never know — maybe you’ll be the one to solve the mysteries of the Nomai!</key>
-    <value>嘿，誰知道呢，也許你就是那個解開挪麥人秘密的人！</value>
+    <value>Jeden nikdy neví - možná budeš tím, kdo vyřeší všechny záhady Nomai!</value>
   </entry>
   <entry>
     <key>Friend8Or maybe you’ll discover a new kind of rock or something.</key>
-    <value>要麽就是你發現了一種新的石頭。</value>
+    <value>Nebo najdeš nějaký nový druh kamene nebo tak nějak.</value>
   </entry>
   <entry>
     <key>Friend8But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</key>
-    <value>不過老實說，只要他們最後別用你的名字來為新的安全設備命名，\\n我肯定你一定能夠幹得很出色。</value>
+    <value>Ale upřímně, pokud podle tebe nepojmenují nový bezpečnostní přístroj, jsem si jist, že vykonáš dobrou práci.</value>
   </entry>
   <entry>
     <key>Friend9No problem. Take it easy!</key>
-    <value>沒問題。多保重！</value>
+    <value>Bez problému. Drž se!</value>
   </entry>
   <entry>
     <key>Friend10Alright then! Be careful out there, okay?</key>
-    <value>那好吧！記得多保重，好嗎？</value>
+    <value>Tak jo! Buď tam opatrný, oukej?</value>
   </entry>
   <entry>
     <key>WheresGabbroGabbro said they were going back to Giant’s Deep to wherever they found that Nomai statue. One of the islands, I think.</key>
-    <value>Gabbro說他要回到深巨星找到挪麥雕像的地方去。\\n我想就是其中的一座島上吧。</value>
+    <value>Gabbro říkal, že půjde zpátky na Obří hlubinu na to místo, kde našel tu sochu Nomai. Jeden z ostrovů, myslím.</value>
   </entry>
   <entry>
     <key>WheresGabbroYou remember Gabbro plays a flute, right? Like, all the time? I bet your signalscope could find them easily.</key>
-    <value>你還記得Gabbro喜歡演奏長笛吧？一刻都不停的那種？\\n我敢說你用信號鏡很容易就能找到他。</value>
+    <value>Pamatuješ si, že Gabbro hraje na flétnu? Skoro pořád? Vsadím se, že tvůj signáloskop ho jednoduše najde.</value>
   </entry>
   <entry>
     <key>WheresGabbroIf you do see Gabbro, say hi for me!</key>
-    <value>要是你見到Gabbro，替我向他問個好！</value>
+    <value>Pokud Gabbra uvidíš, řekni mu za mě ahoj!</value>
   </entry>
   <entry>
     <key>
 			ANNONA: The &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; is functioning. We have markers for each of the places the moon goes.
 		</key>
     <value>
-			ANNONA：&lt;color=orange&gt;量子衛星定位器&lt;/color&gt;工作正常。我們把所有衛星出現的位置\\n都打上了標記。
+			ANNONA：&lt;color=orange&gt;Lokátor Kvantového měsíce&lt;/color&gt; funguje. Máme značky pro každé místo, kam náš toulavý měsíc chodí.
 		</value>
   </entry>
   <entry>
@@ -3954,7 +3954,7 @@
 			MELORAE: Annona, Bur, I just observed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; in orbit around &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.
 		</key>
     <value>
-			MELORAE：ANNONA，BUR，我剛剛在&lt;color=lightblue&gt;黑棘星&lt;/color&gt;的軌道附近觀察到了&lt;color=lightblue&gt;量子衛星&lt;/color&gt;。
+			MELORAE：Annono, Bure, právě jsem viděl &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; obíhat &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -3962,7 +3962,7 @@
 			ANNONA: You have keen eyes, my friend. So this moon travels to a total of five locations, not four.
 		</key>
     <value>
-			ANNONA：你的眼神可真好，我的朋友。這麽說衛星一共會出現在\\n五個位置，而不是四個。
+			ANNONA：Máš bystrý zrak, můj příteli. Takže tento měsíc putuje celkem k pěti planetám, ne čtyřem.
 		</value>
   </entry>
   <entry>
@@ -3970,7 +3970,7 @@
 			BUR: I added a marker for &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.
 		</key>
     <value>
-			BUR：我把&lt;color=lightblue&gt;黑棘星&lt;/color&gt;的標記添加了上去。
+			BUR：Přidal jsem značku pro &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;.
 		</value>
   </entry>
   <entry>
@@ -3978,7 +3978,7 @@
 			BUR: I thought the &lt;color=orange&gt;locator&lt;/color&gt; now accounted for all of the &lt;color=lightblue&gt;phantom moon&lt;/color&gt;’s locations, but sometimes the &lt;color=orange&gt;locator&lt;/color&gt; can’t tell where the moon is. Perhaps there’s a problem with the device?
 		</key>
     <value>
-			BUR：我想&lt;color=orange&gt;定位器&lt;/color&gt;現在掌握了&lt;color=lightblue&gt;幻影衛星&lt;/color&gt;的所有位置，不過有時\\n&lt;color=orange&gt;定位器&lt;/color&gt;無法探測出衛星到底在哪兒。是不是設備出了問題？
+			BUR：Myslel jsem si, že náš &lt;color=orange&gt;lokátor&lt;/color&gt; nyní zvládá všechny lokace &lt;color=lightblue&gt;fantomového měsíčku&lt;/color&gt;, ale občas mi &lt;color=orange&gt;lokátor&lt;/color&gt; stále nedokáže říci, kde že ten měsíc je. Možná je problém s naším nastavením?
 		</value>
   </entry>
   <entry>
@@ -3986,7 +3986,7 @@
 			MELORAE: It’s also possible there exists a sixth place in this star system to which the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; travels.
 		</key>
     <value>
-			MELORAE：也有可能&lt;color=lightblue&gt;幻影衛星&lt;/color&gt;會出現在這個星系的第六個位置上。
+			MELORAE：Je také možné, že existuje šesté místo v tomto systému, kam &lt;color=lightblue&gt;fantomový měsíček&lt;/color&gt; cestuje.
 		</value>
   </entry>
   <entry>
@@ -3994,7 +3994,7 @@
 			Melorae: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</key>
     <value>
-			MELORAE：如果你是來找COLEUS的，這里就是當時他消失的地方。\\n他已經失蹤兩天了！
+			MELORAE：Pokud jste sem přišli hledat Colea, byl tady, když zmizel. Už je pohřešovaný dva dny!
 		</value>
   </entry>
   <entry>
@@ -4002,7 +4002,7 @@
 			Annona: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</key>
     <value>
-			ANNONA：你那塊奇怪的流浪巖石朋友還在這里，但是COLEUS卻不見了。
+			ANNONA：Tvůj zvláštní, toulavý přítel je tady, přestože Coleus ne.
 		</value>
   </entry>
   <entry>
@@ -4010,7 +4010,7 @@
 			Melorae: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</key>
     <value>
-			MELORAE：COLEUS和我在至少另外兩個洞窟里，都觀察到了這種模樣\\n不同尋常的巖石碎片（還有一些較小的巖石）。我不知道這一切是否\\n有所關聯。
+			MELORAE：Coleus a já jsme sledovali tento nezvyklý kámen (a několik menších kamenů) v alespoň dvou dalších jeskyních. Nejsem si jist, zda je to relevantní.
 		</value>
   </entry>
   <entry>
@@ -4018,7 +4018,7 @@
 			BUR: What happened before Coleus disappeared?
 		</key>
     <value>
-			BUR：COLEUS失蹤之前發生了什麽？
+			BUR：Co se stalo předtím, když Coleus zmizel?
 		</value>
   </entry>
   <entry>
@@ -4026,7 +4026,7 @@
 			Melorae: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</key>
     <value>
-			MELORAE：我們正在對不同的巖石進行檢查。我記得COLEUS當時站在最大\\n的一塊巖石上面（流浪巖石）。我正在記筆記，然後我的燈就熄了。
+			MELORAE：Zkoumali jsme odlišné kameny. Vzpomínám se, že Coleus se postavil na ten největší (toulavý) kámen. Já jsem si psala poznámky, a potom moje lampa zhasla.
 		</value>
   </entry>
   <entry>
@@ -4034,141 +4034,141 @@
 			Melorae: When I lit it again, Coleus and the rock were both gone.
 		</key>
     <value>
-			MELORAE：等我再次把燈點亮的時候，COLEUS和那塊巖石就都不見了。
+			MELORAE：Když jsem ji znovu zapálila, Coleus i kámen byli oba pryč.
 		</value>
   </entry>
   <entry>
     <key>Should we build the &lt;color=orange&gt;Sun Station&lt;/color&gt; to power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;?</key>
-    <value>我們要不要建造&lt;color=orange&gt;太陽站&lt;/color&gt;來為&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;提供動力？</value>
+    <value>Měli bychom postavit &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;, abychom mohli napájet &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;?</value>
   </entry>
   <entry>
     <key>IDAEA: I almost can’t comprehend this is being suggested seriously. The purpose of the &lt;color=orange&gt;Sun Station&lt;/color&gt; goes against every standard we hold ourselves to and everything we believe in as a species!</key>
-    <value>IDAEA：我幾乎難以理解怎麽會有人真的提出這種建議。這個&lt;color=orange&gt;太陽站&lt;/color&gt;\\n的功能與我們自身的道德標準以及我們作為一個物種的信仰是\\n背道而馳的！</value>
+    <value>IDAEA：Já téměř nechápu, že tohle někdo může vážně navrhovat. Účel &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; jde proti každému standardu, který dodržujeme, a proti všemu, čemu jako druh věříme!</value>
   </entry>
   <entry>
     <key>PYE: Unsurprisingly, Idaea, I disagree. We’re pushing a possible new technology further than ever before. That, in my experience, is the defining characteristic of our species.</key>
-    <value>PYE：毫不奇怪，IDAEA，我不同意你的看法。我們正在推動一項史無\\n前例的潛在新技術。以我的經驗來說，此舉正是我們這一物種的特色。</value>
+    <value>PYE: Nepřekvapivě, Ideao, nesouhlasím. Snažíme se posunout možnou novou technologii dále, než kdy předtím. To je, z mé zkušenosti, definující vlastnost našeho druhu.</value>
   </entry>
   <entry>
     <key>YARROW: Are there other ways to generate this level of power?</key>
-    <value>YARROW：有沒有其它辦法可以產生這種水平的動力？</value>
+    <value>YARROW：Existují jiné způsoby, jak generovat vyžadované množství energie?</value>
   </entry>
   <entry>
     <key>PYE: Theoretically, yes. Practically, no. I can’t imagine discovering them in our lifetimes...</key>
-    <value>PYE：理論上是有的。實際上，並不可行。我很難想象我們這輩子\\n能夠找到那樣的方法……</value>
+    <value>PYE： Teoreticky, ano. Prakticky, ne. Nedokážu si představit, že bychom je objevili během našich životů...</value>
   </entry>
   <entry>
     <key>RAMIE: I understand this proposal is unsettling, but the &lt;color=orange&gt;Sun Station&lt;/color&gt; must be built if we hope to complete the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-    <value>RAMIE：我明白這個建議叫人非常不安，但如果我們打算完成\\n&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;，那就必須建造&lt;color=orange&gt;太陽站&lt;/color&gt;。</value>
+    <value>RAMIE：Chápu, že tento návrh je znepokojující, ale &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; musí být vybudována, pokud chceme dokončit &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>COLEUS: If we fail (and the probability of this is not insignificant), we will without question destroy ourselves, all life here, and the rest of this star system. I wish to protect these species.</key>
-    <value>COLEUS：如果我們失敗了（這種可能性並不小），毫無疑問，我們\\n就會把自己，這里的所有生命，還有這個星系的一切全部摧毀。\\n我想要保護這些物種。</value>
+    <value>COLEUS：Pokud selžeme (a pravděpodobnost selhání není nevýznamná), bezpochyby zničíme sebe, veškerý život tady, a zbytek planetárního systému. Přeji si ochránit tyto živočišné druhy.</value>
   </entry>
   <entry>
     <key>IDAEA: The potential annihilation of an entire star system is too severe a cost. We shouldn’t build the &lt;color=orange&gt;Sun Station&lt;/color&gt;, no matter how badly we want the knowledge that comes with it.</key>
-    <value>IDAEA：有可能毀滅整個星系，這個代價實在是太沈重了。無論我們多麽\\n渴望了解其中的奧秘，我們都不該建造&lt;color=orange&gt;太陽站&lt;/color&gt;。</value>
+    <value>IDAEA：Potenciální vyhlazení celého hvězdného systému je příliš vysoká cena. &lt;color=orange&gt;Sluneční stanici&lt;/color&gt; bychom neměli vybudovat bez ohledu na to, jak moc chceme znalosti, které by nám mohla poskytnout.</value>
   </entry>
   <entry>
     <key>POKE: Fear of failure is a poor reason not to try. I believe, if we’re cautious, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will work. I believe in Pye.</key>
-    <value>POKE：害怕失敗並非拒絕嘗試的借口。我相信，如果我們謹慎小心，\\n那麽&lt;color=orange&gt;太陽站&lt;/color&gt;一定可以成功。我相信PYE。</value>
+    <value>POKE：Strach ze selhání je špatný důvod věc nezkusit. Věřím, že pokud budeme opatrní, &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; bude fungovat. Věřím v Pye.</value>
   </entry>
   <entry>
     <key>PYE: Poke, I’m deeply honored. Idaea, I comprehend your position; however, if we aren’t all but certain the &lt;color=orange&gt;Sun Station&lt;/color&gt; will not cause destruction once we’ve built it, then I won’t support the station’s use.</key>
-    <value>PYE：POKE，我深表榮幸。IDAEA，我理解你的立場；然而，\\n假如我們無法確保建造&lt;color=orange&gt;太陽站&lt;/color&gt;之後不會導致毀滅性的結果，\\n那麽我是不會支持使用太陽站的。</value>
+    <value>PYE：Poke, jsem hluboce poctěna. Ideao, chápu tvoji pozici; pokud si nebudeme absolutně jisti, že &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; nezpůsobí destrukci, až ji dobudujeme, nepodpořím její použití.</value>
   </entry>
   <entry>
     <key>RAMIE: Note: This door will need to remain closed for some &lt;i&gt;time&lt;/i&gt;! Pye and I are running an experiment based on the extraordinary findings from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
-    <value>RAMIE：備注：這扇門一段&lt;i&gt;時間&lt;/i&gt;內不會開啟！基於在&lt;color=orange&gt;白洞站&lt;/color&gt;上\\n的異常發現，PYE和我正在進行一次實驗。</value>
+    <value>RAMIE：Poznámka: tyto dveře budou muset zůstat zavřené na &lt;i&gt;drahnou&lt;/i&gt; dobu! Pye a já podnikáme experiment na základě neskutečných nálezů z 基於在&lt;color=orange&gt;Běloděré stanice&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the &lt;color=orange&gt;Sunless City&lt;/color&gt;.</key>
-    <value>PYE：RAMIE和我會把實驗繼續下去，直到我們其中一個人（特別是\\n我）可以證明對方的假設是錯的。因此盡管很不方便，但是目前\\n實驗室只能從&lt;color=orange&gt;背陰城&lt;/color&gt;的通路進入。</value>
+    <value>PYE：Ramie a já budeme tento experiment podnikat tak dlouho, dokud jeden z nás (konkrétně já) neprokáže, že se ten druhý mýlí, takže přestože je to nepohodlné, do laboratoře se lze nyní dostat jen skrz &lt;color=orange&gt;Neslunné město&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: Inviting sand inside would disrupt our setup and could have enormous consequences. (We realize this is an intriguing prospect, but the door must remain closed nonetheless!)</key>
-    <value>RAMIE：讓沙子進來會幹擾我們的實驗設置，並可能造成嚴重的後果。（我\\n們明白這種情形一定會十分有意思，不過無論如何，\\n這道門都必須緊緊關上！）</value>
+    <value>RAMIE：Pozvat dovnitř písek by narušilo naše experimentální nastavení a mohlo by mít ohromné dopady. (Uvědomujeme si, že ohromné dopady jsou zajímavé, ale i tak musíme tyto dveře nechat zavřené!)</value>
   </entry>
   <entry>
     <key>RAMIE: An update: The &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is now being used to design the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! If you’re here to help (or even just to observe), be sure to use the &lt;color=orange&gt;Sunless City&lt;/color&gt; path to the lab.</key>
-    <value>RAMIE：更新：&lt;color=orange&gt;高能實驗室&lt;/color&gt;目前正在用來設計&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;！如果\\n你想要來幫忙（或者只是旁觀），務必使用&lt;color=orange&gt;背陰城&lt;/color&gt;的通路前往實驗室。</value>
+    <value>RAMIE：Update: &lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt; nyní designuje &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! Pokud jste tu ku pomoci (nebo se jen chcete dívat), použijte prosím cestu z &lt;color=orange&gt;Neslunného města&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
-    <value>RAMIE：&lt;color=orange&gt;南部天文台&lt;/color&gt;詢問制造一個22分鐘的間隔是否有可能（也\\n就是說，讓某個對象在完成躍遷22分鐘之前就抵達目的地）。</value>
+    <value>RAMIE：&lt;color=orange&gt;Jižní observatoř&lt;/color&gt; se ptá, zda je možné vytvořit 22-minutový interval (to jest, zda něco může dorazit 22 minut předtím, než je to posláno skrz warp)./value>
   </entry>
   <entry>
     <key>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</key>
-    <value>RAMIE：我們已經得知，增加更多躍遷核心的能量，就可以加強出發與抵達\\n之間的時間倒流間隔。問題在於，增加間隔所需的能量是呈指數增長的。</value>
+    <value>RAMIE：Zjistili jsme, že negativní časový interval mezi odchodem a příchodem lze zvýšit tak, že přidáme více energie do warpového jádra. Problematické je to, že energie vyžadovaná ke zvýšení intervalu se zvyšuje exponenciálně.</value>
   </entry>
   <entry>
     <key>PYE: Hypothesis: Creating a 22-minute-long interval is possible, but we are currently unable to generate the necessary energy.</key>
-    <value>PYE：假設：制造一個22分鐘的間隔是可行的，但我們目前無法生成必要\\n的能量。</value>
+    <value>PYE：Hypotéza: Vytvoření 22-minutového intervalu je možné, ale v současné době nedokážeme vygenerovat takové množství energie.</value>
   </entry>
   <entry>
     <key>PYE: Ramie and I believe it would be necessary to invent a new method of producing energy, a thrilling but enormous undertaking. We would also require advanced warp technology able to handle such energy.</key>
-    <value>PYE：RAMIE和我相信有必要發明一種新的方法來產生能量，這是一項\\n激動人心同時又十分艱巨的工作。我們還需要能夠承受住這種能量的\\n高級躍遷技術。</value>
+    <value>PYE：Ramie a já věříme, že by bylo nezbytné vynalézt novou metodu získávání energie, což je vzrušující, ale také neskutečně složité. Také bychom potřebovali pokročilou warpovou technologii, která by dokázala zvládnout takové množství energie.</value>
   </entry>
   <entry>
     <key>PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-    <value>PYE：我們還要尋找一個廣闊的空間來容納上述的新型能量以及\\n躍遷技術。唯一滿足條件的地方就是&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;。</value>
+    <value>PYE：Také bychom potřebovali enormně veliký prostor, kam bychom nasoukali navrhované energetické a warpové technologie dohromady. Jediné místo, které je dostatečně velké, by byl celý &lt;color=lightblue&gt;Popelák&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: The energy is &lt;i&gt;currently&lt;/i&gt; unavailable, you say? You’re a gas, Pye!</key>
-    <value>RAMIE：你是說，能量&lt;i&gt;目前&lt;/i&gt;無法生成？你真是有意思，PYE！</value>
+    <value>RAMIE：Energie je &lt;i&gt;v současné době&lt;/i&gt; nedostupná? Ty jsi ale čtverák, Pye!</value>
   </entry>
   <entry>
     <key>PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!</key>
-    <value>PYE：我沒有開玩笑，RAMIE，我說的是實話！</value>
+    <value>PYE：Můj vtip byl neúmyslný, Ramie, takže věřím, že to ty jsi geometrický!</value>
   </entry>
   <entry>
     <key>PYE: Records show Nomai arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; very slightly before departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. Ramie and I are devising an experiment to test if this is a real phenomenon or simple machine error.</key>
-    <value>PYE：記錄顯示，挪麥人抵達&lt;color=lightblue&gt;碎空星&lt;/color&gt;躍遷接收點的時間比離開\\n&lt;color=orange&gt;白洞站&lt;/color&gt;的時間要稍微早那麽一點點。RAMIE和我正在設計實驗，\\n看看這是一種正常現象，還是機器出了故障。</value>
+    <value>PYE：Záznamy ukazují, že Nomai přicházejí na warpový přijímač na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; těsně předtím, než odejdou z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt;. Ramie a já vymýšlíme experiment, který otestuje, zda je toto skutečný fenomén nebo jen jednoduchá chyba ve stroji.</value>
   </entry>
   <entry>
     <key>RAMIE: In theory, what we want to try to reproduce is a negative amount of time elapsing between something entering the black hole and exiting the white hole at its destination.</key>
-    <value>RAMIE：理論上，我們想要重現的是某個對象進入黑洞以及離開白洞抵達\\n目的地之間所產生的時間倒流。</value>
+    <value>RAMIE：Teoreticky se snažíme reprodukovat negativní množství času mezi něčím vstupujícím do černé díry a vystupujícím z cílové bílé díry.</value>
   </entry>
   <entry>
     <key>PYE: Initial things first: Our experiment setup will first pair a small black hole core with a small white hole core to mimic the setup on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
-    <value>PYE：當務之急：我們的實驗首先會匹配一對小型黑洞核心和白洞核心，\\n來模擬&lt;color=orange&gt;白洞站&lt;/color&gt;上的設置。</value>
+    <value>PYE：Nejdříve základy: Naše experimentální nastavení nejprve spáruje malou černou díru s malou bílou dírou, abychom napodobili dispozice na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>RAMIE: Hypothesis: It is possible for an object to exit a white hole before entering the corresponding black hole.</key>
-    <value>RAMIE：假設：對象在進入相應的黑洞之前 就從 白洞離開是有可能的。</value>
+    <value>RAMIE：Hypotéza: Je možné, aby objekt vystoupil z bílé díry předtím, než vstoupí do korespondující černé díry.</value>
   </entry>
   <entry>
     <key>RAMIE: An update: Our experiment here reproduced the anomaly in arrival and departure times, but Pye is unconvinced it’s more than an equipment error. I hope to strengthen the effect to render it visible to the unaided eyes.</key>
-    <value>RAMIE：更新：我們的實驗再現了出發與抵達的時間異常，然而PYE依然\\n堅持問題的原因是設備故障。我希望能夠加強實驗效果，讓肉眼也能\\n觀察到。</value>
+    <value>RAMIE：Update: Náš experiment reprodukoval anomálii mezi výstupním a vstupním časem, ale Pye není přesvědčena, že se nejedná o víc než měřící omyl. Doufám, že můžeme efekt posílit tak, aby byl očividně patrný.</value>
   </entry>
   <entry>
     <key>PYE: To that end, we’ve decided to try adding more energy. I imagine the &lt;color=orange&gt;Sunless City&lt;/color&gt;’s energy supply should prove sufficient.</key>
-    <value>PYE：為此，我們決定增加更多的能量。我想&lt;color=orange&gt;背陰城&lt;/color&gt;的能量供給應該\\n可以滿足要求。</value>
+    <value>PYE：Z tohoto důvodu jsme se rozhodli zkusit přidat více energie. Myslím, že energetické zásoby &lt;color=orange&gt;Neslunného města&lt;/color&gt; by měly být dostatečné.</value>
   </entry>
   <entry>
     <key>PYE: Of note, Ramie: Yarrow requests that we let him know before we reroute energy to the experiment.</key>
-    <value>PYE：注意事項，RAMIE：YARROW要求我們在為實驗轉移能量之前通知他。</value>
+    <value>PYE：Poznámka, Ramie: Yarrow žádá, abychom mu dali vědět předtím, než odkloníme energii k experimentu.</value>
   </entry>
   <entry>
     <key>RAMIE: I’d hate to leave him in the dark!</key>
-    <value>RAMIE：我可不願意把他蒙在鼓里！</value>
+    <value>RAMIE：Samozřejmě - nechtěl bych ho nechat v temnotě!</value>
   </entry>
   <entry>
     <key>PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test.</key>
-    <value>PYE：城市里所有可用的能量都轉移到了我們的實驗上。RAMIE和我即將\\n進行一次新的測試。</value>
+    <value>PYE：Veškerá dostupná energie byla odkloněna z města do našeho experimentu. Ramie a já za moment podnikneme nový test.</value>
   </entry>
   <entry>
     <key>RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! &lt;i&gt;Hypothesis confirmed&lt;/i&gt;!</key>
-    <value>RAMIE：假設得到了確認！假設得到了確認！我看見了！PYE也看見了！\\n&lt;i&gt;假設得到了確認&lt;/i&gt;！</value>
+    <value>RAMIE：Hypotéza potvrzena! Hypotéza potvrzena! Viděl jsem to! Pye to viděla! &lt;i&gt;Hypotéza potvrzena!&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>PYE: This is beyond extraordinary! This changes &lt;i&gt;everything&lt;/i&gt;! What a beautiful day for the intersection of abstract theory and practical application!</key>
-    <value>PYE：實在是非同凡響！它改變了&lt;i&gt;一切&lt;/i&gt;！抽象理論和實際應用\\n相結合，多麽美妙的一天！</value>
+    <value>PYE：Tohle je víc než neuvěřitelné! Tohle mění &lt;i&gt;všechno&lt;/i&gt;! Jaký krásný den pro průnik abstraktní teorie a praktického uplatnění!</value>
   </entry>
   <entry>
     <key>SECCA: Our &lt;color=orange&gt;escape pod&lt;/color&gt; crashed as we tried to flee this place, destroying our movement and communication capabilities in the process.
 		</key>
-    <value>SECCA：我們想要逃離這個地方，結果&lt;color=orange&gt;逃生艙&lt;/color&gt;墜毀了，我們喪失了\\n移動和通訊能力。
+    <value>SECCA：Náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; havaroval během pokusu o únik z tohoto místa, což zničilo naše logistické a komunikační možnosti.
 		</value>
   </entry>
   <entry>
@@ -4176,7 +4176,7 @@
 			SECCA: We’ve held out as long as we could here, but this pod’s supply of breathable air is nearly depleted, and the anglerfish attack more and more frequently.
 		</key>
     <value>
-			SECCA：我們會在這里盡量堅持下去，不過逃生艙的空氣補給即將耗盡，\\n安康魚的進攻也變得越來越頻繁。
+			SECCA：Snažili jsme se vytrvat tak dlouho, jak jsme jen mohli, ale zásoba dýchatelného vzduchu v tomto člunu je téměř vyčerpána, a ďasové útočí čím dál tím častěji.
 		</value>
   </entry>
   <entry>
@@ -4184,7 +4184,7 @@
 			SECCA: Our best chance at survival is to return to the &lt;color=orange&gt;Vessel&lt;/color&gt; to either repair the damage or, more probably, await rescue.
 		</key>
     <value>
-			SECCA：只有回到&lt;color=orange&gt;飛船&lt;/color&gt;那里，把它修好；或者更有可能是在那里等待\\n救援，這樣我們活下來的希望才最大。
+			SECCA：Naše nejlepší šance na přežití leží v návratu k &lt;color=orange&gt;Plavidlu&lt;/color&gt;, abychom jej buď opravili nebo, pravděpodobněji, vyčkali záchrany.
 		</value>
   </entry>
   <entry>
@@ -4192,148 +4192,148 @@
 			ESCALL: Secca, is the message finished? The &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is already growing fainter; it will be gone in a matter of hours. We need to leave here, quickly.
 		</key>
     <value>
-			ESCALL：SECCA，消息結束了嗎？&lt;color=orange&gt;飛船&lt;/color&gt;的信標已經開始減弱了，\\n不出幾個小時它就會消失。我們得盡快離開這里。
+			ESCALL：Secco, dokončil jsi svou zprávu? Signál &lt;color=orange&gt;Plavidla&lt;/color&gt; je čím dál tím slabší; během několika hodin zmizí úplně. Musíme odsud odejít, a rychle.
 		</value>
   </entry>
   <entry>
     <key>CANNA: To any Nomai clans whose Vessels can hear this message:</key>
-    <value>CANNA：所有能夠收到這個消息的挪麥家族飛船注意：</value>
+    <value>CANNA：Pro kterýkoli klan Nomai, jejichž plavidla uslyší tuto zprávu:</value>
   </entry>
   <entry>
     <key>CANNA: It’s clear the universe is dying. There are fewer and fewer resources and safe places within space now, so my clan and I believe the best option is for all of our clans to stay together.</key>
-    <value>CANNA：很明顯，這個宇宙正在死亡。太空里安全的地方越來越少，\\n資源也是一樣。因此我的家族和我認為，最好的辦法就是讓所有的\\n家族都團結在一起。</value>
+    <value>CANNA：Je jasné, že vesmír umírá. Máme čím dál tím méně zdrojů a bezpečných míst, takže můj klan a já věříme, že nejlepší možnost je, abychom sjednotili naše klany a zůstali pospolu.</value>
   </entry>
   <entry>
     <key>CANNA: If you can reach the Gloaming Galaxy, we’ve found that Blackrock’s suns are fairly stable, and life in this star system is (comparatively) thriving. We live in relative safety.</key>
-    <value>CANNA：如果你能夠前往暮色銀河那就最好，我們已經發現黑石星系的太陽\\n比較穩定，這個星系的生命比較起來還算是繁榮。在這里生活，我們可以\\n稍微安全一些。</value>
+    <value>CANNA：Pokud dosáhnete Soumračnou galaxii, našli jsme tu slunce, která jsou celkem stabilní, a život si v tomto planetárním systému vede (komparativně) dobře. Žijeme v relativním bezpečí.</value>
   </entry>
   <entry>
     <key>CANNA: If you prefer to continue exploring alone, know you will be on your own.</key>
-    <value>CANNA：但是如果你想繼續獨自探索，那麽你就只能靠自己了。</value>
+    <value>CANNA：Pokud dáte přednost samostatnému bádání, vězte, že budete cestovat na vlastní pěst.</value>
   </entry>
   <entry>
     <key>BROMI: Canna, we’re making our way to you.</key>
-    <value>BROMI：CANNA，我們正在朝你那里進發。</value>
+    <value>BROMI：Canno, vypravujeme se k vám.</value>
   </entry>
   <entry>
     <key>CANNA: It’s good to hear from you, Bromi! We’ll watch for your Vessel.</key>
-    <value>CANNA：很高興收到你的消息，BROMI！我們會留意你的飛船。</value>
+    <value>CANNA：Rádi vás slyšíme, Bromi! Budeme vyhlížet vaše Plavidlo.</value>
   </entry>
   <entry>
     <key>CANNA: Has anyone heard from Neem? His clan was on its way to our Vessel, but they never arrived, and he hasn’t sent any messages. I’m beginning to worry.</key>
-    <value>CANNA：有NEEM的消息？他的家族正在朝我們的飛船前進，但一直沒能\\n抵達。而且他也沒有發來任何消息。我開始有點擔心了。</value>
+    <value>CANNA：Slyšel někdo něco od Neema? Jeho klan byl na cestě k našemu Plavidlu, ale nikdy nedorazil, a neposlal žádné zprávy. Začínám se o něho bát.</value>
   </entry>
   <entry>
     <key>BROMI: That &lt;i&gt;is&lt;/i&gt; unsettling. It reminds me of that old myth my grandfather used to tell, the Disappearance of Escall.</key>
-    <value>BROMI：那可&lt;i&gt;真是&lt;/i&gt;不妙啊。我想起了祖父以前常常掛在嘴邊的一個\\n古老傳說：ESCALL的失蹤。</value>
+    <value>BROMI：To &lt;i&gt;je&lt;/i&gt; znepokojivé. Připomíná mi to starý mýtus, o kterém mi vyprávěl můj dědeček: Escallovo zmizení.</value>
   </entry>
   <entry>
     <key>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</key>
-    <value>CLEM：我記得小時候聽過這個故事！有一天，ESCALL的&lt;color=orange&gt;飛船&lt;/color&gt;突然\\n沒了消息。其他家族找了又找，可是一無所獲。仿佛他們的朋友們\\n就這樣徹底消失不見了。</value>
+    <value>CLEM：Také si ten příběh pamatuji z dětství! Jednoho dne Escallovo 的&lt;color=orange&gt;plavidlo&lt;/color&gt; prostě přestalo odpovídat. Ostatní klany hledaly a hledaly, ale nenašly ani stopu. Jakoby se jejich zmizelí přátelé teleportovali mimo existenci samotnou.</value>
   </entry>
   <entry>
     <key>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</key>
-    <value>HYSSOP：那可不是什麽傳說，朋友們。ESCALL家族曾經存在過，\\n他們的故事也是真的。</value>
+    <value>HYSSOP：To není žádný mýtus, přátelé: Escallův klan existoval, a jejich příběh je skutečný.</value>
   </entry>
   <entry>
     <key>BROMI: What a curious event to have passed into myth! Our ancestors’ ancestors were told that story when they were young. Are you sure it’s true, Hyssop?</key>
-    <value>BROMI：這樣一個離奇的事件，怎麽就成了傳說呢！那是我們祖先的祖先\\n在小時候聽長輩說的故事。你確定這個事情是真的嗎，HYSSOP？</value>
+    <value>BROMI：Jak zvláštní, že z takové události se stal mýtus! Předci našich předků tento příběh slyšeli, když byli mladí. Jsi si jist, že je pravdivý, Hyssope?</value>
   </entry>
   <entry>
     <key>HYSSOP: It was a very long time ago, but yes. My clan’s ancestors searched for Escall’s clan for a long time, but in the end, none of them were ever seen again. (It’s the only time in our history a Vessel has ever disappeared this way.)</key>
-    <value>HYSSOP：事情已經過去很久了。不過它的確是真的。我們家族的祖先花了\\n很長時間來尋找ESCALL家族。但是到了最後，誰都沒有再聽說過他們的\\n消息。（飛船以這種方式失蹤，在我們的歷史上這是唯一的一次。）</value>
+    <value>HYSSOP：Bylo to velmi dávno, ale ano. Předci mého klanu hledali Escallův klan dlouho, ale nakonec je už nikdo nikdy neviděl. (Bylo to poprvé v naší historii, co Plavidlo zmizelo takovým způsobem.)</value>
   </entry>
   <entry>
     <key>NEEM: Hyssop, I hope you aren’t comparing Escall’s story to my clan’s Vessel!</key>
-    <value>NEEM：HYSSOP，但願你不是在拿ESCALL的故事和我們家族的\\n飛船打比方！</value>
+    <value>NEEM：Hyssope, doufám, že nesrovnáváš Escallův příběh s Plavidlem mého klanu!</value>
   </entry>
   <entry>
     <key>CLEM: Neem, my friend! We feared you were gone!</key>
-    <value>CLEM：NEEM，我的朋友！我們還擔心你是不是失蹤了呢！</value>
+    <value>CLEM：Neeme, příteli! Báli jsme se, že jsi zmizel!</value>
   </entry>
   <entry>
     <key>NEEM: Not yet, we aren’t, but nearly. We found trouble during our warp: The triple suns of the Bright Spark star system exploded, and it was only a lucky coincidence we weren’t caught in the blast. We’ll meet you soon, Canna!</key>
-    <value>NEEM：這倒是沒有，不過就差一點。我們在躍遷的時候遇到了麻煩：閃耀\\n火花星系的三顆太陽爆發了。算我們走運，這才沒被卷進去。\\n我們待會兒見，CANNA！</value>
+    <value>NEEM：Ještě ne, ale téměř. Narazili jsme na potíže během našeho warpu: Trojitá slunce planetárního systému Jasné Jiskry vybuchla, a je jen šťastnou náhodou, že nás jejich výbuch nezachytil. Brzy na viděnou, Canno!</value>
   </entry>
   <entry>
     <key>CANNA: I’m relieved your clan is safe, Neem! It’s good to hear your words. Any Vessels nearby, remember to be extremely cautious of potentially unstable stars (which is most of them, now).</key>
-    <value>CANNA：你的家族沒事可真是太好了，NEEM！很高興能夠收到你的消息。\\n附近所有的飛船，請多加小心可能出現的不穩定恒星。就目前而言，\\n大部分恒星都不穩定。</value>
+    <value>CANNA：Je mi úlevou, že je tvůj klan v bezpečí, Neeme! Rád tě slyším, příteli. Všem blízkým Plavidlům: nezapomeňte být extrémně opatrní u potenciálně nestabilních hvězd (což je nyní většina z nich).</value>
   </entry>
   <entry>
     <key>FILIX: This is Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt;; something went badly wrong during our warp, and our &lt;color=orange&gt;Vessel&lt;/color&gt; is mortally wounded. We need help as quickly as possible!</key>
-    <value>FILIX：這里是ESCALL的&lt;color=orange&gt;飛船&lt;/color&gt;；我們的躍遷出了大問題，\\n我們的&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。我們需要盡快得到幫助！</value>
+    <value>FILIX：Toto je Escallovo &lt;color=orange&gt;Plavidlo&lt;/color&gt;; něco se velmi pokazilo během našeho warpu, a naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; je smrtelně zraněno. Potřebujeme pomoc, co nejdříve to jde!</value>
   </entry>
   <entry>
     <key>FILIX: Our &lt;color=orange&gt;Vessel&lt;/color&gt; appears to have... has it &lt;i&gt;fused&lt;/i&gt; with the local environment, somehow? There are vines that are now part of the &lt;color=orange&gt;Vessel&lt;/color&gt;! It’s been torn apart from inside itself!</key>
-    <value>FILIX：我們的&lt;color=orange&gt;飛船&lt;/color&gt;好像……好像和當地環境&lt;i&gt;融合&lt;/i&gt;在了一起？\\n如今藤蔓也變成了&lt;color=orange&gt;飛船&lt;/color&gt;的一部分！它在內部拆卸自己！</value>
+    <value>FILIX：Naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; se podle všeho... se nějak &lt;i&gt;sloučilo&lt;/i&gt; s místním prostředím? Několik obrovských větví je nyní součástí &lt;color=orange&gt;Plavidla&lt;/color&gt;! Roztrhaly jej na kusy!</value>
   </entry>
   <entry>
     <key>FILIX: We... we are abandoning our &lt;color=orange&gt;Vessel&lt;/color&gt;. Any Nomai clans or spaceflight-capable species receiving this message, I implore you, we need your help!</key>
-    <value>FILIX：我們……我們要放棄&lt;color=orange&gt;飛船&lt;/color&gt;了。收到這個消息的挪麥家族，\\n或是具有太空航行能力的種族，我懇請你們，我們需要你們的幫助！</value>
+    <value>FILIX：My... opouštíme naše &lt;color=orange&gt;Plavidlo&lt;/color&gt;. Kterýkoliv klan Nomai či jiný druh schopný vesmírného letu, žádáme vás úpěnlivě o pomoc!</value>
   </entry>
   <entry>
     <key>FILIX: Is this broken? Can anyone hear me? Our &lt;color=orange&gt;Vessel&lt;/color&gt; is dying! We need immediate assistance!</key>
-    <value>FILIX：這東西壞了嗎？有人能聽見嗎？我們的&lt;color=orange&gt;飛船&lt;/color&gt;正在死亡！\\n我們急需援助！</value>
+    <value>FILIX：Je tohle rozbité? Slyší mě někdo? Naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; umírá! Potřebujeme okamžitou pomoc!</value>
   </entry>
   <entry>
     <key>FILIX: I’m recording now — I’ve never encountered anything like this! The signal the &lt;color=orange&gt;Vessel&lt;/color&gt; is receiving appears to be &lt;i&gt;older than the universe itself&lt;/i&gt;!</key>
-    <value>FILIX：我正在做記錄，我從沒見過這樣的事情！&lt;color=orange&gt;飛船&lt;/color&gt;\\n收到的信號貌似比&lt;i&gt;宇宙本身還要古老&lt;/i&gt;！</value>
+    <value>FILIX：Nyní nahrávám - nikdy jsem neviděl nic jako tohle! Signál, který naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; zachytilo, se zdá být &lt;i&gt;starším než vesmír samotný!&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>ESCALL: This is our first contact with anything of this nature. Everyone, prepare to warp immediately!</key>
-    <value>ESCALL：這是我們第一次接觸到這種情況。所有人，準備立刻躍遷！</value>
+    <value>ESCALL：Toto je náš první kontakt s něčím takovým. Všichni, připravte se na okamžitý warp!</value>
   </entry>
   <entry>
     <key>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</key>
-    <value>FILIX：ESCALL，等等，我需要一點時間來向外發送消息！\\n難道我們不該把自己的目的地告訴其他家族嗎？</value>
+    <value>FILIX：Escalle, počkej, potřebuji více času na to, abych odeslal zprávu! Neměli bychom říci jinému klanu, kam jdeme?</value>
   </entry>
   <entry>
     <key>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</key>
-    <value>ESCALL：消息可以在我們抵達後再發。這個非同尋常的信號是突然\\n出現的；它可能也會瞬間消失，我們不能失去如此重大的發現！\\n還是集中精神為躍遷做好準備吧。</value>
+    <value>ESCALL：Takovou zprávu můžeme odeslat po našem příletu. Tento výjimečný signál se objevil najednou; může zmizet stejně rychle, a my nemůžeme riskovat, že bychom ztratili tak neskutečný objev. Soustřeď se místo toho na přípravu na warp.</value>
   </entry>
   <entry>
     <key>FILIX: I understand!</key>
-    <value>FILIX：我明白了！</value>
+    <value>FILIX：Rozumím!</value>
   </entry>
   <entry>
     <key>ESCALL: Annona, is the &lt;color=orange&gt;Vessel&lt;/color&gt; ready to warp to the signal’s approximate coordinates?</key>
-    <value>ESCALL：ANNONA，&lt;color=orange&gt;飛船&lt;/color&gt;準備好躍遷到信號的大致坐標上了嗎？</value>
+    <value>ESCALL：Annono, je &lt;color=orange&gt;Plavidlo&lt;/color&gt; připraveno se přemístit na přibližné souřadnice tohoto signálu?</value>
   </entry>
   <entry>
     <key>ANNONA: The warp core is powered, but this will be a significant jump. Afterward, we’ll need time to recharge the core.</key>
-    <value>ANNONA：躍遷核心充能完畢，但這次躍遷的距離十分遙遠。我們之後需要\\n花時間為核心重新充能。</value>
+    <value>ANNONA：Warpové jádro je nabito, ale tohle bude velký skok. Po něm budeme potřebovat čas na to, abychom jádro znovu dobili.</value>
   </entry>
   <entry>
     <key>ESCALL: That shouldn’t create a problem, provided we arrive at or near the signal’s source. Everyone, we’re ready to warp!</key>
-    <value>ESCALL：只要我們能夠抵達信號源的位置或是附近，\\n那就應該不成問題。所有人，我們準備躍遷！</value>
+    <value>ESCALL：To by neměl být problém, pokud dorazíme k signálu samotnému nebo blízko k jeho zdroji. Všichni, jsme připraveni na warp!</value>
   </entry>
   <entry>
     <key>CASSAVA: This is it: We’ve finished building the final &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; module and are ready to send it into orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; for assembly!</key>
-    <value>CASSAVA：行了：我們已經完成了&lt;color=orange&gt;軌道探測炮&lt;/color&gt;最終模塊的建造，\\n並準備把它送入&lt;color=lightblue&gt;深巨星&lt;/color&gt;的軌道進行組裝！</value>
+    <value>CASSAVA：Jsme ve finále: Dokončili jsme poslední modul &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt; a jsme připraveni jej poslat k sestavení na oběžnou dráhu kolem &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;!</value>
   </entry>
   <entry>
     <key>CASSAVA: To all my friends here at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, my gratitude for your tireless work. I had given up hope, but I truly believe this cannon may actually succeed where many other attempts have not.</key>
-    <value>CASSAVA：所有&lt;color=orange&gt;建造廠&lt;/color&gt;的朋友們，我感激你們孜孜不倦的勞作。\\n我曾經失去了希望，但我真誠地相信這門大炮可以實現許多前人無法\\n實現的成就。</value>
+    <value>CASSAVA：Mým přátelům v &lt;color=orange&gt;stavebním komplexu&lt;/color&gt;, mnohé díky za vaši neúnavnou práci. Vzdal jsem se naděje, ale dnes skutečně věřím, že tento kanón může skutečně uspět tam, kde mnoho jiných pokusů selhalo.</value>
   </entry>
   <entry>
     <key>DAZ: Are you going gelatinous on us, love? I’m delighted by your words, but they’re atypical for you!</key>
-    <value>DAZ：你在跟我們套近乎嗎，親愛的？你的話讓我很高興，\\n但那也太不像你了！</value>
+    <value>DAZ：Stává se z tebe želatina, lásko? Tvá slova mě dojímají, ale jsou pro tebe atypická!</value>
   </entry>
   <entry>
     <key>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-    <value>CASSAVA：要是我有MALLOW和AVENS加起來一半軟弱，DAZ，你就把&lt;i&gt;我&lt;/i&gt;\\n裝在&lt;color=orange&gt;軌道探測炮&lt;/color&gt;里發射出去。</value>
+    <value>CASSAVA：Jestli kdy budu z poloviny tak přesládlý jako Mallow a Avens, Dazi, můžeš z &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt; vystřelit &lt;i&gt;ně&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
-    <value>CASSAVA：下一步，我們要把PRIVET送上&lt;color=orange&gt;軌道探測炮&lt;/color&gt;\\n來安裝探測跟蹤系統。</value>
+    <value>CASSAVA：Naším dalším krokem je poslat Priveta nahoru k &lt;color=orange&gt;Orbitálnímu sondovému kanónu&lt;/color&gt;, aby nainstaloval sledovací systém pro vystřelenou sondu.</value>
   </entry>
   <entry>
     <key>DAZ: If I know my brother, Avens (and his spouse) will want to launch the probe with as much power as possible. I’m worried the cannon would break under the strain.</key>
-    <value>DAZ：我了解我的兄弟，AVENS（和他的配偶）會動用一切可能的動力來\\n發射探測器。我擔心大炮會承受不住而壞掉。</value>
+    <value>DAZ：Pokud znám svého bratra, Avens (a jeho choť) budou chtít vystřelit sondu s co největší silou. Bojím se, že kanón se pod tak velkým tlakem rozlomí.</value>
   </entry>
   <entry>
     <key>DAZ: I propose we give Avens and Mallow a slightly lower maximum power setting than the absolute maximum possible to create room for their enthusiasm.</key>
-    <value>DAZ：我建議我們給AVENS和MALLOW分配動力的時候，在最大絕對值的基礎\\n上稍微做一點削減，為他們的工作熱忱創造一些空間。</value>
+    <value>DAZ：Navrhuji, abychom dali Avensovi a Mallow o něco menší maximální silové nastavení než absolutně možné maximum, abychom vytvořili prostor pro jejich entuziasmus.</value>
   </entry>
   <entry>
     <key>Be welcomed in this place. This tower shares with all who ask the knowledge needed to make his or her first quantum journey.</key>
