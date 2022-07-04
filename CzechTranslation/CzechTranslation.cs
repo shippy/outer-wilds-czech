@@ -1,30 +1,33 @@
-﻿using OWML.Common;
+﻿using HarmonyLib;
+using OWML.Common;
 using OWML.ModHelper;
+using System.Reflection;
 
 namespace CzechTranslation
 {
     public class CzechTranslation : ModBehaviour
     {
+        public static CzechTranslation Instance;
+
+        public static string translationFile = "translations/czech.xml";
+
         private void Awake()
         {
-            // You won't be able to access OWML's mod helper in Awake.
-            // So you probably don't want to do anything here.
-            // Use Start() instead.
+            Instance = this;
         }
 
         private void Start()
         {
-            // Starting here, you'll have access to OWML's mod helper.
-            ModHelper.Console.WriteLine($"My mod {nameof(CzechTranslation)} is loaded!", MessageType.Success);
+            Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly());
 
-            // Example of accessing game code.
-            LoadManager.OnCompleteSceneLoad += (scene, loadScene) =>
-            {
-                if (loadScene != OWScene.SolarSystem) return;
-                var playerBody = FindObjectOfType<PlayerBody>();
-                ModHelper.Console.WriteLine($"Found player body, and it's called {playerBody.name}!",
-                    MessageType.Success);
-            };
+            WriteLine($"My mod {nameof(CzechTranslation)} is loaded!");
         }
+
+        public static void WriteLine(string msg, MessageType type = MessageType.Info)
+        {
+            Instance.ModHelper.Console.WriteLine($"{type}: {msg}", type);
+        }
+
+        public static void WriteError(string msg) => WriteLine(msg, MessageType.Error);
     }
 }
