@@ -1899,743 +1899,743 @@
   </entry>
   <entry>
     <key>WhereToExplore_3FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>如果你想去雕像島看看，去找兩座由天然石拱門連接的島嶼就是了。\\n好吧……差不多連著。你會明白的。</value>
+    <value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FHaha, I know, right?</key>
-    <value>哈哈，我知道，沒錯吧？</value>
+    <value>Haha, já vím, žejo?</value>
   </entry>
   <entry>
     <key>ThisPlanet_3F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>……哦，你是說讓我再多告訴你一些？明白了。嗯，深巨星十分巨大，\\n差不多到處是水。這也不奇怪。</value>
+    <value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>水面下有一股很強勁的水流，使得水里的東西無法沈下去。老實說，\\n我已經嘗試了所有能想到的東西穿過那股水流，但全都失敗了。</value>
+    <value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>至於地塊，算上這里，我已經數到了四座小島。\\n我在沙灘上看到挪麥雕像的那座也算在里面。</value>
+    <value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>你見到氣旋了？是啊，不看見也難。它們會把擋路的東西都掀飛，\\n就算是島嶼也一樣。給你個小提示：如果你被掀起來了，\\n試著在水里著陸。這樣活下來的概率會高一點。</value>
+    <value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
   </entry>
   <entry>
     <key>GabbrosShipThat’s a good question.</key>
-    <value>問得好。</value>
+    <value>To je dobrá otázka.</value>
   </entry>
   <entry>
     <key>GabbrosShipIt’s definitely on this planet &lt;i&gt;some&lt;/i&gt;where. I mean, unless a cyclone came by and tossed it into space, I guess. Heh, that would be pretty nuts.</key>
-    <value>它肯定就在這顆星球的&lt;i&gt;某個&lt;/i&gt;地方。我是說，\\n除非有氣旋把它卷進了太空。嘿，那樣可就太瘋狂了。</value>
+    <value>Je rozhodně &lt;i&gt;někde&lt;/i&gt; na téhle planetě. Ledaže ji cyklón vyhodil do vesmíru. To by bylo celkem šílený.</value>
   </entry>
   <entry>
     <key>GabbrosShipI hope it’s not lonely.</key>
-    <value>我希望它不會太孤單。</value>
+    <value>Doufám, že jí není smutno.</value>
   </entry>
   <entry>
     <key>GabbrosShip2An excellent question. I haven’t seen it around lately.</key>
-    <value>問得好。最近我一直沒看見它。</value>
+    <value>Skvělá otázka. Už jsem ji nějakou dobu neviděl.</value>
   </entry>
   <entry>
     <key>GabbrosShip2I hope it’s not lonely.</key>
-    <value>我希望它不會太孤單。</value>
+    <value>Doufám, že jí není smutno.</value>
   </entry>
   <entry>
     <key>GabbrosShip3Oh, cool. So it’s floating in the ocean, huh?</key>
-    <value>哦，真厲害。所以它漂在海里，是嗎？</value>
+    <value>Á, supr. Takže pluje oceánem, jo?</value>
   </entry>
   <entry>
     <key>GabbrosShip3Did it look like it was having a good time?</key>
-    <value>你覺得它喜歡這樣嗎？</value>
+    <value>Vypadalo to, že si to užívá?</value>
   </entry>
   <entry>
     <key>GabbrosShip4I hope it’s having fun! Did you say hi for me?</key>
-    <value>我希望它喜歡！你有沒有替我問好？</value>
+    <value>Doufám, že má ze sebe radost! Řekl jsi jí za mě "ahoj"?</value>
   </entry>
   <entry>
     <key>GoodbyeCool, cool. Take it easy out there.</key>
-    <value>好，好。多保重。</value>
+    <value>Supr, supr. Užívej si vesmíru.</value>
   </entry>
   <entry>
     <key>FoundSomethingMenuNice, nice. Whatcha got for me?</key>
-    <value>好，好。你給我帶來了什麽消息？</value>
+    <value>Hezky, hezky. Co pro mě máš?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI reached the inside of Statue Island.</key>
-    <value>我進入了雕像島內部。</value>
+    <value>Dostal jsem se dovnitř Ostrova soch.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found the source of the time loop.</key>
-    <value>我找到了時間循環的源頭。</value>
+    <value>Našel jsem zdroj časové smyčky.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found Nomai masks inside the Ash Twin Project.</key>
-    <value>我在灰燼雙星計劃里找到了挪麥面具。</value>
+    <value>Našel jsem masky Nomai uvnitř Popelákového projektu.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found what happened to the Orbital Probe Cannon.</key>
-    <value>我明白了軌道探測炮出了什麽事。</value>
+    <value>Přišel jsem na to, co se stalo Orbitálnímu sondovému kanónu.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found your quantum poem.</key>
-    <value>我找到了你的量子詩。</value>
+    <value>Našel jsem tvou kvantovou báseň.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuI found a photo of you inside the old radio tower.</key>
-    <value>我在舊無線電塔里找到了一張你的照片。</value>
+    <value>Našel jsem tvou fotku uvnitř opuštěné radiové věže.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomethingMenuActually, nevermind.</key>
-    <value>其實，沒什麽事。</value>
+    <value>Zatím nic dalšího.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3FSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>所以挪麥人建造了那些頭雕來記錄回憶，是嗎？……是啊，\\n我想象得出來。雖然不知道為什麽，但看起來確實像是他們的做法。</value>
+    <value>Takže Nomai vytvořili tyhle sochy hlav, aby zaznamenali vzpomínky, jo? ...Hm, to zní jako něco, co by Nomai udělali. Nemám tušení, proč, ale zní to typicky.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3FDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-    <value>那麽，你認為雕像是在記錄我們的回憶嗎？我還記得沙灘上的那座雕像在\\n用詭異的眼神盯著我瞧。它一定就是我的回憶夥伴了！</value>
+    <value>Myslíš, že ty sochy nahrávají i naše vzpomínky? Protože já si pamatuju tu jednu z pláže, co se na mě podívala divně. To musí být můj vzpomínkový kámoš!</value>
   </entry>
   <entry>
     <key>FoundSomething1bRight, right, the cavern inside Statue Island is where the memory-recording statues were made, I remember.</key>
-    <value>對，對，我記得這些能記錄回憶的雕像就是在\\n雕像島內部的洞穴里建造的。</value>
+    <value>Jo, jo, ta dutina uvnitř Ostrova soch je místem, kde vytvořili všechny sochy, to si pamatuju.</value>
   </entry>
   <entry>
     <key>FoundSomething1bSo your memory statue is the one in the museum back in the crater, and mine’s the one I found on the beach. I kinda dig having my own personal memory-friend.</key>
-    <value>這麽說來，你的回憶雕像是環形山博物館里的那座，\\n而我的就是在沙灘上發現的那座。我還挺喜歡有個回憶夥伴的。</value>
+    <value>Takže tvoje socha vzpomínek je ta v muzeu v domácím kráteru, a moje je ta, kterou jsem našel na pláži. Dost se mi líbí, že mám vlastního vzpomínkového kámoše.</value>
   </entry>
   <entry>
     <key>FoundSomething1bIf you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be.</key>
-    <value>要是你想明白為什麽挪麥人要記錄回憶，請隨時告訴我！\\n你知道我人在哪兒。</value>
+    <value>Jestli tě napadne nějaký důvod, proč by Nomai chtěli nahrávat vzpomínky, houkni na mě! Víš, kde budu.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>等等，哇，真的？挪麥人將灰燼雙星鑿空，\\n然後在里面建了個時間循環裝置？……真是&lt;i&gt;太瘋狂&lt;/i&gt;了。</value>
+    <value>Počkej, wow, vážně? Nomai vydlabali Popelák a vybudovali uvnitř stroj na časové smyčky? ...To je &lt;i&gt;hustý&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-    <value>現在我們知道是什麽引發了循環。而且……如果循環是由裝置引發的，\\n那就說明它需要被打開，對吧？哈……</value>
+    <value>Teď tedy víme, co způsobuje smyčku. A... pokud ji způsobuje to zařízení, to znamená, že musí být zapnuté, co? Hm...</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-    <value>嘿，要是把時間循環關閉，你覺得會怎麽樣？\\n可能我內心里的一部分會覺得你不該那麽做，因為太陽要爆炸了。</value>
+    <value>Hej, co si myslíš, že by se stalo, kdybys časovou smyčku vypnul? Jako, část mě si myslí, že bys možná neměl, protože slunce vybuchuje a tak.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3FThen again, who wants to spend eternity being blown up by the sun?</key>
-    <value>但是轉念一想，誰喜歡永無止境地被太陽炸飛呢？</value>
+    <value>Na druhou stranu, kdo chce strávit věčnost tím, že ho bude znovu a znovu spalovat vybuchující slunce?</value>
   </entry>
   <entry>
     <key>FoundSomething2_3F...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-    <value>……我不知道，我又不是時間循環的專家。我還是靜靜坐在這里，\\n思考一下時間和空間的錯綜覆雜吧。要是有需要，我可能還會打個盹兒。</value>
+    <value>...Nevím, nejsem žádný expert na časové smyčky. Já si tu jen sednu a budu uvažovat o složitostech časoprostoru. Možná si taky dám šlofíka, pokud se mi bude chtít.</value>
   </entry>
   <entry>
     <key>FoundSomething2bMy head’s still all full of scenarios for what would happen if you turned off the time loop. I’ll probably notice if you decide to mess with it, though, right? Seems like something I’d notice.</key>
-    <value>我的大腦里滿是關掉時間循環後會怎麽樣的想法。不過如果你決定要關掉\\n它，我可能會注意到的，是吧？看起來我應該會注意到的。</value>
+    <value>Moje hlava je pořád plná scénářů toho, co by se mohlo stát, kdybys vypnul časovou smyčku. Asi bych si všimnul, kdybys něco změnil, žejo? Myslím, že to je něco, čeho bych si všimnul.</value>
   </entry>
   <entry>
     <key>FoundSomething2bThis is all pretty wild.</key>
-    <value>這一切都太瘋狂了。</value>
+    <value>Tohle všechno je dost divoký.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3FYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>你是說建造這些雕像是為了將回憶送回到過去？這倒是說得通，\\n畢竟我們都還記得之前每個循環發生的事。</value>
+    <value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3FWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-    <value>等等，也就是說只有我們的回憶被送了回來，是吧？那……\\n我們到底是不是真的經歷了多重時間循環呢？</value>
+    <value>Moment, takže nám akorát posílají zpátky časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
   </entry>
   <entry>
     <key>FoundSomething3_3FThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-    <value>這就很深奧了……也許我們的意識經歷了所有這些循環，\\n但也許我們的身體沒有。因為從技術上說，根本沒有什麽循環。</value>
+    <value>Je to dost hluboké... Jako, možná naše vědomí absolvovalo všechny smyčky, ale naše těla možná ne, protože technicky se žádná z těch dalších smyček nestala.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-    <value>也就是說，我們正在接收那些永不會發生在自己身上的回憶。\\n還挺有意思的，是吧？</value>
+    <value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
   </entry>
   <entry>
     <key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>沒錯，之前你告訴過我，雕像的作用在於將回憶送回過去。\\n這倒是說得通，畢竟我們都還記得之前每個循環發生的事。</value>
+    <value>Jo, dřív jsi mi řekl, že účelem soch bylo posílat vzpomínky zpětně časem. Což asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
   </entry>
   <entry>
     <key>FoundSomething3bI thought about it some more, and I think that means our minds have gone through all these loops, but we haven’t actually gone through them ourselves.</key>
-    <value>我又仔細想了想，現在我認為我們的大腦經歷了所有這些循環，\\n但我們的身體其實並沒有真正經歷過。</value>
+    <value>Trošku jsem o tom popřemýšlel, a myslím, že to znamená, že naše mysli prošly všemi smyčkami, ale my samotní ne.</value>
   </entry>
   <entry>
     <key>FoundSomething3bMeaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</key>
-    <value>也就是說，我們正在接收那些嚴格來說並不會發生在自己身上的回憶。\\n還挺有意思的，是吧？</value>
+    <value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
   </entry>
   <entry>
     <key>FoundSomething4_3FWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-    <value>哇哦，原來每次時間循環開始的時候大炮會解體？當真？</value>
+    <value>Wow, takže ten kanón se rozbíjí na začátku každé časové smyčky? Vážně?</value>
   </entry>
   <entry>
     <key>FoundSomething4_3FDid you figure out why?</key>
-    <value>你知道是為什麽嗎？</value>
+    <value>Přišel jsi na to, proč?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3FToo much power.</key>
-    <value>動力過剩。</value>
+    <value>Příliš mnoho energie.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3FOverenthusiasm.</key>
-    <value>熱量過高。</value>
+    <value>Přílišný entuziasmus.</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3F...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>……這聽上去像是Slate或Feldspar會幹的事情，感覺有點嚇人。\\n我很驚訝，挪麥人建造的東西居然會壞掉！</value>
+    <value>...Je trošku děsivé, jak moc to zní jako něco, co by provedli Slate nebo Feldspar. Jsem celkem překvapen, že Nomai vybudovali něco, co se opravdu rozbilo!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-    <value>不過仔細想想，說“壞掉”也不恰當。因為在每個時間循環之初，\\n軌道探測炮仍能正常開火。</value>
+    <value>Když se nad tím ale zamyslím, "rozbilo" možná není správné slovo. Protože Orbitální sondový kanón úspěšně vypálí sondu na začátku každé časové smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3FSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-    <value>所以大炮是在發射之後壞掉的，哈。這就能解釋為什麽每次循環時，\\n我都看到天上有東西落下來。</value>
+    <value>Takže kanón se rozbije ihned potom, co vypálí, hm? To vysvětluje, co že to vidím padat z oblohy na začátku každé smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3FI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-    <value>我還是很驚訝，挪麥人造的東西居然會壞掉，你懂我的意思嗎？\\n畢竟他們都是建造方面的天才大師啊。</value>
+    <value>Jsem pořád překvapen, že Nomai vybudovali něco, co se opravdu rozbilo, víš? Vzhledem k tomu, jak geniální byli stavitelé.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3FOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-    <value>而另一方面，也許首先我們應該驚訝的是，他們建造的東西居然一直延續\\n到了現代。看起來在每個時間循環之初，軌道探測炮仍能正常開火。</value>
+    <value>Na druhou stranu, možná bychom měli být unešení, že vyrobili něco, co přetrvalo do našich dob. A vypadá to, že kanón stále úspěšně vystřelí sondu na začátku každé smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3FYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-    <value>是的，就樹林里的那個，我記得我寫過。還挺有趣的，是吧？\\n我把它寫成了24首好詩。</value>
+    <value>Jo, ta v lese, tu si pamatuju. Docela švanda, co? Je to dohromady 24 různých básní.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3FWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-    <value>探索結束之後，我想要多創作些量子藝術。也許會是某種生物的雕像……\\n等你背過身的時候就突然出現，把你嚇得屁滾尿流。</value>
+    <value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
   </entry>
   <entry>
     <key>FoundSomething6AgainYeah, you mentioned that before. Did I look busy in it? I hope I looked busy.</key>
-    <value>的確，你之前提到過。我是不是看起來挺忙的？但願看起來很忙吧。</value>
+    <value>Jo, tos předtím zmínil. Vypadal jsem v ní zaneprázdněně? Doufám, že jsem vypadal zaneprázdněně.</value>
   </entry>
   <entry>
     <key>FoundSomething6BaseNice. Did I look busy in it? I hope I looked busy.</key>
-    <value>很好。我是不是看起來挺忙的？但願看起來很忙吧。</value>
+    <value>Hezky. Vypadal jsem v ní zaneprázdněně? Doufám, že jsem vypadal zaneprázdněně.</value>
   </entry>
   <entry>
     <key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-    <value>肯定是Hornfels派我去檢查深空衛星那次的事情。\\n他覺得老史派西可能出故障了，但我一點毛病都沒發現。</value>
+    <value>To musí být z doby, když mě Hornfels poslal, abych zkontroloval náš hlubokovesmírný satelit. Mysleli si, že Starý 'smířan možná selhává, ale nenašel jsem jedinou věc, která by na něm byla špatně.</value>
   </entry>
   <entry>
     <key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
-    <value>仔細一想，我頭盔之下俊美的臉龐大概就是這麽被它拍到的。</value>
+    <value>Což je pravděpodobně důvod, proč zachytil fotku mé krásné zapřilbené tváře, když o tom tak uvažuji.</value>
   </entry>
   <entry>
     <key>FoundSomething6I always thought it was kinda sweet that the best way to find Ol’ Spacey is to use a map that’s generated by the satellite itself, isn’t it? Like it’s inviting us to visit. Good ol’ deep space satellite, always making sure we know where we’re going.</key>
-    <value>要想找到老史派西，最好是用那顆衛星自己生成的地圖去找，\\n我一直覺得這種見面方式甜到齁，對不對？有種它邀請我們去做客的感覺。\\n多麽善良的老深空衛星啊，每時每刻都在幫我們探清去向。</value>
+    <value>Vždycky jsem si myslel, že je celkem milé, že nejlepší způsob, jak se dostat ke Starému 'smířanovi, je použít mapu, kterou ten satelit samotný vytváří. Jako by nás zval na návštěvu. Starý dobrý hlubokovesmírný satelit, co nám vždycky umožní vědět, kam směřujeme.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething6Why’d Hornfels think it was broken?</key>
-    <value>Hornfels怎麽會覺得它壞了呢？</value>
+    <value>Proč si Hornfels mysleli, že je rozbitý?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething6Um. “Ol’ Spacey”?</key>
-    <value>呃，“老史派西”？</value>
+    <value>Um. “Starý ’smířan”?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething6I have a map?!</key>
-    <value>那張地圖我也有嗎？！</value>
+    <value>Já mám mapu?!</value>
   </entry>
   <entry>
     <key>FoundSomething6aDunno. Hornfels probably told me why, but Hornfels tells me lots of things, and sometimes I tune out. Or pretend there’s signal interference and I can’t hear them.</key>
-    <value>我也不知道。沒準Hornfels跟我說過原因，但Hornfels跟我說的事情太多了，\\n有時候我都懶得理他。或者幹脆假裝有信號幹擾，害我聽不清他說什麽。</value>
+    <value>Nevím. Hornfels mi asi řekl, proč, ale Hornfels mi říká spoustu věcí, a občas je trošku vypustím. Nebo předstírám, že mám poruchu signálu a neslyším ho.</value>
   </entry>
   <entry>
     <key>FoundSomething6aBest guess says the deep space satellite must have sent Timber Hearth some weird pictures, but like… what’s considered “weird” for a satellite, you know?</key>
-    <value>很有可能是深空衛星給木爐星發了些奇怪的照片，但你想想……\\n衛星哪能分辨什麽叫“奇怪”？</value>
+    <value>Můj nejlepší odhad je, že hlubokovesmírný satelit poslal Domopeci nějaký divný obrázek, ale jako... co se považuje za "divný", když jsi hlubokovesmírný satelit?</value>
   </entry>
   <entry>
     <key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-    <value>總之，你要是想去老史派西那看看，最快的辦法是跳進你的宇宙飛船，\\n用太陽系地圖鎖定那顆衛星，就和去任何天體時一樣，該怎麽辦就怎麽辦。</value>
+    <value>Každopádně, pokud chceš někdy navštívit Starého 'smířana, nejrychlejší způsob je skočit do lodi a použít mapu slunečního systému tak, že se navěsíš na satelit stejným způsobem, jakým by ses navěsil na jiné hvězdné těleso.</value>
   </entry>
   <entry>
     <key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
-    <value>我的意思是，那顆衛星雖然不能說是全新的，但也沒老到&lt;i&gt;那麽誇張&lt;/i&gt;。\\n喊它“老”是一種愛稱。你就別太摳字眼了。</value>
+    <value>No, ten satelit nění &lt;i&gt;super&lt;/i&gt; starý, ale rozhodně není nový. "Starý" je spíš výraz náklonnosti. ...Bereš to hodně doslova.</value>
   </entry>
   <entry>
     <key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-    <value>老史派西很喜歡有客人拜訪它！要想找到它，最快的辦法是跳進你的\\n宇宙飛船，用太陽系地圖鎖定我們那顆忠心耿耿的衛星朋友，\\n就和去任何天體時一樣，該怎麽辦就怎麽辦。</value>
+    <value>Starý 'smířan má rád návštěvníky! Nejrychlejší způsob, jak ho najít, je skočit do lodi a použít mapu slunečního systému tak, že se navěsíš na našeho věrného satelitního kamaráda stejným způsobem, jakým by ses navěsil na jiné hvězdné těleso. </value>
   </entry>
   <entry>
     <key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
-    <value>沒錯，嗨，就是我們每一件宇航服里都有的標配品？就是你身上一直帶著的，\\n按下按鈕就會打開的那個？……就是那張地圖，想起來了嗎？</value>
+    <value>Jo, um, tu, která je standardní součástí všech našich skafandrů? Tu, kterou s sebou vždycky máš, a která se otevře stisknutím tlačítka? ...Tu mapu?</value>
   </entry>
   <entry>
     <key>FoundSomething6cYou didn’t get conked on the head by a rock or a meteorite or something on your way here, did you? No shame in that. Happens to me all the time!</key>
-    <value>你過來的時候沒被石頭或者隕石之類的東西砸到腦袋吧？被砸不丟人。\\n這種事我經歷得多了！</value>
+    <value>Nepraštil tě po cestě sem do hlavy nějaký kámen nebo meteorit? Není to žádná ostuda, stává se mi to každou chvilku!</value>
   </entry>
   <entry>
     <key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
-    <value>要是你的腦袋真受過重傷，我提醒一下，別忘了你可以跳進你的宇宙飛船，\\n用太陽系地圖鎖定任何天體。要想去找老史派西，這也是最簡單的辦法。</value>
+    <value>Pokud tě něco praštilo zvlášť silně, nezapomeň, že můžeš skočit do své lodi a použít mapu slunečního systému k tomu, aby ses navěsil na libovolné hvězdné těleso. Je to také nejjednodušší způsob, jak se dostat ke Starému 'smířanovi.</value>
   </entry>
   <entry>
     <key>FoundSomethingExitNo worries. Feel free to let me know when you do find something cool, though. You know where to find me.</key>
-    <value>那行。不過要是你發現了什麽有意思的東西，歡迎告訴我。\\n你知道去哪兒找我。</value>
+    <value>Bez obav. Neostýchej se na mě houknout, kdykoliv najdeš něco zajímavého. Víš, kde mě najít.</value>
   </entry>
   <entry>
     <key>Gabbro3T_1I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</key>
-    <value>我正希望你能回來呢，這兒發生了一些&lt;i&gt;十分&lt;/i&gt;奇怪的事兒。</value>
+    <value>Doufal jsem, že se vrátíš - děje se něco &lt;i&gt;opravdu&lt;/i&gt; divného.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
-    <value>你覺得我們是在時間循環中嗎？</value>
+    <value>Myslíš, že jsme v časové smyčce?</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_1We’re definitely in a time loop.</key>
-    <value>我們肯定是在時間循環中。</value>
+    <value>Jsme rozhodně v časové smyčce.</value>
   </entry>
   <entry>
     <key>Gabbro3T_2Yeah, a time loop makes the most sense, right? Or at least, it’s some kind of fidgety time business. Hard to say what’s happening to the shape of time, exactly, but let’s go with “loop” for now.</key>
-    <value>是啊，如果是時間循環就說得通了，對吧？至少這也是某種難解的\\n時間問題。其實目前很難說時間形態出了什麽問題，\\n不過我們還是先把它當作“循環”吧。</value>
+    <value>Jo, časová smyčka dává nejvíc smyslu, že? Nebo alespoň je to rozhodně nějaká časová záležitost. Stěží říci, co přesně se děje tvaru času, ale pro tuto chvíli řekněme, že je to "smyčka".</value>
   </entry>
   <entry>
     <key>Gabbro3T_3Oh. Yeah, that makes sense. Cool.</key>
-    <value>哦。嗯，這就說得通了。很好。</value>
+    <value>Oh. Jo, to dává smysl. Super.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_3You’re taking this pretty well.</key>
-    <value>你倒是很容易就接受了。</value>
+    <value>Zvládáš to celkem s klidem.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_3What did you think it was?</key>
-    <value>你覺得這是怎麽回事？</value>
+    <value>Co sis myslel, že to je?</value>
   </entry>
   <entry>
     <key>Gabbro3T_4Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before.</key>
-    <value>嘿，我也是。就我個人來說，我喜歡體驗新事物，\\n而且我之前從沒進入過時間循環。</value>
+    <value>Ha, ty taky. Osobně mám rád nové zážitky, a nikdy jsem v časové smyčce předtím nebyl.</value>
   </entry>
   <entry>
     <key>Gabbro3T_4Well. I don’t &lt;i&gt;think&lt;/i&gt; I’ve been in a time loop before this one, but then, it’s not like I can know that for sure.</key>
-    <value>好吧。我不&lt;i&gt;覺得&lt;/i&gt;在此之前我進入過時間循環，\\n不過我也不是很確定啦。</value>
+    <value>Mno. Alespoň &lt;i&gt;myslím&lt;/i&gt;, že jsem nikdy nebyl v časové smyčce před touhletou, ale na druhou stranu, nevím, jak bych to mohl vědět najisto.</value>
   </entry>
   <entry>
     <key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-    <value>我發現這應該是某種難解的時間問題，但我還沒搞清楚時間的形態到底\\n出了什麽問題，你明白嗎？不過如果是循環就說得通了。\\n現在我們暫時還是“循環”著吧。</value>
+    <value>Říkal jsem si, že to budě nějaká zpropadená časová záležitost, ale nepřemýšlel jsem o tom, co se děje tvaru času, víš? Ale smyčka dává za těchto okolností smysl. Říkejme tomu pro tuto chvíli "smyčka".</value>
   </entry>
   <entry>
     <key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
-    <value>看起來只有你我知道自己現在處於時間循環之中。就算你告訴別人，\\n到下一個循環時也不會有人記得。這到底是怎麽回事？</value>
+    <value>Vypadá to, že ty a já jsme jediní, kdo jsme si vědomi toho, že jsme v časové smyčce. A dokonce i když jim o ní řekneš, nikdo si to další smyčku nepamatuje, ale my ano. Čím myslíš, že to je?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-    <value>也許是因為我們都曾經和挪麥雕像長時間對視過？</value>
+    <value>Možná je to tím, že jsme se oba intenzivně zakoukali do sochy Nomai?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
-    <value>每次死去，我都看見自己的回憶在重放，就像沙灘上挪麥雕像睜開眼睛\\n看著我時發生的事情一樣。所以也許……沒有發光的雕像，\\n我們就不會意識到時間循環？</value>
+    <value>Pokaždé, když umřu, se mi přehrávají myšlenky úplně stejně, jako se to stalo, když ta socha Nomai na pláži otevřela oči a podívala se na mě. Takže... žádná zářící socha, žádné povědomí o časové smyčce?</value>
   </entry>
   <entry>
     <key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-    <value>我覺得就是這個原因，不過要是你對雕像或時間循環有什麽新發現，\\n一定要告訴我好嗎？我就待在這里。</value>
+    <value>Myslím, že to bude moje hlavní teorie, ale pokud zjistíš cokoliv nového o sochách nebo o časové smyčce, dej mi vědět, jo? Budu tady.</value>
   </entry>
   <entry>
     <key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
-    <value>嘿，我的時間夥伴回來了！</value>
+    <value>Čáu, můj časokámoš je zpátky!</value>
   </entry>
   <entry>
     <key>GabbroMenuSo what’s new?</key>
-    <value>有什麽新發現嗎？</value>
+    <value>Co je nového?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TWell, what are any of us doing here, really?</key>
-    <value>真是的，我們到底來這兒幹嘛呢？</value>
+    <value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš?</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>……算了，我開玩笑的。我和你一樣，來這里探索我們的太陽系。</value>
+    <value>...ne, dělám si legraci. Jsem tu, abych prozkoumal naši sluneční soustavu, stejně jako ty.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>不過我得告訴你，外太空真的能給你很大的思考空間。\\n這里又平靜又安寧。</value>
+    <value>Ale řeknu ti, vesmír ti opravdu poskytuje prostor pro přemýšlení. Je tu tiše a mírumilovně.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_3TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>我是說，這里通常又平靜又安寧。有時會有氣旋經過，\\n它會把我的天堂小島拎出水面。那時候就不太安寧了。</value>
+    <value>Tím myslím, že je tu obvykle tiše a mírumilovně. Občas se přežene cyklón a zvedne celý můj ostrovní ráj do vesmíru. Potom: méně mírumilovně.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3THere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-    <value>你可能會對這個感興趣，在每個時間循環開始時，\\n我總會在天空中看到一道閃光。星球的軌道上一定發生了什麽。</value>
+    <value>Tumáš něco, co by se ti mohlo líbit - na začátku každé smyčky vidím na obloze jasný záblesk. Musí to být něco na oběžné dráze kolem planety.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>還有什麽、還有什麽……你去過雕像島嗎？因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;。&lt;Pause&gt;所以我就一直這麽叫它了……明白了嗎？</value>
+    <value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;上, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pauza&gt; ...Chápeš?</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>順便一說，那些閃閃發光的玩意兒出現時，我正躺在雕像島的沙灘上。\\n那座沙灘非常適合躺著放松。按照Gabbro的舒適計量表，\\n10分里我給它打7分。</value>
+    <value>Byl jsem na pláži na Ostrovu soch, když se mi stal celý ten zářivý zážitek, mimochodem. Je to pro tento účel pěkná pláž. Dávám jí 7 bodů z 10 na Gabbrově relaxační škále.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>如果你想去雕像島看看，去找兩座由天然石拱門連接的島嶼就是了。\\n好吧……差不多連著。你會明白的。</value>
+    <value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3THaha, I know, right?</key>
-    <value>哈哈，我知道，沒錯吧？</value>
+    <value>Haha, já vím, žejo?</value>
   </entry>
   <entry>
     <key>ThisPlanet_3T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>……哦，你是說讓我再多告訴你一些？明白了。嗯，深巨星十分巨大，\\n差不多到處是水。這也不奇怪。</value>
+    <value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>水面下有一股很強勁的水流，使得水里的東西無法沈下去。老實說，\\n我已經嘗試了所有能想到的東西穿過那股水流，但全都失敗了。</value>
+    <value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>至於地塊，算上這里，我已經數到了四座小島。\\n我在沙灘上看到挪麥雕像的那座也算在里面。</value>
+    <value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>你見到氣旋了？是啊，不看見也難。它們會把擋路的東西都掀飛，\\n就算是島嶼也一樣。給你個小提示：如果你被掀起來了，\\n試著在水里著陸。這樣活下來的概率會高一點。</value>
+    <value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>所以挪麥人建造了那些頭雕來記錄回憶，是嗎？……是啊，\\n我想象得出來。雖然不知道為什麽，但看起來確實像是他們的做法。</value>
+    <value>Takže Nomai vytvořili tyhle sochy hlav, aby zaznamenali vzpomínky, jo? ...Hm, to zní jako něco, co by Nomai udělali. Nemám tušení, proč, ale zní to typicky.</value>
   </entry>
   <entry>
     <key>FoundSomething1_3TDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-    <value>那麽，你認為雕像是在記錄我們的回憶嗎？我還記得沙灘上的那座雕像在\\n用詭異的眼神盯著我瞧。它一定就是我的回憶夥伴了！</value>
+    <value>Myslíš, že ty sochy nahrávají i naše vzpomínky? Protože já si pamatuju tu jednu z pláže, co se na mě podívala divně. To musí být můj vzpomínkový kámoš!</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>等等，哇，真的？挪麥人將灰燼雙星鑿空，\\n然後在里面建了個時間循環裝置？……真是&lt;i&gt;太瘋狂&lt;/i&gt;了。</value>
+    <value>Počkej, wow, vážně? Nomai vydlabali Popelák a vybudovali uvnitř stroj na časové smyčky? ...To je &lt;i&gt;hustý&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-    <value>現在我們知道是什麽引發了循環。而且……如果循環是由裝置引發的，\\n那就說明它需要被打開，對吧？哈……</value>
+    <value>Teď tedy víme, co způsobuje smyčku. A... pokud ji způsobuje to zařízení, to znamená, že musí být zapnuté, co? Hm...</value>
   </entry>
   <entry>
     <key>FoundSomething2_3THey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-    <value>嘿，要是把時間循環關閉，你覺得會怎麽樣？\\n可能我內心里的一部分會覺得你不該那麽做，因為太陽要爆炸了。</value>
+    <value>Hej, co si myslíš, že by se stalo, kdybys časovou smyčku vypnul? Jako, část mě si myslí, že bys možná neměl, protože slunce vybuchuje a tak.</value>
   </entry>
   <entry>
     <key>FoundSomething2_3TThen again, who wants to spend eternity being blown up by the sun?</key>
-    <value>但是轉念一想，誰喜歡永無止境地被太陽炸飛呢？</value>
+    <value>Na druhou stranu, kdo chce strávit věčnost tím, že ho bude znovu a znovu spalovat vybuchující slunce?</value>
   </entry>
   <entry>
     <key>FoundSomething2_3T...I dunno, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-    <value>……我不知道，我又不是時間循環的專家。我還是靜靜坐在這里，\\n思考一下時間和空間的錯綜覆雜吧。要是有需要，我可能還會打個盹兒。</value>
+    <value>...Nevím, nejsem žádný expert na časové smyčky. Já si tu jen sednu a budu uvažovat o složitostech časoprostoru. Možná si taky dám šlofíka, pokud se mi bude chtít.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>你是說建造這些雕像是為了將回憶送回到過去？這倒是說得通，\\n畢竟我們都還記得之前每個循環發生的事。</value>
+    <value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-    <value>等等，也就是說只有我們的回憶被送了回來，是吧？那……\\n我們到底是不是真的經歷了多重時間循環呢？</value>
+    <value>Moment, takže nám akorát posílají zpátky časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-    <value>這就很深奧了……也許我們的意識經歷了所有這些循環，\\n但也許我們的身體沒有。因為從技術上說，根本沒有什麽循環。</value>
+    <value>Je to dost hluboké... Jako, možná naše vědomí absolvovalo všechny smyčky, ale naše těla možná ne, protože technicky se žádná z těch dalších smyček nestala.</value>
   </entry>
   <entry>
     <key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-    <value>也就是說，我們正在接收那些永不會發生在自己身上的回憶。\\n還挺有意思的，是吧？</value>
+    <value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
   </entry>
   <entry>
     <key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-    <value>哇哦，原來每次時間循環開始的時候大炮會解體？當真？</value>
+    <value>Wow, takže ten kanón se rozbíjí na začátku každé časové smyčky? Vážně?</value>
   </entry>
   <entry>
     <key>FoundSomething4_3TDid you figure out why?</key>
-    <value>你知道是為什麽嗎？</value>
+    <value>Přišel jsi na to, proč?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3TToo much power.</key>
-    <value>動力過剩。</value>
+    <value>Příliš mnoho energie.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_3TOverenthusiasm.</key>
-    <value>熱量過高。</value>
+    <value>Přílišný entuziasmus.</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3T...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>……這聽上去像是Slate或Feldspar會幹的事情，感覺有點嚇人。\\n我很驚訝，挪麥人建造的東西居然會壞掉！</value>
+    <value>...Je trošku děsivé, jak moc to zní jako něco, co by provedli Slate nebo Feldspar. Jsem celkem překvapen, že Nomai vybudovali něco, co se opravdu rozbilo!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_3TCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-    <value>不過仔細想想，說“壞掉”也不恰當。因為在每個時間循環之初，\\n軌道探測炮仍能正常開火。</value>
+    <value>Když se nad tím ale zamyslím, "rozbilo" možná není správné slovo. Protože Orbitální sondový kanón úspěšně vypálí sondu na začátku každé časové smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
-    <value>所以大炮是在發射之後壞掉的，哈。這就能解釋為什麽每次循環時，\\n我都看到天上有東西落下來。</value>
+    <value>Takže kanón se rozbije ihned potom, co vypálí, hm? To vysvětluje, co že to vidím padat z oblohy na začátku každé smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TI’m still surprised the Nomai built something that isn’t holding together, you know? Them being genius crafters and all.</key>
-    <value>我還是很驚訝，挪麥人造的東西居然會壞掉，你懂我的意思嗎？\\n畢竟他們都是建造方面的天才大師啊。</value>
+    <value>Jsem pořád překvapen, že Nomai vybudovali něco, co se opravdu rozbilo, víš? Vzhledem k tomu, jak geniální byli stavitelé.</value>
   </entry>
   <entry>
     <key>FoundSomething4b_3TOn the other hand, maybe we should be impressed they made something that could last until modern day in the first place. And it looks like the cannon is still firing successfully at the start of each time loop.</key>
-    <value>而另一方面，也許首先我們應該驚訝的是，他們建造的東西居然一直延續\\n到了現代。看起來在每個時間循環之初，軌道探測炮仍能正常開火。</value>
+    <value>Na druhou stranu, možná bychom měli být unešení, že vyrobili něco, co přetrvalo do našich dob. A vypadá to, že kanón stále úspěšně vystřelí sondu na začátku každé smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3TYeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-    <value>是的，就樹林里的那個，我記得我寫過。還挺有趣的，是吧？\\n我把它寫成了24首好詩。</value>
+    <value>Jo, ta v lese, tu si pamatuju. Docela švanda, co? Je to dohromady 24 různých básní.</value>
   </entry>
   <entry>
     <key>FoundSomething5_3TWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-    <value>探索結束之後，我想要多創作些量子藝術。也許會是某種生物的雕像……\\n等你背過身的時候就突然出現，把你嚇得屁滾尿流。</value>
+    <value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
   </entry>
   <entry>
     <key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-    <value>你好啊，時間夥伴！這兒天氣真不錯，是吧？ &lt;Pause /&gt;……等等。\\n這話我之前是不是說過了？</value>
+    <value>Čau, časokámo! Hezký počasí, co? &lt;Pauza/&gt; ...Moment. Použil jsem už tohleto uvítání?</value>
   </entry>
   <entry>
     <key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
-    <value>這不是我的時間夥伴嘛！你在這次循環的太空里過得如何？</value>
+    <value>Vždyť to je můj časový kamarád! Jak se daří ve vesmíru během téhle smyčky?</value>
   </entry>
   <entry>
     <key>GabbroMainHeyo, time buddy. It’s a good thing I never get bored of rain, huh?</key>
-    <value>你好啊，時間夥伴。幸好我不討厭下雨，是吧？</value>
+    <value>Čágo, časokámo. Je dobře, že mě déšť nikdy neznudí, co?</value>
   </entry>
   <entry>
     <key>GabbroMainYou know, I kind of wish I’d built a hammock here before we ended up in this time loop.</key>
-    <value>你知道嗎，我有點想在這次時間循環結束之前造個吊床。</value>
+    <value>Víš ty co, je mi trošku líto, že jsem tu nepověsil houpací síť předtím, než jsme skončili v časové smyčce.</value>
   </entry>
   <entry>
     <key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-    <value>幾次循環前，有個氣旋經過，把我的小島卷上了太空。\\n我可不喜歡這種死法。</value>
+    <value>Před několika smyčkami přišel cyklón a vyhodil můj malý ostrůvek do vesmíru. Umřít tím způsobem bylo poněkud nemilé.</value>
   </entry>
   <entry>
     <key>GabbroMain_SecondaryHello again. ...Again.</key>
-    <value>你好……又見面了。</value>
+    <value>Znovu tě zdravím. ...Znovu.</value>
   </entry>
   <entry>
     <key>GabbroMenuWhat’s up?</key>
-    <value>有事嗎？</value>
+    <value>Jak je?</value>
   </entry>
   <entry>
     <key>GabbroGabbroMenuHow do you stay so calm in the face of repeated impending death?</key>
-    <value>面對不斷重覆逼來的死亡，你怎麽能如此平靜？</value>
+    <value>Jak zvládáš být tak klidným tváří v tvář jisté smrti?</value>
   </entry>
   <entry>
     <key>HowDoYouStayCalmDeep breaths... no, seriously, I meditate.</key>
-    <value>深呼吸……不，我是認真的，我還會冥想。</value>
+    <value>Zhluboka dýchám... ne, vážně, medituju.</value>
   </entry>
   <entry>
     <key>MeditateMenuWant me to teach you? It'll be the next loop before you know it.</key>
-    <value>要我教教你嗎？這樣下一個循環一眨眼就到了。</value>
+    <value>Chceš, abych tě to naučil? Bude to trvat celou smyčku, než to pořádně procvičíme.</value>
   </entry>
   <entry>
     <key>GabbroMeditateMenuSure, why not.</key>
-    <value>好啊，何樂不為。</value>
+    <value>Jasně, proč ne.</value>
   </entry>
   <entry>
     <key>GabbroMeditateMenuNah, I'm good.</key>
-    <value>不，不用了。</value>
+    <value>Ne, jsem v pohodě.</value>
   </entry>
   <entry>
     <key>YesMeditateOk, close your eyes...</key>
-    <value>好了，閉上眼睛……</value>
+    <value>Oukej, zavři oči...</value>
   </entry>
   <entry>
     <key>NoMeditateOk, let me know if you change your mind. Time flies when you're in a deep, meditative trance.</key>
-    <value>好吧，如果你改主意了，就來找我。\\n當你處於一種深邃的冥想狀態時，時間就會飛逝。</value>
+    <value>Oukej, dej mi vědět, pokud změníš názor. Čas letí, když jsi v hlubokém, meditativním transu.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeWell, what are any of us doing here, really?</key>
-    <value>真是的，我們到底來這兒幹嘛呢？</value>
+    <value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_merge...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>……算了，我開玩笑的。我和你一樣，來這里探索我們的太陽系。</value>
+    <value>...ne, dělám si legraci. Jsem tu, abych prozkoumal naši sluneční soustavu, stejně jako ty.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-    <value>不過我得告訴你，外太空真的能給你很大的思考空間。\\n這里又平靜又安寧。</value>
+    <value>Ale řeknu ti, vesmír ti opravdu poskytuje prostor pro přemýšlení. Je tu tiše a mírumilovně.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_mergeI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>我是說，這里通常又平靜又安寧。有時會有氣旋經過，\\n它會把我的天堂小島拎出水面。那時候就不太安寧了。</value>
+    <value>Tím myslím, že je tu obvykle tiše a mírumilovně. Občas se přežene cyklón a zvedne celý můj ostrovní ráj do vesmíru. Potom: méně mírumilovně.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeHere’s something you might like — I keep seeing a bright flash in the sky at the start of every loop. Something must be happening up there in orbit around the planet.</key>
-    <value>你可能會對這個感興趣，在每個時間循環開始時，\\n我總會在天空中看到一道閃光。星球的軌道上一定發生了什麽。</value>
+    <value>Tumáš něco, co by se ti mohlo líbit - na začátku každé smyčky vidím na obloze jasný záblesk. Musí to být něco na oběžné dráze kolem planety.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>還有什麽、還有什麽……你去過雕像島嗎？因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;。&lt;Pause&gt;所以我就一直這麽叫它了……明白了嗎？</value>
+    <value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;上, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pauza&gt; ...Chápeš?</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>順便一說，那些閃閃發光的玩意兒出現時，我正躺在雕像島的沙灘上。\\n那座沙灘非常適合躺著放松。按照Gabbro的舒適計量表，\\n10分里我給它打7分。</value>
+    <value>Byl jsem na pláži na Ostrovu soch, když se mi stal celý ten zářivý zážitek, mimochodem. Je to pro tento účel pěkná pláž. Dávám jí 7 bodů z 10 na Gabbrově relaxační škále.</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-    <value>如果你想去雕像島看看，去找兩座由天然石拱門連接的島嶼就是了。\\n好吧……差不多連著。你會明白的。</value>
+    <value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeHaha, I know, right?</key>
-    <value>哈哈，我知道，沒錯吧？</value>
+    <value>Haha, já vím, žejo?</value>
   </entry>
   <entry>
     <key>ThisPlanet_merge...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-    <value>……哦，你是說讓我再多告訴你一些？明白了。嗯，深巨星十分巨大，\\n差不多到處是水。這也不奇怪。</value>
+    <value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-    <value>水面下有一股很強勁的水流，使得水里的東西無法沈下去。老實說，\\n我已經嘗試了所有能想到的東西穿過那股水流，但全都失敗了。</value>
+    <value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>至於地塊，算上這里，我已經數到了四座小島。\\n我在沙灘上看到挪麥雕像的那座也算在里面。</value>
+    <value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
   </entry>
   <entry>
     <key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-    <value>你見到氣旋了？是啊，不看見也難。它們會把擋路的東西都掀飛，\\n就算是島嶼也一樣。給你個小提示：如果你被掀起來了，\\n試著在水里著陸。這樣活下來的概率會高一點。</value>
+    <value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
   </entry>
   <entry>
     <key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
-    <value>所以挪麥人建造了那些頭雕來記錄回憶，是嗎？……是啊，\\n我想象得出來。雖然不知道為什麽，但看起來確實像是他們的做法。</value>
+    <value>Takže Nomai vytvořili tyhle sochy hlav, aby zaznamenali vzpomínky, jo? ...Hm, to zní jako něco, co by Nomai udělali. Nemám tušení, proč, ale zní to typicky.</value>
   </entry>
   <entry>
     <key>FoundSomething1_mergeDo you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!</key>
-    <value>那麽，你認為雕像是在記錄我們的回憶嗎？我還記得沙灘上的那座雕像在\\n用詭異的眼神盯著我瞧。它一定就是我的回憶夥伴了！</value>
+    <value>Myslíš, že ty sochy nahrávají i naše vzpomínky? Protože já si pamatuju tu jednu z pláže, co se na mě podívala divně. To musí být můj vzpomínkový kámoš!</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeWait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is &lt;i&gt;wild&lt;/i&gt;.</key>
-    <value>等等，哇，真的？挪麥人將灰燼雙星鑿空，\\n然後在里面建了個時間循環裝置？……真是&lt;i&gt;太瘋狂&lt;/i&gt;了。</value>
+    <value>Počkej, wow, vážně? Nomai vydlabali Popelák a vybudovali uvnitř stroj na časové smyčky? ...To je &lt;i&gt;hustý&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeNow we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh...</key>
-    <value>現在我們知道是什麽引發了循環。而且……如果循環是由裝置引發的，\\n那就說明它需要被打開，對吧？哈……</value>
+    <value>Teď tedy víme, co způsobuje smyčku. A... pokud ji způsobuje to zařízení, to znamená, že musí být zapnuté, co? Hm...</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeHey, what do you think would happen if you turned off the time loop? Like, there’s a part of me thinks maybe you shouldn’t, what with the sun blowing up and all.</key>
-    <value>嘿，要是把時間循環關閉，你覺得會怎麽樣？\\n可能我內心里的一部分會覺得你不該那麽做，因為太陽要爆炸了。</value>
+    <value>Hej, co si myslíš, že by se stalo, kdybys časovou smyčku vypnul? Jako, část mě si myslí, že bys možná neměl, protože slunce vybuchuje a tak.</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeThen again, who wants to spend eternity being blown up by the sun?</key>
-    <value>但是轉念一想，誰喜歡永無止境地被太陽炸飛呢？</value>
+    <value>Na druhou stranu, kdo chce strávit věčnost tím, že ho bude znovu a znovu spalovat vybuchující slunce?</value>
   </entry>
   <entry>
     <key>FoundSomething2_mergeWell, I’m no time loop expert. I’m just gonna sit here and ponder the intricacies of time and space. Maybe take a nap, too, if I feel like it.</key>
-    <value>好吧，我又不是時間循環的專家。我還是靜靜坐在這里，\\n思考一下時間和空間的錯綜覆雜吧。要是有需要，我可能還會打個盹兒。</value>
+    <value>...Nevím, nejsem žádný expert na časové smyčky. Já si tu jen sednu a budu uvažovat o složitostech časoprostoru. Možná si taky dám šlofíka, pokud se mi bude chtít.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-    <value>你是說建造這些雕像是為了將回憶送回到過去？這倒是說得通，\\n畢竟我們都還記得之前每個循環發生的事。</value>
+    <value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-    <value>等等，也就是說只有我們的回憶被送了回來，是吧？那……\\n我們到底是不是真的經歷了多重時間循環呢？</value>
+    <value>Moment, takže nám akorát posílají zpátky časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
-    <value>這就很深奧了……也許我們的意識經歷了所有這些循環，\\n但也許我們的身體沒有。因為從技術上說，根本沒有什麽循環。</value>
+    <value>Je to dost hluboké... Jako, možná naše vědomí absolvovalo všechny smyčky, ale naše těla možná ne, protože technicky se žádná z těch dalších smyček nestala.</value>
   </entry>
   <entry>
     <key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-    <value>也就是說，我們正在接收那些永不會發生在自己身上的回憶。\\n還挺有意思的，是吧？</value>
+    <value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
   </entry>
   <entry>
     <key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
-    <value>哇哦，原來每次時間循環開始的時候大炮會解體？當真？</value>
+    <value>Wow, takže ten kanón se rozbíjí na začátku každé časové smyčky? Vážně?</value>
   </entry>
   <entry>
     <key>FoundSomething4_mergeDid you figure out why?</key>
-    <value>你知道是為什麽嗎？</value>
+    <value>Přišel jsi na to, proč?</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_mergeToo much power.</key>
-    <value>動力過剩。</value>
+    <value>Příliš mnoho energie.</value>
   </entry>
   <entry>
     <key>GabbroFoundSomething4_mergeOverenthusiasm.</key>
-    <value>熱量過高。</value>
+    <value>Přílišný entuziasmus.</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_merge...It’s kind of scary how much that sounds like something Slate or Feldspar would do. I’m pretty surprised the Nomai built something that actually broke!</key>
-    <value>……這聽上去像是Slate或Feldspar會幹的事情，感覺有點嚇人。\\n我很驚訝，挪麥人建造的東西居然會壞掉！</value>
+    <value>...Je trošku děsivé, jak moc to zní jako něco, co by provedli Slate nebo Feldspar. Jsem celkem překvapen, že Nomai vybudovali něco, co se opravdu rozbilo!</value>
   </entry>
   <entry>
     <key>FoundSomething4FollowUp_mergeCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-    <value>不過仔細想想，說“壞掉”也不恰當。因為在每個時間循環之初，\\n軌道探測炮仍能正常開火。</value>
+    <value>Když se nad tím ale zamyslím, "rozbilo" možná není správné slovo. Protože Orbitální sondový kanón úspěšně vypálí sondu na začátku každé časové smyčky.</value>
   </entry>
   <entry>
     <key>FoundSomething5_mergeOh yeah, the one in the woods, I remember writing that. Pretty fun, right? It works out to a good 24 poems.</key>
-    <value>對，就是樹林里的那個，我記得我寫過。還挺有趣的，是吧？\\n我把它寫成了24首好詩。</value>
+    <value>Jo, ta v lese, tu si pamatuju. Docela švanda, co? Je to dohromady 24 různých básní.</value>
   </entry>
   <entry>
     <key>FoundSomething5_mergeWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</key>
-    <value>探索結束之後，我想要多創作些量子藝術。也許會是某種生物的雕像……\\n等你背過身的時候就突然出現，把你嚇得屁滾尿流。</value>
+    <value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
   </entry>
   <entry>
     <key>RECORDING</key>
-    <value>RECORDING</value>
+    <value>NAHRÁVKA</value>
   </entry>
   <entry>
     <key>RecordingGabbro here, checking in on the deep space satellite per ground control's request to check out a possible equipment problem. See, Hornfels? I do too work!</key>
-    <value>這里是Gabbro，遵照地面管控的要求在深空衛星上檢查可能存在的設備問題。看到沒，Hornfels？我也會工作！</value>
+    <value>Tady Gabbro, kontroluju hlubokovesmírný satelit dle pokynů centrály. Vidíš, Hornfelsi? Občas taky pracuju!</value>
   </entry>
   <entry>
     <key>RecordingYou know, I wouldn’t mind being a satellite. It's peaceful out here, among the distant stars and the soft, velvety darkness… Bet it's (yawn) awfully nice for naps, too...</key>
-    <value>我跟你說，我不介意變成一顆衛星。外面是這麽寧靜平和，群星在側，無邊無際的黑暗柔軟絲滑……一定也——（打哈欠）——特別適合小睡一下……</value>
+    <value>Víš, vlastně by mi nevadilo být satelitem. Je tu mírumilovně, tady mezi vzdálenými hvězdami a měkkou, sametovou temnotou... Vsadil bych se, že (zívnutí) se tu taky skvěle šlofíkuje...</value>
   </entry>
   <entry>
     <key>Recording...</key>
-    <value>……</value>
+    <value>...</value>
   </entry>
   <entry>
     <key>RecordingOh, right. The lens.</key>
-    <value>噢，對了。鏡頭。</value>
+    <value>Ale k věci. Objektiv.</value>
   </entry>
   <entry>
     <key>RecordingAlright, little satellite, let's see what the trouble is.</key>
-    <value>好了，小衛星，我們來看看問題出在哪。</value>
+    <value>Oukej, malý satelitku, pojďme zjistit, proč máš trable.</value>
   </entry>
   <entry>
     <key>Recording...Huh. Everything looks a-okay, ground control. No dust or scratches on the lens, and no evidence of sparking or violent explosions. Guess that rules out an equipment malfunction, after all.</key>
-    <value>……嗯。看起來一切正常，地面管控。鏡頭上沒有灰塵和刮痕，也沒有火花或者劇烈爆炸的痕跡。應該能排除設備故障。</value>
+    <value>...Hm. Všechno vypadá v pořádku, centrálo. Žádný prach nebo škrábnutí na objektivu, a žádné pozůstatky jiskření nebo explozí. To tedy asi vylučuje poruchu zařízení.</value>
   </entry>
   <entry>
     <key>RecordingHear that, pal? You’re in great shape. Keep up the good work out here!</key>
-    <value>聽到沒，夥計？你的狀態非常好。繼續在這好好工作吧！</value>
+    <value>Slyšíš, kámo? Jsi na tom skvěle. Pokračuj ve své dobré práci!</value>
   </entry>
   <entry>
     <key>SIGN</key>
-    <value>SIGN</value>
+    <value>NÁPIS</value>
   </entry>
   <entry>
     <key>SignCLOSED DUE TO FIRE DAMAGE</key>
-    <value>因火力損傷關閉</value>
+    <value>ZAVŘENO KVŮLI ŠKODĚ ZPŮSOBENÉ POŽÁREM</value>
   </entry>
   <entry>
     <key>SignThe old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</key>
-    <value>這座舊的無線電塔在一次未獲批準的模型火箭飛行測試中受損。該火箭的動力極強，導致這座重要的地標建築不幸關閉。</value>
+    <value>Stará rádiová věž, ač důležitou památkou, je bohužel uzavřena kvůli neautorizovanému letovému testu extrémně ničivé modelové rakety.</value>
   </entry>
   <entry>
     <key>SignWhile we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</key>
-    <value>因為當前所有的建設人力都集中在天文台的博物館擴建計劃上，我們希望能在稍後時間再修覆這座無線電塔。</value>
+    <value>Přestože doufáme, že rádiovou věž v budoucnosti opravíme, veškerá stavební síla je v tuto chvíli upřena k plánovanému rozšíření muzea v Observatoři.</value>
   </entry>
   <entry>
     <key>SignSincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</key>
-    <value>向所有人致以誠摯的歉意，除了Slate和Mica，\\n\\nHornfels（博物館館長）</value>
+    <value>Upřímně se omlouvám všem kromě Slata a Micy.\\n\\nHornfels (kurátor muzea)</value>
   </entry>
   <entry>
     <key>SignThe radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system.</key>
-    <value>木爐星此處的這座無線電塔的建立當初是為了接收我們的深空衛星傳來的信息，時至今日，它依然存儲著我們拍攝的首批整個太陽系的照片。</value>
+    <value>Rádiová věž na Domopeci byla postavena, aby přijímala vysílání od našeho hlubokovesmírného satelitu, a dodnes jsou v ní vystaveny první fotky, které ukazují celý sluneční systém.</value>
   </entry>
   <entry>
     <key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-    <value>這些照片是深空衛星通過其不同尋常的垂直軌道在太陽系行星的高處（和低處）拍攝完成。</value>
+    <value>Tyto fotky jsou možné díky nezvyklé vertikální oběžné dráze našeho hlubokovesmírného satelitu, která jej nese vysoko nad (a pod) rovinu slunečního systému.</value>
   </entry>
   <entry>
     <key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
-    <value>多虧了最近的升級，深空衛星現在能夠為我們最新的宇航員們生成實時太陽系地圖。</value>
+    <value>Díky nedávné inovaci vytváří náš hlubokovesmírný satelit mapu slunečního systému v reálném čase, kterou používají naši nejnovější astronauti.</value>
   </entry>
   <entry>
     <key>SignOur new expansion was made possible by the generous contributions of esteemed museum visitors like you. Thank you very much for your support!</key>
-    <value>我們新的擴建能夠得以完成，正是因為有像你一樣的尊貴的博物館訪客的慷慨解囊。非常感謝你的支持！</value>
+    <value>Naše nové rozšíření bylo umožněno velkorysými příspěvky návštěvníků muzea, jako jste právě vy. Díky za vaši podporu!</value>
   </entry>
   <entry>
     <key>SignFUTURE SITE OF OUR NEXT EXHIBIT!</key>
-    <value>我們未來的展出地點！</value>
+    <value>BUDOUCÍ UMÍSTĚNÍ NAŠÍ DALŠÍ VÝSTAVY!</value>
   </entry>
   <entry>
     <key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
@@ -2643,7 +2643,7 @@
   </entry>
   <entry>
     <key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
-    <value>如果沒有像你一樣慷慨的訪客，我們不可能前去探索太陽系的最深處！我們衷心地感謝你的支持，希望能盡快與你再會。</value>
+    <value>Naše mise - prozkoumat nejvzdálenější části našeho slunečního systému - by nebyla možná bez velkorysých návštěvníků jako vás! Vřele vám děkujeme za podporu, a doufáme, že nás brzy opět navštívíte.</value>
   </entry>
   <entry>
     <key>Slate</key>
@@ -2651,363 +2651,363 @@
   </entry>
   <entry>
     <key>Scientist1AThere’s our pilot! Back from your pre-launch campout under the stars, I see.</key>
-    <value>這不是我們的飛行員嘛！看得出來，發射前你去星空下露營了，\\n這才剛回來。</value>
+    <value>Tu je náš pilot! Zpátky z předletového kempování pod hvězdami.</value>
   </entry>
   <entry>
     <key>Scientist1ASo it’s Launch Day, eh? Seems like only yesterday you joined the space program, and suddenly here you are, leaving on your first solo voyage.</key>
-    <value>今天是發射的日子，對吧？我感覺你加入太空計劃不過是昨天的事，\\n而一轉眼，你馬上就要開始第一次單獨旅行了。</value>
+    <value>Takže dnes je Letový den, co? Přijde mi to jako včera, kdy ses přidal k vesmírnému programu, a najednou jsi tady a opouštíš nás na svou první sólovou výpravu.</value>
   </entry>
   <entry>
     <key>Scientist1AWhat do you say - ready to get this beauty off the ground? It’s all fueled up and ready to go!</key>
-    <value>感覺如何？準備好駕駛這位大美人上天了嗎？燃料都加好了，\\n隨時可以出發！</value>
+    <value>Co myslíš - jsi připraven vzít tuhle krasavici do vesmíru? Je plně natankovaná a připravená!</value>
   </entry>
   <entry>
     <key>SlateScientist1AAll systems go!</key>
-    <value>所有系統正常！</value>
+    <value>Všechny systémy připraveny!</value>
   </entry>
   <entry>
     <key>SlateScientist1AI’m ready if you are.</key>
-    <value>我沒問題，等你就緒。</value>
+    <value>Pokud jste připravení, tak já také.</value>
   </entry>
   <entry>
     <key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>你&lt;i&gt;確定&lt;/i&gt;把反推火箭修好了嗎？</value>
+    <value>Jsi si &lt;i&gt;jist&lt;/i&gt;, že jste spravili retro-rakety?</value>
   </entry>
   <entry>
     <key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
-    <value>嘿，準備好駕駛這位大美人上天了嗎？宇宙飛船燃料都加好了，\\n隨時可以出發。</value>
+    <value>Tak co, jsi připraven odstartovat v téhle věci? Loď je plně natankována a připravena.</value>
   </entry>
   <entry>
     <key>SlateScientist1BDid... did I just... die?</key>
-    <value>我……我是……死了嗎？</value>
+    <value>Umř... umřel jsem?</value>
   </entry>
   <entry>
     <key>SlateScientist1BAll systems go!</key>
-    <value>所有系統正常！</value>
+    <value>Všechny systémy připraveny!</value>
   </entry>
   <entry>
     <key>SlateScientist1BI’m ready if you are.</key>
-    <value>我沒問題，等你就緒。</value>
+    <value>Pokud jste připravení, tak já také.</value>
   </entry>
   <entry>
     <key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>你&lt;i&gt;確定&lt;/i&gt;把反推火箭修好了嗎？</value>
+    <value>Jsi si &lt;i&gt;jist&lt;/i&gt;, že jste spravili retro-rakety?</value>
   </entry>
   <entry>
     <key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
-    <value>哇哦，是做噩夢了嗎？你看上去還是有些半睡半醒的，\\n不過這就表示你根本沒死。</value>
+    <value>Wow, zlý sen nebo tak něco? Pořád vypadáš ospale, ale rozhodně nejsi mrtvý.</value>
   </entry>
   <entry>
     <key>ScientistAnswer11I know it’s tradition to sleep out under the stars the night before a launch, but if you ask me it makes you all a bit jumpy.</key>
-    <value>我知道發射前睡在星空下是種傳統，但要我說，你被搞得有點神經兮兮。</value>
+    <value>Vím, že je tradicí spát pod hvězdami před svým prvním startem, ale myslím, že jste z toho všichni potom trošku nesví.</value>
   </entry>
   <entry>
     <key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-    <value>我很高興你對此次旅程感到激動。但別忘了，要是你把宇宙飛船撞毀了，\\n我是不會給你再造一艘的。要知道，我可不是用輕型再入級鋁合金造的。</value>
+    <value>Jsem rád, že jsi nadšený, ale pamatuj: pokud tuhle loď zničíš, nepostavím ti druhou. Neumím jen tak vykouzlit lehkovážní hliníkové slitiny pro atmosférický návrat, víš?</value>
   </entry>
   <entry>
     <key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-    <value>你在開玩笑嗎？我當然準備好了，終於到了讓飛行員，\\n而不是自動駕駛來測試全新著陸液壓系統的時候了！</value>
+    <value>Děláš si legraci? Samozřejmě, že jsem připraven - je čas konečně vyzkoušet novou přistávací hydrauliku s pilotem namísto automatu!</value>
   </entry>
   <entry>
     <key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
-    <value>……說到飛行員，你一定得保證別在第一次著陸時就把宇宙飛船\\n撞個稀巴爛，聽見了嗎？</value>
+    <value>...když už mluvíme o pilotech, nerozbij tu loď při prvním přistání, slyšíš mě?</value>
   </entry>
   <entry>
     <key>ScientistAnswer14That was only a problem one time. And then maybe a few times after that, but hey, no reason to dwell on the past, right?</key>
-    <value>那只是之前遇到的問題。也許幾次之後又發生了幾次，不過呢，\\n咱們不用老是拘泥於過去，對吧？</value>
+    <value>To byl problém jen jednou. A ještě potom občas někdy, ale hej, nemá smysl žít v minulosti, co?</value>
   </entry>
   <entry>
     <key>ScientistAnswer15Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</key>
-    <value>無論如何，你得在發射前&lt;color=orange&gt;從天文台的Hornfels那兒拿到發射密碼&lt;/color&gt;。\\n等你跟大家告別，把要幹的事兒都幹了之後，就帶著密碼到這兒來。</value>
+    <value>Každopádně budeš potřebovat &lt;color=orange&gt;spouštěcí kódy od Hornfelse v observatoři&lt;/color&gt; předtím, než budeš moci vzlétnout. Přines je sem, jakmile se se všemi rozloučíš nebo tak něco.</value>
   </entry>
   <entry>
     <key>Scientist2Not having second thoughts, are you?</key>
-    <value>你不再想想了？</value>
+    <value>Nerozmyslel sis to, že ne?</value>
   </entry>
   <entry>
     <key>SlateScientist2Where are the launch codes again?</key>
-    <value>發射密碼在哪兒？</value>
+    <value>Kde jsou tvé spouštěcí kódy?</value>
   </entry>
   <entry>
     <key>SlateScientist2How’s the ship looking?</key>
-    <value>宇宙飛船看上去怎麽樣？</value>
+    <value>Jak je na tom moje loď?</value>
   </entry>
   <entry>
     <key>SlateScientist2How safe would you say this thing is?</key>
-    <value>你說這玩意兒有多安全？</value>
+    <value>Jak bezpečná je tahle loď, co myslíš?</value>
   </entry>
   <entry>
     <key>SlateScientist2What’s my mission once I’m in space?</key>
-    <value>等到了太空，我有什麽任務？</value>
+    <value>等Jaká je moje mise, jakmile vzhlétnu do vesmíru?</value>
   </entry>
   <entry>
     <key>SlateScientist2What else should I do before liftoff?</key>
-    <value>在發射前，我還應該做點什麽？</value>
+    <value>Co dalšího bych měl udělat před startem?</value>
   </entry>
   <entry>
     <key>ScientistAnswer24Hey, you’re the pilot - you tell me. Aren’t you pilot-types all eager to get up there and explore for yourselves?</key>
-    <value>嘿，你是飛行員，應該你來告訴我啊。\\n你們這幫飛行員不都是急不可耐地想要上天探索嗎？</value>
+    <value>Hej, ty jsi tu pilot - to mi řekni ty. Nejste všichni vy piloti dychtiví k tomu, abyste se dostali do vesmíru a sami ho prozkoumali?</value>
   </entry>
   <entry>
     <key>ScientistAnswer24Doesn’t matter if you go to the moon or Brittle Hollow or just the other side of Timber Hearth. It’s all the same to me. Get out there and have fun!</key>
-    <value>你是去月球還是碎空星，還是去木爐星的另一側都無所謂。\\n對我來說都一樣。快去吧，好好玩兒！</value>
+    <value>Nezáleží mi na tom, jestli poletíš na měsíc nebo na Křehkodutou planetu nebo jen na druhou stranu Domopece. Je mi to fuk. Hlavně si to užij!</value>
   </entry>
   <entry>
     <key>ScientistAnswer24Just don’t hurt the ship, that’s all I ask.</key>
-    <value>我只求你不要弄壞宇宙飛船。</value>
+    <value>Jen nezraň svou loď. Jen na tom mi záleží.</value>
   </entry>
   <entry>
     <key>ScientistAnswer25If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</key>
-    <value>如果你還要向誰告別，最好現在就說。\\n我想你的朋友Hal正在天文台等著看你離開。</value>
+    <value>Pokud se chceš s kýmkoliv rozloučit, udělal bych to teď. Myslím, že tvůj kamarád Hal na tebe čeká před observatoří.</value>
   </entry>
   <entry>
     <key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-    <value>哦，Gossan也說，如果你想在太空進行宇宙飛船維修訓練，\\n他把零重力室給準備好了。我不是要求你&lt;i&gt;必須&lt;/i&gt;這麽做，\\n但是，呃，這樣你可以幫我擺脫Gossan的糾纏。</value>
+    <value>A Gossan říká, že mají připravenou nulkovou komoru, pokud si chceš vyzkoušet opravy lodi ve vesmíru. Neříkám, že &lt;i&gt;musíš&lt;/i&gt;, ale aspoň by mě Gossan přestal otravovat.</value>
   </entry>
   <entry>
     <key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
-    <value>Hornfels有發射密碼。和往常一樣，他應該在天文台。\\n我開始覺得他在那兒住下了。</value>
+    <value>Hornfels má spouštěcí kódy. Měl by být v observatoři, jako obvykle. Začínám si myslet, že tam žije.</value>
   </entry>
   <entry>
     <key>ScientistAnswer22Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</key>
-    <value>太好了！嘿，你可能會喜歡這個，我把多余的氧氣瓶改裝成了\\n額外的燃燒室！</value>
+    <value>Hej, tohle by ti mohlo udělat radost - přebudoval jsem záložní kyslíkovou bombu, aby se dala použít jako spalovací komora navíc!</value>
   </entry>
   <entry>
     <key>SlateScientistAnswer22What does that do?</key>
-    <value>這有什麽用？</value>
+    <value>K čemu to je?</value>
   </entry>
   <entry>
     <key>SlateScientistAnswer22Is that... safe?</key>
-    <value>這樣……安全嗎？</value>
+    <value>Je to... bezpečné?</value>
   </entry>
   <entry>
     <key>ScientistAnswer221Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. \\nIsn’t that &lt;i&gt;great&lt;/i&gt;?</key>
-    <value>嗯，這還只是我的設想，不過基本來說，這就像是在常規的\\n二級推進器上再綁個更大的火箭。簡直&lt;i&gt;棒極了&lt;/i&gt;，不是嗎？</value>
+    <value>Je to všechno velmi novokoncepční, ale v zásadě je to jako vzít normální druhofázovou nosnou raketu a přidělat k ní větši raketu. \\nNení to &lt;i&gt;super&lt;/i&gt;?</value>
   </entry>
   <entry>
     <key>ScientistAnswer222Probably!</key>
-    <value>大概吧！</value>
+    <value>Pravděpodobně!</value>
   </entry>
   <entry>
     <key>ScientistAnswer23Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</key>
-    <value>哦，十分安全。當然要是把你的飛行錯誤算進去，那就只有四分。\\n無意冒犯。</value>
+    <value>Je dokonalá, deset z deseti. Ledaže počítáš vliv pilotní chyby, v kterémžto případě je to asi tak čtyři z deseti.\\nBez urážky.</value>
   </entry>
   <entry>
     <key>Scientist3Oh, hold up, you’re going to want to get the launch codes from the observatory first.</key>
-    <value>哦，先等等，你要先去天文台拿發射密碼。</value>
+    <value>Počkej, budeš nejdřív potřebovat spouštěcí kódy z observatoře.</value>
   </entry>
   <entry>
     <key>SlateScientist3I already got them from the observatory, remember?</key>
-    <value>我已經在天文台拿到密碼了，記得嗎？</value>
+    <value>Už jsem je z observatoře dostal, vzpomínáš?</value>
   </entry>
   <entry>
     <key>SlateScientist3How did I get back here? Didn’t I already lift off?</key>
-    <value>我是怎麽回到這里的？我不是已經升空了嗎？</value>
+    <value>Jak jsem se dostal zpět? Nevzlétnul jsem už?</value>
   </entry>
   <entry>
     <key>SlateScientist3Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</key>
-    <value>等等，我是&lt;i&gt;死&lt;/i&gt;了，還是……？</value>
+    <value>Moment, já jsem teď... &lt;i&gt;umřel&lt;/i&gt;, nebo...?</value>
   </entry>
   <entry>
     <key>ScientistAnswer31Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</key>
-    <value>嗯。我一定是吸入了比想象中更多的煙氣。那東西的&lt;i&gt;效力十分強勁&lt;/i&gt;。</value>
+    <value>Hm. Asi ses nadýchal více výparů, než jsem si uvědomil. Jsou vysloveně &lt;i&gt;opojné&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>ScientistAnswer31Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!</key>
-    <value>嗯，如果你已經拿到了密碼，我就不攔著你了。祝你好遠，\\n照顧好宇宙飛船！</value>
+    <value>Nuže, máš-li ty kódy, tak tě nebudu zdržovat. Hodně štěstí, a postarej se dobře o svoji loď!</value>
   </entry>
   <entry>
     <key>ScientistAnswer32Trust me -- with the modifications I’ve made to those rockets? There’s no way I would have missed that.</key>
-    <value>相信我，按照我給這些火箭做的調整。我是絕不會錯過的。</value>
+    <value>Věř mi - s modifikacemi, které jsem na těch raketách provedl? Nic takového by mi neuniklo.</value>
   </entry>
   <entry>
     <key>ScientistAnswer32I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</key>
-    <value>我不會問你是怎麽弄到發射密碼的，不過既然你拿到了，就趕緊出發吧！\\n我想看看新駕駛艙在升空時是不是還會掉下來。</value>
+    <value>Nebudu se ptát, jak jsi získal spouštěcí kódy, ale jelikož je máš, tak s tím pohněme! Chci vidět, zda nový kokpit při vzletu zůstane spojený se zbytkem lodi.</value>
   </entry>
   <entry>
     <key>ScientistAnswer33Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</key>
-    <value>呃，&lt;i&gt;不是&lt;/i&gt;……？你是做了什麽噩夢嗎？</value>
+    <value>Um，&lt;i&gt;ne&lt;/i&gt;...? Možná jsi měl špatný sen?</value>
   </entry>
   <entry>
     <key>ScientistAnswer33I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</key>
-    <value>我不會問你是怎麽弄到密碼的。趕緊發射吧，免得Hornfels用醫療方面的\\n借口禁止你升空。我想看看新駕駛艙在升空時是不是還會掉下來。</value>
+    <value>Nebudu se ptát, jak jsi získal ty kódy, takže si pospěšme, než Hornfelse napadne, že by tě měl ze zdravotních důvodů stáhnout. Chci vidět, zda nový kokpit při vzletu zůstane spojený se zbytkem lodi.</value>
   </entry>
   <entry>
     <key>Scientist4Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</key>
-    <value>看起來你已經做好了起飛的準備！發射時心情激奮是挺好，\\n不過我等不及要回去繼續新宇宙飛船方面的工作了。\\n我們正在修理這艘宇宙飛船，它的自動駕駛回避系統出了問題！</value>
+    <value>Vypadá to, že jsi připravený na start! Vzletové vzrušení je sice zábavné, ale už se těším, až se budu moci vrátit k práci na nové lodi.\\nPro tu loď snad implementujeme i vyhýbací systém pro autopilota!</value>
   </entry>
   <entry>
     <key>Scientist4...Uh, sorry.</key>
-    <value>……呃，抱歉。</value>
+    <value>...Um, promiň.</value>
   </entry>
   <entry>
     <key>Scientist5There’s our pilot! Ready to get this beauty off the ground?</key>
-    <value>這不是我們的飛行員嘛！準備好駕駛這位大美人上天了嗎？</value>
+    <value>Tu je náš pilot! Připraven na to, abys s touhle krasotinkou vzlétnul?</value>
   </entry>
   <entry>
     <key>Scientist5Hey, what can I do you for?</key>
-    <value>嘿，我能幫你什麽忙嗎？</value>
+    <value>Hej, co pro tebe můžu udělat?</value>
   </entry>
   <entry>
     <key>SlateScientist5You know the ship is a death-trap, right?</key>
-    <value>你知道這宇宙飛船很危險，是吧？</value>
+    <value>Chápeš, že tahle loď je jistá smrt, že?</value>
   </entry>
   <entry>
     <key>SlateScientist5You’re lucky I’m in a time loop, because otherwise I’d be super dead.</key>
-    <value>你該慶幸我還在時間循環里，要不我就死得透透的了。</value>
+    <value>Máš štěstí, že jsem v časové smyčce, protože jinak bych byl extrémně mrtvý.</value>
   </entry>
   <entry>
     <key>SlateScientist5The autopilot flew my ship directly into the sun!</key>
-    <value>自動駕駛系統直接把我的宇宙飛船往太陽開！</value>
+    <value>Autopilot navedl mou loď přímo do slunce!</value>
   </entry>
   <entry>
     <key>SlateScientist5I keep getting killed by ghost matter.</key>
-    <value>我一直被幽靈物質殺死。</value>
+    <value>Neustále mě zabíjí antihmota.</value>
   </entry>
   <entry>
     <key>SlateScientist5The sun is going to go supernova, by the way.</key>
-    <value>順帶一提，太陽馬上就要超新星化了。</value>
+    <value>Z našeho slunce se mimochodem za chvilku stane supernova.</value>
   </entry>
   <entry>
     <key>SlateScientist5Did you know it’s just an endless void outside our solar system?</key>
-    <value>你知道咱們太陽系之外只有無窮無盡的虛空嗎？</value>
+    <value>Věděl jsi, že mimo náš sluneční systém je jen nekonečná nicota?</value>
   </entry>
   <entry>
     <key>ScientistAnswer35Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</key>
-    <value>嗯是啊，是很危險，但它的功能也&lt;i&gt;十分強勁&lt;/i&gt;。\\n啥，你&lt;i&gt;現在&lt;/i&gt;突然關心起安全問題了？</value>
+    <value>Jasně, je to jistá smrt, ale je to opravdu &lt;i&gt;výkonná&lt;/i&gt; jistá smrt. Co, najednou se začneš starat o &lt;i&gt;bezpečnost&lt;/i&gt;?</value>
   </entry>
   <entry>
     <key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
-    <value>你應該慶幸我沒有以醫療問題禁止你升空，因為我都不知道你在說什麽。</value>
+    <value>Máš štěstí, že tě nestáhnu ze zdravotních důvodů, protože nemám sebemenší tušení, o čem to mluvíš.</value>
   </entry>
   <entry>
     <key>ScientistAnswer37Had an exciting dream, did you?</key>
-    <value>你這夢做得挺刺激吧？</value>
+    <value>Zase jsi měl vzrušující sen, co?</value>
   </entry>
   <entry>
     <key>ScientistAnswer37It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</key>
-    <value>要是開著自動駕駛，也不是&lt;i&gt;不可能&lt;/i&gt;一頭紮進太陽里去，\\n不過我也不會故意把你往那兒帶的啦。</value>
+    <value>Není úplně &lt;i&gt;nemožné&lt;/i&gt;, aby tě autopilot navedl příliš blízko ke slunci, ale rozhodně do něj nenarazí účelně.</value>
   </entry>
   <entry>
     <key>ScientistAnswer37Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine.</key>
-    <value>只要確保開啟自動駕駛時太陽不在你和目的地之間，就不會有問題。</value>
+    <value>Předtím, než zapneš autopilota, se ujisti, že slunce není mezi tebou a tvým cílem, a budeš v pořádku.</value>
   </entry>
   <entry>
     <key>ScientistAnswer38Use your scout to detect it, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!</key>
-    <value>要是用你的偵查兵探測一下也就不會出問題了啊，可你就是不用！你個蠢貨！\\n你以為我做這東西只是為了讓你拍幾張樹的小照片嗎？這玩意可是多用途的！</value>
+    <value>Použij svou sondu k tomu, abys jej detekoval, blbečku! Myslíš, že jsem ji vytvořil jen proto, abys mohl zachytit pěkné obrázky stromů? Dá se použít mnoha způsoby!</value>
   </entry>
   <entry>
     <key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
-    <value>你&lt;i&gt;知道&lt;/i&gt;這東西還可以用來照明，是嗎？\\n群星在上，求你了，說你知道。</value>
+    <value>&lt;i&gt;Víš&lt;/i&gt;, že se dá použít jako zdroj světla, žejo? U všech hvězd, prosím, řekni mi, žes tohle věděl.</value>
   </entry>
   <entry>
     <key>ScientistAnswer39Oh yeah, the observatory has an exhibit about that.</key>
-    <value>可不是嘛，天文台還以這個為主題辦了個展覽呢。</value>
+    <value>Nojo, observatoř má o tomhle výstavku.</value>
   </entry>
   <entry>
     <key>ScientistAnswer39Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</key>
-    <value>這話我只跟你說啊，其實有些細節我就是靠漂亮話蒙混過去的，\\n天文學到底還是Hornfels的領域。</value>
+    <value>Jen tak mezi námi, přeskočil jsem přes většinu detailů. Astrofyzika je spíš Hornfelsova záliba.</value>
   </entry>
   <entry>
     <key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
-    <value>至於我嘛，我就是來造火箭、吃棉花糖的。</value>
+    <value>Já jsem tu hlavně pro raketovou vědu a marshmallowsy.</value>
   </entry>
   <entry>
     <key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
-    <value>知道啊，假如我是你，我就探索探索咱們太陽系得了。雖然我也很不樂意承認，\\n可我還是得說，咱們的宇宙飛船根本沒法飛往深空。</value>
+    <value>Jo, držel bych se prozkoumávání našeho slunečního systému, kdybych byl tebou. Přestože to nechci přiznat, naše lodě nejsou vhodné na průzkum hlubokého vesmíru.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_IntroHey, hold up a sec!</key>
-    <value>喂，先別急！</value>
+    <value>Hej, počkej vteřinku!</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_IntroYeah yeah yeah, I already know about the launch codes.</key>
-    <value>好了好了，發射密碼我早就知道了。</value>
+    <value>Jo jo jo, už mám spouštěcí kódy.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</key>
-    <value>什麽？我不是想說這個，我想告訴你，\\n你可以在宇宙飛船日志里為之前去過的地方設置目的地標記。</value>
+    <value>Cože? Ne, já jsem ti chtěl říci o tom, že můžeš použít lodní deník k tomu, abys nastavil cíl pro místa, která jsi už předtím navštívil.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-    <value>要我說，這項功能相當了不起，好用得要死。雖然有可能短路燃油調節器，\\n導致宇宙飛船爆炸，不過那風險低得很，除了Gossan，沒人會擔心這事。</value>
+    <value>Je to brilantní funkce, nemůžu si ji vynachválit. Extrémně užitečná. A riziko, že vyzkratuje regulátor pohonu a vznítí celou loď je tak minimální, že jen Gossan by se o něj staral.</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
-    <value>等等，這功能要怎麽使用？</value>
+    <value>Počkej, takže jak jí použiju?</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1Use the ship log to mark a location I want to revisit. Got it.</key>
-    <value>用宇宙飛船日志給我想再去一趟的地方做標記。明白了。</value>
+    <value>Použít lodní deník k tomu, abych označil místo, kam se chci vrátit. Chápu.</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1How minimal are we talking?</key>
-    <value>風險到底有多低？</value>
+    <value>O jak minimálním riziku tu mluvíme?</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1What about locations I haven’t visited before?</key>
-    <value>如果是我還沒去過的地方呢？</value>
+    <value>Co místa, která jsem nikdy nenavštívil?</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1aWhen you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</key>
-    <value>你先登上宇宙飛船，打開日志，然後就可以做標記了。\\n想標記哪里都可以，只要你至少去過一次那地方就行。</value>
+    <value>Až budeš na lodi, otevři její deník k místu, jehož lokaci chceš označit. Může to být kdekoliv, pokud jsi tam byl alespoň jednou.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1aHop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</key>
-    <value>只要你坐進駕駛員座椅里，宇宙飛船就會在你的顯示屏上投射一個目的地標記。\\n就是這麽簡單。</value>
+    <value>Skoč do pilotního křesla, a loď na tvé obrazovce označí tvůj cíl. Je to velmi jednoduché.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1bMinimal! Stars above, you worry too much. If anything’s going to kill you, it’s the autopilot.</key>
-    <value>要多低有多低！群星在上，你擔心過頭了。真有什麽東西會要你的命，\\n那也是自動駕駛。</value>
+    <value>Minimální! U hvězd nad námi, moc se bojíš. Jestli tě něco zabije, bude to tvůj autopilot.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1cOh, sure, I’ll just magically have the system know all the possible locations you plan to discover throughout the entire solar system, shall I?</key>
-    <value>噢，那樣的話，我會讓系統把整個太陽系里所有你可能想探索的地方都列出來，\\n就像變魔術一樣，你覺著呢？</value>
+    <value>Jasně, jen systému kouzelně nakrmím všechna možná místa, která plánuješ objevit napříč sluneční soustavou.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</key>
-    <value>“哇，Slate！你怎麽能想出這麽多天才的點子？”\\n噢，我只是人盡其才，物盡其用罷了。你過獎了。</value>
+    <value>"Wow, Slate! Kde na všechny tyhle neskutečné nápady přicházíš?" Jen se snažím o to nejlepší, co s sebou mohu udělat. Jsi moc laskav.</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2Slate, you are a technological marvel.</key>
-    <value>Slate，你真是科技奇才。</value>
+    <value>Slate, jsi technologický mág.</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2This was extraordinarily convenient timing. Thanks!</key>
-    <value>幸好你剛才告訴了我這些事。多謝！</value>
+    <value>Tohle byl skvěle načasovaný tip. Díky!</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_2That’s not what my voice sounds like.</key>
-    <value>我可不會那樣說話的。</value>
+    <value>Můj hlas takhle nezní.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2a...Whoa, say that again! Please? That sounds so good when it’s not sarcastic.</key>
-    <value>……哇，那拜托你再說一遍！如果你是真心誇我，不是挖苦我，\\n那我可太開心了。</value>
+    <value>...Wow, řekni to znovu! Prosím? Zní to tak dobře, když to není sarkasmus.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2bSure thing, hatchling!</key>
-    <value>小意思，年輕人！</value>
+    <value>Jasňačka, mládě!</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_2cEveryone’s a critic.</key>
-    <value>所有人的話里都帶著刺。</value>
+    <value>To se to kritizuje.</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_3Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</key>
-    <value>總而言之，我要享受我的營火，你要去拿你的發射密碼。要善用標記功能，\\n在外面玩得開心。不過要記住，可別閉著眼睛直接沖著標記飛，\\n結果一頭撞進太陽里，好嗎？</value>
+    <value>Každopádně, já tu mám oheň, kterého si chci řádně užít, a ty musíš dojít pro spouštěcí kódy. Pořádně protřep označování lokací, až budeš tam nahoře. Jen, um, nevleť přímo do slunce, až budeš označenou lokaci následovat, oukej?</value>
   </entry>
   <entry>
     <key>
 		    WARNING: Increased solar activity detected.
 		</key>
     <value>
-		    警告：檢測到太陽活動增加。
+		    VAROVÁNÍ: Detekována zvýšená sluneční aktivita.
 		</value>
   </entry>
   <entry>
     <key>
-		    WARNING: Increased volcanic activity detected.
+		    VAROVÁNÍ: Detekována zvýšená sopečná aktivita.
 		</key>
     <value>
 		    警告：檢測到火山活動增加。
@@ -3018,7 +3018,7 @@
 		    VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
     <value>
-		    結論：該地現已不宜居。建議撤離。
+		    VERDIKT: Lokace je nyní nehostinná. Evakuace doporučena.
 		</value>
   </entry>
   <entry>
@@ -3026,7 +3026,7 @@
 		    ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
     <value>
-		    錯誤：無法確定軌道。未探測到任何符合已知宇宙之眼標準的信號。
+		    CHYBA: Není možné určit oběžnou dráhu. Nedetekujeme žádný signál, který by vyhovoval jakýmkoliv známým kritériím pro Oko vesmíru.
 		</value>
   </entry>
   <entry>
@@ -3035,119 +3035,119 @@
   </entry>
   <entry>
     <key>Feldspar1Whoa!</key>
-    <value>哇哦！</value>
+    <value>Wow!</value>
   </entry>
   <entry>
     <key>Feldspar1Where’d you come from? No one’s come here in... well, ever, actually. That makes you the second Hearthian to ever reach Dark Bramble — after me, of course. Well done!</key>
-    <value>你是從哪兒來的？已經有很久……事實上，從來沒有人能夠來到這里。\\n你是有史以來第二個抵達黑棘星的哈斯人。當然，我是第一個。幹得好！</value>
+    <value>Odkud ses tu vzal? Nikdo sem nepřišel už... no, vlastně nikdy. To znamená, že jsi druhý Domopecan, co se kdy dostal na Temnotrn - po mně, samozřejmě. Blahopřeji!</value>
   </entry>
   <entry>
     <key>Feldspar1...Say, it’s you! They made you an astronaut? And you haven’t blown yourself up yet, good for you!</key>
-    <value>……對了，原來是你！他們讓你當上宇航員了？\\n而且你也沒有把自己給炸飛，真是好樣的！</value>
+    <value>...To jsi ty! Udělali z tebe astronauta? A zatím jsi nevybuchnul, dobrá práce!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-    <value>讓我猜猜：是因為安康魚嗎？</value>
+    <value>Nech mě hádat: ďas?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Feldspar! You’re alive!</key>
-    <value>Feldspar！你還活著！</value>
+    <value>Feldspare! Jsi naživu!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1We all thought you were dead for sure.</key>
-    <value>我們都以為你肯定已經死了。</value>
+    <value>Všichni jsme si mysleli, že jsi určitě mrtvý!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Have you been here in Dark Bramble all this time?</key>
-    <value>一直以來你都在黑棘星嗎？</value>
+    <value>Byl jsi celou tu dobu tady na Temnotrnu?</value>
   </entry>
   <entry>
     <key>Feldspar2...You never were the brightest hatchling, were you.</key>
-    <value>……你這個年輕人還真是不夠聰明。</value>
+    <value>...Tys nikdy nebyl nejchytřejší mládě, co?</value>
   </entry>
   <entry>
     <key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-    <value>是的，沒錯，我還活著。自從我的宇宙飛船，呃，你知道，\\n摔得一塌糊塗以來，&lt;Pause&gt;我都在這里紮營。</value>
+    <value>Ano, jsem naživu. Tábořím tu od té doby, co moje loď, um, víš. Nabourala. &lt;Pauza&gt; Zuřivě.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar2Wait, what?</key>
-    <value>等等，什麽？</value>
+    <value>Počkej, cože?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar2You &lt;i&gt;crashed&lt;/i&gt;? But you’re the greatest pilot in Hearthian history!</key>
-    <value>你的宇宙飛船&lt;i&gt;墜毀&lt;/i&gt;了？可你是有史以來最了不起的哈斯飛行員啊！</value>
+    <value>Tys &lt;i&gt;naboural&lt;/i&gt;? Ale ty jsi přece ten nejlepší pilot v domopecské historii!</value>
   </entry>
   <entry>
     <key>Feldspar2aI haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm.</key>
-    <value>我已經很久沒有在文明社會里生活了，\\n所以我就先假定你的話里並沒有冷嘲熱諷的意思。</value>
+    <value>Už jsem dlouho nežil ve zdvořilé společnosti, takže si dovolím předpokládat, že tohle nebyl sarkasmus.</value>
   </entry>
   <entry>
     <key>Feldspar3What! Me, killed off by thorny, extradimensional plants that entirely violate the laws of space and time, and a couple of giant predatory fish with gaping maws and enormously sharp fangs? Not in this lifetime, little buddy.</key>
-    <value>什麽！我，會被渾身荊棘、完全無視時空定律的異次元植物，\\n還有幾條長著鋒利無比的尖牙和血盆大口的巨型食肉魚類弄死？\\n這輩子都別想，小家夥。</value>
+    <value>Cože! Já, zabit trnitými, mimodimenzionálními rostlinami, které porušují všechny zákony časoprostoru, a několika predátorskými rybami s obrovskými chřtány a extrémně ostrými tesáky? Ne v tomhle životě, kamarádíčku!</value>
   </entry>
   <entry>
     <key>Feldspar3I set up camp here when my ship got stuck here in Dark Bramble. Been living off the land ever since.</key>
-    <value>我的宇宙飛船被困在了黑棘星。從那以後我就在這里紮營，\\n有什麽吃什麽。</value>
+    <value>Založil jsem tu tábor potom, co moje loď uvízla tady na Temnotrnu. Od té doby žiju z místních zásob.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar3So what exactly happened to your ship?</key>
-    <value>那麽你的宇宙飛船到底出了什麽事？</value>
+    <value>Co přesně se stalo tvé lodi?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar3“Got stuck”? But aren’t you the greatest pilot in Hearthian history?</key>
-    <value>“被困在這里”？可你不是有史以來最了不起的哈斯飛行員嗎？</value>
+    <value>“Uvíznul”? Nejsi snad nejlepší pilot v domopecské historii?</value>
   </entry>
   <entry>
     <key>Feldspar4Depends on how long “all this time” is. I’ve been here a while, I guess. Ever since I crashed my ship into — that is, ever since my daring escape from the jaws of an anglerfish!</key>
-    <value>這就要看“一直以來”是多久了。自從我的宇宙飛船墜毀在……我是說，\\n自從我從一條安康魚的血盆大口里大膽逃生以來！\\n我想我確實在這里待了不少時間。</value>
+    <value>Záleží na tom, co myslíš slovy "celou dobu". Byl jsem tu už drahnou chvíli. Od té doby, co jsem naboural svou lodí do - tím myslím, od té doby, co jsem hrdinně unikl a chřtánu ďasa!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar4Tell me more about your flying prowess!</key>
-    <value>再跟我說說你的飛行技藝！</value>
+    <value>Řekni mi víc o svých pilotních superschopnostech!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar4You crashed your ship, didn’t you.</key>
-    <value>你把宇宙飛船給墜毀了，是不是。</value>
+    <value>Naboural jsi se svou lodí, že?</value>
   </entry>
   <entry>
     <key>Feldspar4aHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-    <value>哈哈，你真是擡舉我！&lt;Pause&gt;我&lt;i&gt;喜歡&lt;/i&gt;！</value>
+    <value>Haha, ty mi lichotíš! &lt;Pauza&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
-    <value>&lt;i&gt;很顯然&lt;/i&gt;，就是這樣。沒必要這麽失禮吧。</value>
+    <value>&lt;i&gt;Evidentně&lt;/i&gt; ano. Nemusíš být drzý.</value>
   </entry>
   <entry>
     <key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
-    <value>……嗯，就像我說的，我的宇宙飛船墜毀了。砰啪！受到撞擊的時候，\\n我的宇宙飛船開始發出各種聲音，好像它要從內部四分五裂一樣。\\n於是我想，這可不妙啊。當然，在電子系統開始瘋狂爆出火花之前，\\n我勉強逃了出來。</value>
+    <value>...nu, jak jsem říkal, havaroval jsem. Bum! Po dopadu má loď začala znít, jakože se rozpadne, a tak si říkám, no, to není ideální. A samozřejmě, jakmile jsem se z ní dostal, všechny elektrické systémy začly zkratovat jak šílené.</value>
   </entry>
   <entry>
     <key>Feldspar5It’s either move fast or die unpleasantly, so I had to put a little distance between me and my poor, fried ship.</key>
-    <value>假如動作不快一點的話，我非慘死在里面不可。\\n那條可憐的宇宙飛船渾身冒火，我只能和它保持一點距離。</value>
+    <value>Musím se buď rychle odtamtud dostat nebo ošklivě zemřít, takže jsem se musel dostat o něco dále od mé ubohé, usmažené lodi.</value>
   </entry>
   <entry>
     <key>Feldspar5I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</key>
-    <value>我在最初墜毀的地方附近紮了營。後來我發現了這副骨架。\\n這是一次了不起的發現，不利用起來那就太傻了。</value>
+    <value>Nejdřív jsem tábořil blízko u místa havárie. Tuhle kostru jsem našel až později - super nález, bylo by hloupé jej nevyužít.</value>
   </entry>
   <entry>
     <key>Feldspar5So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</key>
-    <value>所以我把家當都搬到了這里，種下了緊急樹種。一直過到了現在！</value>
+    <value>Takže jsem přesunul svůj tábor sem a zasadil jsem tu svoje nouzové stromy. A od té doby jsem tady!</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5...Wow.</key>
-    <value>……哇。</value>
+    <value>...Wow.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5I can’t believe you didn’t die.</key>
-    <value>真不敢相信你居然沒死。</value>
+    <value>Stěží uvěřit, že jsi neumřel.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5I can’t believe you destroyed your ship.</key>
-    <value>真不敢相信你毀了自己的宇宙飛船。</value>
+    <value>Stěží uvěřit, žes zničil vlastní loď.</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar5No wonder there are so many stories about you back home!</key>
-    <value>難怪老家有那麽多關於你的故事！</value>
+    <value>Není divu, že o tobě doma vypráví tolik historek!</value>
   </entry>
   <entry>
     <key>Feldspar5aMy story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</key>
@@ -9707,11 +9707,11 @@
   </entry>
   <entry>
     <key>WhatAreYouDoingWell, what are any of us doing here, really?</key>
-    <value>真是的，我們到底來這兒幹嘛呢？</value>
+    <value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>……算了，我開玩笑的。我和你一樣，來這里探索我們的太陽系。</value>
+    <value>...ne, dělám si legraci. Jsem tu, abych prozkoumal naši sluneční soustavu, stejně jako ty.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoingBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
@@ -9719,7 +9719,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoingI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>我是說，這里通常又平靜又安寧。有時會有氣旋經過，\\n它會把我的天堂小島拎出水面。那時候就不太安寧了。</value>
+    <value>Tím myslím, že je tu obvykle tiše a mírumilovně. Občas se přežene cyklón a zvedne celý můj ostrovní ráj do vesmíru. Potom: méně mírumilovně.</value>
   </entry>
   <entry>
     <key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
@@ -9823,11 +9823,11 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FWell, what are any of us doing here, really?</key>
-    <value>真是的，我們到底來這兒幹嘛呢？</value>
+    <value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2F...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>……算了，我開玩笑的。我和你一樣，來這里探索我們的太陽系。</value>
+    <value>...ne, dělám si legraci. Jsem tu, abych prozkoumal naši sluneční soustavu, stejně jako ty.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
@@ -9835,7 +9835,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>我是說，這里通常又平靜又安寧。有時會有氣旋經過，\\n它會把我的天堂小島拎出水面。那時候就不太安寧了。</value>
+    <value>Tím myslím, že je tu obvykle tiše a mírumilovně. Občas se přežene cyklón a zvedne celý můj ostrovní ráj do vesmíru. Potom: méně mírumilovně.。</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
@@ -9931,11 +9931,11 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TWell, what are any of us doing here, really?</key>
-    <value>真是的，我們到底來這兒幹嘛呢？</value>
+    <value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
-    <value>……算了，我開玩笑的。我和你一樣，來這里探索我們的太陽系。</value>
+    <value>...ne, dělám si legraci. Jsem tu, abych prozkoumal naši sluneční soustavu, stejně jako ty.</value>
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
@@ -9943,7 +9943,7 @@
   </entry>
   <entry>
     <key>WhatAreYouDoing_2TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
-    <value>我是說，這里通常又平靜又安寧。有時會有氣旋經過，\\n它會把我的天堂小島拎出水面。那時候就不太安寧了。</value>
+    <value>Tím myslím, že je tu obvykle tiše a mírumilovně. Občas se přežene cyklón a zvedne celý můj ostrovní ráj do vesmíru. Potom: méně mírumilovně.</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
