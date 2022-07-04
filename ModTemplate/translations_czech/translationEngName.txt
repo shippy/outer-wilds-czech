@@ -3151,535 +3151,535 @@
   </entry>
   <entry>
     <key>Feldspar5aMy story goes like this. I’d just finished exploring the core of Giant’s Deep, and I wanted to try my hand at Dark Bramble, seeing as no one had ever been before.</key>
-    <value>我的故事是這樣的。我剛剛完成了對深巨星核心的探險，\\n想要去從來沒有人去過的黑棘星試試運氣。</value>
+    <value>Můj příběh začal takhle. Zrovna jsem dokončil průzkum jádra Obří hlubiny, a chtěl jsem zkusit Temnotrn, vzhledem k tomu, že nikdo tu předtím nikdy nebyl.</value>
   </entry>
   <entry>
     <key>Feldspar5aGetting around in Dark Bramble was easy, mind you. Once you’ve dodged one massive, interdimensional vine bristling with thorns, you’ve dodged ’em all.</key>
-    <value>我得提醒你，在黑棘星上活動並不難。只要你能躲過碩大無比，\\n荊棘滿布的跨次元藤蔓，那就什麽事情都不會有。</value>
+    <value>Létání v Temnotrnu bylo jednoduché, mimochodem. Jakmile ses vyhnul jednomu obrovskému, interdimenzionálnímu úponku plnému trnů, vyhnul ses jim všem.</value>
   </entry>
   <entry>
     <key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>可過了一會兒，我就碰見了這條巨型安康魚。你看見過沒有？渾身疙瘩，\\n大得要命。而這一條是我所見過的最大的一條。我使出幾招絕活，也沒什麽大不了的，就是想要把那玩意給甩掉。我全速前行，\\n此時那條魚咬住了我，把我甩在了藤蔓上，接著……</value>
+    <value>Ale po chvíli jsem vrazil do obrovského ďasa - viděl jsi je? Obrovské nestvůrné věci, a tohle byla ta největší, kterou jsem kdy viděl. Zkusil jsem pár manévrů, abych ji setřásl - nic zvlášť heroického. Letím na plný plyn, když do mě ta ryba vrazí, ťukne mě do úponku, a...</value>
   </entry>
   <entry>
     <key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
-    <value>哦，這個故事可精彩了。我剛剛完成了對深巨星核心的探險，\\n想要尋找一個新的挑戰。既然從來沒有人去過黑棘星內部，\\n那麽我想，嘿，這個地方值得去瞧瞧。</value>
+    <value>Oh, tohle je dobrá historka. Zrovna jsem dokončil průzkum jádra Obří hlubiny a potřeboval jsem novou výzvu, a nikdo z nás nikdy nebyl uvnitř Temnotrnu, takže si říkám, hej, pojďme to zkusit.</value>
   </entry>
   <entry>
     <key>Feldspar5bI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-    <value>我在天上飛了一會兒，躲開那奇形怪狀、碩大無比、荊棘滿布的跨次元\\n藤蔓。接著我就碰見了這條巨型安康魚。那是我所見過的最大的一條。</value>
+    <value>Plul jsem chvíli na volnoběh, občas jsem se vyhnul občasnému masivnímu, interdimenzionálnímu úponku plném trnů, když jsem narazil na obrovského ďasa, toho největšího, co jsem kdy viděl.</value>
   </entry>
   <entry>
     <key>Feldspar5bI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>我使出幾招絕活，也沒什麽大不了的，就是想要把那玩意給甩掉。\\n我全速前行，此時那條魚咬住了我，把我甩在了藤蔓上，接著……</value>
+    <value>Zkusil jsem pár manévrů, abych ji setřásl - nic zvlášť heroického. Letím na plný plyn, když do mě ta ryba vrazí, ťukne mě do úponku, a...</value>
   </entry>
   <entry>
     <key>Feldspar5cHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-    <value>哈哈，你真是擡舉我！&lt;Pause&gt;我&lt;i&gt;喜歡&lt;/i&gt;！</value>
+    <value>Haha, ty mi lichotíš! &lt;Pauza&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>Feldspar5cI came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</key>
-    <value>我到黑棘星來，想要找點刺激的事情幹。我剛剛完成了對深巨星核心\\n的探險，想要尋找一個新的挑戰。既然除了黑棘星的冰原之外，\\n從來沒有人進一步深入過，所以我想說，嘿，不如去瞧瞧吧。</value>
+    <value>Přišel jsem na Temnotrn pro vzrušení. Zrovna jsem dokončil průzkum jádra Obří hlubiny a potřeboval jsem novou výzvu, a nikdo z nás nikdy nedoletěl dál než na ledovatý povrch Temnotrnu, takže jsem si říkal, hej, proč to nezkusit.</value>
   </entry>
   <entry>
     <key>Feldspar5cI’ve been cruising around for a while, dodging the odd massive, interdimensional vine bristling with thorns, when I run into this huge anglerfish, the biggest I’ve ever seen.</key>
-    <value>我在天上飛了一會兒，躲開那奇形怪狀、碩大無比、荊棘滿布的跨次元\\n藤蔓。接著我就碰見了這條巨型安康魚。那是我所見過的最大的一條。</value>
+    <value>Plul jsem chvíli na volnoběh, občas jsem se vyhnul občasnému masivnímu, interdimenzionálnímu úponku plném trnů, když jsem narazil na obrovského ďasa, toho největšího, co jsem kdy viděl.</value>
   </entry>
   <entry>
     <key>Feldspar5cI pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>我使出幾招絕活，也沒什麽大不了的，就是想要把那玩意給甩掉。\\n我全速前行，此時那條魚咬住了我，把我甩在了藤蔓上，接著……</value>
+    <value>Zkusil jsem pár manévrů, abych ji setřásl - nic zvlášť heroického. Letím na plný plyn, když do mě ta ryba vrazí, ťukne mě do úponku, a...</value>
   </entry>
   <entry>
     <key>Feldspar6aYeah, pretty much.</key>
-    <value>是啊，就是這個意思。</value>
+    <value>Jo, přesně tak.</value>
   </entry>
   <entry>
     <key>Feldspar6bYou know, in the old days, I used to think the same thing every time I came back from a flight in one piece.</key>
-    <value>你也知道，在以前，每次我從天上平安歸來的時候也是這麽想的。</value>
+    <value>Víš, kdysi dávno jsem si myslíval totéž pokaždé, když jsem se z letu vrátil v jednom kuse.</value>
   </entry>
   <entry>
     <key>Feldspar6bThese days, I’m used to it.</key>
-    <value>現在嘛，我已經習慣了。</value>
+    <value>Teď už jsem si na to zvyknul.</value>
   </entry>
   <entry>
     <key>Feldspar6cEasy for you to say. Your ship probably has all kinds of fancy modifications and upgrades, like “working retro boosters” and “non-flammable construction materials.”</key>
-    <value>你說得倒是容易。你的宇宙飛船上多半全是花哨的改良和更新，\\n像什麽“功能正常的反向推進器”，還有什麽“不可燃建築材料”。</value>
+    <value>Tobě se to řekne. Tvoje loď má pravděpodobně všemožná vylepšení, jako třeba "funkční zpětné rakety" a "nevznětlivé stavební materiály".</value>
   </entry>
   <entry>
     <key>Feldspar6dHeh. You’re not half-bad yourself, making it here in one piece.</key>
-    <value>哼。你能夠活著來到這里，也算不賴了。</value>
+    <value>Ha. Ty taky nejsi úplně špatný - dostal ses sem v jednom kuse!</value>
   </entry>
   <entry>
     <key>Feldspar7Anyway, that’s how it all went down, hatchling!</key>
-    <value>總之，情況就是這樣，年輕人！</value>
+    <value>Na každý pád, tak se to všechno událo, mládě!</value>
   </entry>
   <entry>
     <key>Feldspar7Story’s over, but feel free to stay and enjoy the fire a while.</key>
-    <value>故事說完了，不過你願意的話，完全可以留下來烤一會兒火。</value>
+    <value>Historka je u konce, ale klidně tu zůstaň a chvíli si užij ohně.</value>
   </entry>
   <entry>
     <key>Feldspar7Or don’t. Fire’s not going anywhere.</key>
-    <value>不願意也沒關系。反正火堆就在這兒。</value>
+    <value>Nebo taky ne. Oheň tu bude i později.</value>
   </entry>
   <entry>
     <key>FeldsparSkipHeh, you got it in one. Kind of hard not to, once you’ve seen one of those fish up close and personal-like.</key>
-    <value>哼，一點兒都沒錯。等你親自近距離接觸過那種魚就知道了。</value>
+    <value>Ha, uhodnul jsi to správně na první pokus. Těžké neuhodnout, pokud jsi viděl jednu z těch ryb nablízko.</value>
   </entry>
   <entry>
     <key>FeldsparSkipWell, take a load off and refill your oxygen tank, hatchling! There’s plenty of fire to go around.</key>
-    <value>總之呢，年輕人，坐下來歇一歇，把你的氧氣瓶充滿！\\n想要烤火的話別客氣。</value>
+    <value>Nuže, uvolni se a doplň si kyslík, mládě! Dost místa u ohně pro každého.</value>
   </entry>
   <entry>
     <key>FeldsparPrimaryMenuAnything else you wanted?</key>
-    <value>你還有什麽別的事嗎？</value>
+    <value>Chtěl jsi se mnou probrat něco dalšího?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuI found something!</key>
-    <value>我找到了點東西！</value>
+    <value>Něco jsem našel!</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhere should I explore here?</key>
-    <value>我應該去這里的什麽地方進行探索？</value>
+    <value>Co bych tu měl prozkoumat?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuYou reached the core of Giant’s Deep? How’d you do it?</key>
-    <value>你抵達了深巨星的核心？你是怎麽做到的？</value>
+    <value>Ty ses dostal do jádra Obří hlubiny? Jak se ti to povedlo?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhere’s your ship?</key>
-    <value>你的宇宙飛船在哪兒？</value>
+    <value>Kde je tvoje loď?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuWhat happened to this anglerfish?</key>
-    <value>這條安康魚出了什麽事？</value>
+    <value>Co se stalo tomuto ďasovi?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuShouldn’t I tell ground control to come get you?</key>
-    <value>我要不要叫地面管控來接你？</value>
+    <value>Měl bych říci centrále, aby tě vyzvedla?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparPrimaryMenuNah, I’m good.</key>
-    <value>不用了，沒事。</value>
+    <value>Díky, ale ne.</value>
   </entry>
   <entry>
     <key>FeldsparSecondaryHey, hatchling, pull up a marshmallow stick!</key>
-    <value>嘿，年輕人，來一根烤棉花糖吧！</value>
+    <value>Ahoj mládě, tumáš proutek na marshmellow!</value>
   </entry>
   <entry>
     <key>FeldsparSecondaryCome to hear tales of my heroic exploits, have you?</key>
-    <value>是不是想聽聽我的英雄事跡？</value>
+    <value>Přišel sis poslechnout mé další heroické history?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryI found something!</key>
-    <value>我找到了點東西！</value>
+    <value>Něco jsem našel!</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhere should I explore here?</key>
-    <value>我應該去這里的什麽地方進行探索？</value>
+    <value>Co bych tu měl prozkoumat?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryYou reached the core of Giant’s Deep? How’d you do it?</key>
-    <value>你抵達了深巨星的核心？你是怎麽做到的？</value>
+    <value>Ty ses dostal do jádra Obří hlubiny? Jak se ti to povedlo?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhere’s your ship?</key>
-    <value>你的宇宙飛船在哪兒？</value>
+    <value>Kde je tvoje loď?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryWhat happened to this anglerfish?</key>
-    <value>這條安康魚出了什麽事？</value>
+    <value>Co se stalo tomuto ďasovi?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryShouldn’t I tell ground control to come get you?</key>
-    <value>我要不要叫地面管控來接你？</value>
+    <value>Měl bych říci centrále, aby tě vyzvedla?</value>
   </entry>
   <entry>
     <key>FeldsparFeldsparSecondaryNah, I’m good.</key>
-    <value>不用了，沒事。</value>
+    <value>Díky, ale ne.</value>
   </entry>
   <entry>
     <key>FeldsparFishOh, the skeleton? It was like this when I got here.</key>
-    <value>哦，這副骨架啊？我來的時候就這樣了。</value>
+    <value>Myslíš tu kostru? Byla už tady, když jsem sem přišel.</value>
   </entry>
   <entry>
     <key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-    <value>根據我的推斷，這條安康魚一定是咬到了藤蔓，吞下了一粒種子。\\n然後種子在那條可憐的魚肚子里發芽長大……最後就變成了這樣。</value>
+    <value>Myslím, že tenhle ďas pravděpodobně uzobával na úponku a snědl semínko, a to semínko potom rostlo a rostlo v žaludku té ubohé ryby, dokud se nestalo... tohle.</value>
   </entry>
   <entry>
     <key>FeldsparFishGross, huh?</key>
-    <value>很惡心吧？</value>
+    <value>Nechutný, co?</value>
   </entry>
   <entry>
     <key>FeldsparFishThis skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</key>
-    <value>能發現這副骨架可真是不錯。可以把魚給趕走。瞧，\\n它們是一群具有領地意識的動物，會彼此避讓。所以我才在這里紮營。</value>
+    <value>Tahle kostra byla dobrý nález. Odpuzuje ostatní ryby. Jsou teritoriální, víš? Takže se většinou vyhýbají jedna druhé. Proto jsem tu založil tábor.</value>
   </entry>
   <entry>
     <key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-    <value>深巨星的核心是嗎？啊，那一回可真是了不得。</value>
+    <value>Jádro Obří hlubiny, co? Á, to byla divoká jízda.</value>
   </entry>
   <entry>
     <key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
-    <value>不過既然你提起來了，我猜你還沒有自己下去過吧？\\n要是我把去那里的辦法告訴你，這不就等於是在作弊嗎。</value>
+    <value>Ale vzhledem k tomu, že se ptáš, předpokládám, že ses tam sám nedostal, co? Když ti řeknu, jak, přijde mi to trošku jako podvádění.</value>
   </entry>
   <entry>
     <key>FeldsparCoreHm...</key>
-    <value>嗯……</value>
+    <value>Hm...</value>
   </entry>
   <entry>
     <key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-    <value>……說一件&lt;i&gt;完全不相幹&lt;/i&gt;的事情，\\n我的宇宙飛船墜毀在了一條巨大無比的空心藤蔓里。&lt;Pause=3&gt;沒錯。</value>
+    <value>...&lt;i&gt;úplně nesouvisející&lt;/i&gt; poznámka, narazil jsem do velké, duté větvě. &lt;Pauza=3&gt; Jo.</value>
   </entry>
   <entry>
     <key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
-    <value>如果我是你的話，我就去看看它到底通往哪兒。</value>
+    <value>Kdybych byl tebou, prošel bych si ji a podíval bych se, kde končí.</value>
   </entry>
   <entry>
     <key>FeldsparCoreYou’ll want to go to the tail end of this anglerfish skeleton here and look for a flickering light in the fog — that’ll be my old ship. Path starts there.</key>
-    <value>你可以去安康魚骨架的尾巴那兒，在迷霧里尋找閃爍的光亮。\\n我從前的宇宙飛船就在那里。那就是道路的起點。</value>
+    <value>Budeš se chtít projít k ocasu této kostry a vyhlédnout blikavé světélko v mlze - to bude moje bývalá loď. Stezka začíná tam.</value>
   </entry>
   <entry>
     <key>FeldsparGoodIf you change your mind, you know where to find me!</key>
-    <value>如果你改主意了，你知道去哪兒找我！</value>
+    <value>Pokud změníš názor, víš, kde mě najít!</value>
   </entry>
   <entry>
     <key>FeldsparRescueWell... yeah, sure, whenever you have the time.</key>
-    <value>嗯……是的，當然，只要你有空，隨時都行。</value>
+    <value>Mno... jasně, oukej, jestli budeš mít čas.</value>
   </entry>
   <entry>
     <key>FeldsparRescueFrankly, I kinda like it out here. Quiet, peaceful...ish.</key>
-    <value>老實說，我有點喜歡這里了。安靜，沒人打擾。</value>
+    <value>Upřímně, celkem se mi tu líbí. Je to ticho, mír (v zásadě), ...</value>
   </entry>
   <entry>
     <key>FeldsparRescueYou’re a little young to understand, but it’s a lot of pressure, being the best that ever was. Been nice to have a break.</key>
-    <value>你年紀太小，沒法理解。不過作為最出色的飛行員，\\n身上擔負的壓力是很大的。能夠喘口氣是件好事。</value>
+    <value>Jsi trošku mladý na to, abys pochopil, ale je to hodně tlaku, být tím nejlepším, kdo kdy byl. Docela si užívám tuhle přestávku.</value>
   </entry>
   <entry>
     <key>FeldsparExploreThat’s the spirit!</key>
-    <value>這才像話嘛！</value>
+    <value>To je správný přístup!</value>
   </entry>
   <entry>
     <key>FeldsparExploreAnywhere’s good, but you should know that space is weird here. Intensely.</key>
-    <value>不管哪兒都行，不過你得明白，這里的空間有點奇怪。相當奇怪。</value>
+    <value>Kdekoliv bude fungovat, ale měl bys vědět, že prostor je tu divný. Velmi intenzivně divný.</value>
   </entry>
   <entry>
     <key>FeldsparExploreEver tried throwing your scout into one of these weird seeds? See there, with the little opening? It’s just big enough to launch one through.</key>
-    <value>&lt;i&gt;寬廣&lt;/i&gt;得多。</value>
+    <value>Zkusil jsi někdy vypálit svou sondu do jednoho z těch divných semínek? Třeba támhle to, s tím malým otvorem? Ten otvor je velký tak akorát, aby se do něj vešla ta sonda.</value>
   </entry>
   <entry>
     <key>FeldsparExploreYour scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger.</key>
-    <value>試過把探測器放進這些奇怪的種子里嗎？你看，上面有個小開口，\\n剛好夠一個探測器通過。</value>
+    <value>Tvůj sondový ovladač ti bude tvrdit, že tvá sonda je na dvou místech zároveň, ale já se nemyslím, že to je... úplně špatně, přesněji řečeno, protože časoprostor tady nefunguje správně. To semínko ti přijde malé, že? Ale uvnitř je větší.</value>
   </entry>
   <entry>
     <key>FeldsparExplore&lt;i&gt;Much&lt;/i&gt; bigger.</key>
-    <value>你的探測跟蹤器會告訴你，探測器同時出現在了兩個地方。\\n但我並不覺得這個結果……有什麽不對。因為這里的空間不同尋常。\\n這顆種子看起來很小吧？不過里面的空間可大多了。</value>
+    <value>&lt;i&gt;Mnohem&lt;/i&gt; větší.</value>
   </entry>
   <entry>
     <key>FeldsparExploreI’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds.</key>
-    <value>我花了不少時間來琢磨這件事，我的推論是，隨著你通過每個球體，\\n黑棘星內部的空間也會不斷延展。所以那些種子里面才會比外面大。</value>
+    <value>Měl jsem hodně času o tom přemýšlet, a moje teorie je, že prostor uvnitř Temnotrnu se rozpíná pokaždé, když vletíš do semenné koule. Proto je uvnitř těch semínek větší.</value>
   </entry>
   <entry>
     <key>FeldsparExploreWell, that’s my theory. Keep that in mind while you’re exploring Dark Bramble and maybe you won’t get lost inside forever.</key>
-    <value>當然，我是這麽想的。探索黑棘星的時候記住這一點，\\n說不定你就不會永遠地在里面迷路了。</value>
+    <value>Každopádně, to je moje teorie. Pamatuj na ni, zatímco prozkoumáváš Temnotrn, a možná se tu navždycky neztratíš.</value>
   </entry>
   <entry>
     <key>FeldsparExploreGood luck!</key>
-    <value>祝你好運！</value>
+    <value>Hodně štěstí!</value>
   </entry>
   <entry>
     <key>FeldsparShipwreckNot far from here, as a matter of fact! If you go straight past the tail of this anglerfish skeleton here, you’ll see a flickering light in the fog.</key>
-    <value>事實上離這里並不遠！如果你徑直走過這條安康魚骨架的尾巴，\\n就會在霧里看到一處閃爍的光亮。</value>
+    <value>Nedaleko odsud! Pokud půjdeš přímo za ocas této ďasí kostry, uvidíš blikající světélko v mlze.</value>
   </entry>
   <entry>
     <key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
-    <value>沿著光亮走，你就能找到我從前的宇宙飛船。\\n&lt;Pause&gt;至少，是宇宙飛船的殘骸。</value>
+    <value>Následuj jej, a nalezneš mou starou loď. &lt;Pauza&gt; Nebo alespoň to, co z ní zbylo.</value>
   </entry>
   <entry>
     <key>FoundSomethingMenuLay it on me, hatchling!</key>
-    <value>說說看，年輕人！</value>
+    <value>Jen povídej, mládě!</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI went to the core of Giant’s Deep.</key>
-    <value>我到深巨星的核心過了。</value>
+    <value>Dostal jsem se do jádra Obří hlubiny.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found the frozen jellyfish near your ship.</key>
-    <value>我在你的宇宙飛船附近找到了凍住的水母。</value>
+    <value>Našel jsem zmrzlou medúzu poblíž tvé lodi.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found the Anglerfish nest.</key>
-    <value>我找到了安康魚的巢穴。</value>
+    <value>Našel jsem ďasí doupě.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found a Dark Bramble seed on Timber Hearth.</key>
-    <value>我在木爐星上找到了一顆黑棘星的種子。</value>
+    <value>Našel jsem semínko Temnotrnu na Domopeci.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found Nomai writing saying anglerfish are blind.</key>
-    <value>我發現了挪麥人的文字，上面說安康魚看不見東西。</value>
+    <value>Našel jsem spisy Nomai, které tvrdí, že ďasi jsou slepí.</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuI found a Nomai shuttle and flew it!</key>
-    <value>我發現了一艘挪麥人的航天飛機，還開著它飛上了天！</value>
+    <value>Našel jsem loď Nomai a pilotoval jsem ji!</value>
   </entry>
   <entry>
     <key>FeldsparFoundSomethingMenuActually, nevermind.</key>
-    <value>其實，沒什麽事。</value>
+    <value>Vlastně nic.</value>
   </entry>
   <entry>
     <key>FoundSomething1So you figured out the ol’ tornado trick, did you? Good work!</key>
-    <value>這麽說你也知道龍卷風的訣竅了是嗎？幹得好！</value>
+    <value>Přišel jsi na trik s tornádem, co? Dobrá práce!</value>
   </entry>
   <entry>
     <key>FoundSomething1I found that bit out by accident, but let’s keep that between you and me, hey? Hornfels would have my very handsome head if they knew I’d been riding the cyclones again.</key>
-    <value>我是無意間才發現的，不過這事咱們就別告訴其他人了，行嗎？\\n要是讓Hornfels知道我又搭氣旋的便車，他非把我的皮給扒了不可。</value>
+    <value>Na to jsem přišel omylem, ale to zůstane mezi námi, oukej? Hornfels by mi useknul mou krásnou hlavu, kdyby věděl, že jsem zase začal jezdit na cyklónech.</value>
   </entry>
   <entry>
     <key>FoundSomething1“The ship is fragile! It can break! You can’t subject it to extreme conditions!” Not like I was flying the thing into the sun, now, was I?</key>
-    <value>“宇宙飛船很脆弱！會被吹散的！你不能把它在暴露在極端環境下！”\\n我又不是要乘著它飛到太陽里去，對吧？</value>
+    <value>"Loď je křehká! Může se rozbít! Nemůžeš ji podrobovat extrémním podmínkám!" Nepilotoval jsem ji do slunce, tak co si stěžuje?</value>
   </entry>
   <entry>
     <key>FoundSomething1And the jellyfish, you figured those out, too? Hatchling, I tell you what, you’ve done real well for yourself! You’re a fine astronaut, sure, but you might just become a pilot yet!</key>
-    <value>還有水母的事情，你也知道了？我得說，年輕人，你幹得可真是出色！\\n你是個不錯的宇航員，沒錯，但說不定你是個當飛行員的料！</value>
+    <value>A na medúzy jsi přišel taky, jo? Mládě, povídám ti, moc hezky ses nám vyvinulo! Jsi dobrý astronaut, ale možná z tebe nakonec ještě uděláme pilota!</value>
   </entry>
   <entry>
     <key>FoundSomething2Ha! So the old thing still there, is it? That’s where I first camped out after the crash, you know. It was pretty cozy inside!</key>
-    <value>哈！那玩意兒還在是嗎？墜毀後我的第一個營地就設在那里。\\n里面可舒服了！</value>
+    <value>Ha! Takže ta stará věc tam pořád ještě je? Tam jsem tábořil hned po havárii. Bylo tam pěkně útulno!</value>
   </entry>
   <entry>
     <key>FoundSomething2It does lack the structural integrity and indomitable spirit of a camp made in the shelter of the very bones of the species that tried to eat you, I suppose.</key>
-    <value>從結構上來說，它確實不是很完整。並且我想，\\n在一個想要把你吃掉的物種的骨架子里尋求庇護，算不上有骨氣。</value>
+    <value>Schází mu ale strukturální integrita a nezdolný duch tábora vybudovaného v kostech té samé rasy, která se tě pokusila sníst.</value>
   </entry>
   <entry>
     <key>FoundSomething2Still. Very cozy.</key>
-    <value>不過，里面還是很舒服的。</value>
+    <value>I tak. Velmi útulno.</value>
   </entry>
   <entry>
     <key>FoundSomething3So that’s where the blasted things come from, is it? Stars above, if I still had a working ship, I’d be sorely tempted to go show ’em what’s what!</key>
-    <value>原來那些該死的東西就是從那兒冒出來的？群星在上，\\n要是我還有一艘能用的宇宙飛船，我非得去教訓教訓它們不可！</value>
+    <value>Tak odtamtud ty proklaté věci pocházejí, jo? Jako že jsou hvězdy nade mnou, kdybych měl funkční loď, velmi by mě lákalo tam doletět a ukázat jim, zač je toho loket!</value>
   </entry>
   <entry>
     <key>FoundSomething3&lt;color=grey&gt;Sigh...&lt;/color&gt;</key>
-    <value>&lt;color=grey&gt;唉……&lt;/color&gt;</value>
+    <value>&lt;color=grey&gt;Vzdechnutí……&lt;/color&gt;</value>
   </entry>
   <entry>
     <key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
-    <value>不過說真的，也許還是別惹它們為好。\\n找安康魚的麻煩可不是什麽省心的事。</value>
+    <value>Asi je nejlepší je nechat na pokoji. Provokovat ďasy za to nestojí.</value>
   </entry>
   <entry>
     <key>FoundSomething4...That’s bad business, hatchling.</key>
-    <value>……那可不是鬧著玩的，年輕人。</value>
+    <value>...to je hodně špatné, mládě.</value>
   </entry>
   <entry>
     <key>FoundSomething4As Chert will tell you if you so much as glance in Dark Bramble’s direction, there used to be a fifth planet where the Bramble is now.</key>
-    <value>如果是Chert的話，他會告訴你，只要往黑棘星的方向看一眼，\\n你就會發現那里曾經存在著第五顆行星。</value>
+    <value>Jak ti Chert řekne kdykoliv, kdy jen pohlédneš směrem na Temnotrn, na jeho místě tu bývala pátá planeta.</value>
   </entry>
   <entry>
     <key>FoundSomething4This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space.</key>
-    <value>這種可怕的植物就生長在那顆行星的中央，它不停地長啊長，\\n直到整個行星被扯成了碎片，散落在太空里。</value>
+    <value>Tahle ďábelská rostlina se objevila v jejím jádru a začala růst, a rostla, a rostla, dokud nerozlomila celou planetu a nerozorášila její zbytky napříč vesmírem.</value>
   </entry>
   <entry>
     <key>FoundSomething4If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless &lt;i&gt;seed&lt;/i&gt;.</key>
-    <value>如果不趕緊把你找到的種子給處理掉，我想到時候木爐星也會落得同樣的\\n下場。這麽說吧，我們哈斯人身經百戰，可不能栽在一文不值的&lt;i&gt;種子&lt;/i&gt;\\n手里。</value>
+    <value>Pokud to semínko nevytáhneme velmi rychle, obávám se, že Domopec čeká ten samý osud. A řeknu ti, my Domopecané jsme překonali příliš mnoho překážek na to, aby nás oddělalo nějaké bezcenné &lt;i&gt;semínko&lt;/i&gt;.</value>
   </entry>
   <entry>
     <key>FoundSomething5A-&lt;i&gt;ha&lt;/i&gt;! So the blasted things &lt;i&gt;do&lt;/i&gt; have a weakness!</key>
-    <value>啊&lt;i&gt;哈&lt;/i&gt;！這麽說那些該死的家夥&lt;i&gt;也有&lt;/i&gt;弱點！</value>
+    <value>-&lt;i&gt;ha&lt;/i&gt;! Takže ty zatracené věci &lt;i&gt;mají&lt;/i&gt; nějakou slabost!</value>
   </entry>
   <entry>
     <key>FoundSomething5Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it.</key>
-    <value>說明我用來對付它們的那個能飛多快就多快的法子還有點欠缺。</value>
+    <value>Což znamená, že mému přístup k nim - leť-co-nejrychleji - asi lze leccos vytknout.</value>
   </entry>
   <entry>
     <key>FoundSomething5Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</key>
-    <value>啊，好吧，至少它們沒把我吃掉。只要人沒事就好。對吧，年輕人？</value>
+    <value>Mno, alespoň mě nesnědli. Konec dobrý, všechno dobré, co, mládě?</value>
   </entry>
   <entry>
     <key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
-    <value>你開的是挪麥人的航天飛機？真的假的！它怎麽樣？飛起來什麽感覺？</value>
+    <value>Tys letěl lodí Nomai? Nepovídej! Jaké to bylo? Jak dobře se ovládala?</value>
   </entry>
   <entry>
     <key>FoundSomething7Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop.</key>
-    <value>倒不是說我想自己去開一開，年輕人。也許等我回到木爐星，\\n第一件事就是要去看一看。</value>
+    <value>Musím říci, že bych si to rád taky zkusil, mládě. Jakmile se vrátím do Domopece, možná to bude muset být moje další zastávka.</value>
   </entry>
   <entry>
     <key>FoundSomething7A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</key>
-    <value>雖然你還是一名初出茅廬的宇航員，卻已經有了職業探險家的本事！\\n看得出來，把Outer Wilds探險隊托付給你一定沒問題。\\n咱們的飛行計劃還真是&lt;i&gt;前途&lt;/i&gt;無量！</value>
+    <value>Zbrusu nový astronaut, a už jseš profesionální dobrodruh! Divočinné výpravy (Outer Wilds Ventures) jsou s tebou v dobrých rukou. Náš vesmírný program se vyvíjí &lt;i&gt;skvěle&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>FoundSomething6Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</key>
-    <value>沒什麽想要和我分享的了？聽上去你最好還是趕緊開始進行探險吧！</value>
+    <value>Nemáš, co se mnou sdílet? To zní, jako že bys měl vylétnout zpět a objevit nějaké nové věci!</value>
   </entry>
   <entry>
     <key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
-    <value>盡管我已經查看了至少上千次，無線電塔還是沒有打印出圖像。嗯，\\n這就是所謂的——觀察中的衛星從不傳輸數據！\\n&lt;size=20&gt;（哈哈，我這是給你開了個小玩笑呢，我的日志。）&lt;/size&gt;</value>
+    <value>Navzdory tomu, že jsem je zkontroloval alespoň tisíckrát, obrázky v rádiové věži STÁLE nejsou připravené na tisknutí. Inu, jak se říká - sledovaný satelit nikdy nezašle svá data! &lt;size=20&gt;(Haha, to je jen malý vtip pro tebe, deníčku. Nikdo nic takového neříká.)&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>SignSomeday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</key>
-    <value>總有一天，我得去研究研究為什麽時間總是在我正期待著什麽的時候過得\\n慢吞吞的。同時，我還求助了我們消磨時間的專家Gabbro，他是這麽建議的：</value>
+    <value>Jednoho dne budu muset studovat mechaniku toho, jak čas může zpomalit k syrupovatému hemžení, kdykoliv na něco čekám. Mezitím jsem požádal o pomoc Gabbra, našeho místního experta na zabíjení času, který doporučuje následující:</value>
   </entry>
   <entry>
     <key>SignGABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF\\n     1.     Light a nice, cozy campfire and get comfortable.\\n     2.     Gaze deeply into the serene warmth.\\n     3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.</key>
-    <value>Gabbro萬無一失打盹三步驟\\n     1.     點燃一處溫暖的篝火，讓自己覺得舒服。\\n     2.     深深地凝望這一處寧靜祥和的溫暖。\\n     3.     時間開始流逝，讓火焰催你入眠。</value>
+    <value>GABBROVY BLBUVZDORNÉ KROKY PRO USNUTÍ\\n     1.     Zapal hezký, příjemný oheň a dostaň se do pohody.\\n     2.     Zírej hluboce do jeho klidné vřelosti.\\n     3.     Nech čas, aby ti začal unikat, a nech plameny, aby tě uchlácholily do klidného spánku.</value>
   </entry>
   <entry>
     <key>Sign(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</key>
-    <value>（如果Gabbro知道我會寫日志，也許會認為我終於崩潰了。\\n但我可不允許一個故意把棉花糖烤焦的宇航員對我出言不遜。）</value>
+    <value>(Kdyby Gabbro věděl, že jsem si dělal poznámky, asi by si myslel, že jsem konečně zešílel, ale já odmítám drzost od astronauta, který úmyslně pálí svůj marshmallow.)</value>
   </entry>
   <entry>
     <key>SignCharting stars again out by the radio tower — they’re so bright out here! I only wish I were able to record them faster. Admittedly, I could use more patience. I get so engrossed in my work that sunrise becomes an unwelcome deadline, and daylight a grating slog.</key>
-    <value>我在無線電塔旁再次繪制星圖——從這里看過去，它們是如此閃亮！真希望\\n我能快點把它們記下來。不得不承認，我需要更多耐心。因為太沈浸於工作，\\n日出便成了停止工作的期限，令人不快，白天更是成為了煎熬。</value>
+    <value>Zakreslování hvězd u rádiové věže - jsou tu tak jasné! Přeji si jen, abych je mohl zakreslovat rychleji. Přiznám se, že by se mi hodilo více trpělivosti. Dokážu se do své práce tak zabrat, že východ slunce mi je nevítanou uzávěrkou, a den jen nudnou dřinou.</value>
   </entry>
   <entry>
     <key>Sign...Aaand we’re recording! Ahem. It’s been two days since the launch of the deep space satellite, and I’m about to view the first batch of photos. Let the record show that on this historic day, Outer Wilds Ventures has—</key>
-    <value>……正在記錄了！嗯嗯，自深空衛星發射已經兩天了，我們即將看到第一批照片。\\n這份記錄將展示，在這歷史性地一天，Outer Wilds探險隊已——</value>
+    <value>...a nahráváme! Ehm. Uplynuly dva dny od spuštění našeho hlubokovesmírného satelitu, a já již brzy uvidím první várku fotek. Nechť záznam ukáže, že v tento historický den jsme-</value>
   </entry>
   <entry>
     <key>SignAaaah! They’re printing, they’re printing! Here they come!</key>
-    <value>啊！在打印了，在打印了！照片來了！</value>
+    <value>Ááá! Už se tisknou, už se tisknou! A tady jsou!</value>
   </entry>
   <entry>
     <key>Sign…Stars above, will you look at that. There’s Brittle Hollow. And look, look there, that’s Hollow’s Lantern! And there’s Giant’s Deep, and — and the Quantum Moon! I’m speechless, completely speechless.</key>
-    <value>……群星之上，看看那里。那是碎空星。看，再看那，那是空心燈！還有深巨星，\\n還有——還有量子衛星！我已經說不出話來了，\\n完全不知道該說什麽了。</value>
+    <value>Hvězdy na nebi, podívejte se na to. To je Křehkodutá planeta. A podívej se támhle, to je její měsíc! A tady je Obří hlubina, a - a Kvantový měsíc! Nemám slov.</value>
   </entry>
   <entry>
     <key>SignEvery single astral body in our magnificent solar system, looking stunning from every angle in each of these three images. And in color, no less! Now this is art. I could stare at these photos forever. Doesn’t Timber Hearth look tiny from —</key>
-    <value>在這三張圖像上，我們壯麗的太陽系中的每一個天體看起來都如此驚人，\\n每一個角度都是。色彩也是舉世無雙！堪稱藝術品。我可以盯著這些照片\\n一直看下去。木爐星看起來是不是顯得太小——</value>
+    <value>Každé hvězdné těleso v naší krásné sluneční soustavě, skvěle vyfoceno z každého úhlu v každé z těchto tří fotografií. Barevných fotografií! Tohle je umění. Mohl bych na ně zírat na věčnost. Není z tohohle úhlu Domopec malilinkatá? A --</value>
   </entry>
   <entry>
     <key>SignHold on. What is &lt;i&gt;that&lt;/i&gt;?</key>
-    <value>等等，&lt;i&gt;那是&lt;/i&gt;什麽？</value>
+    <value>Moment. Co je &lt;i&gt;tohle&lt;/i&gt;?</value>
   </entry>
   <entry>
     <key>SignThat can’t be right. That’s… I mean, that’s not even possible. Am I interpreting this photo correctly? What’s even stranger is it doesn’t show up in either of the other photos. Just this one…</key>
-    <value>這不應該。這……我的意思是，這根本不可能。我對這張照片的解讀正確嗎？\\n更奇怪的是，它沒有出現在其他的照片里，只有這一張……</value>
+    <value>To nemůže být správně. To je... to je nemožné. Interpretuji tuto fotku správně? Ještě zvláštnější je to, že není vidět v žádné z dalších fotek, jen téhle...</value>
   </entry>
   <entry>
     <key>SignWell, there must have been an equipment malfunction, I suppose. Only sensible explanation for it. I’ll radio Gabbro and ask them to go examine the satellite’s lens for defects.</key>
-    <value>嗯，我猜測，一定是設備故障了。只有這個解釋才說得通。\\n我要致電Gabbro，讓Gabbro去檢查一下衛星的鏡頭有沒有毛病。</value>
+    <value>Mno, musí to asi být porucha vybavení. To je jediné rozumné vysvětlení. Požádám Gabbra, aby šel a podíval se, jak se nám satelitní objektiv rozbil.</value>
   </entry>
   <entry>
     <key>the Prisoner</key>
-    <value>幽禁者</value>
+    <value>Vězeň</value>
   </entry>
   <entry>
     <key>WaitingForOthersThis fire… what a warm and beautiful light it makes.</key>
-    <value>這火焰……多麽溫暖美麗啊。</value>
+    <value>Tento oheň... tak vřelé a krásné světlo vydává.</value>
   </entry>
   <entry>
     <key>WaitingForOthersGo, find the others. What comes next cannot be done alone.</key>
-    <value>去，找到其他人。接下來的事不是一個人能完成的。</value>
+    <value>Běž, najdi ostatní. To, co následuje, nemůžeme provést sami.</value>
   </entry>
   <entry>
     <key>ReadyToPlayI hadn’t dared to hope that anyone would hear the signal, for how briefly I set it free… Yet, here we are. Are you ready for the final step?</key>
-    <value>我從不敢奢望會有人能聽到信號，因為它是如此短暫……盡管如此，\\n我們相遇了。你準備好最後一步了嗎？</value>
+    <value>Neopovážil jsem si doufat, že kdokoli by slyšel tak krátce vypuštěný signál... Ale navzdory tomu jsme tu. Jsi připraven na poslední krok?</value>
   </entry>
   <entry>
     <key>the PrisonerReadyToPlayYes.</key>
-    <value>準備好了。</value>
+    <value>Ano.</value>
   </entry>
   <entry>
     <key>the PrisonerReadyToPlayNot yet.</key>
-    <value>還沒有。</value>
+    <value>Ještě ne.</value>
   </entry>
   <entry>
     <key>StartPlayingThen it’s time! Time to send our spark out into the darkness.</key>
-    <value>那麽就是現在！把我們的星火送入黑暗之中。</value>
+    <value>Tedy je čas! Čas vyslat naši jiskru do temnoty.</value>
   </entry>
   <entry>
     <key>NotYetI have awaited this moment for a long time. For so long. It is no trouble to wait a little longer.</key>
-    <value>我等這一刻已經等了很久，很久。再多等一會也無妨。</value>
+    <value>Čekal jsem na tento moment dlouho. Tak dlouho. Není mi nepříjemné čekat ještě o něco déle.</value>
   </entry>
   <entry>
     <key>Farewell...How beautiful. It’s different than I’d envisioned.</key>
-    <value>……太美了。和我想象中的有所不同。</value>
+    <value>Sbohem...Jak krásné. Je to velmi jiné než to, co jsem si představoval.</value>
   </entry>
   <entry>
     <key>FarewellWhatever happens next, I do not think it is to be feared.</key>
-    <value>無論接下來會發生什麽，我覺得都不會令人心生恐懼。</value>
+    <value>Ať se stane, co chce, nemyslím si, že je třeba se bát.</value>
   </entry>
   <entry>
     <key>WaitingForInvitationWhen my kind found the Eye and realized what it was capable of, they were terrified. It was too difficult a truth. Like a light too bright to look upon directly, it burned them.</key>
-    <value>當我的族人找到眼並意識到它的能力之後，他們害怕了。真相是如此\\n令人難以接受。就像一道無法直視的亮光灼傷了他們的眼睛。</value>
+    <value>Když můj kmen našel Oko a uvědomil si, čeho je schopné, vyděsili se. Byla to příliš náročná pravda. Spálila je - jako světlo, které září příliš jasně na to, aby jej přímý pohled snesl.</value>
   </entry>
   <entry>
     <key>WaitingForInvitationWhat they could not unlearn was hidden away in darkness — obfuscated, then lost. They did not want to see their story end.</key>
-    <value>他們能學會的只是躲入黑暗——迷惑自己，繼而迷失自我。\\n他們不想看到自己的終結。</value>
+    <value>To, co nemohli nevědět, alespoň skryli v temnotě - zatemněno, a potom ztraceno. Nechtěli vidět, že jejich příběh může skončit.</value>
   </entry>
   <entry>
     <key>WaitingForInvitationMy kind weren’t always like this. We weren’t always so afraid. I did what I could to set things right, yet I am still of my kind, and you know now what they did. I cannot promise our fear won’t stain your mind.</key>
-    <value>我的族人並不總是像這樣。我們並不總是如此膽怯。我盡我所能地糾正錯誤，\\n但我仍是族中一員，你現在已經知道了他們的所作所為。\\n我無法保證我們的恐懼不會在你的大腦留下印記。</value>
+    <value>Můj kmen nebyl vždy takový. Nebyli jsme vždy tak bázliví. Udělal jsem, co jsem mohl, abych věci napravil - ale jsem stále součástí svého kmene, a ty nyní víš, co provedli. Nemohu slíbit, že náš strach neposkvrní tvou mysl.</value>
   </entry>
   <entry>
     <key>WaitingForInvitationAnd so, a choice: Are you certain you want to remember me?</key>
-    <value>話已至此，該做選擇了：你確定要記住我嗎？</value>
+    <value>A tedy, volba: jsi si jist, že si mě chceš zapamatovat?</value>
   </entry>
   <entry>
     <key>the PrisonerWaitingForInvitationJoin us. Let’s see what happens.</key>
-    <value>加入我們。讓我們看看發生了什麽。</value>
+    <value>Přidej se k nám. Uvidíme, co se stane.</value>
   </entry>
   <entry>
     <key>the PrisonerWaitingForInvitationYour journey is over now. You did well.</key>
-    <value>你的旅途到此結束。你做的很好了。</value>
+    <value>Tvá pouť je nyní u konce. Kráčel jsi dobře.</value>
   </entry>
   <entry>
     <key>the PrisonerWaitingForInvitationI’m not ready to decide.</key>
-    <value>我還沒有想好。</value>
+    <value>Nejsem na toto rozhodnutí připraven.</value>
   </entry>
   <entry>
     <key>JoinUsI don’t want to repeat my kind’s mistakes. But if you’re willing to take the risk, then so am I.</key>
-    <value>我不想重蹈我的族人的覆轍。但如果你願意冒險一試，那麽我也可以。</value>
+    <value>Nechci opakovat chyby svého kmene. Ale pokud jsi ochoten toto riziko přijmout, tak já také.</value>
   </entry>
   <entry>
     <key>YourJourneyIsOverMy role in this ended long ago, and now I’ve learned my efforts weren’t in vain. Thank you for facing what was hidden in the dark.</key>
-    <value>我的職責早已結束，現在，我已經知道自己的努力沒有白費。\\n謝謝你選擇面對黑暗。</value>
+    <value>Má účast skončila již dávno, a nyní vím, že nebyla pro nic. Díky, žes čelil tomu, co bylo skryto v temnotě.</value>
   </entry>
   <entry>
     <key>NotReadyEvery decision is made in darkness. Only by making a choice can we learn whether it was right or not.</key>
-    <value>每一次的選擇都如摸石過河。只有做出選擇後才能知道它是對的還是錯的。</value>
+    <value>Každé rozhodnutí činíme v temnotě. Jen volba nám umožní poznat, zda bylo správné nebo ne.</value>
   </entry>
   <entry>
     <key>NotReadyI will wait until you are ready.</key>
-    <value>我會等你，直到你做好準備。</value>
+    <value>Budu čekat, dokud nebudeš připraven.</value>
   </entry>
   <entry>
     <key>Nomai1...</key>
-    <value>……</value>
+    <value>...</value>
   </entry>
   <entry>
     <key>the PrisonerNomai1Who are you?</key>
-    <value>你是誰？</value>
+    <value>Kdo jsi?</value>
   </entry>
   <entry>
     <key>the PrisonerNomai1Where are we?</key>
-    <value>我們在哪？</value>
+    <value>Kde jsme?</value>
   </entry>
   <entry>
     <key>Nomai2...</key>
-    <value>……</value>
+    <value>...</value>
   </entry>
   <entry>
     <key>IPNotFoundThe radio tower on Timber Hearth was built to receive transmissions from our deep space satellite, and housed some of the last-ever photos taken of the entire solar system.</key>
-    <value>木爐星的這座無線電塔的建立當初是為了接收我們的深空衛星傳來的信息，\\n並存儲著我們拍攝的最後一批整個太陽系的照片。</value>
+    <value>Rádiová věž na Domopeci byla postavena, aby přijímala vysílání od našeho hlubokovesmírného satelitu, a byly v ní vystaveny některé z posledních fotografií celé sluneční soustavy.</value>
   </entry>
   <entry>
     <key>IPNotFoundHornfels noticed a curious anomaly in one of the photos, but it ultimately went unexplained.</key>
-    <value>Hornfels注意到了一張照片中的一處奇怪的異象，但最終不了了之。</value>
+    <value>Hornfels si všimnul zajímavé anomálie v jedné z fotografií, ale ta nakonec nebyla nikdy vysvětlena.</value>
   </entry>
   <entry>
     <key>IPFoundThe radio tower on Timber Hearth was built to receive transmissions from our deep space satellite, and housed some of the last-ever photos taken of the entire solar system.</key>
-    <value>木爐星的這座無線電塔的建立當初是為了接收我們的深空衛星傳來的信息，\\n並存儲著我們拍攝的最後一批整個太陽系的照片。</value>
+    <value>Rádiová věž na Domopeci byla postavena, aby přijímala vysílání od našeho hlubokovesmírného satelitu, a byly v ní vystaveny některé z posledních fotografií celé sluneční soustavy.</value>
   </entry>
   <entry>
     <key>IPFoundOne of these photos revealed the existence of an invisible ring world inhabited by a species whose presence in our solar system predated even the Nomai.</key>
-    <value>其中一張照片揭示了一個肉眼看不見的環形世界，\\n那里居住著一個太陽系中比挪麥存在時間還要早的種族。</value>
+    <value>Jedna z těchto fotografií odhalila existenci neviditelného kruhového světa obývaného druhem, který byl přítomný v našem planetárním systému i před Nomai samotnými.</value>
   </entry>
   <entry>
     <key>IPDreamLibrariesFoundThis species traveled from a nearby star system in search of the Eye of the universe, but, horrified by what they discovered, decided to block the Eye’s signal so that no one else would ever find it.</key>
-    <value>這個種族從一個附近星系穿行而來，尋找宇宙之眼。然而，因為恐懼於自己\\n發現的真相，他們決定屏蔽眼的信號，這樣就沒有其他人能找到它了。</value>
+    <value>Tento druh cestoval z blízké sluneční soustavy za Okem vesmíru, ale - zděšeni jeho podstatou - se rozhodl zablokovat signál Oka tak, aby ho nikdo jiný nikdy nenašel.</value>
   </entry>
   <entry>
     <key>IPFinishedOne individual, however, rebelled against the decision, and was able to briefly release the Eye’s signal back into space before being caught and imprisoned in solitude for this betrayal.</key>
-    <value>但是，他們中的一個個體反抗了那個決定，短暫地將眼的信號放入了宇宙，\\n隨後便被抓住並因此遭到孤身囚禁。</value>
+    <value>Jeden jednotlivec se ale proti tomuto rozhodnutí vzbouřil, a na krátkou chvíli uvolnil signál Oka zpět do vesmíru, než ho zbytek jeho kmene chytil a uvěznil v samovazbě za jeho zradu.</value>
   </entry>
   <entry>
     <key>CASSAVA: Conoy, Daz and I were lifting &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; components into orbit for assembly, and one somehow sank down down &lt;i&gt;beneath&lt;/i&gt; the current.</key>
