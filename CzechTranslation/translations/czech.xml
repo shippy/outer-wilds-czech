@@ -264,7 +264,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			ZAČÁTEK LETOVÉHO ZÁZNAMU: &lt;color=orange&gt;Záchranný modul 1&lt;/color&gt;.&lt;color=orange&gt;Plavidlo&lt;/color&gt; bylo smrtelně zraněno. Nouzová sekvence aktivována. Očekáváme únik z &lt;color=orange&gt;Plavidla&lt;/color&gt;.
+			ZAČÁTEK LETOVÉHO ZÁZNAMU: &lt;color=orange&gt;Záchranný člun 1&lt;/color&gt;. &lt;color=orange&gt;Plavidlo&lt;/color&gt; bylo smrtelně zraněno. Nouzová sekvence aktivována. Očekáváme únik z &lt;color=orange&gt;Plavidla&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -272,7 +272,7 @@
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;.
 		</key>
 		<value>
-			Odpalujeme &lt;color=orange&gt;záchranný modul 3&lt;/color&gt;... Odpalujeme &lt;color=orange&gt;záchranný modul 2&lt;/color&gt;... Nyní odpalujeme &lt;color=orange&gt;záchranný modul 1&lt;/color&gt;.
+			Odpalujeme &lt;color=orange&gt;záchranný člun 3&lt;/color&gt;... Odpalujeme &lt;color=orange&gt;záchranný člun 2&lt;/color&gt;... Nyní odpalujeme &lt;color=orange&gt;záchranný člun 1&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -280,7 +280,7 @@
 			ALERT. Collision imminent. Preparing for impact.
 		</key>
 		<value>
-			POZOR. Bezprostřední kolize. Příprava na dopad.
+			POPLACH. Bezprostřední kolize. Příprava na dopad.
 		</value>
 	</entry>
 	<entry>
@@ -3466,7 +3466,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3&lt;color=grey&gt;Sigh...&lt;/color&gt;</key>
-		<value>&lt;color=grey&gt;Vzdechnutí……&lt;/color&gt;</value>
+		<value>&lt;color=grey&gt;Vzdechnutí...&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3Probably best to leave ’em alone, though, really. More trouble than it’s worth to mess with anglerfish.</key>
@@ -5137,7 +5137,7 @@
 			If the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us, why won’t it reveal itself? Why is it so difficult to locate it?
 		</key>
 		<value>
-			如果&lt;color=lightblue&gt;眼&lt;/color&gt;在呼喚我們, 那它為什麽不現身? 為什麽要找到它那麽困難? 
+			Pokud nás &lt;color=lightblue&gt;Oko&lt;/color&gt; zavolalo, proč se nám nezjeví? Proč je tak složité jej nalézt? 
 		</value>
 	</entry>
 	<entry>
@@ -5145,7 +5145,7 @@
 			Did something happen to it?
 		</key>
 		<value>
-			它出了什麽事嗎? 
+			Stalo se mu něco? 
 		</value>
 	</entry>
 	<entry>
@@ -5153,7 +5153,7 @@
 			Did the signal stop? Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; no longer desire to be found?
 		</key>
 		<value>
-			信號中斷了嗎? &lt;color=lightblue&gt;眼&lt;/color&gt;是不是又不想被我們找到了? 
+			Přestal jeho signál vysílat? Nepřeje si už &lt;color=lightblue&gt;Oko&lt;/color&gt;, aby jej kdokoliv nalezl? 
 		</value>
 	</entry>
 	<entry>
@@ -5161,7 +5161,7 @@
 			Perhaps this isn’t the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s choice. The &lt;color=lightblue&gt;Eye&lt;/color&gt; may not be able to communicate with us more than it already has.
 		</key>
 		<value>
-			也許&lt;color=lightblue&gt;眼&lt;/color&gt;別無選擇. &lt;color=lightblue&gt;眼&lt;/color&gt;可能只有通過這種方式才能和我們溝通. 
+			Možná to není na &lt;color=lightblue&gt;Oku&lt;/color&gt;. &lt;color=lightblue&gt;Oko&lt;/color&gt; s námi možná nemůže komunikovat do větší míry, než už komunikovalo. 
 		</value>
 	</entry>
 	<entry>
@@ -5169,7 +5169,7 @@
 			Did the &lt;color=lightblue&gt;Eye&lt;/color&gt; deliberately call out to us by sending the signal, or did we hear the signal by coincidence?
 		</key>
 		<value>
-			是&lt;color=lightblue&gt;眼&lt;/color&gt;故意發出信號呼喚我們, 還是說我們意外收到了那個信號? 
+			Zavolalo nás &lt;color=lightblue&gt;Oko&lt;/color&gt; úmyslně tím, že poslalo svůj signál, nebo jsme uslyšeli jeho signál náhodou? 
 		</value>
 	</entry>
 	<entry>
@@ -5177,7 +5177,7 @@
 			We could be seeing meaning where there is none. Suppose the signal was produced incidentally.
 		</key>
 		<value>
-			我們可以從中推測出其意義所在. 估計信號是無意間產生的. 
+			Možná hledáme smysl tam, kde žádný není. Řekněme, že signál byl vytvořen náhodně. 
 		</value>
 	</entry>
 	<entry>
@@ -5185,7 +5185,7 @@
 			Does that mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is any less important, though?
 		</key>
 		<value>
-			可難道這樣一來, &lt;color=lightblue&gt;眼&lt;/color&gt;就不重要了嗎? 
+			Znamená to ale, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je méně důležité, než jsme si mysleli? 
 		</value>
 	</entry>
 	<entry>
@@ -5193,7 +5193,7 @@
 			Perhaps the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted to be found (could it be sentient?). Maybe it chose us.
 		</key>
 		<value>
-			也許&lt;color=lightblue&gt;眼&lt;/color&gt;希望有人能夠找到它 (它會不會具備智能? ) . \\n也許它選擇了我們. 
+			Možná &lt;color=lightblue&gt;Oko&lt;/color&gt; chtělo být nalezeno (mohlo by být při vědomí?). Možná si nás vybralo. 
 		</value>
 	</entry>
 	<entry>
@@ -5201,7 +5201,7 @@
 			Does the &lt;color=lightblue&gt;Eye&lt;/color&gt; desire something from us? Could it need us in some way?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;眼&lt;/color&gt;會不會想要我們幫它做點什麽? 它是不是需要我們? 
+			Chce od nás &lt;color=lightblue&gt;Oko&lt;/color&gt; něco? Může nás nějakým způsobem potřebovat? 
 		</value>
 	</entry>
 	<entry>
@@ -5209,7 +5209,7 @@
 			Maybe it doesn’t have to be us.
 		</key>
 		<value>
-			也許不一定非得是我們不可. 
+			Možná to nemusíme být my. 
 		</value>
 	</entry>
 	<entry>
@@ -5217,7 +5217,7 @@
 			Is the &lt;color=lightblue&gt;Eye&lt;/color&gt; natural, or artificial?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;眼&lt;/color&gt;是自然形成的, 還是人工制造的? 
+			Je &lt;color=lightblue&gt;Oko&lt;/color&gt; přírodní, nebo umělé? 
 		</value>
 	</entry>
 	<entry>
@@ -5225,7 +5225,7 @@
 			Maybe someone built it.
 		</key>
 		<value>
-			也許有人把它造了出來. 
+			Možná jej někdo postavil. 
 		</value>
 	</entry>
 	<entry>
@@ -5233,7 +5233,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself. How could something exist before its creator?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;眼&lt;/color&gt;比宇宙本身還要古老. 造物的歷史怎麽可能比造物主還要久遠? 
+			&lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než vesmír samotný. Jak by něco mohlo existovat před vlastním stvořením? 
 		</value>
 	</entry>
 	<entry>
@@ -5241,31 +5241,31 @@
 			It could be naturally occurring, though this doesn’t answer how the &lt;color=lightblue&gt;Eye&lt;/color&gt; could be as old as it is.
 		</key>
 		<value>
-			它可能是自然形成的, 但這也無法解釋為什麽&lt;color=lightblue&gt;眼&lt;/color&gt;會如此古老. 
+			Možná je &lt;color=lightblue&gt;Oko&lt;/color&gt; přírodním úkazem, přestože to nevysvětluje, jak může být tak staré. 
 		</value>
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. test</key>
-		<value>歡迎來到這個地方. 來自&lt;color=lightblue&gt;眼&lt;/color&gt;的信號把我們帶到了這個星系. \\n我們在這個祭壇里對這一現象進行思考.  </value>
+		<value>Vítejte na tomto místě. Tato svatyně poskytuje prostor, v němž můžeme přemýšlet o tom, co nás do tohoto planetárního systému přivedlo: signál &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. test</key>
-		<value>我們在旅途中觀察到了&lt;color=lightblue&gt;眼&lt;/color&gt;的信號, 於是跟著它來到這里, \\n想要尋找信號的來源.  </value>
+		<value>Zachytili jsme signál &lt;color=lightblue&gt;Oka&lt;/color&gt; během našich cest, a následovali jsme jej sem, abychom našli jeho zdroj.</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
-		<value>我們所知的情況如下: 信號的來源 (我們稱之為&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;) \\n比這個宇宙本身還要古老. 別的我們就不知道了. </value>
+		<value>Co víme: Zdroj tohoto signálu, (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme ještě zjistit.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities. test</key>
-		<value>進入祭壇, 在它的各種可能性面前, 開放你的頭腦. </value>
+		<value>Vstup, a otevři svou mysl všem možnostem.</value>
 	</entry>
 	<entry>
 		<key>
 			SOLANUM: I don’t know why everyone says the &lt;color=lightblue&gt;Eye&lt;/color&gt; is important.
 		</key>
 		<value>
-			SOLANUM: 我不明白為什麽大家都說&lt;color=lightblue&gt;眼&lt;/color&gt;很重要. 
+			SOLANUM: Nevím, proč všichni říkají, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je důležité. 
 		</value>
 	</entry>
 	<entry>
@@ -5273,7 +5273,7 @@
 			SOLANUM: They say it brought us to this solar system, but is that good? Dad told me lots of Nomai died when our clan came here.
 		</key>
 		<value>
-			SOLANUM: 人們說, 是它把我們帶到了這個太陽系. 可它是好的嗎? \\n爸爸告訴過我, 我們家族來到這里的時候, 死了很多挪麥人. 
+			SOLANUM: Říkají, že nás přivedlo do tohoto planetárního systému, ale je to dobře? Táta mi řekl, že mnoho Nomai zemřelo, když sem náš klan přišel. 
 		</value>
 	</entry>
 	<entry>
@@ -5281,7 +5281,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; wanted that to happen?
 		</key>
 		<value>
-			SOLANUM: 萬一&lt;color=lightblue&gt;眼&lt;/color&gt;就是這麽打算的呢? 
+			SOLANUM: Co když &lt;color=lightblue&gt;Oko&lt;/color&gt; chtělo, aby se to stalo? 
 		</value>
 	</entry>
 	<entry>
@@ -5289,7 +5289,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; isn’t something good?
 		</key>
 		<value>
-			SOLANUM: 萬一&lt;color=lightblue&gt;眼&lt;/color&gt;不是什麽好東西呢? 
+			SOLANUM: Co když &lt;color=lightblue&gt;Oko&lt;/color&gt; není něco dobrého? 
 		</value>
 	</entry>
 	<entry>
@@ -5297,7 +5297,7 @@
 			1: &lt;color=orange&gt;High Energy Lab&lt;/color&gt; Trailhead
 		</key>
 		<value>
-			1: 高能實驗室入口處
+			1: Stezka k Vysokoenergetické laboratoři
 		</value>
 	</entry>
 	<entry>
@@ -5305,7 +5305,7 @@
 			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;
 		</key>
 		<value>
-			2: 墊腳石區
+			2: Čtvrť skákacích kamenů
 		</value>
 	</entry>
 	<entry>
@@ -5313,7 +5313,7 @@
 			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;
 		</key>
 		<value>
-			3: 安康魚瞭望台區
+			3: Čtvrť ďasího výhledu
 		</value>
 	</entry>
 	<entry>
@@ -5321,39 +5321,39 @@
 			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;
 		</key>
 		<value>
-			4: 眼祭壇區
+			4: Čtvrť svatyně Oka
 		</value>
 	</entry>
 	<entry>
 		<key>ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?</key>
-		<value>ANNONA: 我們需要拿到所有系統的情況報告, \\n但當務之急: 所有人都沒事吧? </value>
+		<value>ANNONA: Potřebujeme zprávy o stavu všech systémů, ale nejdřív: Jsme všichni nezraněni? </value>
 	</entry>
 	<entry>
 		<key>RHUS: Our color=orange&gt;escape pod&lt;/color&gt;’s passengers are afraid, but physically well, Annona; everyone survived the crash.</key>
-		<value>RHUS: 我們&lt;color=orange&gt;逃生艙&lt;/color&gt;里的乘員非常害怕, 但是沒有受傷, \\nANNONA；墜落的時候沒有人員傷亡. </value>
+		<value>RHUS: Posádka našeho &lt;color=orange&gt;záchranného člunu&lt;/color&gt; se bojí, ale jsou tělesně v pořádku, Annono; všichni přežili havárii. </value>
 	</entry>
 	<entry>
 		<key>ANNONA: This is a relief, at least. You have my gratitude. Bur, were you able to find the other escape pods’ distress signals?</key>
-		<value>ANNONA: 最起碼, 我心里的這一塊石頭落了地. 我十分感謝你. \\nBUR, 你能不能找到其它逃生艙的求救信號? </value>
+		<value>ANNONA: To je úleva. Mé díky. Bure, našel jsi tísňová volání ostatních záchranných člunů? </value>
 	</entry>
 	<entry>
 		<key>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</key>
-		<value>BUR: 我能夠接收到另外兩個信號, 它們都位於這個星系. \\n但是我覺得兩個逃生艙都沒有墜落在我們這個行星上. </value>
+		<value>BUR: Slyším oba signály někde v tomto planetárním systému, ale nemyslím si, že ani jeden ze člunů ztroskotal na té samé planetě, co my.</value>
 	</entry>
 	<entry>
 		<key>
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
 		<value>
-			飛行日志開始: &lt;color=orange&gt;2號逃生艙&lt;/color&gt;. &lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷. \\n啟動緊急程序. 正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離. 
-		</value>
+			ZAČÁTEK LETOVÉHO ZÁZNAMU: &lt;color=orange&gt;Záchranný člun 2&lt;/color&gt;. &lt;color=orange&gt;Plavidlo&lt;/color&gt; bylo smrtelně zraněno. Nouzová sekvence aktivována. Očekáváme únik z &lt;color=orange&gt;Plavidla&lt;/color&gt;.
+	</value>
 	</entry>
 	<entry>
 		<key>
 			Launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;... Now launching &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;.
 		</key>
 		<value>
-			正在發射&lt;color=orange&gt;3號逃生艙&lt;/color&gt;……現在發射&lt;color=orange&gt;2號逃生艙&lt;/color&gt;. 
+			Odpalujeme &lt;color=orange&gt;záchranný člun 3&lt;/color&gt;... Nyní odpalujeme &lt;color=orange&gt;záchranný člun 2&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -5362,7 +5362,8 @@
 			Verdict: INHOSPITABLE. Do not seek shelter on planet surface.
 		</key>
 		<value>
-			正在掃描外部環境……掃描完成. 外部溫度超出承受範圍. \\n結論: 不宜居. 不要在行星表面尋求庇護所. 
+			Zkoumání externího prostředí... Zkoumání dokončeno. Venkovní teplota je příliš vysoká.
+			Verdikt: NEOBYVATELNÉ. Nehledejte útočiště na povrchu planety.
 		</value>
 	</entry>
 	<entry>
@@ -5370,7 +5371,7 @@
 			MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find.
 		</key>
 		<value>
-			MELORAE:  (洞里的樣子) 真是不得了! 它是怎麽跑到這里來的? 我們\\n還沒有在這些山洞里見到過它的同類；我覺得這是一次罕見的發現. 
+			MELORAE: Tohle je úžasné (podívej se dovnitř jeskyně)! Jak se to sem mohlo dostat? Nepotkali jsme nic podobného v ostatních jeskyních; myslím, že tohle je výjimečný nález.
 		</value>
 	</entry>
 	<entry>
@@ -5378,7 +5379,7 @@
 			MELORAE: From what we can see, Coleus and I believe the specimen must be very old indeed. Imagine what we might learn if we could examine it!
 		</key>
 		<value>
-			MELORAE: 就我們所見, COLEUS和我認為該標本一定非常古老. \\n想想看, 要是我們能對它進行檢查的話, 會獲得怎樣的發現! 
+			MELORAE: Z toho, co můžeme vidět, Coleus a já věříme, že tento exemplář musí být velmi starý. Představ si, co se od něho můžeme naučit, budeme-li ho moci prozkoumat!
 		</value>
 	</entry>
 	<entry>
@@ -5386,7 +5387,7 @@
 			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
 		</key>
 		<value>
-			COLEUS: 更新: 我們得趕快想辦法進去, MELORAE. 因為在我回來找一個\\n入口的時候, 山洞里面有孩子在玩那個標本! 
+			COLEUS: Update: Měli bychom najít cestu dovnitř rychle, Melorae, protože když jsem se sem vrátil, tak už si s exemplářem hrály děti! 
 		</value>
 	</entry>
 	<entry>
@@ -5394,7 +5395,7 @@
 			COLEUS: We both agree it’s unlikely this dry planet is this horror’s place of origin (especially considering what we observed during the &lt;color=orange&gt;Vessel&lt;/color&gt;’s evacuation).
 		</key>
 		<value>
-			COLEUS: 我們一致同意, 這顆幹燥的行星就是這種可怕生物的\\n發源地 (尤其是鑒於我們在&lt;color=orange&gt;飛船&lt;/color&gt;撤離期間的觀察) . 
+			COLEUS: Oba jsme se shodli, že je nepravděpodobné, že tento děsivý exemplář původně pochází z této suché planety (obzvláště vzhledem k tomu, co jsme měli možnost sledovat během evakuace &lt;color=orange&gt;Plavidla&lt;/color&gt;).
 		</value>
 	</entry>
 	<entry>
@@ -5402,7 +5403,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
 		<value>
-			MELORAE: 很明顯, 這個洞太小, 它過不去. 假設: 這個山洞還有其它的\\n入口. 如果是這樣的話, COLEUS和我一定會把它給找出來! 里面\\n有寶貴的資料在等著我們去發現, 我們不能就這樣丟下不管! 
+			MELORAE: Tato díra je evidentně příliš malá na to, aby se skrz ni exemplář dostal. Hypotéza: Existuje další vstup do této jeskyně. Pokud ano, Coleus a já jej najdeme! Nemůžeme nechat hodnotné informace nevyzkoumané! 
 		</value>
 	</entry>
 	<entry>
@@ -5410,7 +5411,7 @@
 			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
 		</key>
 		<value>
-			MELORAE: 我們在這條通道的盡頭發現了一個巨大的洞窟. 它看上去\\n非常合適! 我認為我們可以在那里建立長期的庇護所. 
+			MELORAE: Našli jsme obrovskou (a slibnou!) sluj na konci tohoto průchodu. Věříme, že se tam dá vystavět dlouhodobé útočiště. 
 		</value>
 	</entry>
 	<entry>
@@ -5418,7 +5419,7 @@
 			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
 		</key>
 		<value>
-			ANNONA: MELORAE找到的洞穴用來作為庇護所十分理想. 你們誰能把地方\\n標出來, 好讓其他人沿著路標找到那個地方? 
+			ANNONA: Sluj, kterou Melorae nalezla, je pro útočiště moudrou volbou? Mohl by jeden z vás sepsat instrukce pro ostatní?
 		</value>
 	</entry>
 	<entry>
@@ -5426,7 +5427,7 @@
 			COLEUS: This is the start of the path to the shelter site. I’ve left directions to guide you there.
 		</key>
 		<value>
-			COLEUS: 這里是前往庇護所的道路起點. 我已經留下了路標, \\n你們可以跟著它們前往庇護所. 
+			COLEUS: Toto je začátek stezky k místu útočiště. Zanechal jsem pokyny, které vás tam navedou.
 		</value>
 	</entry>
 	<entry>
@@ -5434,95 +5435,95 @@
 			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
 		</key>
 		<value>
-			MELORAE: 注意事項: 我們必須抓緊時間, 那里的道路正在被越來越多\\n的沙子覆蓋. 不要被沙子埋住, 並且確保沒有人迷路! 
+			MELORAE: Za zmínku stojí: Musíme si pospíšit, protože stezka se naplňuje pískem. Nenechte se pohřbít pískem, a ujistěte se, že se nikdo neztratil! 
 		</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Anglerfish study</key>
-		<value>MELORAE: 安康魚研究</value>
+		<value>MELORAE: Studium ďase</value>
 	</entry>
 	<entry>
 		<key>COLEUS: An update: Melorae, while I was here making sketches of the anglerfish, I observed the children I saw earlier playing here again. They’ve added a rule to their game that incorporates our research (it’s wonderful)!</key>
-		<value>COLEUS: 更新: MELORAE, 我在這里為安康魚畫草圖的時候, 我觀察到\\n之前我看到的那些孩子又在這里玩耍了. 他們為自己的遊戲增添了一條\\n規則, 把我們研究也包含了進去 (太好了) ! </value>
+		<value>COLEUS: Update: Melorae, zatímco jsem tu dělal nákresy ďase, všimnul jsem si, že si tu děti začaly zase hrát. Přidaly pravidlo, které začleňuje nás výzkum (což je skvělé)!</value>
 	</entry>
 	<entry>
 		<key>MELORAE: I’m entirely delighted! It’s never too early to appreciate biology!</key>
-		<value>MELORAE: 我真是太高興了! 喜歡上生物學什麽時候都不嫌晚! </value>
+		<value>MELORAE: Mám takovou radost! Nikdy není příliš brzy na to, aby začaly doceňovat biologii!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: This anglerfish’s digestive tract suggests death by starvation.</key>
-		<value>COLEUS: 從這條安康魚的消化道來分析, 它是餓死的. </value>
+		<value>COLEUS: Ďasův zažívací trakt indikuje smrt hladem.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Visually, the specimen appears to be of the same species as the anglerfish in &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. We don’t believe it originated from this planet.</key>
-		<value>MELORAE: 從外觀上看, 這個標本貌似和&lt;color=lightblue&gt;黑棘星&lt;/color&gt;上的安康魚屬於\\n同一物種. 我們認為它不是這顆行星上的原生物種. </value>
+		<value>MELORAE: Vizuálně to vypadá, že náš exemplář je členem stejného druhu, jako ďasové na &lt;color=lightblue&gt;Temnotrnu&lt;/color&gt;. Nevěříme, že se narodil na této planetě.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: The long growth protruding from its head is bioluminescent. Perhaps it used this growth to attract prey (a lure?).</key>
-		<value>MELORAE: 生長在它頭部的突出腫塊能夠進行生物發光. \\n也許它會用這個腫塊 (誘餌? ) 來吸引獵物. </value>
+		<value>MELORAE: Dlouhý výrůstek na jeho hlavě je bioluminiscenční. Možná tento výrůstek používal k tomu, aby vábil kořist (návnada?).</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Whoever was it when we ended last time is the anglerfish.</key>
-		<value>LAEVI: 我們上次結束遊戲的時候誰是安康魚. </value>
+		<value>LAEVI: Kdokoli naposledy vyhrál je v tomto kole ďas.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: &lt;i&gt;Rule change&lt;/i&gt;! The anglerfish now has to wear a blindfold. (And do &lt;i&gt;not&lt;/i&gt; peek!)</key>
-		<value>LAEVI: &lt;i&gt;規則改了&lt;/i&gt;! 安康魚現在要戴上眼罩.  (並且&lt;i&gt;不許&lt;/i&gt;偷看! ) </value>
+		<value>LAEVI: &lt;i&gt;Změna pravidel&lt;/i&gt;! Ďas nyní musí mít pásku přes oči. (A jukat se &lt;i&gt;nesmí&lt;/i&gt;!)</value>
 	</entry>
 	<entry>
 		<key>LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side.</key>
-		<value>LAEVI: 其他人 (小魚) 靠一面墻排成一排. 安康魚說開始, \\n小魚就悄悄地跑到另一邊去. </value>
+		<value>LAEVI: Ostatní z nás (rybičky) se postaví ke zdi. Když ďas řekne "start", rybičky se snaží proplížit na druhou stranu.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: If the anglerfish catches you, you’re eaten.</key>
-		<value>LAEVI: 如果被安康魚抓住, 那麽你就被吃掉了. </value>
+		<value>LAEVI: Pokud tě ďas chytí, jsi snězen.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Last littlefish to be caught is the new anglerfish! (The old anglerfish gives the new anglerfish the blindfold and becomes a littlefish.)</key>
-		<value>LAEVI: 最後一只被抓住的小魚會變成新的安康魚!  (之前的安康魚\\n把眼罩交給新的安康魚, 然後自己變成小魚. ) </value>
+		<value>LAEVI: Z poslední rybičky se stane nový ďas! (Předchozí ďas dá novému ďasovi pásku přes oči a stane se rybičkou.)</value>
 	</entry>
 	<entry>
 		<key>LAMI: Why are we changing it? It’s too hard if you can’t see anything!</key>
-		<value>LAMI: 我們幹嘛要改規則? 什麽都看不見的話, 玩起來太難了! </value>
+		<value>LAMI: Proč měníme pravidla? Je to moc složité, když nic nevidíš! </value>
 	</entry>
 	<entry>
 		<key>LAEVI: Aunt Pye says real anglerfish are blind, so you have to wear a blindfold! The rule stands!</key>
-		<value>LAEVI: PYE姨媽說真正的安康魚就是看不見的, 所以你必須戴眼罩! \\n規則是成立的! </value>
+		<value>LAEVI: Teta Pye říká, že skuteční ďasové jsou slepí, takže musíš mít pásku přes oči! Pravidlo platí!</value>
 	</entry>
 	<entry>
 		<key>ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)</key>
-		<value>ILEX: 更新規則: 如果年紀小的孩子玩, 可以不用戴眼罩.  (其他人\\n還是要戴, 這樣才比較科學, 遊戲才更加公平. ) </value>
+		<value>ILEX: Aktualizace pravidel: Je v pořádku, když mladší děti sundají pásku přes oči, když jsou ďasy. (Zbytek z nás ji pořád bude nosit, abychom byli vědecky přesní, a taky aby byla hra spravedlivější.)</value>
 	</entry>
 	<entry>
 		<key>MELORAE: This planet sometimes (and only sometimes) has a &lt;color=lightblue&gt;moon&lt;/color&gt;! This is also of note: It disappears if no one is watching it! Isn’t that a &lt;i&gt;fascinating&lt;/i&gt; orbital characteristic?</key>
-		<value>MELORAE: 這顆行星有的時候 (只是有的時候) 會擁有一顆&lt;color=lightblue&gt;衛星&lt;/color&gt;! \\n同時還要注意: 沒人看見的時候, 它就會消失! \\n這種軌道特性是不是很&lt;i&gt;神奇&lt;/i&gt;? </value>
+		<value>MELORAE: Tahle planeta má občas (a jen občas) &lt;color=lightblue&gt;měsíček&lt;/color&gt;! Také stojí za zmínku, že zmizí, když se na něj nikdo nedívá. Není to &lt;i&gt;fascinující&lt;/i&gt; orbitální vlastnost? </value>
 	</entry>
 	<entry>
 		<key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
-		<value>BUR: 我發現了你的筆記, MELORAE；我也喜歡上了這顆&lt;color=lightblue&gt;衛星&lt;/color&gt;! \\n它消失了以後會怎麽樣 (我覺得它應該還會存在) ? \\n它會不會移動到其它地方去了? </value>
+		<value>BUR: Našel jsem tvou poznámku, Melorae; započítej mě, prosím, mezi obdivovatele tohoto &lt;color=lightblue&gt;měsíčku&lt;/color&gt;! Co si myslíš, že se děje, když zmizí (pochybuji, že přestane existovat)? Přesune se na jiné místo?</value>
 	</entry>
 	<entry>
 		<key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
-		<value>ANNONA: 我想是這樣的. 這顆衛星不但會繞著&lt;color=lightblue&gt;碎空星&lt;/color&gt;轉動, \\n我還可以確認的是, 它有時也會出現在&lt;color=lightblue&gt;木爐星&lt;/color&gt;的軌道上. </value>
+		<value>ANNONA: Myslím, že ano. Měsíc se objevuje nejen kolem &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;, ale můžu potvrdit, že občas také oblétá &lt;color=lightblue&gt;Domopec&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>MELORAE: This is my first time encountering a natural satellite with the ability to vanish when not being watched. We should study it! Or, even better, we should travel there!</key>
-		<value>MELORAE: 這是我第一次遇到一旦沒有人觀測就會消失的天然衛星. \\n我們應該對它展開研究! 或者我有個更好的主意, 我們應該上去看看! </value>
+		<value>MELORAE: Tohle je poprvé, co jsem se setkala s přírodním satelitem, který má schopnost zmizet, když ho nikdo nesleduje. Měli bychom jej studovat! Nebo, ještě lépe, měli bychom na něm přistát!</value>
 	</entry>
 	<entry>
 		<key>BUR: I agree! Our first step would be determining a method to track this &lt;color=lightblue&gt;phantom moon&lt;/color&gt; so that we can always know where it is.</key>
-		<value>BUR: 我同意! 我們要做的第一步就是想辦法跟蹤這顆&lt;color=lightblue&gt;幻影衛星&lt;/color&gt;, \\n這樣不管它出現在哪里, 我們總能知道它的位置. </value>
+		<value>BUR: Souhlasím! Náš první krok by měl být určit metodu sledování tohoto &lt;color=lightblue&gt;fantomového měsíčku&lt;/color&gt;, takže můžeme vždycky vědět, kde je. </value>
 	</entry>
 	<entry>
 		<key>ANNONA: Given its reluctance to move while consciously observed, it might be a form of macroscopic quantum mechanics.</key>
-		<value>ANNONA: 在別人有意識地對這顆衛星觀察的時候, 它就不會移動. \\n有鑒於此, 該現象可能是宏觀量子力學的一種形式. </value>
+		<value>ANNONA: Vzhledem k jeho neochotě hýbat se, když je sledován, by se mohlo jednat o formu makroskopické kvantové mechaniky.</value>
 	</entry>
 	<entry>
 		<key>
 			COLEUS: How curious! This rock took me with it to a new location. I wonder why this happened?
 		</key>
 		<value>
-			COLEUS: 真是奇怪! 這塊巖石把我帶到了一個新的地方. \\n不知道為什麽會這樣? 
+			COLEUS: Jak zajímavé! Tento kámen mě vzal s sebou na nové místo. Zajímalo by mě, proč? 
 		</value>
 	</entry>
 	<entry>
@@ -5530,7 +5531,7 @@
 			COLEUS: Curious, but also alarming: This new cave appears to lack an entrance or exit. Also, the rock that brought me here disappeared while I wasn’t watching.
 		</key>
 		<value>
-			COLEUS: 奇怪, 不過也叫人很害怕: 這個新的山洞好像並沒有出入口. \\n同時, 把我帶來的巖石在我移開視線的時候消失了. 
+			COLEUS: Zajímavé, ale také znepokojující: Tato nová jeskyně nemá vchod ani východ. A kámen, který mě sem přinesl, zmizel, když jsem se na něj nedíval. 
 		</value>
 	</entry>
 	<entry>
@@ -5538,7 +5539,7 @@
 			COLEUS: The wandering rock has returned! Never before have I been so delighted to see a sedimentary specimen.
 		</key>
 		<value>
-			COLEUS: 那塊流浪巖石回來了! 我以前從來沒有像現在這樣, \\n看到一塊沈積巖標本如此高興. 
+			COLEUS: Toulavý kámen se vrátil! Nikdy předtím jsem nebyl tak nadšený z toho, že jsem spatřil sedlinový exemplář. 
 		</value>
 	</entry>
 	<entry>
@@ -5546,7 +5547,7 @@
 			COLEUS: I wonder if I myself became quantum briefly when the rock carried me here! This seems the clearest explanation. Hypothesis: If the rock can bring me here, it can also carry me out.
 		</key>
 		<value>
-			COLEUS: 不知道這塊巖石把我帶來的時候, 我自己是不是也暫時\\n進入了量子態! 這貌似是最合理的解釋. 假設: 如果這塊巖石能把\\n我帶進來, 那麽它也可以把我帶出去. 
+			COLEUS: Zajímalo by mě, jestli jsem se také stal na krátkou dobu kvantovým, když mě sem kámen přinesl! To se mi zdá být nejjednodušším vysvětlením. Hypotéza: Pokud mě ten kámen přinesl sem, může mě také vynést pryč.
 		</value>
 	</entry>
 	<entry>
@@ -5554,7 +5555,7 @@
 			COLEUS: My hypothesis was correct! I can travel on this rock, as long as I’m not observing my surroundings (meaning I must be in complete darkness). I’m going to bring my mentor here to see this.
 		</key>
 		<value>
-			COLEUS: 我的假設是正確的! 只要我不對自己的周圍進行觀察 (也\\n就是說我必須完全處於黑暗之中) , 我就可以在這塊巖石上移動. \\n我一定要把我的導師帶來瞧一瞧. 
+			COLEUS: Moje hypotéza byla správná! Můžu na tomto kameni cestovat, ale jen tehdy, kdy aktivně nesleduji své okolí (to jest, musím být v úplné tmě). Přivedu sem svou mentorku, aby si to také zkusila. 
 		</value>
 	</entry>
 	<entry>
@@ -5562,7 +5563,7 @@
 			COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they move together.
 		</key>
 		<value>
-			COLEUS: 現在MELORAE也來了. 我們提出的理論是, 假如一個有意識的\\n存在接觸到一個量子對象, 並且不再表現出觀察者的行為 (這也就解釋了\\n黑暗環境的必要性) , 那麽該存在就能和量子對象進入糾纏態, \\n從而一起移動. 
+			COLEUS: Melorae je tu teď se mnou. Teorizujeme, že když vědomá bytost v kontaktu s kvantovým objektem přestane sledovat své okolí, může se zaplést s kvantovým objektem, a hýbat se společně s ním. 
 		</value>
 	</entry>
 	<entry>
@@ -5570,7 +5571,7 @@
 			MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he &lt;i&gt;does&lt;/i&gt; learn something useful from it!)
 		</key>
 		<value>
-			MELORAE: 朋友們, COLEUS發現了一條新的量子法則!  (他還向我保證\\n自己再也不會消失了, 就算&lt;i&gt;能夠&lt;/i&gt;從中學到有用的知識也不行! ) 
+			MELORAE: Přátelé, Coleus objevil nové kvantové pravidlo! (Také mi slíbil, že už nikdy nezmizí, dokonce ani tehdy, kdy se z jeho zmizení něco naučíme!) 
 		</value>
 	</entry>
 	<entry>
@@ -5578,47 +5579,47 @@
 			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
 		<value>
-			MELORAE: COLEUS不見了! 幾天前, 他從&lt;color=orange&gt;湖床洞穴&lt;/color&gt; (北極幹湖床底部\\n的那個洞穴) 里消失了, 我們完全找不到他的蹤跡. 我不知道他消失的\\n時候還有多少空氣. 我懇請聽到這段消息的朋友們, \\n幫我們找找COLEUS! 
+			MELORAE: Coleus se pohřešuje! Zmizel z &lt;color=orange&gt;jeskyně u jezerního dna&lt;/color&gt; (té u severního pólu) před několika dny, a nenašli jsme po něm ani stopu. Nevím, kolik vzduchu s sebou nesl, když zmizel. Prosím všechny přátele, kteří toto čtou, pomožte nám najít Colea! 
 		</value>
 	</entry>
 	<entry>
 		<key>MELORAE: Friends, if you find any sign of Coleus, I implore you to tell me! He vanished without a trace during our research trip, and has been missing ever since.</key>
-		<value>MELORAE: 朋友們, 如果你們發現任何COLEUS的蹤跡, 請一定要告訴我! \\n我們當時正在進行研究之旅, 他就這樣消失得無影無蹤, \\n並且從此全無音信. </value>
+		<value>MELORAE: Přátelé, pokud najdete jakoukoli stopu po Coleovi, řekněte mi o ní, prosím. Zmizel beze stopy během naší výzkumné výpravy, a od té doby je pohřešován.</value>
 	</entry>
 	<entry>
 		<key>BUR: Melorae, some of us from the &lt;color=orange&gt;Sunless City&lt;/color&gt; are here to help search for Coleus. Can you tell us more about your expedition?</key>
-		<value>BUR: MELORAE, 我們有幾個人從&lt;color=orange&gt;背陰城&lt;/color&gt;過來, 要幫忙尋找COLEUS. \\n你能再跟我們說說那次遠征的事情嗎? </value>
+		<value>BUR: Melorae, někteří z nás z &lt;color=orange&gt;Neslunného města&lt;/color&gt; jsme přišli pomoci v hledání Colea. Můžeš nám říci více o vaší expedici? </value>
 	</entry>
 	<entry>
 		<key>MELORAE: You have my gratitude, Bur! Coleus and I were studying the caves’ geology. We hoped to learn more about a unique and wandering rock that visits several different caves in the area.</key>
-		<value>MELORAE: 感激不盡, BUR! COLEUS和我正在研究這個山洞的地質情況. \\n有一塊罕見的流浪巖石會出現在這一地區的不同洞穴里, \\n我們希望多了解一下它. </value>
+		<value>MELORAE: Mé díky, Bure! Coleus a já jsme studovali geologii jeskyň. Snažili jsme se dozvědět více o unikátním toulavém kameni, který navštěvuje několik různých jeskyní v této oblasti.</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Where was young Coleus lost, Melorae?</key>
-		<value>ANNONA: 小COLEUS是在哪兒不見的, MELORAE? </value>
+		<value>ANNONA: Kde se mladý Coleus ztratil, Melorae?</value>
 	</entry>
 	<entry>
 		<key>MELORAE: He disappeared in the cave at the bottom of the dry lakebed at the north pole. It happened in an instant, and without warning.</key>
-		<value>MELORAE: 他是在北極幹湖床底部的那個洞穴里消失的. \\n事情發生得很突然, 一點征兆都沒有. </value>
+		<value>MELORAE: Zmizel v jeskyni na dně vysušeného jezera na severním pólu. Stalo se to okamžitě a bez varování.</value>
 	</entry>
 	<entry>
 		<key>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</key>
-		<value>MELORAE: 當時我轉身去檢查一個樣本, 等回過頭來的時候, COLEUS\\n就已經不在那兒了. 他的空氣補給有限, ANNONA! 我很擔心他! </value>
+		<value>MELORAE: Otočila jsem se od Colea, abych si prohlédla vzorek, a když jsem se otočila nazpět, prostě tam nebyl. Měl omezenou zásobu vzduchu, Annono! Bojím se o něj!</value>
 	</entry>
 	<entry>
 		<key>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</key>
-		<value>ANNONA: 假設: 我們要對COLEUS當時消失的北部&lt;color=orange&gt;湖床洞穴&lt;/color&gt;\\n進行檢查, 這樣就能進一步了解情況. 大家行動要快；\\n我們沒有時間可以揮霍! </value>
+		<value>ANNONA: Hypotéza: Nejvhodnější bude začít průzkum u severní &lt;color=orange&gt;jeskyně u jezerního dna&lt;/color&gt;, kde Coleus zmizel. Hledejte rychle, všichni; nemáme času nazbyt!</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;High Energy Lab&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;高能實驗室&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
 		</key>
 		<value>
-			SECCA: 給來找我們的人: 我們跟著&lt;color=orange&gt;飛船&lt;/color&gt;發出的兩個信標之一\\n來到了這個地方, 但現在我們沒法繼續前進了. 
+			SECCA: Komukoliv, kdo nás sem přijde hledat: Následovali jsme sem jeden ze dvou signálů z našeho &lt;color=orange&gt;Plavidla&lt;/color&gt;, ale nemůžeme jít dál. 
 		</value>
 	</entry>
 	<entry>
@@ -5626,7 +5627,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
 		<value>
-			SECCA: 信號現在已經快接收不到了, 但是&lt;color=orange&gt;飛船&lt;/color&gt;的信標還在從這個帶刺\\n的種子里向外進行微弱的發射. 開口太小, 就連一個挪麥人都鉆不過去, \\n所以我們的&lt;color=orange&gt;逃生艙&lt;/color&gt;沒辦法飛進去. 
+			SECCA: Téměř jej už neslyšíme, ale signál &lt;color=orange&gt;Plavidla&lt;/color&gt; stále jemně vysílá z tohoto trnitého semínka. Ale otvor v něm je příliš malý, než aby se do něj vešel byť jen jediný Nomai, takže náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; nemohl proletět tudy.
 		</value>
 	</entry>
 	<entry>
@@ -5634,7 +5635,7 @@
 			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
 		</key>
 		<value>
-			SECCA: 我不明白這怎麽可能, 不過這個可怕的地方貌似能夠操控空間；\\n也許這就是我們末日. 
+			SECCA: Nechápu, jak je to možné, ale toto hrozné místo nějakým způsobem manipuluje samotný prostor; možná právě proto nás potkala zkáza. 
 		</value>
 	</entry>
 	<entry>
@@ -5642,7 +5643,7 @@
 			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
 		</key>
 		<value>
-			SECCA: &lt;color=orange&gt;飛船&lt;/color&gt;的位置就在眼前, 可要找到它卻……如此困難. \\n更糟糕的是, &lt;color=orange&gt;飛船&lt;/color&gt;的信標正在衰減；很快我們就要接收不到信號了. 
+			SECCA: Být tak blízko &lt;color=orange&gt;Plavidlu&lt;/color&gt; a přitom tak daleko je... náročné. Co je horší, signál &lt;color=orange&gt;Plavidla&lt;/color&gt; umírá; brzy jej nebudeme schopni slyšet vůbec. 
 		</value>
 	</entry>
 	<entry>
@@ -5650,7 +5651,7 @@
 			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
 		</key>
 		<value>
-			SECCA: 現在我們什麽都做不了, 只能試著看看能不能想辦法進去, \\n或者至少弄清楚為什麽會發生這樣的事情. 
+			SECCA: Nemáme žádnou alternativu krom toho, že se snad můžeme pokusit dostat dovnitř, nebo alespoň pochopit, proč se toto stalo. 
 		</value>
 	</entry>
 	<entry>
@@ -5658,60 +5659,60 @@
 			SECCA: My dearest hope is that the other escape pods were able to reach relative safety.
 		</key>
 		<value>
-			SECCA: 我最大的願望就是其它逃生艙落到了相對安全的地方. 
+			SECCA: Moje srdečná naděje je, že ostatní záchranné čluny jsou v relativním bezpečí. 
 		</value>
 	</entry>
 	<entry>
 		<key>DIN: There is a new problem: Our equipment is detecting two distinct beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>DIN: 有一個新的問題: 我們的設備在兩個不同的地方檢測到了\\n&lt;color=orange&gt;飛船&lt;/color&gt;發出的信標. </value>
+		<value>DIN: Máme nový problém: Naše zařízení detekuje dva odlišné signály z &lt;color=orange&gt;Plavidla&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SECCA: But it isn’t possible for the &lt;color=orange&gt;Vessel&lt;/color&gt; to be in two different locations at the same time.</key>
-		<value>SECCA: 可是&lt;color=orange&gt;飛船&lt;/color&gt;不可能同時出現在兩個地方啊. </value>
+		<value>SECCA: Ale &lt;color=orange&gt;Plavidlo&lt;/color&gt; nemůže být na dvou místech zároveň.</value>
 	</entry>
 	<entry>
 		<key>DIN: I agree, but the beacons are exactly identical to each other. Perhaps if I had more time —</key>
-		<value>DIN: 我同意, 但這兩個信標是完全相同的. \\n也許再給我一點時間的話……</value>
+		<value>DIN: Souhlasím, ale signály jsou identické. Snad kdybych měl více času -</value>
 	</entry>
 	<entry>
 		<key>SECCA: We’re nearly out of time already, Din; the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is quickly fading. Soon, it will be gone, and we will be lost.</key>
-		<value>SECCA: 我們已經快沒時間了, DIN；&lt;color=orange&gt;飛船&lt;/color&gt;的信標正在迅速衰減. \\n很快它就會消失, 到時候我們就找不到路了. </value>
+		<value>SECCA: Nezbývá nám žádný čas, Dine; signál &lt;color=orange&gt;Plavidla&lt;/color&gt; rychle uvadá. Brzy zmizí úplně, a my budeme ztraceni.</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We will follow the beacon whose source is nearest to us.</key>
-		<value>ESCALL: 我們要跟著信標源最近的那個信標走. </value>
+		<value>ESCALL: Budeme následovat signál, jehož zdroj je nejblíže k nám.</value>
 	</entry>
 	<entry>
 		<key>DIN: But suppose that beacon is false!</key>
-		<value>DIN: 但萬一那個信標是假的呢! </value>
+		<value>DIN: Ale co když je ten signál falešný!</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</key>
-		<value>ESCALL: 我們不大可能有足夠的空氣去尋找\\n比較遠的那個信標, DIN. 我們別無選擇. </value>
+		<value>ESCALL: Pravděpodobně nemáme dost vzduchu na to, abychom dosáhli vzdálenějšího ze dvou signálů, Dine. To činí toto rozhodnutí za nás.</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We’ll leave a trail of lights as we go. There’s still a chance someone could hear our &lt;color=orange&gt;escape pod&lt;/color&gt;’s distress signal.</key>
-		<value>ESCALL: 我們一邊走一邊在路上留下發光路標. \\n別人依然有可能會收到我們的&lt;color=orange&gt;逃生艙&lt;/color&gt;發出來的信號. </value>
+		<value>ESCALL: Necháme za sebou stezku světel. Stále existuje šance, že by někdo mohl uslyšet tísňový signál našeho &lt;color=orange&gt;záchranného člunu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>飛行日志開始: &lt;color=orange&gt;3號逃生艙&lt;/color&gt;. &lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷. \\n啟動緊急程序. 正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離. </value>
+		<value>ZAČÁTEK LETOVÉHO ZÁZNAMU: &lt;color=orange&gt;Záchranný člun 3&lt;/color&gt;. &lt;color=orange&gt;Plavidlo&lt;/color&gt; bylo smrtelně zraněno. Nouzová sekvence aktivována. Očekáváme únik z &lt;color=orange&gt;Plavidla&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</key>
-		<value>現在發射&lt;color=orange&gt;3號逃生艙&lt;/color&gt;. </value>
+		<value>Nyní odpalujeme &lt;color=orange&gt;záchranný člun 3&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>ALERT: Multiple collisions have altered pod’s trajectory. Significant damage to pod detected.</key>
-		<value>警報: 多次碰撞改變了逃生艙的軌道. 檢測到逃生艙出現嚴重損傷. </value>
+		<value>POPLACH: Několik srážek změnilo kurz člunu. Člun značně poškozen.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Navigation error. Life support error. Propulsion error.</key>
-		<value>警告: 導航系統錯誤. 維生系統錯誤. 推進系統錯誤. </value>
+		<value>VAROVÁNÍ: Chyba v navigaci. Chyba v podpoře života. Chyba v pohonu.</value>
 	</entry>
 	<entry>
 		<key>Scanning external environment... Scan complete. Gravity not detected. Breathable air not detected. Multiple lifeforms detected (potentially hostile). Verdict: DO NOT EXIT POD.</key>
-		<value>正在掃描外部環境……掃描完成. 沒有檢測到重力. 沒有檢測到可供呼吸\\n的空氣. 檢測到多個生命形式 (具有敵對可能性) . \\n結論: 不要走出逃生艙. </value>
+		<value>Zkoumání externího prostředí... Zkoumání dokončeno. Gravitace nebyla detekována. Dýchatelný vzduch nebyl detekován. Mnoho (potenciálně nepřátelských) forem života detekováno. Verdikt: NEOPOUŠTĚJTE ČLUN.</value>
 	</entry>
 	<entry>
 		<key>The arch and the crystal do not naturally meet.</key>
@@ -5754,7 +5755,7 @@
 			&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
 		<value>
-			&lt;color=orange&gt;軌道探測炮&lt;/color&gt;損壞報告: 檢測到嚴重結構壓力. \\n正在評估模塊受損情況……
+			&lt;color=orange&gt;軌道探測炮&lt;/color&gt;損壞報告: 檢測到嚴重結構壓力. \\n正在評估模塊受損情況...
 		</value>
 	</entry>
 	<entry>
@@ -5931,7 +5932,7 @@
 	</entry>
 	<entry>
 		<key>PYE: It fired, Yarrow. But it failed. The &lt;color=lightblue&gt;sun&lt;/color&gt; barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye.</key>
-		<value>PYE: 它發射了, YARROW. 但是沒有成功. &lt;color=lightblue&gt;太陽&lt;/color&gt;基本上沒有回應；只是\\n在表面水平產生了極其微弱的變化, 就連第三只眼也幾乎難以觀察到. </value>
+		<value>PYE: 它發射了, YARROW. 但是沒有成功. &lt;color=lightblue&gt;太陽&lt;/color&gt;基本上沒有回應; 只是\\n在表面水平產生了極其微弱的變化, 就連第三只眼也幾乎難以觀察到. </value>
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Sun Station&lt;/color&gt; is useless. It will never, and &lt;i&gt;could&lt;/i&gt; never, cause the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
@@ -5947,7 +5948,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?</key>
-		<value>YARROW: PYE……我為你們感到難過, 我的朋友們；我們都知道你們倆\\n有多辛苦. 我只能表示同情. 你還好嗎? IDAEA還好嗎? </value>
+		<value>YARROW: PYE...我為你們感到難過, 我的朋友們; 我們都知道你們倆\\n有多辛苦. 我只能表示同情. 你還好嗎? IDAEA還好嗎? </value>
 	</entry>
 	<entry>
 		<key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
@@ -6043,7 +6044,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-		<value>CLARY: 給我們在&lt;color=lightblue&gt;碎空星&lt;/color&gt;上的朋友們: \\n我剛剛從&lt;color=orange&gt;白洞站&lt;/color&gt; (&lt;color=lightblue&gt;碎空星&lt;/color&gt;黑洞的另一頭) 躍遷到了這里! \\n我們的設計方案起作用了；我們成功地再現了躍遷旅行! </value>
+		<value>CLARY: 給我們在&lt;color=lightblue&gt;碎空星&lt;/color&gt;上的朋友們: \\n我剛剛從&lt;color=orange&gt;白洞站&lt;/color&gt; (&lt;color=lightblue&gt;碎空星&lt;/color&gt;黑洞的另一頭) 躍遷到了這里! \\n我們的設計方案起作用了; 我們成功地再現了躍遷旅行! </value>
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
@@ -6191,7 +6192,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 63: Today I thought I heard something... strange. I don’t know — it was probably nothing.</key>
-		<value>第63天: 今天我以為自己聽到了什麽聲音……奇怪. 我不知道, \\n也許是我聽錯了. </value>
+		<value>第63天: 今天我以為自己聽到了什麽聲音...奇怪. 我不知道, \\n也許是我聽錯了. </value>
 	</entry>
 	<entry>
 		<key>SignDay 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</key>
@@ -6199,7 +6200,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 76: Okay, I &lt;i&gt;know&lt;/i&gt; this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...</key>
-		<value>第76天: 好吧, 我&lt;i&gt;知道&lt;/i&gt;這不大可能, 但木爐星傳來的聲音聽起來\\n和Feldspar的口琴一模一樣. 可是Feldspar早就消失在太空里了. \\n不可能是他……</value>
+		<value>第76天: 好吧, 我&lt;i&gt;知道&lt;/i&gt;這不大可能, 但木爐星傳來的聲音聽起來\\n和Feldspar的口琴一模一樣. 可是Feldspar早就消失在太空里了. \\n不可能是他...</value>
 	</entry>
 	<entry>
 		<key>SignDay 88: It’s &lt;i&gt;still here&lt;/i&gt;. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.</key>
@@ -6287,11 +6288,11 @@
 	</entry>
 	<entry>
 		<key>Gneiss3Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</key>
-		<value>哦, 沒問題! 你知道嗎? 他們的樂器都是我制作的. 讓我想想啊……\\nChert的鼓、Riebeck的班卓琴, 以及Gabbro的長笛. </value>
+		<value>哦, 沒問題! 你知道嗎? 他們的樂器都是我制作的. 讓我想想啊...\\nChert的鼓、Riebeck的班卓琴, 以及Gabbro的長笛. </value>
 	</entry>
 	<entry>
 		<key>Gneiss3And Feldspar’s harmonica, of course, though Feldspar’s been missing for a long time. Sometimes it feels like just yesterday they were playing their harmonica around the campfire...</key>
-		<value>當然, 還有Feldspar的口琴. 雖然已經很久沒有Feldspar的消息了. \\n他在營火邊吹奏口琴的景象, 簡直恍如昨日……</value>
+		<value>當然, 還有Feldspar的口琴. 雖然已經很久沒有Feldspar的消息了. \\n他在營火邊吹奏口琴的景象, 簡直恍如昨日...</value>
 	</entry>
 	<entry>
 		<key>Gneiss3Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</key>
@@ -6383,7 +6384,7 @@
 	</entry>
 	<entry>
 		<key>GossanCoach3That’s not what Slate says...</key>
-		<value>Slate可沒說過這個……</value>
+		<value>Slate可沒說過這個...</value>
 	</entry>
 	<entry>
 		<key>Coach4Is that so? Funny, I seem to recall the first time you strapped on a jetpack, we had to come fish you out of the crater near the south pole.</key>
@@ -6451,7 +6452,7 @@
 	</entry>
 	<entry>
 		<key>Coach10...Haha, go on, go make Outer Wilds Ventures proud.</key>
-		<value>……哈哈, 去吧. 別讓Outer Wilds探險隊失望. </value>
+		<value>...哈哈, 去吧. 別讓Outer Wilds探險隊失望. </value>
 	</entry>
 	<entry>
 		<key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
@@ -6515,7 +6516,7 @@
 	</entry>
 	<entry>
 		<key>Friend3Listen, no offense, but... are you sure you’re okay to launch? Like, medically speaking?</key>
-		<value>聽著, 我沒有別的意思, 只是……你確定憑自己的這個身體狀況, \\n發射沒問題嗎? </value>
+		<value>聽著, 我沒有別的意思, 只是...你確定憑自己的這個身體狀況, \\n發射沒問題嗎? </value>
 	</entry>
 	<entry>
 		<key>HalFriend3You know what, don’t worry about it.</key>
@@ -6531,7 +6532,7 @@
 	</entry>
 	<entry>
 		<key>Friend4But hey, when you &lt;i&gt;are&lt;/i&gt; ready, then you can make the most of our translator tool! &lt;color=grey&gt;Sniff...&lt;/color&gt;&lt;Pause/&gt; I can’t believe it’s all grown up and leaving for space already.</key>
-		<value>不過, 等你準備&lt;i&gt;好了&lt;/i&gt;以後, 就可以把我們的翻譯工具派上用場啦! \\n&lt;color=grey&gt;抽鼻子……&lt;/color&gt;&lt;Pause/&gt;真不敢相信它已經長大, 要上太空了. </value>
+		<value>不過, 等你準備&lt;i&gt;好了&lt;/i&gt;以後, 就可以把我們的翻譯工具派上用場啦! \\n&lt;color=grey&gt;抽鼻子...&lt;/color&gt;&lt;Pause/&gt;真不敢相信它已經長大, 要上太空了. </value>
 	</entry>
 	<entry>
 		<key>Friend4For real, though, I’m glad you’re the one carrying it and not, like, Riebeck. They’d fall on it for sure.</key>
@@ -6543,7 +6544,7 @@
 	</entry>
 	<entry>
 		<key>Friend5I mean, if you’re saying it happened, then... I guess maybe it did. But why?</key>
-		<value>我想說, 按照你的說法, 那麽……我猜情況可能是真的. 可為什麽呢? </value>
+		<value>我想說, 按照你的說法, 那麽...我猜情況可能是真的. 可為什麽呢? </value>
 	</entry>
 	<entry>
 		<key>Friend5Hornfels tried everything to get the statue’s eyes to open, and nothing like this ever happened to them.</key>
@@ -6559,7 +6560,7 @@
 	</entry>
 	<entry>
 		<key>Friend5...Geez, now I’m &lt;i&gt;really&lt;/i&gt; jealous you’re going into space! Hey, see if you can use our translator tool to find out more about the statue, okay?</key>
-		<value>……天哪, 我是&lt;i&gt;真的&lt;/i&gt;羨慕你能夠上太空! 嘿, \\n去用我們的翻譯工具看看能不能了解到更多有關雕像的內容, 好嗎? </value>
+		<value>...天哪, 我是&lt;i&gt;真的&lt;/i&gt;羨慕你能夠上太空! 嘿, \\n去用我們的翻譯工具看看能不能了解到更多有關雕像的內容, 好嗎? </value>
 	</entry>
 	<entry>
 		<key>Friend6Good luck, and safe flying!</key>
@@ -6655,7 +6656,7 @@
 	</entry>
 	<entry>
 		<key>Marl1Speaking of launch day... I was thinking about it, and the platform those ships launch from is getting old. Isn’t it about time you built a new, less flammable one?</key>
-		<value>說到發射……我一直在想, 用來發射宇宙飛船的平台用了挺久的了. \\n是不是該造一座不那麽可燃的新平台才對? </value>
+		<value>說到發射...我一直在想, 用來發射宇宙飛船的平台用了挺久的了. \\n是不是該造一座不那麽可燃的新平台才對? </value>
 	</entry>
 	<entry>
 		<key>Marl1That big tree in the village would be the perfect choice. I wouldn’t mind helping out the space program. Just say the word!</key>
@@ -6687,7 +6688,7 @@
 	</entry>
 	<entry>
 		<key>Out...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</key>
-		<value>……哈哈, 你以為我是因為那次從樹上掉下來摔斷胳膊, 所以懷恨在心? \\n那都是小時候的事情了! 誰會記恨一輩子啊? </value>
+		<value>...哈哈, 你以為我是因為那次從樹上掉下來摔斷胳膊, 所以懷恨在心? \\n那都是小時候的事情了! 誰會記恨一輩子啊? </value>
 	</entry>
 	<entry>
 		<key>FlammableHa! You didn’t realize that?</key>
@@ -6703,7 +6704,7 @@
 	</entry>
 	<entry>
 		<key>Tree...That tree has got it coming.</key>
-		<value>……那棵樹活該. </value>
+		<value>...那棵樹活該. </value>
 	</entry>
 	<entry>
 		<key>SpaceWhat are you doing back? Did you forget your spacesuit or something?</key>
@@ -6787,7 +6788,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingOkay, wow. &lt;i&gt;Wow.&lt;/i&gt; I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...</key>
-		<value>好吧, 哇哦. &lt;i&gt;哇哦. &lt;/i&gt;我在其他旅行者的圖畫里看到過這些廢墟, \\n然而百聞不如一見……</value>
+		<value>好吧, 哇哦. &lt;i&gt;哇哦. &lt;/i&gt;我在其他旅行者的圖畫里看到過這些廢墟, \\n然而百聞不如一見...</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingIt’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</key>
@@ -6795,7 +6796,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingBut wow, this is the coolest day of my life. ...Okay, um, time for some official notes!</key>
-		<value>不過呢, 哇哦, 這可是我這輩子最帥的一天……好吧, \\n嗯, 該做點正式的記錄了! </value>
+		<value>不過呢, 哇哦, 這可是我這輩子最帥的一天...好吧, \\n嗯, 該做點正式的記錄了! </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
@@ -6807,15 +6808,15 @@
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
-		<value>沒錯. 該回到那艘宇宙飛船上去, 然後駕駛它起飛了. \\n絕對安全……基本上安全. &lt;size=20&gt;哦, 群星在上啊&lt;/size&gt;……</value>
+		<value>沒錯. 該回到那艘宇宙飛船上去, 然後駕駛它起飛了. \\n絕對安全...基本上安全. &lt;size=20&gt;哦, 群星在上啊&lt;/size&gt;...</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalThe journey here from the south pole has been, um... I’m going to go with “harrowing”, because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</key>
-		<value>從南極來到這里, 一路上可以說……“驚心動魄”, \\n因為隕石一刻不停地在砸. 不過呢, 至少我來到了這里, \\n沒有被砸出腦震蕩, 而且身上也沒有著火! </value>
+		<value>從南極來到這里, 一路上可以說...“驚心動魄”, \\n因為隕石一刻不停地在砸. 不過呢, 至少我來到了這里, \\n沒有被砸出腦震蕩, 而且身上也沒有著火! </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-		<value>好吧, 我們來看看……我在附近調查了一下, 某種古老的挪麥道路\\n從我的營地延伸進了樹木叢生的廢墟建築里. </value>
+		<value>好吧, 我們來看看...我在附近調查了一下, 某種古老的挪麥道路\\n從我的營地延伸進了樹木叢生的廢墟建築里. </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
@@ -6823,7 +6824,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalHurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</key>
-		<value>哼. 好吧. 真是……叫人深感不快. 不過我都走了這麽深. \\n我猜現在我要集中精神, 而不是不得不沿路回到&lt;i&gt;上面&lt;/i&gt;去. </value>
+		<value>哼. 好吧. 真是...叫人深感不快. 不過我都走了這麽深. \\n我猜現在我要集中精神, 而不是不得不沿路回到&lt;i&gt;上面&lt;/i&gt;去. </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
@@ -6867,7 +6868,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingThat’s the good news. The bad news... I, uh, haven’t found a way inside this structure yet. The door is broken, and I know I’m not great at exploring, but I think I would have found a different entrance by now if there were one. P... probably.</key>
-		<value>好消息就這麽多. 至於壞消息嘛……我, 呃, 還沒有找到進入這座建築的\\n方法. 大門壞掉了, 我知道我不擅長探險, 不過我覺得如果還有其它入口\\n的話, 我應該可以找到它. 可……可能吧. </value>
+		<value>好消息就這麽多. 至於壞消息嘛...我, 呃, 還沒有找到進入這座建築的\\n方法. 大門壞掉了, 我知道我不擅長探險, 不過我覺得如果還有其它入口\\n的話, 我應該可以找到它. 可...可能吧. </value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingI can’t get inside from &lt;i&gt;here&lt;/i&gt;, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.</key>
@@ -6923,7 +6924,7 @@
 	</entry>
 	<entry>
 		<key>Marl&lt;Color=#808080ff&gt;Sigh...&lt;/Color&gt; I suppose it’s my duty as mayor to stop them. Again.</key>
-		<value>唉……看來作為市長, 又來了</value>
+		<value>唉...看來作為市長, 又來了</value>
 	</entry>
 	<entry>
 		<key>MarlWhen Marl fell out of that tree and broke their arm, I suspect they might have also hit their head on the way down.</key>
@@ -6975,7 +6976,7 @@
 	</entry>
 	<entry>
 		<key>Spinel1Fishing rhyme, fishing rhyme... Singing helps me pass the time.</key>
-		<value>釣魚歌, 釣魚歌……沒事幹的時候就唱唱歌. </value>
+		<value>釣魚歌, 釣魚歌...沒事幹的時候就唱唱歌. </value>
 	</entry>
 	<entry>
 		<key>Spinel1You’re leaving the crater? Guess we’ll all be a little busier without you around to lend a hand.</key>
@@ -7007,7 +7008,7 @@
 	</entry>
 	<entry>
 		<key>Spinel3Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</key>
-		<value>Gabbro想要看看水底下都有些什麽, 於是他決定繼續深入. \\n他一直往下, 一直往下……</value>
+		<value>Gabbro想要看看水底下都有些什麽, 於是他決定繼續深入. \\n他一直往下, 一直往下...</value>
 	</entry>
 	<entry>
 		<key>Spinel3But suddenly, Gabbro couldn’t go any further.</key>
@@ -7027,7 +7028,7 @@
 	</entry>
 	<entry>
 		<key>Spinel6...You always were my least favorite astronaut.</key>
-		<value>……我最不喜歡的宇航員就是你了. </value>
+		<value>...我最不喜歡的宇航員就是你了. </value>
 	</entry>
 	<entry>
 		<key>Spinel4I will, I was just pausing dramatically.</key>
@@ -7039,11 +7040,11 @@
 	</entry>
 	<entry>
 		<key>Spinel7As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</key>
-		<value>水仿佛有自己的想法, 不肯讓Gabbro繼續深入. Gabbro被擋了回來……\\n就好像它在保護著什麽東西. </value>
+		<value>水仿佛有自己的想法, 不肯讓Gabbro繼續深入. Gabbro被擋了回來...\\n就好像它在保護著什麽東西. </value>
 	</entry>
 	<entry>
 		<key>Spinel7And then, in the terrible darkness, Gabbro saw it...!</key>
-		<value>然後, 在一片可怕的漆黑中, Gabbro看到了……! </value>
+		<value>然後, 在一片可怕的漆黑中, Gabbro看到了...! </value>
 	</entry>
 	<entry>
 		<key>Spinel7The tentacle of some hideous beast!</key>
@@ -7059,7 +7060,7 @@
 	</entry>
 	<entry>
 		<key>SpinelSpinel7...Was there sap wine involved during Gabbro’s campfire story?</key>
-		<value>……Gabbro在營火邊說故事的時候, 有沒有喝樹液酒? </value>
+		<value>...Gabbro在營火邊說故事的時候, 有沒有喝樹液酒? </value>
 	</entry>
 	<entry>
 		<key>Spinel8I mean, that’s what Gabbro said, anyway. Whatever it was, it freaked Gabbro out pretty good.</key>
@@ -7083,7 +7084,7 @@
 	</entry>
 	<entry>
 		<key>Spinel11Fishing song, fishing song... Geez, I think my bait is wrong.</key>
-		<value>釣魚謠, 釣魚謠……哎喲我覺得魚餌它們不肯咬. </value>
+		<value>釣魚謠, 釣魚謠...哎喲我覺得魚餌它們不肯咬. </value>
 	</entry>
 	<entry>
 		<key>Spinel11What are you up to?</key>
@@ -7119,7 +7120,7 @@
 	</entry>
 	<entry>
 		<key>Spinel15Fishing tune, fishing tune... uh... yeah, I didn’t think this one through at all.</key>
-		<value>釣魚調, 釣魚調……額……好吧, 這一段我還沒想好. </value>
+		<value>釣魚調, 釣魚調...額...好吧, 這一段我還沒想好. </value>
 	</entry>
 	<entry>
 		<key>Tektite</key>
@@ -7303,7 +7304,7 @@
 	</entry>
 	<entry>
 		<key>RefuseToPlayAwww, really? But we can’t play without a signalscope... Play with us later, okay?</key>
-		<value>啊哦, 真的嗎? 可是沒有信號鏡, 我們就玩不了遊戲了……\\n以後來跟我們玩吧, 好嗎? </value>
+		<value>啊哦, 真的嗎? 可是沒有信號鏡, 我們就玩不了遊戲了...\\n以後來跟我們玩吧, 好嗎? </value>
 	</entry>
 	<entry>
 		<key>FoundYouAwww, you found me? But my hiding spot was super good!</key>
@@ -7343,7 +7344,7 @@
 	</entry>
 	<entry>
 		<key>TephraShyKidB1...What?</key>
-		<value>……什麽? </value>
+		<value>...什麽? </value>
 	</entry>
 	<entry>
 		<key>TephraShyKidB1Don’t worry, I’ll come back.</key>
@@ -7439,7 +7440,7 @@
 	</entry>
 	<entry>
 		<key>ZeroSo you’re going in &lt;i&gt;there&lt;/i&gt;? In the cave? Hnnngh...</key>
-		<value>這麽說你要&lt;i&gt;進去&lt;/i&gt;? 到洞里去? 嗯……</value>
+		<value>這麽說你要&lt;i&gt;進去&lt;/i&gt;? 到洞里去? 嗯...</value>
 	</entry>
 	<entry>
 		<key>ZeroWhat? No, I’m fine. Great. Great and fine.</key>
@@ -7447,7 +7448,7 @@
 	</entry>
 	<entry>
 		<key>TuffZeroYou don’t &lt;i&gt;look&lt;/i&gt; fine...</key>
-		<value>你&lt;i&gt;看上去&lt;/i&gt;不太好……</value>
+		<value>你&lt;i&gt;看上去&lt;/i&gt;不太好...</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYeah, I’m going to drift around down there for a while.</key>
@@ -7459,11 +7460,11 @@
 	</entry>
 	<entry>
 		<key>FineFweh... Now I’ve got hand sweats.</key>
-		<value>呼……我手心都出汗了. </value>
+		<value>呼...我手心都出汗了. </value>
 	</entry>
 	<entry>
 		<key>Sick1Eurgh...</key>
-		<value>呃啊……</value>
+		<value>呃啊...</value>
 	</entry>
 	<entry>
 		<key>TuffSick1Just going to float upside down and whatnot.</key>
@@ -7471,7 +7472,7 @@
 	</entry>
 	<entry>
 		<key>TuffSick1...Sorry. I’ll stop.</key>
-		<value>……抱歉. 我不說了. </value>
+		<value>...抱歉. 我不說了. </value>
 	</entry>
 	<entry>
 		<key>MotionlessI’m going to sit here and think about flat, motionless rocks for a while.</key>
@@ -7479,7 +7480,7 @@
 	</entry>
 	<entry>
 		<key>Sick2H-hurk...</key>
-		<value>呃, 嘔……</value>
+		<value>呃, 嘔...</value>
 	</entry>
 	<entry>
 		<key>TuffSick2Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</key>
@@ -7491,7 +7492,7 @@
 	</entry>
 	<entry>
 		<key>Worst1You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你……&lt;color=grey&gt;嘔……&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst1Sorry.</key>
@@ -7503,7 +7504,7 @@
 	</entry>
 	<entry>
 		<key>Worst2You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你……&lt;color=grey&gt;嘔……&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst2I know.</key>
@@ -7519,11 +7520,11 @@
 	</entry>
 	<entry>
 		<key>GuessBad enough we got this weird cave down here...</key>
-		<value>有這個奇怪的山洞在這里就已經夠糟糕的了……</value>
+		<value>有這個奇怪的山洞在這里就已經夠糟糕的了...</value>
 	</entry>
 	<entry>
 		<key>DirtSome fresh dirt? Not much happening down here lately. Let me think...</key>
-		<value>新鮮事? 最近可沒什麽新鮮事. 讓我想想……</value>
+		<value>新鮮事? 最近可沒什麽新鮮事. 讓我想想...</value>
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
@@ -7543,7 +7544,7 @@
 	</entry>
 	<entry>
 		<key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
-		<value>……不, 我在開玩笑呢. 我跟Tektite說過一回. 他笑了老半天, \\n要我說, 這就特別沒禮貌. </value>
+		<value>...不, 我在開玩笑呢. 我跟Tektite說過一回. 他笑了老半天, \\n要我說, 這就特別沒禮貌. </value>
 	</entry>
 	<entry>
 		<key>Probe2Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</key>
@@ -7555,7 +7556,7 @@
 	</entry>
 	<entry>
 		<key>TooSickHurgh...</key>
-		<value>嘔哦……</value>
+		<value>嘔哦...</value>
 	</entry>
 	<entry>
 		<key>SpaceOh, I thought I heard you lift off. Change your mind?</key>
@@ -7619,7 +7620,7 @@
 	</entry>
 	<entry>
 		<key>Arkose4Whoa, really?! &lt;Pause=2&gt;...That is &lt;i&gt;so cool&lt;/i&gt;!</key>
-		<value>哇哦, 真的嗎? ! &lt;Pause=2&gt;……這可&lt;i&gt;真是太帥&lt;/i&gt;了! </value>
+		<value>哇哦, 真的嗎? ! &lt;Pause=2&gt;...這可&lt;i&gt;真是太帥&lt;/i&gt;了! </value>
 	</entry>
 	<entry>
 		<key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
@@ -7654,11 +7655,11 @@
 	</entry>
 	<entry>
 		<key>ShyKid1&lt;size=20&gt;...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>ShyKid2&lt;size=20&gt;...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>ShyKid2&lt;size=20&gt;Good luck in space.&lt;/size&gt;</key>
@@ -7666,27 +7667,27 @@
 	</entry>
 	<entry>
 		<key>ShyKid3&lt;size=20&gt;...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>FoundYou&lt;size=20&gt;...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>FoundYou&lt;size=20&gt;You found me...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;你找到我了……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;你找到我了...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>LastKidFound&lt;size=20&gt;...I won? I’m happy...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……我贏了嗎? 我真開心……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...我贏了嗎? 我真開心...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>LastKidFound&lt;size=20&gt;Thanks... for playing with us.&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;謝謝你……和我們一起玩. &lt;/size&gt;</value>
+		<value>&lt;size=20&gt;謝謝你...和我們一起玩. &lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>AlreadyFoundYou&lt;size=20&gt;...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;……&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignThis crystal was taken from a Nomai ruin on Brittle Hollow.</key>
@@ -7738,7 +7739,7 @@
 	</entry>
 	<entry>
 		<key>ModelRocketKid2Aww, you’re just saying that.&lt;Pause&gt; ...But if you &lt;i&gt;really&lt;/i&gt; want to practice with me, I &lt;i&gt;guess&lt;/i&gt; I could help you out a little.</key>
-		<value>哦, 你真是會說話. &lt;Pause&gt;……不過假如你&lt;i&gt;真的&lt;/i&gt;想要和我練習的話, \\n我&lt;i&gt;猜&lt;/i&gt;我倒是可以幫幫你. </value>
+		<value>哦, 你真是會說話. &lt;Pause&gt;...不過假如你&lt;i&gt;真的&lt;/i&gt;想要和我練習的話, \\n我&lt;i&gt;猜&lt;/i&gt;我倒是可以幫幫你. </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid3Yeah, we recalibrated the controls and installed better thrusters. Want to give it a test drive? Slate says it’s just like the real thing, only less likely to start a fire.</key>
@@ -7754,7 +7755,7 @@
 	</entry>
 	<entry>
 		<key>FailureYou’ll... you’ll be okay flying the big one, right?</key>
-		<value>你……你實際上天的時候應該不會這樣吧? </value>
+		<value>你...你實際上天的時候應該不會這樣吧? </value>
 	</entry>
 	<entry>
 		<key>SuccessWhat a landing! I guess that’s why Slate lets you fly the real thing, huh?</key>
@@ -7845,7 +7846,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck0Lot of history here. ...It’s great.</key>
-		<value>這里有不少的歷史古跡……挺不錯的. </value>
+		<value>這里有不少的歷史古跡...挺不錯的. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeck0What are you doing here?</key>
@@ -7865,15 +7866,15 @@
 	</entry>
 	<entry>
 		<key>RiebeckIntroOnly...</key>
-		<value>只不過……</value>
+		<value>只不過...</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroYou’ve... probably heard the others say it, right? I’m afraid of space. Seriously, I’m more surprised than anybody that I’m out here.</key>
-		<value>你……可能已經聽別人說過了, 對嗎? 我有太空恐懼癥. \\n真的, 自己居然能夠上太空, 這一點我比誰都要驚訝. </value>
+		<value>你...可能已經聽別人說過了, 對嗎? 我有太空恐懼癥. \\n真的, 自己居然能夠上太空, 這一點我比誰都要驚訝. </value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroDo you want to know how I even got this far? I fell. Tripped over a gravity crystal. It’s dumb luck I landed somewhere my Little Scout says is halfway stable, instead of being sucked into... &lt;i&gt;what’s below&lt;/i&gt;.</key>
-		<value>你想不想知道我是怎麽走這麽遠的? 我是掉下來的. 被重力水晶絆倒的. \\n按照我的小偵查兵的說法, 我走狗屎運, 落到了一個半穩定的地方, \\n而不是被吸到了……&lt;i&gt;下面去&lt;/i&gt;. </value>
+		<value>你想不想知道我是怎麽走這麽遠的? 我是掉下來的. 被重力水晶絆倒的. \\n按照我的小偵查兵的說法, 我走狗屎運, 落到了一個半穩定的地方, \\n而不是被吸到了...&lt;i&gt;下面去&lt;/i&gt;. </value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroI’ve been gauging the stability of the ground around me using my Little Scout, and this seems to be the place with the best surface integrity, so I’m just going to stay here until I’m ready to move on.</key>
@@ -7881,7 +7882,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckIntro...But that’s enough about me and my problems. You didn’t come all this way to listen to me blather, did you! Heh, that’d be... yeah.</key>
-		<value>……我和我的麻煩就說到這里吧. 你太老遠跑過來, 可不是聽我閑扯, \\n對不對! 哼, 當然不是. </value>
+		<value>...我和我的麻煩就說到這里吧. 你太老遠跑過來, 可不是聽我閑扯, \\n對不對! 哼, 當然不是. </value>
 	</entry>
 	<entry>
 		<key>Riebeck1Hi! ...What’s up?</key>
@@ -7925,7 +7926,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-		<value>如果你對碎空星的挪麥人有任何問題, 可以盡管來問我! 或者, \\n嗯……我是說, 我可以解答其中的一部分. 那麽. &lt;size=20&gt;需要我效勞嗎? &lt;/size&gt;</value>
+		<value>如果你對碎空星的挪麥人有任何問題, 可以盡管來問我! 或者, \\n嗯...我是說, 我可以解答其中的一部分. 那麽. &lt;size=20&gt;需要我效勞嗎? &lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
@@ -7973,7 +7974,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI went to the comet, and...</key>
-		<value>我登上了彗星, 並且……</value>
+		<value>我登上了彗星, 並且...</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI TALKED TO A LIVING NOMAI!</key>
@@ -7989,7 +7990,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1Wow! So then, the Nomai probably came here from somewhere outside the solar system. And they must have been in trouble when they launched their escape pod... but what kind of trouble?</key>
-		<value>哇哦! 這麽說來, 挪麥人可能來自於這個太陽系以外的地方. 他們發射\\n逃生艙的時候一定是遇到了麻煩……可是他們遇到了什麽麻煩呢? </value>
+		<value>哇哦! 這麽說來, 挪麥人可能來自於這個太陽系以外的地方. 他們發射\\n逃生艙的時候一定是遇到了麻煩...可是他們遇到了什麽麻煩呢? </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1And where did the escape pod launch from? I’m so curious!</key>
@@ -8013,7 +8014,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2Hey, I... I might not be much of an astronaut, but I’m really glad I came out here to see the Nomai’s artifacts for myself. And, um, thanks for telling me. &lt;Pause/&gt;About the Vessel, I mean.</key>
-		<value>嘿, 我……作為宇航員, 我也許算不上有多出色, \\n但我真的很高興能夠來到這里, 親眼目睹挪麥人的文物. 而且, 嗯, \\n謝謝你能夠告訴我. &lt;Pause/&gt;我是說, 關於飛船的事情. </value>
+		<value>嘿, 我...作為宇航員, 我也許算不上有多出色, \\n但我真的很高興能夠來到這里, 親眼目睹挪麥人的文物. 而且, 嗯, \\n謝謝你能夠告訴我. &lt;Pause/&gt;我是說, 關於飛船的事情. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3Isn’t it amazing? Hard to believe the settlement is still standing, but there it is.</key>
@@ -8033,7 +8034,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4Why they chose to build their most advanced settlement so close to a &lt;i&gt;you-know-what&lt;/i&gt; is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the &lt;size=20&gt;black hole&lt;/size&gt; for something?</key>
-		<value>至於他們為什麽要把自己最先進的定居點建造在距離&lt;i&gt;那玩意兒&lt;/i&gt;\\n這麽近的地方, 這我可說不上來. 不過, 也許對挪麥人而言, \\n那種東西他們用得著……也許他們需要&lt;size=20&gt;黑洞&lt;/size&gt;? </value>
+		<value>至於他們為什麽要把自己最先進的定居點建造在距離&lt;i&gt;那玩意兒&lt;/i&gt;\\n這麽近的地方, 這我可說不上來. 不過, 也許對挪麥人而言, \\n那種東西他們用得著...也許他們需要&lt;size=20&gt;黑洞&lt;/size&gt;? </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5You mean there’s another Nomai city &lt;i&gt;inside&lt;/i&gt; of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!</key>
@@ -8065,7 +8066,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7That’s... really sad, isn’t it? I know it was a long time ago, but still...</key>
-		<value>那可真是……太遺憾了, 不是嗎? 我知道事情已經過去了很久, 可是……</value>
+		<value>那可真是...太遺憾了, 不是嗎? 我知道事情已經過去了很久, 可是...</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7Stars above, it’s lucky we hadn’t evolved to live on land yet.</key>
@@ -8077,7 +8078,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7But...</key>
-		<value>可是……</value>
+		<value>可是...</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7I guess if I hadn’t wanted to learn why the Nomai disappeared, I’d never have left Timber Hearth and come out here, or had any of these adventures.</key>
@@ -8085,7 +8086,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7...Don’t get me wrong, space is terrifying! But, you know, it has its moments.</key>
-		<value>……別搞錯了, 太空可是非常恐怖的地方! \\n不過, 你也知道, 它也有自己的美妙之處. </value>
+		<value>...別搞錯了, 太空可是非常恐怖的地方! \\n不過, 你也知道, 它也有自己的美妙之處. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8AHHH! That doesn’t make any sense! I don’t understand! I am very excited for you, though! P-please stop yelling!</key>
@@ -8093,7 +8094,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
-		<value>……什麽? 你是說在量子衛星上? &lt;Pause&gt;量子衛星上有活著的挪麥人? ! </value>
+		<value>...什麽? 你是說在量子衛星上? &lt;Pause&gt;量子衛星上有活著的挪麥人? ! </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8WELL, WHY DIDN’T YOU SAY SO?!</key>
@@ -8109,7 +8110,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Okay, yeah, that’s... that’s not so bad. &lt;Pause&gt;&lt;size=20&gt;That’s probably doable...&lt;/size&gt;</key>
-		<value>好的, 很好, 這也……也沒那麽糟糕. &lt;Pause&gt;&lt;size=20&gt;說不定還是可行的……&lt;/size&gt;</value>
+		<value>好的, 很好, 這也...也沒那麽糟糕. &lt;Pause&gt;&lt;size=20&gt;說不定還是可行的...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignThis piece of Nomai writing was essential to deciphering their unique language.</key>
@@ -8177,7 +8178,7 @@
 	</entry>
 	<entry>
 		<key>SignWatch closely... these balls move on their own!</key>
-		<value>仔細觀察……這些球體會自己移動! </value>
+		<value>仔細觀察...這些球體會自己移動! </value>
 	</entry>
 	<entry>
 		<key>SignThe ground is perfectly level, so what do you think causes this spooky motion?</key>
@@ -8373,7 +8374,7 @@
 	</entry>
 	<entry>
 		<key>Who’s been computing shuttle trajectories to the &lt;color=orange&gt;Sun Station&lt;/color&gt;? Don’t worry; the station is in such a low stellar orbit, we’ve constructed a different, safer way to travel there from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>是誰在一直計算航天飛機飛往&lt;color=orange&gt;太陽站&lt;/color&gt;的軌道? 別擔心；太陽站所處的\\n恒星軌道非常低. 我們已經實現了另一種更加安全的方法, \\n可以從&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;前往那里. </value>
+		<value>是誰在一直計算航天飛機飛往&lt;color=orange&gt;太陽站&lt;/color&gt;的軌道? 別擔心; 太陽站所處的\\n恒星軌道非常低. 我們已經實現了另一種更加安全的方法, \\n可以從&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;前往那里. </value>
 	</entry>
 	<entry>
 		<key>IDAEA: That would be Pye. I told her we wouldn’t be traveling there by &lt;color=orange&gt;shuttle&lt;/color&gt;, and that the &lt;color=orange&gt;Sun Station&lt;/color&gt; doesn’t even have a landing pad, but she said she knew.</key>
@@ -8521,7 +8522,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: ...See how its eyes have opened? That tells us the statue has paired with Daz. Now, no matter where he is in this star system, Daz’s statue will record his memories and send them to the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>PHLOX: ……看見它睜開眼睛的樣子了嗎? 這說明雕像已經\\n和DAZ進行了匹配. 現在, 不管DAZ處在這個星系的什麽地方, \\n雕像都會把他的回憶記錄下來, 並發往&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;. </value>
+		<value>PHLOX: ...看見它睜開眼睛的樣子了嗎? 這說明雕像已經\\n和DAZ進行了匹配. 現在, 不管DAZ處在這個星系的什麽地方, \\n雕像都會把他的回憶記錄下來, 並發往&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>YARROW: This is extraordinary sculpting work, Phlox!</key>
@@ -8605,7 +8606,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Given the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s moon, it’s likely that any characteristics the moon exhibits are also exhibited by the Eye itself. The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; and its shards, for instance, are quantum; thus, the &lt;color=lightblue&gt;Eye&lt;/color&gt; is likely also quantum.</key>
-		<value>SOLANUM: 鑒於&lt;color=lightblue&gt;量子衛星&lt;/color&gt;是&lt;color=lightblue&gt;眼&lt;/color&gt;的衛星, 那麽很可能眼也會\\n具備衛星所展現出來的所有特性. 比如說, &lt;color=lightblue&gt;量子衛星&lt;/color&gt;及其\\n碎片是量子態的；因此, &lt;color=lightblue&gt;眼&lt;/color&gt;很可能也是量子態的. </value>
+		<value>SOLANUM: 鑒於&lt;color=lightblue&gt;量子衛星&lt;/color&gt;是&lt;color=lightblue&gt;眼&lt;/color&gt;的衛星, 那麽很可能眼也會\\n具備衛星所展現出來的所有特性. 比如說, &lt;color=lightblue&gt;量子衛星&lt;/color&gt;及其\\n碎片是量子態的; 因此, &lt;color=lightblue&gt;眼&lt;/color&gt;很可能也是量子態的. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: In fact, this moon is probably quantum because its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt; made it quantum, the same way the areas surrounding quantum shards that landed on other planets eventually became quantum, too.</key>
@@ -8669,7 +8670,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: These are the two tenets of Nomai philosophy; to seek out and to understand is our way of living.</key>
-		<value>SOLANUM: 挪麥人信奉兩大人生信條；尋找和理解是我們生命的意義. </value>
+		<value>SOLANUM: 挪麥人信奉兩大人生信條; 尋找和理解是我們生命的意義. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
@@ -8725,7 +8726,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: Ideally, they’ll only need to activate once the project succeeds; as a safety measure, however, the statues will also activate in the event of equipment failure.</key>
-		<value>PHLOX: 理想的情況下, 我們只需要在計劃成功時啟動它們；\\n不過作為安全措施, 這些雕像也會在設備出現故障的時候被啟動. </value>
+		<value>PHLOX: 理想的情況下, 我們只需要在計劃成功時啟動它們; \\n不過作為安全措施, 這些雕像也會在設備出現故障的時候被啟動. </value>
 	</entry>
 	<entry>
 		<key>RAMIE: They will? Why is that?</key>
@@ -8825,7 +8826,7 @@
 	</entry>
 	<entry>
 		<key>PYE: How curious; Ramie thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Idaea.</key>
-		<value>PYE: 真是奇怪；RAMIE竟然覺得我真有意思. \\nIDAEA, 我不記得曾要求你要監控這段對話. </value>
+		<value>PYE: 真是奇怪; RAMIE竟然覺得我真有意思. \\nIDAEA, 我不記得曾要求你要監控這段對話. </value>
 	</entry>
 	<entry>
 		<key>IDAEA: I don’t see what state of matter you are has to do with this. And I don’t recall supporting the &lt;color=orange&gt;Sun Station&lt;/color&gt;’s construction, but here we are.</key>
@@ -8905,7 +8906,7 @@
 	</entry>
 	<entry>
 		<key>Chert1...Er, maybe don’t tell Hornfels, either. I think they’re pretty deep in denial.</key>
-		<value>……呃, 也別告訴Hornfels. 我覺得他一定會大力否認的. </value>
+		<value>...呃, 也別告訴Hornfels. 我覺得他一定會大力否認的. </value>
 	</entry>
 	<entry>
 		<key>Chert2To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
@@ -8993,7 +8994,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>太陽最近, 確實……&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
+		<value>太陽最近, 確實...&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
@@ -9041,15 +9042,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話……</value>
+		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Is that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-		<value>你覺得沿著太陽軌道運行的就是它? 這個……太陽站? </value>
+		<value>你覺得沿著太陽軌道運行的就是它? 這個...太陽站? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難……里面也一定很熱. 我簡直無法想象! </value>
+		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難...里面也一定很熱. 我簡直無法想象! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
@@ -9057,23 +9058,23 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6You - what? I don’t... um. What?</key>
-		<value>你……什麽? 我不……唔. 什麽? </value>
+		<value>你...什麽? 我不...唔. 什麽? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;……正在死亡? </value>
+		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;...正在死亡? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-		<value>如果……如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星……算了, 如果這是真的, \\n那一切還有什麽意義……哦……</value>
+		<value>如果...如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星...算了, 如果這是真的, \\n那一切還有什麽意義...哦...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6I’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意……</value>
+		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意...</value>
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaiB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許……? </value>
+		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7Nothing you’d like to discuss at the moment? That’s no trouble! If you do discover anything you want to talk about, I’d be happy to help!</key>
@@ -9085,11 +9086,11 @@
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationHornfels noticed our star charts are out of date, so I came out here to update them. But something seems... &lt;Pause=0.5&gt;how to put this... &lt;Pause=0.5&gt;off.</key>
-		<value>Hornfels注意到我們的星圖太舊, 所以他叫我更新一下. \\n但有什麽似乎……&lt;Pause=0.5&gt;要怎麽……&lt;Pause=0.5&gt;說呢. </value>
+		<value>Hornfels注意到我們的星圖太舊, 所以他叫我更新一下. \\n但有什麽似乎...&lt;Pause=0.5&gt;要怎麽...&lt;Pause=0.5&gt;說呢. </value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationI’ve seen, what, ten supernovae by now? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常……</value>
+		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常...</value>
 	</entry>
 	<entry>
 		<key>ChertIntro2Hm? Oh, you’re back.</key>
@@ -9097,11 +9098,11 @@
 	</entry>
 	<entry>
 		<key>ChertIntro2Say, have you noticed anything unusual about the stars lately? Something seems...&lt;Pause=0.5&gt; how to put this... &lt;Pause=0.5&gt;off.</key>
-		<value>這麽說吧, 你最近有注意到恒星有什麽不同尋常之處嗎? \\n但有什麽似乎……&lt;Pause=0.5&gt;要怎麽……&lt;Pause=0.5&gt;說呢. </value>
+		<value>這麽說吧, 你最近有注意到恒星有什麽不同尋常之處嗎? \\n但有什麽似乎...&lt;Pause=0.5&gt;要怎麽...&lt;Pause=0.5&gt;說呢. </value>
 	</entry>
 	<entry>
 		<key>ChertIntro2I’ve seen, what, ten supernovae already? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常……</value>
+		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondaryHello again.</key>
@@ -9117,7 +9118,7 @@
 	</entry>
 	<entry>
 		<key>Chert1Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - &lt;i&gt;too&lt;/i&gt; many supernovae.</key>
-		<value>唔, 我是……是這樣, 我本來到這兒是要更新我們的星圖. 不過現在, \\n我正在試著搞清楚這些恒星出了什麽事. 這兒有這麽多……\\n&lt;i&gt;太&lt;/i&gt;多超新星了. </value>
+		<value>唔, 我是...是這樣, 我本來到這兒是要更新我們的星圖. 不過現在, \\n我正在試著搞清楚這些恒星出了什麽事. 這兒有這麽多...\\n&lt;i&gt;太&lt;/i&gt;多超新星了. </value>
 	</entry>
 	<entry>
 		<key>Chert1Why are so many stars dying out? I’ve never seen anything like this.</key>
@@ -9161,7 +9162,7 @@
 	</entry>
 	<entry>
 		<key>Chert4Honestly, I'm not fond of either option! If our charts are wrong, what else is wrong? And our sun...</key>
-		<value>老實說, 這兩種說法我都不喜歡! 如果我們的星圖錯了, \\n那麽還有什麽也是錯的? 而我們的太陽……</value>
+		<value>老實說, 這兩種說法我都不喜歡! 如果我們的星圖錯了, \\n那麽還有什麽也是錯的? 而我們的太陽...</value>
 	</entry>
 	<entry>
 		<key>Chert4No, I shouldn't jump to conclusions. I- I'm probably overlooking something. That's it, I just need to collect more data.</key>
@@ -9177,7 +9178,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething1bIt’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>太陽最近, 確實……&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
+		<value>太陽最近, 確實...&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bI’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
@@ -9225,15 +9226,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4bUnfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話……</value>
+		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bIs that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-		<value>你覺得沿著太陽軌道運行的就是它? 這個……太陽站? </value>
+		<value>你覺得沿著太陽軌道運行的就是它? 這個...太陽站? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bQuite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難……里面也一定很熱. 我簡直無法想象! </value>
+		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難...里面也一定很熱. 我簡直無法想象! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bI wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
@@ -9241,23 +9242,23 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6bYou - what? I don’t... um. What?</key>
-		<value>你……什麽? 我不……唔. 什麽? </value>
+		<value>你...什麽? 我不...唔. 什麽? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bYou mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;……正在死亡? </value>
+		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;...正在死亡? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bIf... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-		<value>如果……如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星……算了, 如果這是真的, \\n那一切還有什麽意義……哦……</value>
+		<value>如果...如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星...算了, 如果這是真的, \\n那一切還有什麽意義...哦...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bI’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意……</value>
+		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意...</value>
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaibB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許……? </value>
+		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7bNothing you’d like to discuss at the moment? That’s no trouble! If you do find something you wish to discuss, please, come find me! I’ll be here studying the stars for a while yet.</key>
@@ -9273,7 +9274,7 @@
 	</entry>
 	<entry>
 		<key>ChertSecondaryPlease, just... Leave me alone, won’t you?</key>
-		<value>拜托……讓我一個人待著, 好嗎? </value>
+		<value>拜托...讓我一個人待著, 好嗎? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhat do you mean, "we’re next"?</key>
@@ -9285,15 +9286,15 @@
 	</entry>
 	<entry>
 		<key>ChertNextIt’s the stars, you see. All the other stars are dying out. Oh, why did we have to be born at the end of the universe? And our sun, it...</key>
-		<value>你知道的, 是恒星. 所有這些恒星都在滅亡. 哦, 為什麽\\n我們要出生在宇宙的末日? 還有我們的太陽, 它……</value>
+		<value>你知道的, 是恒星. 所有這些恒星都在滅亡. 哦, 為什麽\\n我們要出生在宇宙的末日? 還有我們的太陽, 它...</value>
 	</entry>
 	<entry>
 		<key>ChertNextThe star charts! Why? Why did I want to update them so badly? I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-		<value>星圖! 為什麽? 為什麽我這麽想更新星圖? 我也沒必要知道, 但不, \\n哦不, 我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要……就要……哦……</value>
+		<value>星圖! 為什麽? 為什麽我這麽想更新星圖? 我也沒必要知道, 但不, \\n哦不, 我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要...就要...哦...</value>
 	</entry>
 	<entry>
 		<key>ChertNext...I don’t feel well. I’d like to be alone, please.</key>
-		<value>……我不太舒服. 請讓我一個人待著吧. </value>
+		<value>...我不太舒服. 請讓我一個人待著吧. </value>
 	</entry>
 	<entry>
 		<key>FoundSomethingWhy, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</key>
@@ -9309,11 +9310,11 @@
 	</entry>
 	<entry>
 		<key>Chert1The star charts! It’s all the star charts’ fault! I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-		<value>星圖! 都是星圖的錯! 我也沒必要知道, 但不, 哦不, \\n我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要……就要……哦……</value>
+		<value>星圖! 都是星圖的錯! 我也沒必要知道, 但不, 哦不, \\n我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要...就要...哦...</value>
 	</entry>
 	<entry>
 		<key>Chert1...I don’t feel well. I’d like to be alone, please.</key>
-		<value>……我不太舒服. 請讓我一個人待著吧. </value>
+		<value>...我不太舒服. 請讓我一個人待著吧. </value>
 	</entry>
 	<entry>
 		<key>Chert2Where should you &lt;i&gt;go&lt;/i&gt;? Where can anyone go? Can’t you see it’s too late now?</key>
@@ -9333,7 +9334,7 @@
 	</entry>
 	<entry>
 		<key>Chert3I... I don’t feel well. I’d like to be alone, please. I can’t believe this...</key>
-		<value>我……我不太舒服. 請讓我一個人待著吧. 真是不敢相信……</value>
+		<value>我...我不太舒服. 請讓我一個人待著吧. 真是不敢相信...</value>
 	</entry>
 	<entry>
 		<key>Chert4I don't know — they're old! Far older than we realized and now all of them are dying!</key>
@@ -9349,11 +9350,11 @@
 	</entry>
 	<entry>
 		<key>Chert5I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I &lt;i&gt;won’t&lt;/i&gt; believe it!</key>
-		<value>我不相信. 我不敢相信會發生這樣的事. 我不……我不! \\n我&lt;i&gt;不會&lt;/i&gt;相信的! </value>
+		<value>我不相信. 我不敢相信會發生這樣的事. 我不...我不! \\n我&lt;i&gt;不會&lt;/i&gt;相信的! </value>
 	</entry>
 	<entry>
 		<key>ChertIntroOh, hello...</key>
-		<value>哦, 你好……</value>
+		<value>哦, 你好...</value>
 	</entry>
 	<entry>
 		<key>QuestionsCome, sit with me, my fellow traveler. Let’s sit together and watch the stars die.</key>
@@ -9373,7 +9374,7 @@
 	</entry>
 	<entry>
 		<key>Chert1We only get so much time, don’t we? Ah, there was still more I wanted to do...</key>
-		<value>我們的時間就這麽點, 不是嗎? 啊, 我還有許多想做的事呢……</value>
+		<value>我們的時間就這麽點, 不是嗎? 啊, 我還有許多想做的事呢...</value>
 	</entry>
 	<entry>
 		<key>Chert1How unlucky to have been born at the end of the universe.</key>
@@ -9389,19 +9390,19 @@
 	</entry>
 	<entry>
 		<key>Chert3Perhaps you’re right. ...Yes, we should face this alone. That’s the way.</key>
-		<value>也許你說得對……沒錯, 我們應該獨自面對這個問題. 就是這樣. </value>
+		<value>也許你說得對...沒錯, 我們應該獨自面對這個問題. 就是這樣. </value>
 	</entry>
 	<entry>
 		<key>Chert3We enter this world alone, and we leave it alone...</key>
-		<value>我們孤獨地來到世上, 再孤獨地離去……</value>
+		<value>我們孤獨地來到世上, 再孤獨地離去...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondary1Any minute now...</key>
-		<value>任何時候……</value>
+		<value>任何時候...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondary2A time loop, you said? I like that idea...</key>
-		<value>你說時間循環? 我喜歡這想法……</value>
+		<value>你說時間循環? 我喜歡這想法...</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersThe stars were beautiful, weren’t they? Even if our star is what ultimately killed us.</key>
@@ -9549,7 +9550,7 @@
 	</entry>
 	<entry>
 		<key>SpyWhat? No! It’s not spying, it’s...</key>
-		<value>什麽? 不! 不是監視, 只是……</value>
+		<value>什麽? 不! 不是監視, 只是...</value>
 	</entry>
 	<entry>
 		<key>SpyIt’s one-way communication. That none of the villagers know about. &lt;size=20&gt;Because I’ve never told them&lt;/size&gt;.</key>
@@ -9569,11 +9570,11 @@
 	</entry>
 	<entry>
 		<key>PlaceHa ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</key>
-		<value>哈哈, 非常有趣. &lt;Pause/&gt;……哦, 群星在上, 你是認真的對吧? 真讓人沮喪. </value>
+		<value>哈哈, 非常有趣. &lt;Pause/&gt;...哦, 群星在上, 你是認真的對吧? 真讓人沮喪. </value>
 	</entry>
 	<entry>
 		<key>Place&lt;color=grey&gt;Sigh...&lt;/color&gt;&lt;Pause/&gt;Welcome to the Lunar Outpost, which apparently the space program doesn’t bother to teach anyone anymore.</key>
-		<value>&lt;color=grey&gt;唉…… &lt;/color&gt;&lt;Pause/&gt;歡迎來到月球基地, 顯然現在太空計劃連教學工作都懶得做了. </value>
+		<value>&lt;color=grey&gt;唉... &lt;/color&gt;&lt;Pause/&gt;歡迎來到月球基地, 顯然現在太空計劃連教學工作都懶得做了. </value>
 	</entry>
 	<entry>
 		<key>PlaceWhen we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</key>
@@ -9593,7 +9594,7 @@
 	</entry>
 	<entry>
 		<key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
-		<value>你好, 又見面了. 你還沒在這衛星上待夠? ……我開玩笑的. </value>
+		<value>你好, 又見面了. 你還沒在這衛星上待夠? ...我開玩笑的. </value>
 	</entry>
 	<entry>
 		<key>FirstConversationDo you hear music?</key>
@@ -9625,7 +9626,7 @@
 	</entry>
 	<entry>
 		<key>FarewellWow... How long has it been since I got to make music with everyone around a campfire?</key>
-		<value>哇……自從上次我和大家圍著營火演奏音樂以來, 已經過去多久了? </value>
+		<value>哇...自從上次我和大家圍著營火演奏音樂以來, 已經過去多久了? </value>
 	</entry>
 	<entry>
 		<key>FarewellI’m really happy we’re all here.</key>
@@ -9673,7 +9674,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalTrip 4(?), entry #... I’m gonna say “not 1.”  \\n Crashes: 3 \\n Boring crashes: 0 (a personal best!)</key>
-		<value>第四次出發 (? ) , 第……我想說, “不是第一條. ” \\n墜毀次數: 3\\n無聊的墜機次數: 0 (個人最佳記錄! ) </value>
+		<value>第四次出發 (? ) , 第...我想說, “不是第一條. ” \\n墜毀次數: 3\\n無聊的墜機次數: 0 (個人最佳記錄! ) </value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
@@ -9705,7 +9706,7 @@
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro...What?</key>
-		<value>……什麽? </value>
+		<value>...什麽? </value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbroMe too!</key>
@@ -9745,7 +9746,7 @@
 	</entry>
 	<entry>
 		<key>ExplanationMergeIt didn’t seem bad, just... weird? Were we the only ones who saw that happen?</key>
-		<value>看起來它沒有什麽惡意, 只是……感覺怪怪的? \\n只有我們目睹了這一切的發生嗎? </value>
+		<value>看起來它沒有什麽惡意, 只是...感覺怪怪的? \\n只有我們目睹了這一切的發生嗎? </value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeI tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</key>
@@ -9789,7 +9790,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽……你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了……明白了嗎? </value>
+		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
 	</entry>
 	<entry>
 		<key>WhereToExploreI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9797,7 +9798,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExploreIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧……差不多連著. 你會明白的. </value>
+		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanetHaha, I know, right?</key>
@@ -9805,7 +9806,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>……哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanetThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
@@ -9905,7 +9906,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽……你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了……明白了嗎? </value>
+		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9913,7 +9914,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧……差不多連著. 你會明白的. </value>
+		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FHaha, I know, right?</key>
@@ -9921,7 +9922,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>……哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
@@ -9969,7 +9970,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro2T_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a weird dream or something. But stars above, what’s going on, then? And then there was that thing with the Nomai statue earlier...</key>
-		<value>嗯, 如果你還記得當時快死了, 那我猜我並沒有睡著, 也沒有做什麽\\n怪夢. 可是群星在上, 這是怎麽回事? 還有先前挪麥雕像那件事……</value>
+		<value>嗯, 如果你還記得當時快死了, 那我猜我並沒有睡著, 也沒有做什麽\\n怪夢. 可是群星在上, 這是怎麽回事? 還有先前挪麥雕像那件事...</value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like the time with that statue. Do you think the Nomai statues are related to us dying somehow?</key>
@@ -9977,7 +9978,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro2T_4So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-		<value>所以……我們死了, 但又沒死? 這種事情對哈斯人可不常見. </value>
+		<value>所以...我們死了, 但又沒死? 這種事情對哈斯人可不常見. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4I am going to need to do some serious thinking before I come up with any theories. Maybe I’ll have figured something out by the next time you come by.</key>
@@ -10013,7 +10014,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽……你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上找\\n到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了……明白了嗎? </value>
+		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上找\\n到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -10021,7 +10022,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧……差不多連著. 你會明白的. </value>
+		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2THaha, I know, right?</key>
@@ -10029,7 +10030,7 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_2T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>……哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
@@ -10145,11 +10146,11 @@
 	</entry>
 	<entry>
 		<key>Curator3Let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep, last I checked.</key>
-		<value>我們來看看……我記得Chert在沙漏雙星, Riebeck在碎空星, \\nGabbro在深巨星. </value>
+		<value>我們來看看...我記得Chert在沙漏雙星, Riebeck在碎空星, \\nGabbro在深巨星. </value>
 	</entry>
 	<entry>
 		<key>Curator3And... Well, there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even alive.</key>
-		<value>還有……好吧, 很顯然還有Feldspar. \\n不過我們其實並不知道他在哪里, 也不知道他是否還活著. </value>
+		<value>還有...好吧, 很顯然還有Feldspar. \\n不過我們其實並不知道他在哪里, 也不知道他是否還活著. </value>
 	</entry>
 	<entry>
 		<key>Curator3Feldspar has been lost for a very long time, I’m afraid.</key>
@@ -10157,7 +10158,7 @@
 	</entry>
 	<entry>
 		<key>Curator3...On a more cheerful note, you’ll find Esker stationed on the Attlerock. They’re not a traveler so much as a lunar local, but I’m sure they’d appreciate a visit nevertheless.</key>
-		<value>……樂觀點看, 你還能找到駐紮在廢巖星的Esker. \\n他不是旅行家也不是月球本地人, 但我肯定他會歡迎你的造訪. </value>
+		<value>...樂觀點看, 你還能找到駐紮在廢巖星的Esker. \\n他不是旅行家也不是月球本地人, 但我肯定他會歡迎你的造訪. </value>
 	</entry>
 	<entry>
 		<key>Curator4I like it! You’ll have plenty of options to choose from.</key>
@@ -10169,7 +10170,7 @@
 	</entry>
 	<entry>
 		<key>Curator4I must say... Should you choose to go to Dark Bramble, be &lt;i&gt;very&lt;/i&gt; careful. No one’s explored there before, either, for what you’ll find are excellent reasons.</key>
-		<value>我必須說……如果你選擇去黑棘星, 一定要&lt;i&gt;非常&lt;/i&gt;小心. \\n之前從沒人去那里探索過, 至於原因, 你馬上就會知道了. </value>
+		<value>我必須說...如果你選擇去黑棘星, 一定要&lt;i&gt;非常&lt;/i&gt;小心. \\n之前從沒人去那里探索過, 至於原因, 你馬上就會知道了. </value>
 	</entry>
 	<entry>
 		<key>Curator5You’d prefer to ease into things? That’s a sensible plan! More sensible than most of our astronauts tend to be, and that’s a fact.</key>
@@ -10273,7 +10274,7 @@
 	</entry>
 	<entry>
 		<key>CuratorOtherTravelersWell, let’s see... Chert is on the Hourglass Twins, Riebeck is on Brittle Hollow, and Gabbro is on Giant’s Deep.</key>
-		<value>好吧, 我們來看看……Chert在沙漏雙星, Riebeck在碎空星, \\nGabbro在深巨星. </value>
+		<value>好吧, 我們來看看...Chert在沙漏雙星, Riebeck在碎空星, \\nGabbro在深巨星. </value>
 	</entry>
 	<entry>
 		<key>CuratorOtherTravelersAnd... there’s Feldspar, obviously, but of course we don’t know where they are, or if they’re even still alive.</key>
@@ -10297,7 +10298,7 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAnd then one day, they just... didn’t come back. We don’t know what happened, or where Feldspar went, or even whether they’re still alive.</key>
-		<value>然後有一天, 他就……再也沒回來. 我們不知道出了什麽事, \\n也不知道Feldspar去了哪里, 甚至不知道他是否還活著. </value>
+		<value>然後有一天, 他就...再也沒回來. 我們不知道出了什麽事, \\n也不知道Feldspar去了哪里, 甚至不知道他是否還活著. </value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparIt’s been a long time since they left.</key>
@@ -10309,11 +10310,11 @@
 	</entry>
 	<entry>
 		<key>CuratorEyesOpen...How wonderful for you.</key>
-		<value>……多麽神奇啊. </value>
+		<value>...多麽神奇啊. </value>
 	</entry>
 	<entry>
 		<key>CuratorEyesOpenNo, truly, that’s wonderful! It really is. ...Even if I &lt;i&gt;have&lt;/i&gt; been pouring over it every night for weeks. It’s stupendous you were able to get a reaction from the statue just by glancing at it a few times.</key>
-		<value>不, 說真的, 太神奇了! 確實很神奇……雖然我連續幾周每天晚上都\\n&lt;i&gt;一直&lt;/i&gt;在盯著它看. 可你只是瞥了它幾眼, \\n它就做出了這樣的反應, 真是叫人吃驚. </value>
+		<value>不, 說真的, 太神奇了! 確實很神奇...雖然我連續幾周每天晚上都\\n&lt;i&gt;一直&lt;/i&gt;在盯著它看. 可你只是瞥了它幾眼, \\n它就做出了這樣的反應, 真是叫人吃驚. </value>
 	</entry>
 	<entry>
 		<key>CuratorEyesOpenErgh, sorry, that’s not a very scientific thing to say, is it? I &lt;i&gt;am&lt;/i&gt; glad. I’m just also insufferably, &lt;i&gt;profoundly&lt;/i&gt; jealous. You’ll have to forgive me.</key>
@@ -10345,7 +10346,7 @@
 	</entry>
 	<entry>
 		<key>CuratorEyesOpenLoop2Hey, look at this - the statue opened its eyes! Bet you wish you’d seen that happen, huh?&lt;Pause/&gt;&lt;color=grey&gt; Sigh...&lt;/color&gt; Me, too.</key>
-		<value>嘿, 你看——雕像睜眼了! 沒看到是不是很遺憾啊? &lt;Pause/&gt;&lt;color=grey&gt;唉……&lt;/color&gt;其實我也是. </value>
+		<value>嘿, 你看——雕像睜眼了! 沒看到是不是很遺憾啊? &lt;Pause/&gt;&lt;color=grey&gt;唉...&lt;/color&gt;其實我也是. </value>
 	</entry>
 	<entry>
 		<key>CuratorEyesOpenLoop2I’m not even a little closer to understanding what’s going on with this statue.</key>
@@ -10357,7 +10358,7 @@
 	</entry>
 	<entry>
 		<key>SignThis is incredible! At first I thought the points of light in this image were stars, but they’re not... they’re &lt;i&gt;galaxies&lt;/i&gt;!</key>
-		<value>這真是太不可思議了! 一開始, 我以為這張圖片里的光點是恒星, \\n其實不是……它們是&lt;i&gt;星系&lt;/i&gt;! </value>
+		<value>這真是太不可思議了! 一開始, 我以為這張圖片里的光點是恒星, \\n其實不是...它們是&lt;i&gt;星系&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>SignAnd this image covers just a tiny patch of the whole sky, which means the universe contains at least a thousand times more galaxies than we previously imagined.</key>
@@ -10365,7 +10366,7 @@
 	</entry>
 	<entry>
 		<key>SignI... I think I need to sit down.</key>
-		<value>我……我覺得我得先坐下. </value>
+		<value>我...我覺得我得先坐下. </value>
 	</entry>
 	<entry>
 		<key>SignHmmm, this is odd. According to my redshift calculations, every single galaxy in this image is moving away from us.</key>
@@ -10473,11 +10474,11 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersI’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</key>
-		<value>我很確定下一部分我們需要其他人. 我們需要, 你知道的……每一個人. </value>
+		<value>我很確定下一部分我們需要其他人. 我們需要, 你知道的...每一個人. </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersNo rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</key>
-		<value>別急! 慢慢來.  (要是它還在這兒的話……) </value>
+		<value>別急! 慢慢來.  (要是它還在這兒的話...) </value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayShould I begin?</key>
@@ -10505,7 +10506,7 @@
 	</entry>
 	<entry>
 		<key>FarewellThe past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</key>
-		<value>過去的都過去了, 至於現在……你知道的, 都沒關系了! 過去並不會真正\\n逝去. 我們雖無法預見, 但未來其實總是建立在過去之上. </value>
+		<value>過去的都過去了, 至於現在...你知道的, 都沒關系了! 過去並不會真正\\n逝去. 我們雖無法預見, 但未來其實總是建立在過去之上. </value>
 	</entry>
 	<entry>
 		<key>FarewellStill, it’s, um, time for something new, now.</key>
@@ -12436,7 +12437,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
-			<value>“觀察一個量子對象；觀察一個量子對象的圖形. 它們是一樣的事情. ”</value>
+			<value>“觀察一個量子對象; 觀察一個量子對象的圖形. 它們是一樣的事情. ”</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
@@ -13018,11 +13019,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>181</key>
-			<value> 秒……</value>
+			<value> 秒...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>182</key>
-			<value> 秒……</value>
+			<value> 秒...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>183</key>
@@ -13918,7 +13919,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
-			<value>使用遊戲手柄能享有最佳的&lt;color=orange&gt;Outer Wilds&lt;/color&gt;遊戲體驗……</value>
+			<value>使用遊戲手柄能享有最佳的&lt;color=orange&gt;Outer Wilds&lt;/color&gt;遊戲體驗...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>520</key>
@@ -13930,7 +13931,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
-			<value>輸入文本……</value>
+			<value>輸入文本...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>523</key>
@@ -14690,7 +14691,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
-			<value>正在加載…… </value>
+			<value>正在加載... </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>961</key>
@@ -14722,7 +14723,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>無法收回偵查兵；目標過多</value>
+			<value>無法收回偵查兵; 目標過多</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
@@ -14810,7 +14811,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1001</key>
-			<value>輸入個人資料名稱……</value>
+			<value>輸入個人資料名稱...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1002</key>
