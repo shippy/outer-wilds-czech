@@ -4346,130 +4346,130 @@
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This tower shares with all who ask the knowledge needed to make his or her first quantum journey.</key>
-		<value>歡迎來到這個地方。這座高塔有求必應，會和任何人分享他或者她踏上\\n第一次量子之旅需要了解的知識。</value>
+		<value>Vítejte na tomto místě. Tato věž sdílí se všemi, kdo jej vyžadují, poznání nutné pro jeho či její první kvantovou výpravu.</value>
 	</entry>
 	<entry>
 		<key>Enter this place without friends, however; these are lessons to learn for yourself.</key>
-		<value>但是，只能孤身進入；其中的道理你要自己去領會。</value>
+		<value>Vstup do tohoto místa bez přátel; tyto lekce se musíš naučit ty sám či sama.</value>
 	</entry>
 	<entry>
 		<key>Seek the wandering arch.</key>
-		<value>尋找流浪拱門。</value>
+		<value>Hledej toulavý oblouk.</value>
 	</entry>
 	<entry>
 		<key>Observing a quantum object; observing an image of a quantum object. These are the same.</key>
-		<value>觀察一個量子對象；觀察一個量子對象的圖形。它們是一樣的事情。</value>
+		<value>Pozorovat kvantový objekt; pozorovat obraz kvantového objektu. Tyto dvě věci jsou totožné.</value>
 	</entry>
 	<entry>
 		<key>This is the last one (but we made it harder).</key>
-		<value>這是最後一個（但是我們增加了難度）。</value>
+		<value>Tohle je poslední úkol (ale učinili jsme jej těžším).</value>
 	</entry>
 	<entry>
 		<key>LAMI: They’re going to test the memory statues tonight! Phlox says it could be dangerous, so we can’t come.</key>
-		<value>LAMI：他們今天晚上要去測試回憶雕像！PHLOX說現場可能會很危險，\\n所以我們不能去。</value>
+		<value>LAMI：Dnes otestují paměťově sochy! Phlox říká, že by to mohlo být nebezpečné, takže u toho nemůžeme být.</value>
 	</entry>
 	<entry>
 		<key>LAMI: &lt;i&gt;But&lt;/i&gt;, what if we didn’t use the door and snuck in the &lt;i&gt;other&lt;/i&gt; way? Does anyone want to?</key>
-		<value>LAMI：&lt;i&gt;不過&lt;/i&gt;，假如我們不走大門，從&lt;i&gt;別的&lt;/i&gt;地方摸進去呢？\\n有誰想去嗎？</value>
+		<value>LAMI：&lt;i&gt;Ale&lt;/i&gt;, co kdybychom nepoužili dveře a prosmýkli se &lt;i&gt;tím druhým&lt;/i&gt; způsobem? Chcete to někdo zkusit?</value>
 	</entry>
 	<entry>
 		<key>TAGET: Phlox &lt;i&gt;specifically&lt;/i&gt; told us not to do that.</key>
-		<value>TAGET：PHLOX&lt;i&gt;特別&lt;/i&gt;跟我們強調過別那麽做。</value>
+		<value>TAGET：Phlox nám &lt;i&gt;specificky&lt;/i&gt; druhý způsob zakázal.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: I really want to see the test, too, Lami, but that’s a huge risk to take. We probably shouldn’t. Maybe Phlox’ll let us see a later test.</key>
-		<value>LAEVI：我也非常想去看看試驗的情況，LAMI，但是這樣做太冒險了。\\n也許我們不該去。也許PHLOX會讓我們去參觀一次後期試驗。</value>
+		<value>LAEVI：Já ten test taky chci moc vidět, Lami, ale to je obrovské riziko. Asi bychom neměli. Možná nás Phlox nechá být u pozdějšího testu.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Statue Workshop&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;雕塑車間&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Sochová dílna&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am here! After watching it wander the skies for so long, I am about to stand (for the first time) on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>SOLANUM：我到了！一直以來，我都看著&lt;color=lightblue&gt;量子衛星&lt;/color&gt;在天空中流浪。\\n如今我即將（第一次）踏上它的表面。</value>
+		<value>SOLANUM：Jsem tady! Potom, co jsem jej tolikrát sledovala toulat se po nebesích, konečně stanu (poprvé) na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: As expected, my &lt;color=orange&gt;shuttle&lt;/color&gt; has landed at the moon’s south pole. I will make the remainder of my journey on foot.</key>
-		<value>SOLANUM：和預想中一樣，我的&lt;color=orange&gt;航天飛機&lt;/color&gt;已經降落在了衛星的南極。\\n剩下的路我就步行吧。</value>
+		<value>SOLANUM：Jak jsem očekávala, má &lt;color=orange&gt;loď&lt;/color&gt; přistála na jižním pólu tohoto měsíce. Zbytek cesty půjdu pěšky.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We don’t know why the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; always welcomes its visitors at the south pole, just that this is true.</key>
-		<value>SOLANUM：不知道為什麽，凡是造訪&lt;color=lightblue&gt;量子衛星&lt;/color&gt;的人，都會在南極降落。\\n我只知道，這事從來都沒有過例外。</value>
+		<value>SOLANUM：Nevíme, proč &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; vždy vítá své návštěvníky na jižním pólu; víme jen to, že to tak je.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: As a child, I considered such unknowns sinister. Now, though, I understand they bear no ill will. The universe is, and we are.</key>
-		<value>SOLANUM：我還小的時候，覺得這種讓人無法理解的事情都很可疑。\\n可現在，我明白了，其實誰也沒有惡意。宇宙如此，我們也是一樣。</value>
+		<value>SOLANUM：Jako dítě jsem považovala podobné neznámé za zlověstné. Nyní ale chápu, že nám nijak nehrozí. Vesmír je, a my jsme s ním.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am ready.</key>
-		<value>SOLANUM：我準備好了。</value>
+		<value>SOLANUM：Jsem připravena.</value>
 	</entry>
 	<entry>
 		<key>
 			WARNING: Opens emergency door.
 		</key>
 		<value>
-			警告：打開緊急逃生門。
+			VAROVÁNÍ: Otevírá nouzové dveře.
 		</value>
 	</entry>
 	<entry>
 		<key>PYE: Mission: Science compels us to explode the &lt;color=lightblue&gt;sun&lt;/color&gt;!</key>
-		<value>PYE：任務：科學迫使我們不得不引爆&lt;color=lightblue&gt;太陽&lt;/color&gt;！</value>
+		<value>PYE：Mise: Věda nás povolává k tomu, abychom vyhodili &lt;color=lightblue&gt;slunce&lt;/color&gt; do povětří!</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Here’s a better one. Mission: Determine if it’s possible to prompt the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-		<value>IDAEA：我有一個更合適的提法。任務：研究是否有可能促進&lt;color=lightblue&gt;太陽&lt;/color&gt;爆發。</value>
+		<value>IDAEA：Mám lepší. Mise: Zjistit, zda je možné, abychom dovedli &lt;color=lightblue&gt;slunce&lt;/color&gt; k explozi.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Can’t we change this? I don’t enjoy working in view of such a morbid mission statement.</key>
-		<value>IDAEA：我們能不能改一下？我不是很喜歡在這種不健全的任務宣言下\\n展開工作。</value>
+		<value>IDAEA：Můžeme to změnit? Nelíbí se mi pracovat pod tak morbidním prohlášením.</value>
 	</entry>
 	<entry>
 		<key>PYE: But it’s accurate. We’re going to create a supernova for the purpose of scientific progress. That’s our mission.</key>
-		<value>PYE：但是這個提法很貼切。我們要出於科學進步的目的制造一顆\\n超新星。那就是我們的任務。</value>
+		<value>PYE：Ale je přesné. Plánujeme vytvořit supernovu pro účely vědeckého pokroku. To je naše mise.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Our mission is to decide if such an irresponsible feat is even possible.</key>
-		<value>IDAEA：我們的任務是考察這種不負責任的作為是否存在著可能性。</value>
+		<value>IDAEA：Naše mise je rozhodnout, zda je tak nezodpovědný čin vůbec možný.</value>
 	</entry>
 	<entry>
 		<key>PYE: You lack a sense of humor.</key>
-		<value>PYE：你真是缺少幽默感。</value>
+		<value>PYE：Schází ti smysl pro humor.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: At least I don’t lack a sense of ethics!</key>
-		<value>IDAEA：至少我的良心沒有少！</value>
+		<value>IDAEA：Alespoň mi neschází smysl pro etiku!</value>
 	</entry>
 	<entry>
 		<key>PYE: Kindly refrain from going supernova on me before the &lt;color=lightblue&gt;sun&lt;/color&gt; does, Idaea.</key>
-		<value>PYE：請克制一下自己，IDAEA。&lt;color=lightblue&gt;太陽&lt;/color&gt;還沒有爆發成超新星，\\n你可別先炸了。</value>
+		<value>PYE：Prosím, nevybuchuj mým směrem dřív než &lt;color=lightblue&gt;slunce&lt;/color&gt; samotné, Ideao.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
-		<value>THATCH：這台更加覆雜的新型定位器要建在哪里？占地規模可能得比\\n&lt;color=orange&gt;眼信號定位器&lt;/color&gt;要大。</value>
+		<value>THATCH：Kde bychom měli tento nový, sofistikovanější lokátor vybudovat? Bude muset být větší, než tento &lt;color=orange&gt;lokátor signálu Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The southern glacier on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; has ample available space. I could construct a new building to house this proposed locator.</key>
-		<value>PLUME：&lt;color=lightblue&gt;碎空星&lt;/color&gt;的南部冰川擁有充足的可用空間。\\n我可以在那里新建一棟建築來安置這台定位器。</value>
+		<value>PLUME：Jižní ledovec na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; má spoustu volného místa. Mohl bych tam postavit novou budovu, která bude domovem tomuto navrhovanému lokátoru.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Yes, let’s build there! I imagine our young friend Conoy would enjoy that immensely. He’s always held a great interest in the &lt;color=lightblue&gt;Eye&lt;/color&gt;, especially for a child born so long after the crash.</key>
-		<value>FILIX：好的，就建在那里吧！我想我們年輕的朋友CONOY一定會非常\\n喜歡。作為一個墜機之後出生的孩子，他一向對&lt;color=lightblue&gt;眼&lt;/color&gt;興趣盎然。</value>
+		<value>FILIX：Ano, vybudujme jej tam! Dokážu si představit, že pro našeho mladého přítele Conoye by to bylo velmi zajímavé. &lt;color=lightblue&gt;Oko&lt;/color&gt; ho vždycky velmi zajímalo, obzvláště s ohledem na to, že se narodil tak dlouho po havárii.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I will begin construction on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s south pole immediately, then!</key>
-		<value>PLUME：那麽，我馬上就去&lt;color=lightblue&gt;碎空星&lt;/color&gt;的南極開工！</value>
+		<value>PLUME：Začnu stavbu na jižním pólu &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt; okamžitě!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: Annona and those of us originally stranded on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; built a &lt;color=orange&gt;Quantum Moon locator&lt;/color&gt; there, but the heat of the &lt;color=lightblue&gt;sun&lt;/color&gt; made its construction challenging. I wouldn’t recommend building on that planet.</key>
-		<value>COLEUS：ANNONA還有我們一開始被困在&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;的人在那里造了\\n一台&lt;color=orange&gt;量子衛星定位器&lt;/color&gt;，可是&lt;color=lightblue&gt;太陽&lt;/color&gt;的熱輻射讓工程變得十分艱難。\\n我不建議在那顆行星上進行建造。</value>
+		<value>COLEUS：Annona a ti z nás, kteří původně ztroskotali na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;, tam vybudovali &lt;color=orange&gt;lokátor Kvantového měsíce&lt;/color&gt;. Horko ze &lt;color=lightblue&gt;slunce&lt;/color&gt; učinilo stavbu velmi náročnou. Nedoporučoval bych na té planetě stavět cokoliv dalšího.</value>
 	</entry>
 	<entry>
 		<key>
 			COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
 		</key>
 		<value>
-			COLEUS：在經過更加近距離的觀察之後，采礦點2a已經不適合當地生命\\n在這個洞窟的某些池塘里居住了，因此（很遺憾），我們只能去其它地點\\n展開開采工作。
+			COLEUS：Po důkladnějším sledování jsem rozhodl, že důl 2b by nebyl bezpečný pro domorodý život, který žije v některých z těchto jeskynních jezírek, takže (bohužel) budeme muset těžit v jednom z dalších dolů.
 		</value>
 	</entry>
 	<entry>
@@ -4477,7 +4477,7 @@
 			COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
 		</key>
 		<value>
-			COLEUS：而另一方面，這意味著出現了新的生命！這是一種半水生\\n物種，而且適應力極強。這里的生態系統相當堅挺，因此我相信\\n假以時日，它們一定可以茁壯繁衍。假如你來2a參觀這些生物，\\n靠近池塘的時候要當心。
+			COLEUS：Na druhou stranu, nový život! Tento druh je polo-vodní, a velmi odolný. Ekosystém je to vcelku robustní, takže věřím, že dlouhodobě se jim bude dařit. Pokud chcete navštívit 2a a setkat se s nimi, buďte opatrní kolem jezírek.
 		</value>
 	</entry>
 	<entry>
@@ -4485,7 +4485,7 @@
 			CYCAD: There are a few other cave sites that look promising. What about site 2b (it shares similar formations and strata)?
 		</key>
 		<value>
-			CYCAD：有幾個洞窟看上去可以滿足條件。2b這個位置怎麽樣（那里的\\n地質結構和巖層與2a類似）？
+			CYCAD：Máme několik dalších dolů, které vypadají nadějně. Co důl 2b (má podobné dno a vrstvy)?
 		</value>
 	</entry>
 	<entry>
@@ -4493,7 +4493,7 @@
 			OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
 		</key>
 		<value>
-			OENO：聽上去很可行！你和你的導師能不能去調查一下？如果采礦點2b\\n適合這種當地物種生存，我們就把工作地點搬到那里去。
+			OENO：To zní slibně! Mohli byste se na něj ty a tvůj mentor podívat? Pokud je důl 2b bezpečný pro tento domorodý druh, přesuneme svou práci tam.
 		</value>
 	</entry>
 	<entry>
@@ -4501,7 +4501,7 @@
 			CYCAD: Site 2b is safe! Coleus says we’ll continue to monitor our activity and its effect on life here.
 		</key>
 		<value>
-			CYCAD：2b是安全的！COLEUS說我們會繼續監控自己的活動，\\n以及該活動對這里的生命所造成的影響。
+			CYCAD：Důl 2b je bezpečný! Coleus říká, že budeme nadále sledovat svou aktivitu a její dopad na místní život.
 		</value>
 	</entry>
 	<entry>
@@ -4509,7 +4509,7 @@
 			CYCAD: I was watching them once during a rest, and the hours escaped from me. They’re fascinating (I wonder what their fourth eye does)!
 		</key>
 		<value>
-			CYCAD：有一次休息的時候我觀察過它們，一下子就看入迷了。\\n它們真是有意思（不知道它們的第四只眼睛是用來幹什麽的）！
+			CYCAD：Jednou jsem je sledovat během přestávky, a čas mi hrozně rychle utekl. Jsou fascinující (zajímalo by mě, k čemu je jejich čtvrté oko)!
 		</value>
 	</entry>
 	<entry>
@@ -4517,7 +4517,7 @@
 			COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
 		</key>
 		<value>
-			COLEUS：它們讓我想起了我的導師MELORAE曾經跟我說過的一種地下\\n物種（當時我們家族經常在這個宇宙里航行）。我想她一定會非常\\n喜歡這些生命形式。
+			COLEUS：Připomínají mi podzemní druh o kterém mi moje mentorka, Melorae, kdysi povídala (z doby, kdy náš klan cestoval po vesmíru). Představuji si, že by jí tato forma života moc potěšila.
 		</value>
 	</entry>
 	<entry>
