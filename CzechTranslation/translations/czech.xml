@@ -5716,46 +5716,46 @@
 	</entry>
 	<entry>
 		<key>The arch and the crystal do not naturally meet.</key>
-		<value>拱門和水晶無法自然交匯. </value>
+		<value>Oblouk a krystal se normálně nesejdou. </value>
 	</entry>
 	<entry>
 		<key>PHLOX: I’m curious: Is sending a being’s memories back in time the same as sending the being itself back in time?</key>
-		<value>PHLOX: 我很好奇: 把某個人的回憶送回到過去, \\n是不是就等於把這個人本身送回到過去? </value>
+		<value>PHLOX: Jsem zvědavý: Je poslání něčích vzpomínek zpátky v čase tímtéž, co poslat zpátky v čase někoho samotného? </value>
 	</entry>
 	<entry>
 		<key>PHLOX: As an example, if we were to send my memories back in time, is that the same as sending “me” back in time (not my physical body, but my essence)?</key>
-		<value>PHLOX: 比方說, 如果我們把我的回憶送回到過去, 是不是就等於\\n把“我”送回到了過去 (不是我的肉體, 而是我的靈魂) ? </value>
+		<value>PHLOX: Například, pokud bychom poslali zpátky v čase mé vzpomínky, je to totéž, co poslat "mě" zpátky v čase (ne moje tělo, ale moji esenci)?</value>
 	</entry>
 	<entry>
 		<key>DAZ: I imagine they’re two different actions.</key>
-		<value>DAZ: 我想這是兩回事. </value>
+		<value>DAZ: Myslím, že to jsou dvě odlišné věci. </value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Wouldn’t both actions be effectively the same?</key>
-		<value>CASSAVA: 難道兩者的本質不是一樣的嗎? </value>
+		<value>CASSAVA: Ale nejsou obě věci v konečném důsledku totéž? </value>
 	</entry>
 	<entry>
 		<key>DAZ: Suppose that time was being rewritten. I believe this is different than receiving memories from what is effectively the future.</key>
-		<value>DAZ: 估計那段時間會被改寫. 我認為這和從真正的未來那里獲得回憶\\n不是一回事. </value>
+		<value>DAZ: Řekněme, že bychom přepisovali čas. Myslím, že to je něco jiného, než přijmout vzpomínky z budoucnosti.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: But isn’t the end result identical in either case?</key>
-		<value>CASSAVA: 可不管怎麽說, 最後的結果不是一樣的嗎? </value>
+		<value>CASSAVA: Ale není konečný výsledek ten samý v obou případech? </value>
 	</entry>
 	<entry>
 		<key>PHLOX: Welcome to Giant’s Deep, friends! I’m excited for you to meet the statues!</key>
-		<value>PHLOX: 歡迎來到深巨星, 朋友們! 你們能來參觀雕像我十分高興! </value>
+		<value>PHLOX: Vítejte na Obří hlubinu, přátelé! Těším se, až potkáte moje sochy!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: If I’m not in my dwelling, I’m likely in my &lt;color=orange&gt;workshop&lt;/color&gt; below (inside the island).</key>
-		<value>PHLOX: 如果我不在住所, \\n那麽多半就在下面 (島嶼里頭) 的&lt;color=orange&gt;車間&lt;/color&gt;里. </value>
+		<value>PHLOX: Pokud nejsem ve svém obydlí, jsem patrně v &lt;color=orange&gt;dílně&lt;/color&gt; pod vámi (uvnitř ostrova).</value>
 	</entry>
 	<entry>
 		<key>
 			&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
 		<value>
-			&lt;color=orange&gt;軌道探測炮&lt;/color&gt;損壞報告: 檢測到嚴重結構壓力. \\n正在評估模塊受損情況...
+			HLÁŠENÍ O ŠKODÁCH NA &lt;color=orange&gt;ORBITÁLNÍM SONDOVÉM KANÓNU&lt;/color&gt;: Detekován náročný strukturální tlak. Posuzuji škody na modulech...
 		</value>
 	</entry>
 	<entry>
@@ -5763,7 +5763,7 @@
 			&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
 		</key>
 		<value>
-			&lt;color=orange&gt;控制模塊&lt;/color&gt;: 完好. 沒有結構損傷. 
+			&lt;color=orange&gt;Kontrolní modul&lt;/color&gt;: Nedotčený. Žádné strukturální poškození. 
 		</value>
 	</entry>
 	<entry>
@@ -5771,7 +5771,7 @@
 			&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
 		<value>
-			&lt;color=orange&gt;發射模塊&lt;/color&gt;: 觀察窗碎裂. 模塊暴露在真空中. 
+			&lt;color=orange&gt;Spouštěcí modul&lt;/color&gt;: Okno poškozeno. Modul vystaven vakuu. 
 		</value>
 	</entry>
 	<entry>
@@ -5779,31 +5779,31 @@
 			&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
 		</key>
 		<value>
-			&lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;: 遺失. 
+			&lt;color=orange&gt;Sledovací modul&lt;/color&gt;: NEZVĚSTNÝ. 
 		</value>
 	</entry>
 	<entry>
 		<key>BEGIN LAUNCH LOG: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;. Launch request received. Probe launch successful.</key>
-		<value>發射日志開始: &lt;color=orange&gt;軌道探測炮&lt;/color&gt;. 收到發射請求. 探測器發射成功. </value>
+		<value>ZAČÁTEK ODPALOVACÍHO ZÁZNAMU: &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt;. Požadavek na odpálení přijat. Sonda odpálena úspěšně.</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is receiving data from probe.</key>
-		<value>&lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;正在接收探測器傳來的數據. </value>
+		<value>&lt;color=orange&gt;Sledovací modul&lt;/color&gt; přijímá data od sondy. </value>
 	</entry>
 	<entry>
 		<key>WARNING: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; structure compromised during launch. Damage to multiple modules detected.</key>
-		<value>警告: &lt;color=orange&gt;軌道探測炮&lt;/color&gt;在發射時結構遭到破壞. 檢測到多個模塊受損. </value>
+		<value>VAROVÁNÍ: Struktura &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt; narušena během odpalu. Detekováno poškození několika modulů.</value>
 	</entry>
 	<entry>
 		<key>Probe Tracking Module</key>
-		<value>&lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Sledovací modul&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			You have recalled the rule of quantum imaging.
 		</key>
 		<value>
-			你已經回想起了量子成像法則. 
+			Vzpomněl sis na pravidlo kvantového obrazu.
 		</value>
 	</entry>
 	<entry>
@@ -5811,7 +5811,7 @@
 			Recall the rule of quantum entanglement.
 		</key>
 		<value>
-			回想量子糾纏法則. 
+			Vzpomeň si na pravidlo kvantového zapletení.
 		</value>
 	</entry>
 	<entry>
@@ -5819,147 +5819,147 @@
 			Recall the rule of the sixth location.
 		</key>
 		<value>
-			回想第六個位置法則. 
+			Vzpomeň si na pravidlo šesté lokace. 
 		</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’m at the shuttle! I’m ready to make my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>SOLANUM: 我坐上了航天飛機! 我準備好了. \\n我即將要前往&lt;color=lightblue&gt;量子衛星&lt;/color&gt;, 進行首次朝聖. </value>
+		<value>SOLANUM: Jsem u lodi! Jsem připravena na svou první pouť ke &lt;color=lightblue&gt;Kvantovému měsíci&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: That’s exciting! You’re &lt;i&gt;almost&lt;/i&gt; ready, but there’s still one more rule you need to learn. Come see me at the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;.</key>
-		<value>BELLS: 真是叫人激動! 你&lt;i&gt;差不多&lt;/i&gt;準備好了. \\n不過你還有一條法則需要學習. 來&lt;color=orange&gt;量子知識之塔&lt;/color&gt;見我. </value>
+		<value>BELLS: To je vzrušující! Jsi &lt;i&gt;téměř&lt;/i&gt; připravena, ale zbývá ještě jedno pravidlo, které se musíš naučit. Přijď mě navštívit ve &lt;color=orange&gt;Věži kvantového poznání&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>BELLS: The tower is on the opposite side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. If you follow the path west to the &lt;color=orange&gt;Crossroads&lt;/color&gt;, you can reach the tower from there.</key>
-		<value>BELLS: 量子知識之塔在&lt;color=lightblue&gt;碎空星&lt;/color&gt;的另一頭. \\n如果你沿著西邊的路走到&lt;color=orange&gt;十字路口&lt;/color&gt;, 就能從那兒前往量子知識之塔. </value>
+		<value>BELLS: Věž je na druhém konci &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;. Následuj stezku na západ od &lt;color=orange&gt;Rozcestí&lt;/color&gt; - můžeš se dostat k věži odtamtud. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: My gratitude for the directions, Bells. I’ll see you soon!</key>
-		<value>SOLANUM: 感謝你為我指路, BELLS. 我們回頭見! </value>
+		<value>SOLANUM: Mé díky za instrukce, Bells! Brzy na viděnou!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: I have bad news, Avens. Yarrow says there was a problem with the proposed power source, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; won’t be asked to fire.</key>
-		<value>CASSAVA: 我有一些壞消息, AVENS. YARROW說推薦的動力源出了問題, \\n無法請求&lt;color=orange&gt;軌道探測炮&lt;/color&gt;進行發射. </value>
+		<value>CASSAVA: Mám špatné zprávy, Avensi. Yarrow říká, že vznikl problém s navrhovaným zdrojem energie, takže &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; nebude požádán o vypálení.</value>
 	</entry>
 	<entry>
 		<key>AVENS: I hope you’re pulling my locomotive limb here, Cassava.</key>
-		<value>AVENS: 但願你是在跟我開玩笑, CASSAVA. </value>
+		<value>AVENS: Doufám, že mě taháš za mou pohybovou končetinu, Cassavo. </value>
 	</entry>
 	<entry>
 		<key>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</key>
-		<value>CASSAVA: 要是真的是這樣就好了. 他們無法確定問題出在哪兒, \\n也修不好, 所以&lt;color=orange&gt;軌道探測炮&lt;/color&gt;只能無限期擱置. </value>
+		<value>CASSAVA: Přál bych si, aby tomu tak bylo, můj příteli, ale no. Nejsou si jisti, jestli můžou problém spravit, takže &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; je odstaven na dobu neurčitou.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
-		<value>CASSAVA: 告訴PRIVET和MALLOW, 讓他們從&lt;color=orange&gt;大炮&lt;/color&gt;那兒回來. \\n我的配偶和我暫時要留在&lt;color=orange&gt;建造廠&lt;/color&gt;. </value>
+		<value>CASSAVA: Řekni Privet a Mallow, že by se měly vrátit z &lt;color=orange&gt;kanónu&lt;/color&gt;. Můj družka a já zůstaneme pro tuto chvíli ve &lt;color=orange&gt;stavebním dvoře&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>AVENS: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.</key>
-		<value>AVENS: 更新: MALLOW和我會來找你和DAZ. \\nPRIVET去找她的兄弟了. 她擔心IDAEA會有自責情緒. </value>
+		<value>AVENS: Update: Mallow a já navštívíme tebe a Daz. Privet odešla za svým bratrem. Bojí se, že Idaea se cítí být zodpovědným.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Imagine, Privet: the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; will be the first to know the coordinates of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;! You’ll be the first to see them!</key>
-		<value>MALLOW: 想想看, PRIVET: &lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;將會頭一個獲取\\n&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的坐標! 而你則是第一個得知這一坐標的人! </value>
+		<value>MALLOW: Představ si to, Privet: &lt;color=orange&gt;Sledovací modul&lt;/color&gt; bude jako první znát souřadnice &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;! Uvidíš je jako první! </value>
 	</entry>
 	<entry>
 		<key>PRIVET: I am honored and terrified!</key>
-		<value>PRIVET: 我深感榮幸, 惶恐之至! </value>
+		<value>PRIVET: Jsem poctěna a vyděšena! </value>
 	</entry>
 	<entry>
 		<key>PRIVET: You won’t ask the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to use so much power that it breaks, will you?</key>
-		<value>PRIVET: 你不會讓&lt;color=orange&gt;軌道探測炮&lt;/color&gt;動用太多動力, 把它給弄壞吧? </value>
+		<value>PRIVET: Nepožádáš &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt;, aby použil tolik síly, že by se rozbil, že ne? </value>
 	</entry>
 	<entry>
 		<key>MALLOW: Fret not, my nervous friend! We only need to fire the probe once, anyway, so who minds if it compromises the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;’s structural integrity slightly?</key>
-		<value>MALLOW: 別緊張, 我愛操心的朋友! 反正我們只會發射一次探測器, \\n就算是&lt;color=orange&gt;軌道探測炮&lt;/color&gt;的結構有輕微的損壞, 又會有誰在乎呢? </value>
+		<value>MALLOW: Neboj se, má nervózní přítelkyně! Stejně potřebujeme vypálit sondu jen jednou, takže komu vadí, pokud trošku poškodí strukturální integritu &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: I would mind, Mallow! I would mind, because we won’t be capable of receiving our probe’s data if the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is destroyed!</key>
-		<value>PRIVET: 我在乎, MALLOW! 我在乎, 因為要是&lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;損毀, \\n那我們就沒法接受探測器傳來的數據了! </value>
+		<value>PRIVET: Vadilo by to mně, Mallow! Vadilo by to mně, protože nebudeme moci přijmout data z naší sondy, pokud bude &lt;color=orange&gt;sledovací modul&lt;/color&gt; zničen!</value>
 	</entry>
 	<entry>
 		<key>AVENS: Mallow, my better 50 percent! Cassava is sending the last of the &lt;color=orange&gt;cannon&lt;/color&gt; components. Soon (relatively speaking), we’ll know the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s precise location!</key>
-		<value>AVENS: MALLOW, 我的另一半! CASSAVA把最後一批&lt;color=orange&gt;大炮&lt;/color&gt;部件給送了過來. \\n很快 (相對而言) , 我們就會知道&lt;color=lightblue&gt;眼&lt;/color&gt;的確切位置了! </value>
+		<value>AVENS: Mallow, mých lepších padesát procent! Cassava nám posílá poslední součástku pro &lt;color=orange&gt;kanón&lt;/color&gt;. Již (relativně) brzy budeme znát přesnou pozici &lt;color=lightblue&gt;Oka&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>MALLOW: The thought of concluding our elders’ curious and challenging search increases my heart’s temperature, my love!</key>
-		<value>MALLOW: 一想到能夠解開前人的謎題, 結束這次艱難的搜索, \\n我就心跳不止, 我的愛人! </value>
+		<value>MALLOW: Samotná myšlenka, že uzavřeme hledání našich předků, zvyšuje teplotu mého srdce, má lásko! </value>
 	</entry>
 	<entry>
 		<key>AVENS: Cassava tells me he and the &lt;color=orange&gt;Construction Yard&lt;/color&gt; crew have determined a power setting we are not, under any circumstances, to go above.</key>
-		<value>AVENS: CASSAVA告訴我, 他和&lt;color=orange&gt;建造廠&lt;/color&gt;的人員已經規定了動力設置\\n的上限. 不管什麽情況, 我們都不能超出這個上限. </value>
+		<value>AVENS: Cassava mi sdělil, že s posádkou &lt;color=orange&gt;stavebního dvora&lt;/color&gt; určil odpalovací sílu, kterou za žádných okolností nesmíme překonat.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: I see! And am I right to think that, consequently, we’ll be ignoring that setting?</key>
-		<value>MALLOW: 我懂了! 我是不是由此可以推斷, 我們要無視這樣的設置? </value>
+		<value>MALLOW: Chápu! A myslím si správně, že budeme tuto hodnotu zcela ignorovat?</value>
 	</entry>
 	<entry>
 		<key>AVENS: I can posit with nearly 100 percent certainty our friends have accounted for our natures, so I suggest we do!</key>
-		<value>AVENS: 我可以百分之一百地假定, 我們的朋友已經把我們的本性給\\n考慮了進去, 因此我認為我們應該無視這一設置! </value>
+		<value>AVENS: Postuluji s téměř stoprocentní jistotou, že naši přátelé vzali naše nátury v úvahu, takže bych navrhl tuto maximální sílu ignorovat! </value>
 	</entry>
 	<entry>
 		<key>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>AVENS: 把動力提高到&lt;color=orange&gt;軌道探測炮&lt;/color&gt;結構所能承受的極限, \\n就可以最大限度地增加發現&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的機會. </value>
+		<value>AVENS: Dát &lt;color=orange&gt;Orbitálnímu sondovému kanónu&lt;/color&gt; veškerou sílu, kterou může strukturálně vydržet, maximalizuje šanci na objevení &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Yes, the probe must travel as fast as it can, as far as it can. I’ll make some adjustments!</key>
-		<value>MALLOW: 是的, 探測器一定要飛得盡可能快, 盡可能遠才行. \\n我這就來進行調整! </value>
+		<value>MALLOW: Ano, sonda musí cestovat co nejrychleji, aby se dostala co nejdále. Udělám pár změn!</value>
 	</entry>
 	<entry>
 		<key>YARROW: I have exciting news, Privet: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is almost prepared to receive the probe data from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-		<value>YARROW: 我有一些激動人心的消息, PRIVET: &lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;\\n即將準備就緒, 可以接受&lt;color=orange&gt;軌道探測炮&lt;/color&gt;傳來的探測器數據了. </value>
+		<value>YARROW: Mám vzrušující zprávy, Privet: &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; je téměř připraven přijmout data ze sondy, kterou &lt;color=orange&gt;Orbitální kanón&lt;/color&gt; vypálí. </value>
 	</entry>
 	<entry>
 		<key>YARROW: Ramie is adding some finishing touches here, but she’ll be finished soon. Are you and the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; well?</key>
-		<value>YARROW: RAMIE正在做最後的收尾工作, 不過她馬上就能完工. \\n你和&lt;color=orange&gt;軌道探測炮&lt;/color&gt;都沒問題吧? </value>
+		<value>YARROW: Ramie sice ještě dělá změny na poslední chvíli, ale brzy bude hotová. Jsi ty a &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; v pořádku?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: We are! The statue here in the&lt;color=orange&gt; Probe Tracking Module &lt;/color&gt;is ready to record each launch’s flight trajectory and will automatically transmit all relevant data to you.</key>
-		<value>PRIVET: 沒問題! &lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;已經就緒, \\n能夠記錄每次發射的飛行軌跡, 並且會把相關的數據自動傳給你. </value>
+		<value>PRIVET: Jsme! Socha tady ve &lt;color=orange&gt;sledovacím modulu&lt;/color&gt; je připravena zaznamenat trajektorii každého odpalu a bude automaticky vysílat všechna relevantní data k vám. </value>
 	</entry>
 	<entry>
 		<key>PRIVET: Once the probe determines the location of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;, I’ll send an alert directly to you and Ramie.</key>
-		<value>PRIVET: 一旦探測器發現&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的位置, \\n我就會直接通知你和RAMIE. </value>
+		<value>PRIVET: Jakmile sonda najde souřadnice &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;, ihned informuji tebe a Ramie. </value>
 	</entry>
 	<entry>
 		<key>PRIVET: On the other appendage, I’m now worried about this &lt;color=orange&gt;cannon&lt;/color&gt;’s structural integrity and its crew’s moral integrity.</key>
-		<value>PRIVET: 而另一方面, 我現在擔心的是這門&lt;color=orange&gt;大炮&lt;/color&gt;的\\n結構還有乘員的精神是不是健全. </value>
+		<value>PRIVET: Na druhou stranu, obávám se teď o strukturální integritu &lt;color=orange&gt;kanónu&lt;/color&gt; a morální integritu jeho posádky.</value>
 	</entry>
 	<entry>
 		<key>YARROW: What happened? Did the &lt;color=orange&gt;Sun Station&lt;/color&gt; not fire?</key>
-		<value>YARROW: 怎麽回事? &lt;color=orange&gt;太陽站&lt;/color&gt;沒有進行發射嗎? </value>
+		<value>YARROW: Co se stalo? Podařilo se &lt;color=orange&gt;Sluneční stanici&lt;/color&gt; vystřelit?</value>
 	</entry>
 	<entry>
 		<key>PYE: It fired, Yarrow. But it failed. The &lt;color=lightblue&gt;sun&lt;/color&gt; barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye.</key>
-		<value>PYE: 它發射了, YARROW. 但是沒有成功. &lt;color=lightblue&gt;太陽&lt;/color&gt;基本上沒有回應; 只是\\n在表面水平產生了極其微弱的變化, 就連第三只眼也幾乎難以觀察到. </value>
+		<value>PYE: Vystřelila, Yarrowe. Ale selhala. &lt;color=lightblue&gt;Slunce&lt;/color&gt; nijak nereagovalo; zaznamenali jsme mikroskopicky malé změny na povrchu, ale byly stěží viditelné, dokonce i třetím okem.</value>
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Sun Station&lt;/color&gt; is useless. It will never, and &lt;i&gt;could&lt;/i&gt; never, cause the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode.</key>
-		<value>PYE: &lt;color=orange&gt;太陽站&lt;/color&gt;不起作用. 它現在不能, \\n以後也&lt;i&gt;無法&lt;/i&gt;引爆&lt;color=lightblue&gt;太陽&lt;/color&gt;了. </value>
+		<value>PYE: &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; je k ničemu. Nikdy se jí nepodaří, a nikdy se jí &lt;i&gt;nemohlo podařit&lt;/i&gt;, způsobit výbuch &lt;color=lightblue&gt;slunce&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over.</key>
-		<value>PYE: 我不知道接下來該怎麽辦, 我的朋友們. 我建議我們重頭開始, \\n但我不知道該怎麽重頭開始. </value>
+		<value>PYE: Nevím, co budeme dělat, mí přátelé. Předpokládám, že musíme začít znovu, ale nevím, jak.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; first, my friend. Perhaps a change of task would help: Spire noticed a comet approaching this star system that we’d like to investigate.</key>
-		<value>YARROW: 首先, 回到&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;, 我的朋友. 也許換個工作可以讓你恢覆\\n過來: SPIRE發現有一顆彗星正在靠近這個星系, 我們要去調查一下. </value>
+		<value>YARROW: Nejdřív se vrať na &lt;color=lightblue&gt;Popelák&lt;/color&gt;, má přítelkyně. Možná pomůže změna úkolu - Spire si všimnul, že se k tomuto planetárnímu systému blíží kometa, kterou bychom rádi prozkoumali. </value>
 	</entry>
 	<entry>
 		<key>YARROW: Pye... I hurt for you, my friends; we all know how hard you’ve both worked. I can only offer my compassion. How are you? How is Idaea?</key>
-		<value>YARROW: PYE...我為你們感到難過, 我的朋友們; 我們都知道你們倆\\n有多辛苦. 我只能表示同情. 你還好嗎? IDAEA還好嗎? </value>
+		<value>YARROW: Pye... bolí mě za vás srdce, přátelé; všichni víme, jak tvrdě jste oba pracovali. Mohu nabídnout jen svůj soucit. Jak to snášíš? A co Idaea?</value>
 	</entry>
 	<entry>
 		<key>IDAEA: We’re well, Yarrow (or as well as can be expected, given the circumstances), though disappointed. I may have disagreed with exploding the &lt;color=lightblue&gt;sun&lt;/color&gt;, but I never wished the device would fail. I’d hoped our terrible work was finished.</key>
-		<value>IDAEA: 我們很好, YARROW (或者說, 鑒於目前的情況, 好極了) , \\n不過我們很失望. 雖然我不讚同引爆&lt;color=lightblue&gt;太陽&lt;/color&gt;的方案, \\n但是我打心眼里希望設備能夠成功. 但願我們可怕的工作到此為止. </value>
+		<value>IDAEA: Jsme v pořádku, Yarrowe (nebo tak v pořádku, jak se dá za daných okolností očekávat), ale jsme zklamaní. Sice jsem nesouhlasil s tím, abychom odpálili &lt;color=lightblue&gt;slunce&lt;/color&gt;, ale nikdy jsem si nepřál, aby naše zařízení selhalo. Doufal jsem, že naše hrozná práce je u konce.</value>
 	</entry>
 	<entry>
 		<key>
 			Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
 		</key>
 		<value>
-			恒星已到達其自然生命周期的最終階段. 即將進入紅巨星階段. \\n警告: 立即疏散&lt;color=orange&gt;太陽站&lt;/color&gt;. 
+			Hvězda dosáhla konce svého přírodního cyklu. Nyní se blíží fázi červeného obra. VAROVÁNÍ: Evakuujte &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;. 
 		</value>
 	</entry>
 	<entry>
@@ -5967,23 +5967,23 @@
 			Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
 		</key>
 		<value>
-			距&lt;color=orange&gt;太陽站&lt;/color&gt;被膨脹恒星吞噬預計還有&lt;RemainingMinutes&gt;分&lt;RemainingSeconds&gt;秒\\n距恒星死亡預計還有&lt;MinutesToRedGiant&gt;分&lt;SecondsToRedGiant&gt;秒
+			Přibližný čas do doby, kdy bude &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; zničena rozpínající se hvězdou: &lt;RemainingMinutes&gt; MINUT, &lt;RemainingSeconds&gt; SEKUND.\\nPřibližný čas do smrti hvězdy: &lt;MinutesToRedGiant&gt; MINUT, &lt;SecondsToRedGiant&gt; SEKUND
 		</value>
 	</entry>
 	<entry>
 		<key>YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable.</key>
-		<value>YARROW: PHLOX和DAZ今天完成了回憶雕像. 它們真是壯觀. </value>
+		<value>YARROW: Phlox a Daz dnes dokončili vzpomínkové sochy, a jsou vskutku úžasné. </value>
 	</entry>
 	<entry>
 		<key>YARROW: When the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.</key>
-		<value>YARROW: 一旦&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;成功 (或者失敗的時候) , \\n回憶雕像就會啟動, 讓我們能夠在計劃關閉之前進一步收集數據. </value>
+		<value>YARROW: Až &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; uspěje (nebo pokud selže), vzpomínkové sochy se aktivují a umožní nám nabrat více dat předtím, než projekt vypneme. </value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: Here’s our first delivery, Yarrow: one warp core, fresh from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;! Root is installing this core’s sibling on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; as I write this.
 		</key>
 		<value>
-			CLARY: 這是我們的首批交付內容, YARROW: &lt;color=orange&gt;黑洞熔爐&lt;/color&gt;新鮮出爐的\\n一顆躍遷核心! 此時此刻, ROOT正在&lt;color=lightblue&gt;碎空星&lt;/color&gt;上安裝它的兄弟. 
+			CLARY: Tady je naše první roznáška, Yarrowe: jedno warpové jádro, čerstvé z &lt;color=orange&gt;Černoděré kovárny&lt;/color&gt;! Root právě instaluje jeho sourozence na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;. 
 		</value>
 	</entry>
 	<entry>
@@ -5991,7 +5991,7 @@
 			CLARY: I wish I could wait here for you to arrive, but the forge (and my unfinished work there) is calling. I’ll return with more materials soon.
 		</key>
 		<value>
-			CLARY: 真希望我能夠待在這里等你到來, 可是熔爐 (以及我在那里\\n還沒有完成的工作) 需要我. 我很快就會帶著更多材料回來的. 
+			CLARY: Přála bych si tu na tebe počkat, ale kovárna (a má nedokončená práce v ní) volá. Brzy se vrátím s více součástkami.
 		</value>
 	</entry>
 	<entry>
@@ -5999,7 +5999,7 @@
 			YARROW: My gratitude, Clary! With this, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is underway!
 		</key>
 		<value>
-			YARROW: 感激不盡, CLARY! 有了它, &lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;就可以進行下去了! 
+			YARROW: Děkuji, Clary! Tímto začíná &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! 
 		</value>
 	</entry>
 	<entry>
@@ -6007,7 +6007,7 @@
 			YARROW: I confess, I’m deeply curious about what you and Poke found on the &lt;color=orange&gt;White Hole Station&lt;/color&gt; that started this project. Could I visit sometime to learn more?
 		</key>
 		<value>
-			YARROW: 你和POKE在&lt;color=orange&gt;白洞站&lt;/color&gt;上的發現催生了這個計劃. 我坦白, \\n我對這一發現感到十分地好奇. 我什麽時候能去你們那兒參觀一下, \\n好進一步地了解了解? 
+			YARROW: Přiznám se, že mě hluboce zajímá, co jste s Poke našli na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;, že to odstartovalo celý tento projekt. Mohl bych někdy přijít na návštěvu a poučit se? 
 		</value>
 	</entry>
 	<entry>
@@ -6015,7 +6015,7 @@
 			CLARY: I recommend you do! The &lt;color=orange&gt;White Hole Station&lt;/color&gt; is the model for the towers being built for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, so a visit to the station would be doubly useful.
 		</key>
 		<value>
-			CLARY: 我建議你一定要來! 目前正在為&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;建造的高塔\\n就是以&lt;color=orange&gt;白洞站&lt;/color&gt;為模型的. 如果你能夠來看一看, 一定會大有幫助. 
+			CLARY: Doporučovala bych to! &lt;color=orange&gt;Běloděrá stanice&lt;/color&gt; je model pro věže, které stavíme pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;, takže návštěva stanice by byla dvojužitečná. 
 		</value>
 	</entry>
 	<entry>
@@ -6023,7 +6023,7 @@
 			YARROW: I suppose, more precisely, I would like to visit the &lt;color=orange&gt;White Hole Station&lt;/color&gt; with &lt;i&gt;you&lt;/i&gt;, Clary.
 		</key>
 		<value>
-			YARROW: 我估計, 更確切地說, 我想要和&lt;i&gt;你&lt;/i&gt;一起參觀&lt;color=orange&gt;白洞站&lt;/color&gt;, \\nCLARY. 
+			YARROW: Myslím, že bych rád navštívil &lt;color=orange&gt;Běloděrou stanici&lt;/color&gt; s &lt;i&gt;tebou&lt;/i&gt;, Clary. 
 		</value>
 	</entry>
 	<entry>
@@ -6031,7 +6031,7 @@
 			CLARY: I’d be happy to explain our findings!
 		</key>
 		<value>
-			CLARY: 我很樂意為你解說我們發現的內容! 
+			CLARY: Ráda vysvětlím náš objev! 
 		</value>
 	</entry>
 	<entry>
@@ -6039,7 +6039,7 @@
 			POKE: Yarrow, stop using this scroll wall to flirt with my sister (in romantic matters, her density rivals a neutron star’s) and go meet her on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			POKE: YARROW, 別再用這面卷軸墻和我的姐姐調情了 (在感情方面, \\n她比中子星還要笨拙) , 快來&lt;color=orange&gt;白洞站&lt;/color&gt;找她吧. 
+			POKE: Yarrowe, přestaň používat tuto svitkovou stěnu k flirtování s mojí sestrou (v romantických věcech je dutější než tahle planeta) a běž se s ní potkat na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;. 
 		</value>
 	</entry>
 	<entry>
