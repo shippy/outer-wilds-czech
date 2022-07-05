@@ -4469,7 +4469,7 @@
 			COLEUS: After closer observation, mining site 2a wouldn’t be safe for the native life dwelling in some of this cave’s pools, so (unfortunately) we’ll have to mine one of the other sites.
 		</key>
 		<value>
-			COLEUS：Po důkladnějším sledování jsem rozhodl, že důl 2b by nebyl bezpečný pro domorodý život, který žije v některých z těchto jeskynních jezírek, takže (bohužel) budeme muset těžit v jednom z dalších dolů.
+			COLEUS：Po důkladnějším pozorování jsem rozhodl, že důl 2b by nebyl bezpečný pro domorodý život, který žije v některých z těchto jeskynních jezírek, takže (bohužel) budeme muset těžit v jednom z dalších dolů.
 		</value>
 	</entry>
 	<entry>
@@ -4522,150 +4522,150 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: We’re nearly ready! Filix and I have finished construction, and she says calibrating the device won’t take long.</key>
-		<value>CASSAVA：我們就快準備好了！FILIX和我已經完成了建造，\\n她說沒多久設備就能校準好。</value>
+		<value>CASSAVA：Jsme téměř připraveni! Filix a já jsme dokončili stavbu, a ona říká, že kalibrace našeho nástroje nebude trvat dlouho.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
-		<value>FILIX：好在&lt;color=lightblue&gt;廢巖星&lt;/color&gt;的大氣稀薄，簡化了校準工作。過去了這麽久，\\n我們終於可以重新搜索了。我真是激動萬分！</value>
+		<value>FILIX：Absence atmosféry na &lt;color=lightblue&gt;Vytěženci&lt;/color&gt; naštěstí činí kalibraci jednoduchou. Jsem nadšená, že po tolika letech konečně obnovíme naše hledání!</value>
 	</entry>
 	<entry>
 		<key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
-		<value>注意：你即將在&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;啟動的狀態下進入核心。</value>
+		<value>Pozor: Plánujete přístup k jádru během doby, kdy je &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; aktivní.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>警告：移除核心將會關閉&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;。</value>
+		<value>VAROVÁNÍ: Odstranění tohoto jádra vypne &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			Artificial gravity control
 		</key>
 		<value>
-			人工重力控制
+			Kontrola umělé gravitace
 		</value>
 	</entry>
 	<entry>
 		<key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-		<value>YARROW：今天，我們完成了&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;的挖掘工作。在我們開鑿的\\n這個洞穴里，我們將會打造迄今為止最為雄心勃勃的計劃：\\n&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;。它威力強大，足以把信息發送到過去。</value>
+		<value>YARROW：Dnes jsme dokončili exkavaci &lt;color=lightblue&gt;Popeláku&lt;/color&gt;. Zde, v tomto prostoru, který jsme vydlabali, vytvoříme náš dosud nejambicióznější projekt: &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;, který bude dostatečně mocný na to, aby poslal informace zpět v čase.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
-		<value>COLEUS：此外，我們在挖掘時發現的所有地下植物也完成了轉移。</value>
+		<value>COLEUS：Také jsme přesunuli všechny podzemní rostliny, které jsme potkali během vrtání.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: We’ll need to keep our eyes on how significantly we’ve altered the environment here.</key>
-		<value>RAMIE：我們需要密切注意自己對這里的環境都造成了怎樣的顯著影響。</value>
+		<value>RAMIE：Budeme si muset dát pozor na to, jak moc jsme změnili místní prostředí.</value>
 	</entry>
 	<entry>
 		<key>PYE: How far we’ve come since our experiments at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;! I still can hardly believe Ramie’s hypothesis was true.</key>
-		<value>PYE：和當初在&lt;color=orange&gt;高能實驗室&lt;/color&gt;里的試驗相比，我們獲得了多麽長遠的\\n進步！我依然不敢相信RAMIE的假設居然是正確的。</value>
+		<value>PYE：Jak daleko jsme došli od našich experimentů ve &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt;! Pořád se mi těžko věří, že Ramieho hypotéza byla pravdivá.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-		<value>YARROW：POKE剛剛從&lt;color=orange&gt;黑洞熔爐&lt;/color&gt;為我們送來了最後一座高塔的躍遷核心。\\n現在&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;可以和&lt;color=lightblue&gt;深巨星&lt;/color&gt;建立聯系了。CASSAVA在那里和AVENS\\n一起制造&lt;color=orange&gt;軌道探測炮&lt;/color&gt;，而PHLOX則在雕刻回憶雕像。</value>
+		<value>YARROW：Poke nám právě z &lt;color=orange&gt;Černoděré kovárny&lt;/color&gt; poslala warpové jádro pro poslední věž. Nyní můžeme &lt;color=lightblue&gt;Popelák&lt;/color&gt; spojit s &lt;color=lightblue&gt;Obří hlubinou&lt;/color&gt;, kde Cassava pracuje s Avensem na tvorbě &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt;, a kde Phlox tesá vzpomínkové sochy.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
-		<value>CASSAVA：假設：我們的躍遷塔核心是最後一個造出來的，\\n這並非出於偶然。</value>
+		<value>CASSAVA：Hypotéza: Není náhodou, že jádro naší warpové věže bylo hotovo až jako poslední.</value>
 	</entry>
 	<entry>
 		<key>POKE: Hypothesis: The cores could have been forged faster if Cassava had interrupted my work less frequently to ask for updates.</key>
-		<value>POKE：假設：要是CASSAVA別老是打擾我的工作，詢問最新的進展，\\n核心的鍛造速度會更快。</value>
+		<value>POKE：Hypotéza: Všechna jádra by byla hotova dříve, kdyby mě Cassava méně často přerušoval, aby se zeptal, co je nového.</value>
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
-		<value>YARROW：重要的是，現在我們都和&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;建立了聯系，\\n而且我再也用不著去調解你們的爭執了。</value>
+		<value>YARROW：Důležité je to, že jsme všichni propojeni skrz &lt;color=lightblue&gt;Popelák&lt;/color&gt;, a také to, že už mě není potřeba pro mediaci vašich neshod.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Our friends on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; tested the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; today. Mallow tells me the cannon is doing well, and that Avens advocates for more launch power. If anyone can coax the maximum power from a device, Avens can.</key>
-		<value>YARROW：今天，我們在&lt;color=lightblue&gt;深巨星&lt;/color&gt;上的朋友們測試了&lt;color=orange&gt;軌道探測炮&lt;/color&gt;。\\nMALLOW告訴我大炮的表現很出色，AVENS主張加大發射功率。要是有誰\\n能夠把設備的最大功率給發揮出來，那就非AVENS莫屬。</value>
+		<value>YARROW：Naši přátelé na &lt;color=lightblue&gt;Obří hlubině&lt;/color&gt; dnes otestovali &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt;. Mallow říká, že kanón obstál, a že Avens chce příští sondu vypálit s větší silou. Pokud někdo dokáže z přístroje vyloudit maximální sílu, je to Avens.</value>
 	</entry>
 	<entry>
 		<key>YARROW: But then, if anyone can goad a device into exploding, that, too, is likely Avens. Perhaps I should check in with the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; crew in the interest of safety.</key>
-		<value>YARROW：不過話說回來，把設備弄爆炸的人，多半，也是AVENS。\\n也許出於安全起見，我應該去和&lt;color=orange&gt;軌道探測炮&lt;/color&gt;的乘員們確認一下。</value>
+		<value>YARROW：Na druhou stranu, pokud někdo dokáže podnítit přístroj do vznícení, je to (také) Avens. Možná bych měl zkontrolovat posádku &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt; ve jménu bezpečnosti.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Would it help to remind Avens that Mallow (his love) will be one of the Nomai aboard the cannon, or is Mallow part of the problem?</key>
-		<value>YARROW：如果提醒AVENS，（他的愛人）MALLOW也會和其他挪麥人一起乘坐\\n大炮，情況會不會好一點？還是說MALLOW也是造成問題的因素之一？</value>
+		<value>YARROW：Pomohlo by také připomenout Avensovi, že Mallow (jeho láska) bude jednou z Nomai na palubě kanónu, nebo je Mallow součástí tohoto problému?</value>
 	</entry>
 	<entry>
 		<key>YARROW: Pye and Idaea have worked hard on the &lt;color=orange&gt;Sun Station&lt;/color&gt;, and it at last is complete. If everything goes as planned, this structure will prompt the &lt;color=lightblue&gt;sun&lt;/color&gt;’s explosion, which will in turn supply the power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires.</key>
-		<value>YARROW：經過PYE和IDAEA的努力工作，&lt;color=orange&gt;太陽站&lt;/color&gt;終於完工了。\\n如果一切按照計劃進行，這座設施將會刺激&lt;color=lightblue&gt;太陽&lt;/color&gt;爆發，\\n從而為&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;提供所需的動力。</value>
+		<value>YARROW：Pye a Idaea tvrdě pracovaly na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;, která je nyní konečně hotová. Pokud všechno půjde podle plánu, tato struktura vznítí &lt;color=lightblue&gt;slunce&lt;/color&gt;, které tím dodá dostatečné množství energie &lt;color=orange&gt;Popelákovému projektu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I’m impressed by their mental fortitude. This was the project’s most difficult task, in more ways than one.</key>
-		<value>RAMIE：我實在是佩服他們的毅力。從各方面來講，\\n這都是計劃里最艱難一個的任務。</value>
+		<value>RAMIE：Jejich síla ducha je impresivní. Toto byla v mnoha ohledech ta nejsložitější část projektu.</value>
 	</entry>
 	<entry>
 		<key>YARROW: We’re nearly ready to activate the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;! Here is what will happen: First, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will receive the order to fire at the &lt;color=lightblue&gt;sun&lt;/color&gt;, prompting it to explode.</key>
-		<value>YARROW：我們馬上就可以啟動&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;了！接下來會出現這樣的\\n情況：首先，&lt;color=orange&gt;太陽站&lt;/color&gt;會收到指令，對&lt;color=lightblue&gt;太陽&lt;/color&gt;進行發射，促使它爆發。</value>
+		<value>YARROW：Jsme téměř připraveni aktivovat &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! Věci se udějí v následovném pořadí: Nejprve &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; dostane pokyn vypálit na &lt;color=lightblue&gt;slunce&lt;/color&gt;, čímž jej přiměje k explozi.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Using the energy from the resulting supernova, the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will send the order for the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to fire back in time by 22 minutes.</key>
-		<value>YARROW：借助超新星爆發所產生的能量，&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;會向\\n&lt;color=orange&gt;軌道探測炮&lt;/color&gt;下達指令，向過去22分鐘進行發射。</value>
+		<value>YARROW：Za pomoci energie z následné supernovy potom &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; pošle pokyn &lt;color=orange&gt;Orbitálnímu sondovému kanónu&lt;/color&gt;, aby vypálil sondu před 22 minutami.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Exactly 22 minutes after these orders are received, the &lt;color=orange&gt;Sun Station&lt;/color&gt; will again trigger the supernova to send the probe data from this cannon launch back in time.</key>
-		<value>YARROW：收到這些指令22分鐘後，&lt;color=orange&gt;太陽站&lt;/color&gt;會再次觸發超新星，\\n把這門大炮的探測數據發往過去。</value>
+		<value>YARROW：Přesně 22 minut potom, co jsou tyto rozkazy přijaty, &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; znovu způsobí supernovu, abychom mohli poslat zpátky v čase data ze sondy vypálené během této smyčky.</value>
 	</entry>
 	<entry>
 		<key>YARROW: In total, each cycle created by the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will last precisely 22 minutes. We can end this cycle at will.</key>
-		<value>YARROW：總的來說，&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;所產生的每個循環都會\\n持續22分鐘整。我們可以隨時中止這一循環。</value>
+		<value>YARROW：Každý cyklus vytvořený &lt;color=orange&gt;Popelákovým projektem&lt;/color&gt; bude trvat přesně 22 minut. Tento cyklus můžeme kdykoliv ukončit.</value>
 	</entry>
 	<entry>
 		<key>YARROW: These words are difficult to write: The &lt;color=orange&gt;Sun Station&lt;/color&gt; did not work.</key>
-		<value>YARROW：下面的話實在是叫人痛心：&lt;color=orange&gt;太陽站&lt;/color&gt;沒能起作用。</value>
+		<value>YARROW：Tato slova je obtížné napsat: &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; nefungovala.</value>
 	</entry>
 	<entry>
 		<key>YARROW: However, this is the closest we have ever been. The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is theoretically sound; we were only unable to power it. Perhaps there is another way.</key>
-		<value>YARROW：然而，這是我們距離成功最近的一次。&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;在理論上\\n是可行的；我們只是無法提供足夠的動力。也許還有別的辦法。</value>
+		<value>YARROW：Toto je nejblíže, co jsme kdy byli. &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; je teoreticky validní; jen jsme neměli dost energie pro jeho napájení. Možná najdeme jiný způsob.</value>
 	</entry>
 	<entry>
 		<key>PYE: Suppose we redesign the &lt;color=orange&gt;Sun Station&lt;/color&gt;. To generate power of that magnitude, a supernova is still our only viable option.</key>
-		<value>PYE：估計我們可以重新設計&lt;color=orange&gt;太陽站&lt;/color&gt;。要生成那種級別的動力，\\n超新星依然是唯一可行的辦法。</value>
+		<value>PYE：Řekněme, že redesignujeme &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;. Supernova je pořád zapotřebí k tomu, abychom vygenerovali energii v potřebném množství.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: This is easier expressed than accomplished.</key>
-		<value>IDAEA：說起來容易做起來難。</value>
+		<value>IDAEA：To je snadnější vyjádřit než docílit.</value>
 	</entry>
 	<entry>
 		<key>PYE: You can wait for the &lt;color=lightblue&gt;sun&lt;/color&gt; to explode on its natural timeline if you prefer, Idaea, but you’ll need to find some way to halt our aging process.</key>
-		<value>PYE：如果你願意的話，你可以等&lt;color=lightblue&gt;太陽&lt;/color&gt;自行爆發的那一天，\\nIDAEA，不過你得想辦法讓我們不變老才行。</value>
+		<value>PYE：Můžeš počkat na to, než &lt;color=lightblue&gt;slunce&lt;/color&gt; vybuchne samo od sebe, Idaeo, ale budeme muset přijít na to, jak zvrátit naše stárnutí.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I believe we can still find a way to create a supernova, my friend. Don’t lose hope!</key>
-		<value>RAMIE：我相信我們依然能夠找到方法來制造一顆超新星，\\n我的朋友。不要灰心！</value>
+		<value>RAMIE：Věřím, že můžeme stále přijít na to, jak vytvořit supernovu, má drahá přítelkyně. Neztrácej naději!</value>
 	</entry>
 	<entry>
 		<key>YARROW: We are halting our research into creating a supernova for this moment; a &lt;color=lightblue&gt;comet&lt;/color&gt; has newly arrived in this solar system, and we’re anxious to explore it.</key>
-		<value>YARROW：我們目前擱置了制造超新星的研究；一顆&lt;color=lightblue&gt;彗星&lt;/color&gt;最近來到了這個\\n太陽系，我們急切地想要對它進行探索。</value>
+		<value>YARROW：Prozatím pozastavujeme náš výzkum ohledně vytváření supernov; do naše planetárního systému dorazila &lt;color=lightblue&gt;kometa&lt;/color&gt; a my bychom ji rádi prozkoumali.</value>
 	</entry>
 	<entry>
 		<key>YARROW: It’s been a very long time since we last explored somewhere new, so we’re excited to welcome this &lt;color=lightblue&gt;comet&lt;/color&gt;. Imagine what knowledge might be gained there!</key>
-		<value>YARROW：我們已經很久沒有探索新的地方了，因此這顆&lt;color=lightblue&gt;彗星&lt;/color&gt;的到來\\n讓我們求之不得。想想看，我們在那里能夠獲得怎樣的知識！</value>
+		<value>YARROW：Už je to drahnou dobu, co jsme prozkoumali něco nového, takže jsme nadšení z toho, že můžeme přivítat tuto &lt;color=lightblue&gt;kometu&lt;/color&gt;. Představ si, kolik znalostí z ní můžeme získat!</value>
 	</entry>
 	<entry>
 		<key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
-		<value>PYE：從&lt;color=orange&gt;懸空城&lt;/color&gt;前來拜訪的朋友們，我們正在&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;赤道的\\n&lt;color=orange&gt;高能實驗室&lt;/color&gt;籌備&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;。</value>
+		<value>PYE：Přátelé z &lt;color=orange&gt;Visacího města&lt;/color&gt;, plánujeme &lt;color=lightblue&gt;Popelákový projekt&lt;/color&gt; ve &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt; na rovníku &lt;color=orange&gt;Doutnáku&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
-		<value>CONOY：我在&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;上迷路了（多虧RAMIE找到了我！），\\n然而&lt;color=orange&gt;高能實驗室&lt;/color&gt;可是一座擁有許多大型太陽能電池板的建築。\\n我居然沒有看到！</value>
+		<value>CONOY：Na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt; jsem se ztratil (mé díky Ramiemu, že mě našel!), ale &lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt; je v budově s velkými solárními panely. Jsem překvapen, že jsem ji přehlédl!</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
-		<value>RAMIE：要不是這個可能性在解剖學上不成立，不然我還以為我們\\n聰明異常的CONOY把自己的腦子給弄丟了呢！</value>
+		<value>RAMIE：Myslím, že náš jinak brilantní Conoy by ztratil i svou vlastní hlavu, kdyby to nebylo anatomicky nemožné!</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.</key>
-		<value>&lt;color=orange&gt;航天飛機&lt;/color&gt;目前停泊在&lt;color=lightblue&gt;量子衛星&lt;/color&gt;上。</value>
+		<value>&lt;color=orange&gt;Loď&lt;/color&gt; nyní odpočívá na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			What is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?
 		</key>
 		<value>
-			什麽是&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;？
+			Co je &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt; zač?
 		</value>
 	</entry>
 	<entry>
@@ -4673,7 +4673,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is the source of the signal that brought us here.
 		</key>
 		<value>
-			是&lt;color=lightblue&gt;眼&lt;/color&gt;發出的信號帶我們來到了這里。
+			&lt;color=lightblue&gt;Oko&lt;/color&gt; je zdrojem signálu, který nás sem přivedl.
 		</value>
 	</entry>
 	<entry>
@@ -4681,7 +4681,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a more advanced being.
 		</key>
 		<value>
-			估計&lt;color=lightblue&gt;眼&lt;/color&gt;是一個更加高級的存在。
+			Řekněme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je pokročilá bytost.
 		</value>
 	</entry>
 	<entry>
@@ -4689,7 +4689,7 @@
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than this universe, so imagine how much it could teach us.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;眼&lt;/color&gt;比這個宇宙本身還要古老。\\n想想看，我們能從它那里學到多少知識。
+			&lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než náš vesmír, takže si představte, co vše by nás mohlo naučit.
 		</value>
 	</entry>
 	<entry>
@@ -4697,7 +4697,7 @@
 			Perhaps it is a cosmic library!
 		</key>
 		<value>
-			說不定它就是一座宇宙圖書館！
+			Možná je to kosmická knihovna!
 		</value>
 	</entry>
 	<entry>
@@ -4705,7 +4705,7 @@
 			What is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal?
 		</key>
 		<value>
-			&lt;color=lightblue&gt;眼&lt;/color&gt;的信號到底是什麽？
+			Co je signál &lt;color=lightblue&gt;Oka&lt;/color&gt;?
 		</value>
 	</entry>
 	<entry>
@@ -4713,7 +4713,7 @@
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; wishes to communicate.
 		</key>
 		<value>
-			估計&lt;color=lightblue&gt;眼&lt;/color&gt;想要進行交流。
+			Řekněme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; si přeje komunikovat.
 		</value>
 	</entry>
 	<entry>
@@ -4721,7 +4721,7 @@
 			The signal is a call. Were we the intended audience?
 		</key>
 		<value>
-			那個信號在進行呼喚。是在呼喚我們嗎？
+			Signál je volání. Byli jsme zamýšleným publikem?
 		</value>
 	</entry>
 	<entry>
@@ -4729,7 +4729,7 @@
 			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
 		</key>
 		<value>
-			那個信號是&lt;color=lightblue&gt;眼&lt;/color&gt;在說話。它說著我們尚且無法理解的語言。
+			Signál je hlasem &lt;color=lightblue&gt;Oka&lt;/color&gt;. Mluví jazykem, který zatím neznáme.
 		</value>
 	</entry>
 	<entry>
@@ -4737,7 +4737,7 @@
 			Or maybe the signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s attempt at expressing itself.
 		</key>
 		<value>
-			或許那個信號是&lt;color=lightblue&gt;眼&lt;/color&gt;想要表達自己。
+			Nebo je signál snahou &lt;color=lightblue&gt;Oka&lt;/color&gt; o sebevyjádření.
 		</value>
 	</entry>
 	<entry>
@@ -4745,63 +4745,63 @@
 			Of note: From the signal, we were able to determine the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s approximate age (or perhaps its lack of age?).
 		</key>
 		<value>
-			注意事項：我們根據信號可以推斷出&lt;color=lightblue&gt;眼&lt;/color&gt;的大致年齡（或者應該說，\\n它缺少的那部分年齡？）。
+			Stojí za zmínku: Ze signálu jsme byli schopni určit přibližný věk &lt;color=lightblue&gt;Oka&lt;/color&gt; (nebo snad jeho nevěk?).
 		</value>
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. </key>
-		<value>歡迎來到這個地方。來自&lt;color=lightblue&gt;眼&lt;/color&gt;的信號把我們帶到了這個星系。\\n我們在這個祭壇里對這一現象進行思考。 </value>
+		<value>Vítejte na tomto místě. Tato svatyně poskytuje prostor, v němž můžeme přemýšlet o tom, co nás do tohoto planetárního systému přivedlo: signál &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. </key>
-		<value>我們在旅途中觀察到了&lt;color=lightblue&gt;眼&lt;/color&gt;的信號，\\n於是跟著它來到這里，想要尋找信號的來源。 </value>
+		<value>Zachytili jsme signál &lt;color=lightblue&gt;Oka&lt;/color&gt; během našich cest, a následovali jsme jej sem, abychom našli jeho zdroj.</value>
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</key>
-		<value>我們所知的情況如下：信號的來源（我們稱之為&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;）\\n比這個宇宙本身還要古老。別的我們就不知道了。</value>
+		<value>Co víme: Zdroj tohoto signálu, (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme ještě zjistit.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities.</key>
-		<value>進入祭壇，在它的各種可能性面前，開放你的頭腦。</value>
+		<value>Vstup, a otevři svou mysl všem možnostem.</value>
 	</entry>
 	<entry>
 		<key>Solution 1: We could retrieve the warp core from the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>解決方案1：我們可以從&lt;color=orange&gt;飛船&lt;/color&gt;上面把躍遷核心回收回來。</value>
+		<value>Řešení 1: Mohli bychom zachránit warpové jádro z &lt;color=orange&gt;Plavidla&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</key>
-		<value>RAMIE：樂觀估計，&lt;color=orange&gt;飛船&lt;/color&gt;的躍遷核心已經壞了（回想&lt;color=orange&gt;飛船&lt;/color&gt;墜落當時\\n所提到的，核心受到了致命的損傷）。這次冒險未必能夠得到回報。</value>
+		<value>RAMIE：Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; je přinejlepším rozbité (vzpomeňte si,že když &lt;color=orange&gt;Plavidlo&lt;/color&gt; havarovalo, řeklo nám, že prodělalo smrtelné zranění.) Toto riziko nemá zaručenou odměnu.</value>
 	</entry>
 	<entry>
 		<key>CONOY: Perhaps we could still repair it. My grandmother told me there was little time to assess the nature or extent of the damage.</key>
-		<value>CONOY：也許我們依然應該把它修好。我的祖母告訴過我，\\n沒有時間可以去評估損失的性質或者是程度。</value>
+		<value>CONOY：Možná bychom jej stále mohli opravit. Moje babička mi řekla, že jsme neměli dost času určit podstatu či rozsah škod.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Even if it no longer functions, the old core could be a valuable blueprint, provided we’re able to transport it back here.</key>
-		<value>CASSAVA：就算舊核心已經無法工作了，只要我們能夠把它給運回來，\\n它依然可以為我們提供寶貴的設計藍圖。</value>
+		<value>CASSAVA：I kdyby nebylo nadále funkční, staré jádro by bylo cenným náčrtem, pokud bychom jej zvládli dopravit zpět sem.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
-		<value>PHLOX：這樣我們就得回到&lt;color=lightblue&gt;黑棘星&lt;/color&gt;去。PLUME（我的父親）說過，\\n許多出色的挪麥人都在那里失去了生命。</value>
+		<value>PHLOX：To by vyžadovalo návrat na &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;. Plume (můj otec) mi řekl, že tam zemřelo mnoho dobrých Nomai.</value>
 	</entry>
 	<entry>
 		<key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
-		<value>CYCAD：我的導師（COLEUS）和他從前的導師有一次在&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;上\\n發現過一塊安康魚化石，並對其進行了研究。通過這些知識，\\n我們完全可以避開安康魚！</value>
+		<value>CYCAD：Můj mentor (Coleus) a jeho mentor jednou objevili a studovali fosílii ďase na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;. Za pomoci těchto znalostí bychom se mohli ďasům zcela vyhnout!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
-		<value>COLEUS：從理論上來講，MELORAE和我從化石上了解到的內容可以幫助\\n我們躲避安康魚，但我們的假設從來沒有在活體標本上進行過驗證。</value>
+		<value>COLEUS：To, co jsme se Melorae a já dozvěděli z té zkameněliny, by nám sice teoreticky mohlo pomoci vyhnout se ďasům, ale naše hypotéza nebyla nikdy otestována na živém vzorku.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I remember that anglerfish fossil! We used to play in &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; when we were children.</key>
-		<value>RAMIE：我記得那塊安康魚化石！我們小的時候曾經在&lt;color=orange&gt;化石魚洞&lt;/color&gt;\\n里面玩過遊戲。</value>
+		<value>RAMIE：Na tu zkamenělinu ďase si pamatuji! Hrávali jsme si v &lt;color=orange&gt;Jeskyni rybí zkameněliny&lt;/color&gt;, když jsme byli děti.</value>
 	</entry>
 	<entry>
 		<key>
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
-			SOLANUM：小時候在&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;上，我一直認為&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;（那個\\n信號的源頭）想要害我們。現在我已經改變了這個想法。\\n不過也許它也不希望被別人找到。
+			SOLANUM：Už nevěřím, jako jsem věřívala jako dítě na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;, že &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt; (zdroj signálu) nám chce ublížit. Ale možná také nechce být nalezeno.
 		</value>
 	</entry>
 	<entry>
@@ -4809,7 +4809,7 @@
 			SOLANUM: The terrible circumstances of our arrival here were almost certainly exactly that: circumstance.
 		</key>
 		<value>
-			SOLANUM：我們來到這里所遭遇的艱苦環境幾乎就說明了這一點。
+			SOLANUM：Hrozivé okolnosti našeho příletu seme byly téměř určitě jen náhodné okolnosti.
 		</value>
 	</entry>
 	<entry>
@@ -4817,7 +4817,7 @@
 			SOLANUM: I suspect imagining we are special to the &lt;color=lightblue&gt;Eye&lt;/color&gt; in some way is wishful thinking. The &lt;color=lightblue&gt;Eye&lt;/color&gt; might have called out to any sentient species.
 		</key>
 		<value>
-			SOLANUM：我們覺得自己對於&lt;color=lightblue&gt;眼&lt;/color&gt;來說是特別的存在。我猜測這種想法\\n不過是一廂情願。&lt;color=lightblue&gt;眼&lt;/color&gt;可能在對任何一個智能物種發出呼喚。
+			SOLANUM：Mám podezření, že představovat si, že jsme pro &lt;color=lightblue&gt;Oko&lt;/color&gt; nějakým způsobem důležití, je zbožné přání. &lt;color=lightblue&gt;Oko&lt;/color&gt; pravděpodobně volalo všem inteligentním druhům.
 		</value>
 	</entry>
 	<entry>
@@ -4825,7 +4825,7 @@
 			SOLANUM: Or it might not have been calling out at all, and that my ancestors heard the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal holds no great, deep meaning.
 		</key>
 		<value>
-			SOLANUM：也可能它根本沒有在進行呼喚，我的祖先聽到的&lt;color=lightblue&gt;眼&lt;/color&gt;信號\\n並沒有什麽深刻的含義。
+			SOLANUM：Nebo možná nevolalo vůbec, a to, co mí předchůdci vnímali jako signál &lt;color=lightblue&gt;Oka&lt;/color&gt;, nemá žádný hlubší význam.
 		</value>
 	</entry>
 	<entry>
@@ -4833,7 +4833,7 @@
 			SOLANUM: This wouldn’t be so bad, I think.
 		</key>
 		<value>
-			SOLANUM：我想，這也不算是什麽壞事。
+			SOLANUM：To by, myslím, nebylo tak hrozné.
 		</value>
 	</entry>
 	<entry>
@@ -4841,7 +4841,7 @@
 			SOLANUM: In fact, the &lt;color=lightblue&gt;Eye&lt;/color&gt; may not have wishes at all. We have no evidence supporting this.
 		</key>
 		<value>
-			SOLANUM：事實上，&lt;color=lightblue&gt;眼&lt;/color&gt;很可能根本沒有自己的意願。\\n我們並不具備支持這一說法的證據。
+			SOLANUM：&lt;color=lightblue&gt;Oko&lt;/color&gt; vlastně nemusí mít žádná přání. Nemáme žádné důkazy o tom, že má jakékoliv vědomí.
 		</value>
 	</entry>
 	<entry>
@@ -4849,7 +4849,7 @@
 			ILEX: Why We Should Build A New Vessel
 		</key>
 		<value>
-			ILEX：我們為什麽要建造一艘新的飛船
+			ILEX：Proč bychom měli vybudovat nové Plavidlo
 		</value>
 	</entry>
 	<entry>
@@ -4857,7 +4857,7 @@
 			ILEX: Each Nomai clan explores the universe in its own Vessel. The Vessel is the heart of every clan.
 		</key>
 		<value>
-			ILEX：所有挪麥家族都會乘坐自己的飛船來探索宇宙。\\n飛船是每一個家族的核心。
+			ILEX：Každý klan Nomai zkoumá vesmír ve vlastním Plavidle. Plavidlo je srdcem každého klanu.
 		</value>
 	</entry>
 	<entry>
@@ -4865,7 +4865,7 @@
 			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
 		</key>
 		<value>
-			ILEX：挪麥人在一個地方逗留這麽長時間是很不尋常的。\\n挪麥人都是漫遊者，居無定所。
+			ILEX：Je nezvyklé, aby Nomai zůstali tak dlouho na jednom místě. Nomai jsou kočovníci a nemají žádný stálý domov.
 		</value>
 	</entry>
 	<entry>
@@ -4873,7 +4873,7 @@
 			ILEX: If we built a new Vessel, we could return to our adventurous way of life. Imagine all the new places we could go! Our clan wouldn’t be stuck here in this star system.
 		</key>
 		<value>
-			ILEX：如果我們建造一艘新的飛船，就可以重歸冒險生活。想想看，\\n我們將會前往哪些新的地方！我們的家族是不會被困在在這個星系里的。
+			ILEX：Kdybychom vybudovali nové Plavidlo, mohli bychom se vrátit k našemu dobrodružnému stylu žití. Představte si všechna nová místa, kam bychom mohli jít! Náš klan by nemusel být zaseknutý v tomto planetárním systému.
 		</value>
 	</entry>
 	<entry>
@@ -4881,7 +4881,7 @@
 			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
 		</key>
 		<value>
-			ILEX：我們還能和其他挪麥人見面，學習他們掌握的知識。\\n我們以前就是這樣做的，就像COLEUS說得那樣。
+			ILEX：Mohli bychom dokonce potkat další Nomai, a něco se od nich přiučit, jako jsme to dle Colea kdysi dělávali.
 		</value>
 	</entry>
 	<entry>
@@ -4889,7 +4889,7 @@
 			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
 		</key>
 		<value>
-			ILEX：假如我們別再建造其它的新東西，並且把其它建築拆掉（比如\\n&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;上的那些高塔），說不定就不愁弄不到零件了。
+			ILEX：Nebylo by složité vyrobit součástky, kdybychom přestali vyrávět jiné nové věci, a kdybychom rozebrali ostatní struktury (jako třeba věže na &lt;color=lightblue&gt;Popeláku&lt;/color&gt;).
 		</value>
 	</entry>
 	<entry>
@@ -4897,7 +4897,7 @@
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
 		<value>
-			ILEX：我們目前也許只能建造一艘小一點的飛船。雖然一般來說飛船\\n都很大。但是我們可以在抵達其它資源更多的行星時，\\n再把飛船造得更大。
+			ILEX：Možná bychom pro tuto chvíli museli vybudovat menší Plavidlo, přestože Plavidla jsou normálně velká. Ale mohli bychom ji zvětšit později, až bychom dorazili k planetám s více zdroji.
 		</value>
 	</entry>
 	<entry>
@@ -4905,7 +4905,7 @@
 			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ILEX：如果我們不再造那麽多東西去尋找&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;就好了。\\n我問過YARROW，他說我們在&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;上投入了許多資源。
+			ILEX：Taky by pomohlo, kdybychom přestali budovat tolik pomůcek pro hledání &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Zeptal jsem se Yarrowa, a ten říká, že používáme mnoho zdrojů na &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -4913,7 +4913,7 @@
 			ILEX: We could even have a warp core for jumping long distances like Vessels have. Poke tells me she plans to make a very advanced warp core for a different project. I’m sure she could connect it to the Vessel for travel (because Poke is smart).
 		</key>
 		<value>
-			ILEX：我們還有一顆可以進行遠距離跳躍的躍遷核心，就像飛船上的\\n核心那樣。POKE告訴我，她打算為其它計劃制造一顆非常高級的\\n躍遷核心。我肯定她可以把核心和飛船進行連接，\\n用它來航行（因為POKE很聰明）。
+			ILEX：Mohli bychom mít i warpové jádro pro dlouhé teleportační skoky, jako ostatní Plavidla. Poke mi řekla, že plánuje vytvořit velmi pokročilé warpové jádro pro jiný projekt. Jsem si jistý, že by ho mohla napojit na Plavidlo a cestovat s ním (protože Poke je chytrá).
 		</value>
 	</entry>
 	<entry>
