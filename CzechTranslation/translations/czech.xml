@@ -12867,7 +12867,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>132</key>
-			<value>Poměr stran</value>
+			<value>Aspect ratio</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>133</key>
@@ -12875,11 +12875,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>134</key>
-			<value>Anti Aliasing</value>
+			<value>Anti-aliasing</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>135</key>
-			<value>Anti Alias Quality</value>
+			<value>Kvalita anti-aliasingu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>136</key>
@@ -12895,11 +12895,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>Kvalita stínů</value>
+			<value>Kvalita stínu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
-			<value>SSAO Quality</value>
+			<value>Kvalita SSAO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>141</key>
@@ -12935,7 +12935,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>151</key>
-			<value>Citlivost pohledu</value>
+			<value>Citlivost rozhlížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>152</key>
@@ -12971,11 +12971,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>162</key>
-			<value>Ship Log Rumor Mode</value>
+			<value>Lodní deník v režimu fám</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>163</key>
-			<value>Ship Log Notifications</value>
+			<value>Oznámení lodního deníku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>164</key>
@@ -12983,7 +12983,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>165</key>
-			<value>Button Prompts</value>
+			<value>Návrhy akcí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>170</key>
@@ -13007,7 +13007,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>175</key>
-			<value>Master Volume</value>
+			<value>Celková hlasitost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>176</key>
@@ -13051,11 +13051,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>190</key>
-			<value>Invertovat pohled postavy</value>
+			<value>Invertovat rozhlížení postavy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>191</key>
-			<value>Invertovat pohled z lodi</value>
+			<value>Invertovat rozhlížení z lodi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>192</key>
@@ -13103,7 +13103,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
-			<value>Lock On</value>
+			<value>Sledovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
@@ -13143,7 +13143,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
-			<value>Jump</value>
+			<value>Skok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
@@ -13163,19 +13163,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>220</key>
-			<value>Up Thrust</value>
+			<value>Tah nahoru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>221</key>
-			<value>Down Thrust</value>
+			<value>Tah dolu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>222</key>
-			<value>Down / Up Thrust</value>
+			<value>Tah vzhůru / dolů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>223</key>
-			<value>Horizontal Thrust</value>
+			<value>Vodorovný tah</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>224</key>
@@ -13203,7 +13203,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
-			<value>Retrieve Scout</value>
+			<value>Vyzvednout sondu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
@@ -13955,7 +13955,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
-			<value>Dorovnat rychlost</value>
+			<value>Srovnat rychlost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
@@ -13975,7 +13975,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>557</key>
-			<value>Lock On</value>
+			<value>Sledovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
@@ -14055,7 +14055,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
-			<value>Retrieve Scout</value>
+			<value>Vyzvednout sondu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
@@ -14483,7 +14483,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>908</key>
-			<value>Hlasitost zvukových efektů</value>
+			<value>Zvukové efekty</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>909</key>
@@ -14755,35 +14755,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>980</key>
-			<value>Low</value>
+			<value>Nízká</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>981</key>
-			<value>Medium</value>
+			<value>Střední</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>982</key>
-			<value>High</value>
+			<value>Vysoká</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>983</key>
-			<value>Very High</value>
+			<value>Velmi vysoká</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>984</key>
-			<value>Full</value>
+			<value>Plná</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>985</key>
-			<value>Half</value>
+			<value>Poloviční</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>986</key>
-			<value>Quarter</value>
+			<value>Čtvrtinová</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>987</key>
-			<value>Eighth</value>
+			<value>Osminová</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>988</key>
@@ -14931,11 +14931,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1031</key>
-			<value>Landing Camera</value>
+			<value>Parkovací kamera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1032</key>
-			<value>Cockpit Free Look</value>
+			<value>Volný pohled z kokpitu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1033</key>
@@ -15495,7 +15495,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1313</key>
-			<value>Button Prompt Images</value>
+			<value>Ikony v nabídce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1314</key>
@@ -15535,11 +15535,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
-			<value>Primary Tool Action</value>
+			<value>Primární akce s nástrojem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1324</key>
-			<value>Secondary Tool Action</value>
+			<value>Sekundární akce s nástrojem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1325</key>
@@ -15607,11 +15607,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1401</key>
-			<value>Reset Current Changes</value>
+			<value>Vrátit dosavadní úpravy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1402</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>Uložit nastavení a odejít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
@@ -15667,15 +15667,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Zastavit čas během překládání textu</value>
+			<value>Zastavit hodiny - studium textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Zastavit čas během čtení lodního deníku</value>
+			<value>Zastavit hodiny - lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Zastavit čas během rozhovorů</value>
+			<value>Zastavit hodiny - rozhovory</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
@@ -15687,7 +15687,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>Obecné</value>
+			<value>Obecne</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
@@ -15747,15 +15747,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
-			<value>AUDIO &amp; LANGUAGE</value>
+			<value>AUDIO &amp; JAZYK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1504</key>
-			<value>CONTROLS</value>
+			<value>OVLÁDÁNÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1505</key>
-			<value>Water Quality</value>
+			<value>Kvalita vody</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
@@ -15763,7 +15763,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
-			<value>Lighting Effects Quality</value>
+			<value>Kvylita nasvícení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
@@ -15771,7 +15771,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>Reflections Quality</value>
+			<value>Kvalita odrážení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
@@ -15779,7 +15779,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1511</key>
-			<value>Leave &amp; Save Changes</value>
+			<value>Uložit nastavení a odejít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
