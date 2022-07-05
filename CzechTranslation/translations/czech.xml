@@ -7408,167 +7408,167 @@
 	</entry>
 	<entry>
 		<key>ScaredMiner1Hey, hey. Nice of you to drop down.</key>
-		<value>嘿, 嘿. 你能過來可真是好. </value>
+		<value>Hejhej. Je od tebe hezký, že ses stavil.</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1I’m getting some zero-g time in.</key>
-		<value>我想花點時間進行一下無重力訓練. </value>
+		<value>Jen si zkouším nulku. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Give me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Řekni mi, co se děje. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Guess where I’m going today.</key>
-		<value>猜猜我今天要去哪兒. </value>
+		<value>Hádej, kam dneska letím. </value>
 	</entry>
 	<entry>
 		<key>ScaredMiner2Hey, you’re back. You need something?</key>
-		<value>嘿, 你回來了. 有事嗎? </value>
+		<value>Čau, vítej zpět. Potřebuješ něco? </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Just getting in some zero-g time.</key>
-		<value>我只是想花點時間進行一下無重力訓練. </value>
+		<value>Jen si zkouším nulku. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Give me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Řekni mi, co se děje. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Guess where I’m going today.</key>
-		<value>猜猜我今天要去哪兒. </value>
+		<value>Hádej, kam dneska letím. </value>
 	</entry>
 	<entry>
 		<key>ZeroSo you’re going in &lt;i&gt;there&lt;/i&gt;? In the cave? Hnnngh...</key>
-		<value>這麽說你要&lt;i&gt;進去&lt;/i&gt;? 到洞里去? 嗯...</value>
+		<value>Takže ty jdeš &lt;i&gt;tam&lt;/i&gt;? Do jeskyně? Hnnngh...</value>
 	</entry>
 	<entry>
 		<key>ZeroWhat? No, I’m fine. Great. Great and fine.</key>
-		<value>什麽? 不, 我很好. 非常好. 好得很. </value>
+		<value>Cože? Ne, jsem v pořádku. Je mi skvěle. Jsem v pořádku a je mi skvěle.</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYou don’t &lt;i&gt;look&lt;/i&gt; fine...</key>
-		<value>你&lt;i&gt;看上去&lt;/i&gt;不太好...</value>
+		<value>&lt;i&gt;Nevypadáš&lt;/i&gt; v pořádku ani skvěle...</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYeah, I’m going to drift around down there for a while.</key>
-		<value>沒錯, 我要在里面飄上一陣子. </value>
+		<value>Jo, jen si tu chvilku zavznáším. </value>
 	</entry>
 	<entry>
 		<key>FineWell you know I hate that cave so I don’t know why you’re making me talk about it.</key>
-		<value>你很清楚我討厭那個山洞, 我不知道你幹嘛非讓我談起它不可. </value>
+		<value>No, ty víš, že tu jeskyni nenávidím, takže nevím, proč o ní chceš se mnou mluvit. </value>
 	</entry>
 	<entry>
 		<key>FineFweh... Now I’ve got hand sweats.</key>
-		<value>呼...我手心都出汗了. </value>
+		<value>Ugh... Teď se mi potí ruce. </value>
 	</entry>
 	<entry>
 		<key>Sick1Eurgh...</key>
-		<value>呃啊...</value>
+		<value>Eurgh...</value>
 	</entry>
 	<entry>
 		<key>TuffSick1Just going to float upside down and whatnot.</key>
-		<value>我就這麽頭重腳輕地飄著. </value>
+		<value>Já si tu jen chvíli budu vznášet vzhůru nohama. </value>
 	</entry>
 	<entry>
 		<key>TuffSick1...Sorry. I’ll stop.</key>
-		<value>...抱歉. 我不說了. </value>
+		<value>...Promiň. Přestanu. </value>
 	</entry>
 	<entry>
 		<key>MotionlessI’m going to sit here and think about flat, motionless rocks for a while.</key>
-		<value>我要在這里坐上一陣子, 想想那些一動不動、平平整整的石頭. </value>
+		<value>Já se tady posadím a budu chvíli přemýšlet o nehybných kamenných planinách. </value>
 	</entry>
 	<entry>
 		<key>Sick2H-hurk...</key>
-		<value>呃, 嘔...</value>
+		<value>H-hurk...</value>
 	</entry>
 	<entry>
 		<key>TuffSick2Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</key>
-		<value>無非就是撞在墻壁上彈回來. 不停地轉圈子. 諸如此類的. </value>
+		<value>Jen se, však víš, odrážej od stěn. Hodně se toč. A tak podobně.</value>
 	</entry>
 	<entry>
 		<key>TuffSick2That was too far, wasn’t it.</key>
-		<value>我太過分了, 是嗎? </value>
+		<value>To asi bylo moc, co? </value>
 	</entry>
 	<entry>
 		<key>Worst1You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>Ty jsi...&lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; Ty jsi ten nejhorší. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst1Sorry.</key>
-		<value>抱歉. </value>
+		<value>Promiň. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst1I know.</key>
-		<value>我知道. </value>
+		<value>Já vím. </value>
 	</entry>
 	<entry>
 		<key>Worst2You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>Ty jsi...&lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; Ty jsi ten nejhorší. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst2I know.</key>
-		<value>我知道. </value>
+		<value>Já vím. </value>
 	</entry>
 	<entry>
 		<key>GuessOh, no. Nooooo, no no no.&lt;Pause/&gt; No way.</key>
-		<value>哦, 不. 不不不, 不, 不. &lt;Pause/&gt;沒門. </value>
+		<value>Ó, ne. Neeee, ne ne ne. &lt;Pause/&gt; V žádném případě. </value>
 	</entry>
 	<entry>
 		<key>GuessYou want to run off into space, that’s your business, but don’t make me, you know, &lt;i&gt;think&lt;/i&gt; about it.</key>
-		<value>你想要上太空, 那是你的事情. \\n不過你可千萬別讓我的&lt;i&gt;腦子&lt;/i&gt;里也浮現那樣的場面. </value>
+		<value>Jestli chceš utéct do vesmíru, to je na tobě, ale nenuť mě o tom - však víš - &lt;i&gt;přemýšlet&lt;/i&gt;. </value>
 	</entry>
 	<entry>
 		<key>GuessBad enough we got this weird cave down here...</key>
-		<value>有這個奇怪的山洞在這里就已經夠糟糕的了...</value>
+		<value>Dost na tom, že tu máme tuhle divnou jeskyni...</value>
 	</entry>
 	<entry>
 		<key>DirtSome fresh dirt? Not much happening down here lately. Let me think...</key>
-		<value>新鮮事? 最近可沒什麽新鮮事. 讓我想想...</value>
+		<value>Nic moc se tu neděje...</value>
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
-		<value>說起來, 前些時候Tektite看見村子里的環形山\\n外面有什麽東西摔了下來. 那倒是頭一回. </value>
+		<value>Když o tom tak uvažuju, Tektit viděl něco havarovat u vesnického kráteru. To je nové a jiné.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtOh, hey. How ’bout that.</key>
-		<value>哦, 嘿. 那個算不算. </value>
+		<value>Hm, to mi povídej.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtIs anything on fire?</key>
-		<value>有什麽東西著火了嗎? </value>
+		<value>Hoří něco? </value>
 	</entry>
 	<entry>
 		<key>Probe1Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. “Safety first,” right?</key>
-		<value>沒錯, 他正帶著老式偵查發射器排除消防隱患, 結果看見有東西在冒煙. \\n於是他就去看了看. “安全第一”, 對吧? </value>
+		<value>Jo, zrovna byl na požární hlídce se starým sondometem a uviděl dým, takže se na něj šel podívat. "Nejdřív bezpečí," správně? </value>
 	</entry>
 	<entry>
 		<key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
-		<value>...不, 我在開玩笑呢. 我跟Tektite說過一回. 他笑了老半天, \\n要我說, 這就特別沒禮貌. </value>
+		<value>...ne, dělám si legraci. Jednou jsem tohle Tektitovi řekl. Bylo dost neuctivé, jak dlouho se smál.</value>
 	</entry>
 	<entry>
 		<key>Probe2Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</key>
-		<value>可能只有一點點. Tektite帶著老式的消防偵查發射器去查看了一下\\n墜落點, 發現那里在冒煙. 於是他跑過去把剩余的火苗給撲滅了. </value>
+		<value>Asi jen trošku. Tektit zkontroloval tu havárii starým sondometem a uviděl kouř, takže se tam vydal zadupat jakékoli další požáry.</value>
 	</entry>
 	<entry>
 		<key>Probe2Well, I better get back to work. This ore’s not going to mine itself, you know.</key>
-		<value>好了, 我該回去工作了. 礦石可不會自己開采出來. </value>
+		<value>No, já se musím vrátit do práce. Tahle ruda se sama nevykutá.</value>
 	</entry>
 	<entry>
 		<key>TooSickHurgh...</key>
-		<value>嘔哦...</value>
+		<value>Hurgh...</value>
 	</entry>
 	<entry>
 		<key>SpaceOh, I thought I heard you lift off. Change your mind?</key>
-		<value>哦, 我還以為你出發了呢. 改主意啦? </value>
+		<value>Oh, myslel jsem si, že jsem tě slyšel odletět. Změnil jsi názor?</value>
 	</entry>
 	<entry>
 		<key>TuffSpaceI needed a little more zero-g time.</key>
-		<value>我還需要再體驗一下無重力. </value>
+		<value>Potřeboval jsem trošku víc času v nulce. </value>
 	</entry>
 	<entry>
 		<key>TuffSpaceGive me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Co se tu děje? </value>
 	</entry>
 	<entry>
 		<key>Arkose</key>
