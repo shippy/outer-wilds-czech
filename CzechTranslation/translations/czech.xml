@@ -5034,103 +5034,103 @@
 	</entry>
 	<entry>
 		<key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
-		<value>PLUME: 你不在讓我心如刀絞. 如果能讓我好過一些, 我願意付出一切\\n代價. 一切代價, 除了無法與你相識 (那樣的話我會更加痛不欲生) . </value>
+		<value>PLUME: Bolest z tvé nepřítomnosti je ostrá a vtíravá, a dal bych cokoliv, abych ji necítil; cokoliv krom toho, abych tě nikdy neznal (což by bylo horší).</value>
 	</entry>
 	<entry>
 		<key>PLUME: I can only hope that you are safe, Keek, wherever you are.</key>
-		<value>PLUME: 無論你在哪兒, 奇克, 我只希望你能夠平安無事. </value>
+		<value>PLUME: Mohu jen doufat, že jsi v bezpečí, má drahá Keek, ať už jsi, kde jsi.</value>
 	</entry>
 	<entry>
 		<key>KOUSA: We can hear the other escape pods’ distress signals, which gives me hope. Foli, are you still here? I am unsure how to survive in this place without you.</key>
-		<value>KOUSA: 我們可以聽到其它逃生艙的求救信號, 這給了我希望. \\n弗利, 你還在嗎? 真不知道沒有你, 我該怎麽在這個地方活下去. </value>
+		<value>KOUSA: Stále slyšíme tísňové signály ostatních záchranných člunů, což mi dává naději. Foli, jsi stále tam? Nejsem si jist, jak tu přežít bez tebe.</value>
 	</entry>
 	<entry>
 		<key>KOUSA: (I am unsure how to be me without you.)</key>
-		<value>KOUSA:  (真不知道沒有你我該怎麽辦. ) </value>
+		<value>KOUSA: (Nejsem si jist, jak bez tebe být sám sebou.)</value>
 	</entry>
 	<entry>
 		<key>PLUME: My brother wasn’t in &lt;color=orange&gt;Escape Pod 1&lt;/color&gt; with us. Was he in &lt;color=orange&gt;Pod 2&lt;/color&gt;, or &lt;color=orange&gt;Pod 3&lt;/color&gt;? Was he able to board an escape pod at all?</key>
-		<value>PLUME: 我的兄弟沒有和我們一起登上&lt;color=orange&gt;1號逃生艙&lt;/color&gt;. 他會不會在\\n&lt;color=orange&gt;2號逃生艙&lt;/color&gt;, 或是&lt;color=orange&gt;3號逃生艙&lt;/color&gt;里? 他到底有沒有登上逃生艙? </value>
+		<value>PLUME: Můj bratr s námi nebyl v &lt;color=orange&gt;Záchranném člunu 1&lt;/color&gt;. Byl v &lt;color=orange&gt;Člunu 2&lt;/color&gt;, nebo &lt;color=orange&gt;Člunu 3&lt;/color&gt;? Dostal se vůbec na kterýkoliv za záchranných člunů?</value>
 	</entry>
 	<entry>
 		<key>PLUME: We sacrificed too much arriving here. I cannot (&lt;i&gt;I will&lt;/i&gt; not) allow our clan’s greatest loss to be in vain.</key>
-		<value>PLUME: 為了能夠來到這里, 我們做出了太多犧牲. 我們的家族蒙受了\\n最為慘重的損失, 我不能 (&lt;i&gt;我不會&lt;/i&gt;) 無功而返. </value>
+		<value>PLUME: Svým příchodem sem jsme obětovali příliš mnoho. Nemůžu dopustit (&lt;i&gt;nedopustím&lt;/i&gt;), aby největší ztráta našeho klanu byla k ničemu.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
-		<value>THATCH: 難道說, 這個方案最令人難以接受的部分, 在於我們不知道將會\\n失去誰? 或是說最嚴峻的考驗還在後頭?  (多保重, MELORAE姨媽……) </value>
+		<value>THATCH: Je nejtěžší součástí této tragédie to, že nevíme, o koho jsme přišli? Nebo přijde nejtěžší součást později, až se to dozvíme? (Nechť se ti dobře daří, teto Melorae...)</value>
 	</entry>
 	<entry>
 		<key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
-		<value>PLUME: 鑒於我們定居點的堅固程度, 我們是不是應該建造一個比較長期\\n的新庇護所? </value>
+		<value>PLUME: Kde bychom, vzhledem ke starostem ohledně stability naší osady, měli postavit nové, stálejší útočiště? </value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
-		<value>THATCH: 我們得待在&lt;color=orange&gt;逃生艙&lt;/color&gt;附近, 這樣FILIX才能對傳來的消息進行\\n監控. 如果我們不進行回應, 那麽別人就沒法把我們救走. </value>
+		<value>THATCH: Musíme zůstat blízko k &lt;color=orange&gt;záchrannému člunu&lt;/color&gt;, aby Filix mohl monitorovat příchozí zprávy. Nemůžeme být zachráněni, pokud neodpovíme.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
-		<value>FILIX: 我覺得不會有人來救我們了, THATCH. \\n現在我們必須靠自己才行. </value>
+		<value>FILIX: Nevěřím, že nás někdo přichází zachránit, Thatchi. Teď se musíme zachránit sami.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
-		<value>PLUME: 我同意. 我們收到了&lt;color=lightblue&gt;眼&lt;/color&gt;的信號, 跟著它才來到了這里. \\n如果能夠找到它, 那麽我們不但可以活下來, 還能繁衍生息. </value>
+		<value>PLUME: Souhlasím. Jsme tu, protože signál &lt;color=lightblue&gt;Oka&lt;/color&gt; nás zavolal a my jsme jej následovali. Pokud jej máme najít, musíme nejen přežít, nýbrž vzkvétat.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I believe we should migrate to the northern glacier.</key>
-		<value>PLUME: 我相信我們應該往北部冰川遷徙. </value>
+		<value>PLUME: Věřím, že bychom se měli přesunout k severnímu ledovci.</value>
 	</entry>
 	<entry>
 		<key>FILIX: What if we use gravity crystals to craft a stable path?</key>
-		<value>FILIX: 我們用重力水晶制造一條穩定的道路如何? </value>
+		<value>FILIX: Co kdybychom použili gravitační krystaly, abychom vytvořili stabilní stezku? </value>
 	</entry>
 	<entry>
 		<key>THATCH: Building beneath the crust again would shelter us from the &lt;color=lightblue&gt;volcanic moon&lt;/color&gt;’s eruptions.</key>
-		<value>THATCH: 再次在地殼下方進行建造可以保護我們免除&lt;color=lightblue&gt;火山衛星&lt;/color&gt;噴發的危險. </value>
+		<value>THATCH: Budovat pod planetární kůrou by nás ochránilo před erupcemi &lt;color=lightblue&gt;sopečného měsíce&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is a wise point, Plume, and eloquently made. If moving to the northern glacier will keep us safer, then that is what we should do.</key>
-		<value>THATCH: 你的看法很明智, PLUME, 而且無可辯駁. 如果移動到北部冰川\\n可以讓我們更加安全, 那我們就走吧. </value>
+		<value>THATCH: To je moudrá poznámka, Plume, a jasně vyjádřená. Pokud budeme u severního ledovce ve větším bezpečí, potom bychom se se tam měli přesunout.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</key>
-		<value>FILIX: 有誰觀察過偶爾在夜空中露面的&lt;color=lightblue&gt;幻影衛星&lt;/color&gt;? \\n我願意聽一聽你們的想法. </value>
+		<value>FILIX: Spatřili jste někdo &lt;color=lightblue&gt;fantomový měsíc&lt;/color&gt;, který nás občas vítá na noční obloze? Zajímaly by mne vaše myšlenky.. </value>
 	</entry>
 	<entry>
 		<key>THATCH: I compliment your eyes! How do you imagine it disappears? Hypothesis: Could it be a shift in the light spectrum?</key>
-		<value>THATCH: 你的眼神可真是厲害! 你對它的消失怎麽認為? \\n假設: 會不會是光譜偏移導致的? </value>
+		<value>THATCH: Lichotím tvým očím! Jak si myslíš, že mizí? Hypotéza: Mohl by to být posun ve světelném spektru?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Suppose this moon is too shy to show us its face.</key>
-		<value>PLUME: 估計這顆衛星太害羞, 不敢把自己的臉露出來. </value>
+		<value>PLUME: Řekněme, že tento měsíc je příliš plachý na to, aby ukázal svou tvář.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I’m interested in your playful moon. Is it much like its violent friend (&lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt;)?</key>
-		<value>PLUME: 我對這顆調皮的衛星很感興趣. 它像不像它的那顆顏色鮮艷的\\n朋友 (&lt;color=lightblue&gt;空心燈&lt;/color&gt;) ? </value>
+		<value>PLUME: Tvůj hravý měsíc mne zajímá. Je podobný svému zuřivému příteli (&lt;color=lightblue&gt;Křehkodutému měsíci&lt;/color&gt;)?</value>
 	</entry>
 	<entry>
 		<key>THATCH: Imagine if there were &lt;i&gt;two&lt;/i&gt; volcanic moons.</key>
-		<value>THATCH: 想想看, 萬一它們是&lt;i&gt;2顆&lt;/i&gt;火山衛星呢? </value>
+		<value>THATCH: Představte si, kdybychom měli &lt;i&gt;dva&lt;/i&gt; sopečné měsíčky...</value>
 	</entry>
 	<entry>
 		<key>PLUME: Then I imagine there’d be none of us left!</key>
-		<value>PLUME: 那我想咱們就都活不成了! </value>
+		<value>PLUME: Představuji si, že by tu nezbyl ani jeden Nomai!</value>
 	</entry>
 	<entry>
 		<key>FILIX: Hypothesis: There can exist too much lava.</key>
-		<value>FILIX: 假設: 上面可能會有過多的巖漿. </value>
+		<value>FILIX: Hypotéza: Existuje něco jako "příliš mnoho lávy". </value>
 	</entry>
 	<entry>
 		<key>THATCH: I’d strongly prefer we test the null hypothesis.</key>
-		<value>THATCH: 我強烈建議我們證明一下這種假設是錯誤的. </value>
+		<value>THATCH: Raději bych otestoval nulovou hypotézu. </value>
 	</entry>
 	<entry>
 		<key>FILIX: This moon isn’t volcanic (to my unaided eyes). Sometimes it leaves its friend &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; for nights at a time.</key>
-		<value>FILIX: 這不是一顆火山衛星 (在我的肉眼看來) . 有時它會一下子把\\n它的朋友&lt;color=lightblue&gt;空心燈&lt;/color&gt;丟下, 長達好幾個晚上. </value>
+		<value>FILIX: Tento měsíc není sopečný (alespoň ne očividně) . Občas opustí svého přítele &lt;color=lightblue&gt;Křehkodutého měsíce&lt;/color&gt; na mnoho nocí po sobě.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The nights the moon circles this planet appear random. It seems to travel as it likes.</key>
-		<value>PLUME: 衛星貌似是隨機出現在這顆行星的夜空中的. \\n好像它想去哪兒就去哪兒. </value>
+		<value>PLUME: Noci, během kterých se tento měsíc objeví nad naší planetou, se zdají být náhodnými. Cestuje, jak si zamane.</value>
 	</entry>
 	<entry>
 		<key>
