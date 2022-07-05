@@ -12739,7 +12739,7 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>POKRAČOVAT V EXPEDICI</value>
+			<value>NAVÁZAT NA EXPEDICI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
@@ -13303,7 +13303,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>Talk to</value>
+			<value>Mluv s</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
@@ -13711,11 +13711,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>Launch Codes: --|-..|-.</value>
+			<value>Spouštěcí kódy: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Eye Coordinates: </value>
+			<value>Souřadnice Oka: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
@@ -13947,19 +13947,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
-			<value>Interact</value>
+			<value>Interagovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>551</key>
-			<value>Jump</value>
+			<value>Skočit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
-			<value>Match Velocity</value>
+			<value>Dorovnat rychlost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
-			<value>Mark Entry</value>
+			<value>Označit zápis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
@@ -13979,7 +13979,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
-			<value>Flashlight</value>
+			<value>Světla</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
@@ -13995,7 +13995,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>562</key>
-			<value>Scout</value>
+			<value>Sonda</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>563</key>
@@ -14003,7 +14003,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>564</key>
-			<value>Translate</value>
+			<value>Přeložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
@@ -14107,91 +14107,91 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
-			<value>Sun Station</value>
+			<value>Sluneční stanice</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>Ash Twin</value>
+			<value>Popelák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>Ember Twin</value>
+			<value>Doutnák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
-			<value>Hourglass Twins</value>
+			<value>Přesýpací dvojčata</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>604</key>
-			<value>Timber Hearth</value>
+			<value>Domopec</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>605</key>
-			<value>Brittle Hollow</value>
+			<value>Křehkodutá planeta</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>606</key>
-			<value>Hollow's Lantern</value>
+			<value>Křehkodutý měsíc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>607</key>
-			<value>Giant's Deep</value>
+			<value>Obří hlubina</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>608</key>
-			<value>Orbital Probe Cannon</value>
+			<value>Orbitální sondový kanón</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>609</key>
-			<value>Control Module</value>
+			<value>Kontrolní modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Launch Module</value>
+			<value>Spouštěcí modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
-			<value>Probe Tracking Module</value>
+			<value>Sledovací modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>612</key>
-			<value>Dark Bramble</value>
+			<value>Temnotrn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>613</key>
-			<value>The Interloper</value>
+			<value>Tulák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>614</key>
-			<value>White Hole</value>
+			<value>Bílá díra</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>615</key>
-			<value>Quantum Moon</value>
+			<value>Kvantový měsíc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>616</key>
-			<value>Sun</value>
+			<value>Slunce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>617</key>
-			<value>The Attlerock</value>
+			<value>Vytěženec</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>618</key>
-			<value>The Eye of the universe</value>
+			<value>Oko vesmíru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>650</key>
-			<value>ESCAPE POD 1</value>
+			<value>ZÁCHRANNÝ ČLUN 1</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>651</key>
-			<value>ESCAPE POD 2</value>
+			<value>ZÁCHRANNÝ ČLUN 2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>652</key>
-			<value>ESCAPE POD 3</value>
+			<value>ZÁCHRANNÝ ČLUN 3</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>653</key>
@@ -14255,7 +14255,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>668</key>
-			<value>WHITE HOLE</value>
+			<value>BÍLÁ DÍRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
@@ -14263,7 +14263,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
-			<value>UNIDENTIFIED</value>
+			<value>NEIDENTIFIKOVÁN/A</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
@@ -14283,91 +14283,91 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
-			<value>HIDE AND SEEK</value>
+			<value>HRA NA SCHOVÁVANOU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>700</key>
-			<value>SUN STATION</value>
+			<value>SLUNEČNÍ STANICE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>ASH TWIN</value>
+			<value>POPELÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>EMBER TWIN</value>
+			<value>DOUTNÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
-			<value>THE HOURGLASS TWINS</value>
+			<value>PŘESÝPACÍ DVOJČATA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>704</key>
-			<value>TIMBER HEARTH</value>
+			<value>DOMOPEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>705</key>
-			<value>BRITTLE HOLLOW</value>
+			<value>KŘEHKODUTÁ PLANETA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>706</key>
-			<value>HOLLOW'S LANTERN</value>
+			<value>KŘEHKODUTÝ MĚSÍC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>707</key>
-			<value>GIANT'S DEEP</value>
+			<value>OBŘÍ HLUBINA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>708</key>
-			<value>CONTROL MODULE</value>
+			<value>KONTROLNÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>LAUNCH MODULE</value>
+			<value>SPOUŠTĚCÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>PROBE TRACKING MODULE</value>
+			<value>SLEDOVACÍ MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
-			<value>DARK BRAMBLE</value>
+			<value>TEMNOTRN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>712</key>
-			<value>THE INTERLOPER</value>
+			<value>TULÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>713</key>
-			<value>WHITE HOLE</value>
+			<value>BÍLÁ DÍRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>714</key>
-			<value>QUANTUM MOON</value>
+			<value>KVANTOVÝ MĚSÍC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>715</key>
-			<value>SUN</value>
+			<value>SLUNCE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>716</key>
-			<value>THE ATTLEROCK</value>
+			<value>VYTĚŽENEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>717</key>
-			<value>THE EYE OF THE UNIVERSE</value>
+			<value>OKO VESMÍRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>718</key>
-			<value>SCOUT</value>
+			<value>SONDA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>719</key>
-			<value>YOU ARE HERE</value>
+			<value>JSI TADY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>720</key>
-			<value>SHIP</value>
+			<value>LOĎ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
@@ -14403,7 +14403,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>POSTCARDS FROM ORBIT</value>
+			<value>POHLEDY Z OBĚŽNÉ DRÁHY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
@@ -14423,31 +14423,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
-			<value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
+			<value>Status návratového warpu: NABITÝ. Až budete připraveni, vstupte na warpovou plošinu.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>YOU ARE DEAD</value>
+			<value>JSTE MRTVÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key>
-			<value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
+			<value>ZNIČILI JSTE TKANINU ČASOPROSTORU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
+			<value>NYNÍ MIMO DOSAH SUPERNOVY,\\nPLAVÍŠ SE PRÁZDNÝM VESMÍREM, DOKUD NEVYČERPÁŠ ZÁSOBY SVÉ LODI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
+			<value>JAK DLOUHO UŽ TU JSI? MINUTY? ROKY?\\nNEJSI SI JISTÝ, ALE ZDÁ SE, ŽE TVÁ CESTA JE U KONCE.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
+			<value>NYNÍ MIMO DOSAH SUPERNOVY JSI SE STAL JEDINÝM OBYVATELEM OPUŠTĚNÉHO SVĚTA.\\URČITĚ SE TU DÁ &lt;i&gt;NĚCO&lt;/i&gt; SNÍST?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>815</key>
-			<value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
+			<value>KOLIK ČASU UPLYNULO?\\nUŽ SE ANI NEOBTĚŽUJÍ TĚ LOVIT.\\nČAS PLYNE, A PLYNE, DOKUD SE TVŮJ PŘEDCHOZÍ ŽIVOT NEZDÁ JAKO POLOZAPOMENUTÝ SEN.\\KDYBY SES JEN MOHL PROBRAT.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
