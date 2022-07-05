@@ -4650,7 +4650,7 @@
 	</entry>
 	<entry>
 		<key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
-		<value>CONOY: Na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt; jsem se ztratil (mé díky Ramiemu, že mě našel!), ale &lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt; je v budově s velkými solárními panely. Jsem překvapen, že jsem ji přehlédl!</value>
+		<value>CONOY: Na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt; jsem se ztratil (mé díky Ramie, že mě našla!), ale &lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt; je v budově s velkými solárními panely. Jsem překvapen, že jsem ji přehlédl!</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I imagine our otherwise immensely clever Conoy would lose his own head if it weren’t anatomically impossible!</key>
@@ -6044,34 +6044,34 @@
 	</entry>
 	<entry>
 		<key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-		<value>CLARY: 給我們在&lt;color=lightblue&gt;碎空星&lt;/color&gt;上的朋友們: \\n我剛剛從&lt;color=orange&gt;白洞站&lt;/color&gt; (&lt;color=lightblue&gt;碎空星&lt;/color&gt;黑洞的另一頭) 躍遷到了這里! \\n我們的設計方案起作用了; 我們成功地再現了躍遷旅行! </value>
+		<value>CLARY: Našim přátelům na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;: Právě jsem se úspěšně teleportoval z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt; (z druhé strany černé díry uvnitř &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;)! Náš design fungoval; úspěšně jsem znovuvytvořili warpové cestování! </value>
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
-		<value>FILIX: 這真是天大的好消息! 我迫不及待地想要看看躍遷塔\\n的樣子 (雖然我上次穿越黑洞已經是很久以前的事情了! ) . </value>
+		<value>FILIX: To je skvělé! Nemůžu se dočkat, až uvidím warpovou věž (ačkoliv už je to drahnou dobu, co jsem skočil černou dírou!). </value>
 	</entry>
 	<entry>
 		<key>POKE: I don’t know how close it is to Annona’s original design, but as long as what we’ve built works, then I’m delighted! I knew we could do it (Cassava, I hope you’re reading this)!</key>
-		<value>POKE: 我不知道它和ANNONA的原版設計有多大的差別, 不過只要能管用, \\n那我就很高興! 我就知道我們能成功 (CASSAVA, 但願你正在看) ! </value>
+		<value>POKE: Nevím, jak blízko jsem k Annonově původnímu designu, ale dokud to, co jsem vybudovala, funguje, tak jsem nadšená! Věděla jsem, že to dokážeme (Cassavo, doufám, že čteš tato slova)!</value>
 	</entry>
 	<entry>
 		<key>POKE: Wait, this can’t be correct. Clary, have you seen these readings? If they were accurate, they would violate causality. There must be an equipment error somewhere.</key>
-		<value>POKE: 等等, 這不可能. CLARY, 你看到這些讀數了嗎? 如果讀數正確, \\n那麽它們就違反了因果律. 一定是有什麽地方的設備出現了問題. </value>
+		<value>POKE: Moment, tohle nemůže být správně. Clary, viděl jsi tato data? Pokud jsou přesná, porušovaly by kauzalitu. Někde se nám musel porouchat nějaký přístroj.</value>
 	</entry>
 	<entry>
 		<key>POKE: I’m returning to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. If you and Root meet me there, we can run a full diagnostic and hopefully locate the problem.</key>
-		<value>POKE: 我正在返回&lt;color=orange&gt;白洞站&lt;/color&gt;. 如果你和ROOT去那里找我, \\n我們可以進行一次全面診斷, 希望能夠把問題給找出來. </value>
+		<value>POKE: Vracím se na &lt;color=orange&gt;Běloděrou stanici&lt;/color&gt;. Pokud se tam se mnou a Rootem setkáš, můžeme provést plnou diagnostiku a snad nalézt problém. </value>
 	</entry>
 	<entry>
 		<key>POKE: (Don’t tell Cassava.)</key>
-		<value>POKE:  (別告訴CASSAVA. ) </value>
+		<value>POKE: (Cassavovi ani slovo.)</value>
 	</entry>
 	<entry>
 		<key>
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
 		<value>
-			PYE: RAMIE和我查看了你送來的記錄, POKE, 貌似挪麥人抵達&lt;color=lightblue&gt;碎空星&lt;/color&gt;\\n躍遷接收點的時間比離開&lt;color=orange&gt;白洞站&lt;/color&gt;的時間要稍微&lt;i&gt;早&lt;/i&gt;那麽一點點. 
+			PYE: Ramie a já jsme přezkoumaly záznamy, které jsi nám poslala, Poke, a zdánlivě ukazují, že Nomai přicházejí na warpový přijímač na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; o něco &lt;i&gt;dříve&lt;/i&gt;, než odejdou z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt;. 
 		</value>
 	</entry>
 	<entry>
@@ -6079,7 +6079,7 @@
 			POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps.
 		</key>
 		<value>
-			POKE: 我明白這一現象極為奇怪, 但是CLARY和我已經一次次地對設備\\n進行過了測試, 每一次的躍遷結果都是一樣的. 
+			POKE: Chápu, že to je extrémně zvláštní, ale Clary a já jsme naše přístroje otestovaly znovu a znovu, a výsledek je stejný po každé teleportaci. 
 		</value>
 	</entry>
 	<entry>
@@ -6087,7 +6087,7 @@
 			RAMIE: The interval is incredibly miniscule (roughly one hundred-thousandth of a second). Do you suppose our instruments can’t accurately measure time to such a small degree?
 		</key>
 		<value>
-			RAMIE: 其時間間隔異常微小 (大約只有十萬分之一秒) . \\n你是否認為我們的儀器無法精確測量尺度如此微觀的時間量? 
+			RAMIE: Interval je neskutečně malý (zhruba jedna sto-tisícina sekundy). Myslíš, že naše přístroje možná nedokáží měřit čas s tak vysokou přesností? 
 		</value>
 	</entry>
 	<entry>
@@ -6095,7 +6095,7 @@
 			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
 		</key>
 		<value>
-			PYE: 就像我對RAMIE說過得那樣, 這些測量結果不可能精確. \\n挪麥人怎麽可能在踏上傳送器之前, 就已經抵達&lt;color=lightblue&gt;碎空星&lt;/color&gt;了呢? \\n這其中的邏輯關系太荒謬了. 
+			PYE: Jak už jsem řekla Ramie, tato měření nemohou být pravdivá. Jak by Nomai mohli dorazit na &lt;color=lightblue&gt;Křehkodutou planetu&lt;/color&gt; předtím, než vešli do teleportéru? Všechny implikace jsou absurdní. 
 		</value>
 	</entry>
 	<entry>
@@ -6103,7 +6103,7 @@
 			POKE: I don’t disagree. It &lt;i&gt;would&lt;/i&gt; mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time.
 		</key>
 		<value>
-			POKE: 我不同意. 這&lt;i&gt;可能&lt;/i&gt;意味著我不小心打破了這個宇宙的幾個\\n基本理論. 我們應該重新考慮一下我們所有與時間本質有關的認知. 
+			POKE: Souhlasím. Opravdu by to &lt;i&gt;znamenalo&lt;/i&gt;, že jsem omylem vyvrátila několik fundamentálních teorií o našem vesmíru. Museli bychom korigovat všechna naše přesvědčení o podstatě času. 
 		</value>
 	</entry>
 	<entry>
@@ -6111,7 +6111,7 @@
 			RAMIE: Yes, I hope so, too!
 		</key>
 		<value>
-			RAMIE: 沒錯, 我也是這麽認為的! 
+			RAMIE: Ano, také v to doufám! 
 		</value>
 	</entry>
 	<entry>
@@ -6119,7 +6119,7 @@
 			RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;. We’re designing an experiment to take more data.
 		</key>
 		<value>
-			RAMIE: POKE, PYE堅信讀數不準確, 她好心要幫我在&lt;color=orange&gt;高能實驗室&lt;/color&gt;\\n試著再現這一現象. 我們正在設計一次實驗, 來獲取更多數據. 
+			RAMIE: Poke, protože Pye si je jistá, že tvá měření jsou mylná, pomáhá mi rekonstruovat tento fenomén ve &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt; Vytváříme experiment, který nám poskytne více dat.
 		</value>
 	</entry>
 	<entry>
@@ -6127,216 +6127,216 @@
 			PYE: An update: Poke, the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is in the canyon on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator. &lt;i&gt;Come here at once&lt;/i&gt;. You need to see this.
 		</key>
 		<value>
-			PYE: 更新: POKE, &lt;color=orange&gt;高能實驗室&lt;/color&gt;位於&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;\\n赤道的峽谷里. &lt;i&gt;立刻過來&lt;/i&gt;. 你得瞧瞧這個. 
+			PYE: Update: Poke, &lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt; je v kaňonu na rovníku &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;. &lt;i&gt;Okamžitě sem přijď&lt;/i&gt;. Tohle musíš vidět. 
 		</value>
 	</entry>
 	<entry>
 		<key>SignChert’s Research Notes — property of Chert!</key>
-		<value>Chert的研究筆記, 該筆記屬於Chert所有! </value>
+		<value>Chertovy výzkumné poznámky - majetek Cherta! </value>
 	</entry>
 	<entry>
 		<key>SignThis is an old crater. The neat thing here is that the composition of the samples I took from the impact site matches the composition of the ice on the outskirts of &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.</key>
-		<value>這是一座以前形成的環形山. 新奇的是, \\n我從撞擊點采取的樣本成分與&lt;color=lightblue&gt;黑棘星&lt;/color&gt;外圍的冰塊成分一致. </value>
+		<value>Toto je starý kráter. Super věc na něm je to, že složení vzorků v něm odpovídá složení ledu na povrchu &lt;color=lightblue&gt;Temnotrnu&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>SignI’d posit the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; was hit with a piece of the planet that used to be where &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; now lies.</key>
-		<value>我肯定&lt;color=lightblue&gt;廢巖星&lt;/color&gt;被從前位於這里的&lt;color=lightblue&gt;黑棘星&lt;/color&gt;碎片撞擊過. </value>
+		<value>Postuloval bych, že &lt;color=lightblue&gt;Vytěženec&lt;/color&gt; byl zasažen kouskem planety, která bývala tam, kde je teď &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SignTo follow up on — maybe there are more fragments of the old planet &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; destroyed on other astral bodies in the solar system?</key>
-		<value>追記: 或許這個太陽系的其它星體上也有被&lt;color=lightblue&gt;黑棘星&lt;/color&gt;摧毀的舊行星碎片? </value>
+		<value>Otázka pro příště: možná existuje více úlomků staré planety, kterou &lt;color=lightblue&gt;Temnotrn&lt;/color&gt; zničil, na dalších hvězdných tělesech ve slunečním systému? </value>
 	</entry>
 	<entry>
 		<key>SignChert’s Research Notes - property of Chert!</key>
-		<value>Chert的研究筆記, 該筆記屬於Chert所有! </value>
+		<value>Chertovy výzkumné poznámky - majetek Cherta! </value>
 	</entry>
 	<entry>
 		<key>SignClearly, the Nomai were making astronomical observations here. They chose an excellent spot!</key>
-		<value>很明顯, 挪麥人正在這里從事天文觀察. 他們選了一個極佳的位置! </value>
+		<value>Nomai tu evidentně podnikali astronomická pozorování. Vybrali si pro ně skvělé místo! </value>
 	</entry>
 	<entry>
 		<key>SignWhat is this big, rotating device for? What was it the Nomai were observing?</key>
-		<value>這台轉個不停的大型裝置是幹什麽用的? 挪麥人在觀察什麽東西? </value>
+		<value>K čemu je tohle veliké, rotující zařízení? Co se tu Nomai snažili pozorovat?</value>
 	</entry>
 	<entry>
 		<key>SignI’d posit there’s something special about the orange symbol on that device. Hal and the new astronaut’s translator tool would be nice to have handy about now.</key>
-		<value>我肯定那台裝置上的橙色符號一定不同尋常. \\n眼下要是有Hal和宇航員的新翻譯工具就好了. </value>
+		<value>Postuloval bych, že oranžový symbol na tomto zařízení je něčím zvláštní. Přál bych si, abych měl teď v ruce ten překladač, který Hal a náš nový astronaut vyvinuli.</value>
 	</entry>
 	<entry>
 		<key>SignI’ve detected a strange signal coming from somewhere within the grove in this crater.</key>
-		<value>我發現從這個環形山的林地里的某個地方傳來了一種奇怪的信號. </value>
+		<value>Objevil jsem zvláštní signál, přicházející odněkud z háje v tomto kráteru. </value>
 	</entry>
 	<entry>
 		<key>SignIt’s very similar to the signal emitted by the Quantum Moon, so it stands to reason the two signals are probably related.</key>
-		<value>它和&lt;color=lightblue&gt;量子衛星&lt;/color&gt;發出的信號很像, \\n因此有理由推測這兩個信號很可能有所關聯. </value>
+		<value>Je velmi podobný signálu, který vydává &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;, takže by dávalo smysl, že tyto dva signály spolu souvisí. </value>
 	</entry>
 	<entry>
 		<key>SignWe don’t know much about the Quantum Moon, seeing as no one’s ever been able to land on it, but hopefully studying the signal in the grove will reveal more about it.</key>
-		<value>由於沒人能夠成功地登上&lt;color=lightblue&gt;量子衛星&lt;/color&gt;, 我們對它了解不多. \\n但願研究林地里的信號能夠讓我們多多掌握它的情況. </value>
+		<value>Mnoho toho o &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; nevíme, protože na něm nikdo nikdy nedokázal přistát, ale snad se o něm dozvíme více studium signálu v tomto háji. </value>
 	</entry>
 	<entry>
 		<key>SignEsker’s Signalscope Log</key>
-		<value>Esker信號鏡日志</value>
+		<value>Eskerovy signáloskopové záznamy</value>
 	</entry>
 	<entry>
 		<key>SignDay 48: Still not picking up Riebeck’s banjo from Brittle Hollow. I’m sure they’re fine, but I’ll feel better once I can hear their music.</key>
-		<value>第48天: 還是沒有聽到碎空星的Riebeck彈奏的班卓琴聲. \\n我肯定他平安無事, 不過我要聽到音樂的聲音才能放下心來. </value>
+		<value>Den 48: Pořád žádné stopy po Riebeckově banju z Křehkoduté planety. Jsem si jist, že je v pořádku, ale budu se cítit lépe, až ho uslyším.</value>
 	</entry>
 	<entry>
 		<key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
-		<value>第51天: 今天聽Chert彈了一會兒樂器. 有件不相幹的事情, 該有人去告訴\\nPorphy和Gossan, 從航空影像中望去, 他們之間的打情罵俏很&lt;i&gt;肉麻&lt;/i&gt;. </value>
+		<value>Den 51: Poslouchal jsem chvíli Cherta hrát. Nesouvisející: někdo by měl říci Porphymu a Gossanovi, že jejich flirtování lze vidět i z ptačí perspektivy.</value>
 	</entry>
 	<entry>
 		<key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
-		<value>第55天: 今天傳來了清晰的班卓琴聲! 聽上去Riebeck好得很. \\n我擔心死那個傻瓜了! </value>
+		<value>Den 55: Banjová hudba tu zní jasně a nahlas! Zní to, jakože Riebeckovi se daří dobře. Ten trouba, už jsem si dělal starosti!</value>
 	</entry>
 	<entry>
 		<key>SignDay 63: Today I thought I heard something... strange. I don’t know — it was probably nothing.</key>
-		<value>第63天: 今天我以為自己聽到了什麽聲音...奇怪. 我不知道, \\n也許是我聽錯了. </value>
+		<value>Den 63: Dnes jsem myslel, že jsem slyšel něco... zvláštního. Nevím - asi to nebylo nic.</value>
 	</entry>
 	<entry>
 		<key>SignDay 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</key>
-		<value>第70天: 不對, 今天我又聽到了那個聲音. 奇怪的聲音是從木爐星\\n那里傳過來的. </value>
+		<value>Den 70: Ne, je to zpět. Něco zvláštního se ozývá z Domopece.</value>
 	</entry>
 	<entry>
 		<key>SignDay 76: Okay, I &lt;i&gt;know&lt;/i&gt; this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...</key>
-		<value>第76天: 好吧, 我&lt;i&gt;知道&lt;/i&gt;這不大可能, 但木爐星傳來的聲音聽起來\\n和Feldspar的口琴一模一樣. 可是Feldspar早就消失在太空里了. \\n不可能是他...</value>
+		<value>Den 76: Oukej, já &lt;i&gt;vím&lt;/i&gt;, že to je šílené, ale zvuk z Domopece zní přesně jako Feldsparova harmonika. Ale Feldspar zmizel ve vesmíru hrozně dávno. Nemůže to být on...</value>
 	</entry>
 	<entry>
 		<key>SignDay 88: It’s &lt;i&gt;still here&lt;/i&gt;. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.</key>
-		<value>第88天: 聲音&lt;i&gt;還是沒有消失&lt;/i&gt;. 真是詭異. 也許我的信號鏡壞了? \\n我最好去和奈斯談談. </value>
+		<value>Den 88: &lt;i&gt;Pořád tu je&lt;/i&gt;. Tohle je divný. Možná mám rozbitý signáloskop? Asi bych si měl promluvit s Gneissem.</value>
 	</entry>
 	<entry>
 		<key>SignFELDSPAR’S SPARE JETPACK FUEL</key>
-		<value>Feldspar的備用噴射背包燃料</value>
+		<value>FELDSPAROVO PALIVO NAVÍC</value>
 	</entry>
 	<entry>
 		<key>SignIt’s annoying to schlep across the planet to the ship if I can’t use my jetpack, so I’m leaving this here.</key>
-		<value>要是不讓我用噴射背包、一路跋涉到宇宙飛船那兒去, 那可太煩人了, \\n所以這東西我就放在這兒了. </value>
+		<value>Je k ničemu se plazit napříč planetou k lodi, když mi dojde palivo v jetpacku, takže si tady tohleto odložím. </value>
 	</entry>
 	<entry>
 		<key>SignI checked with my Little Scout — I do &lt;i&gt;too&lt;/i&gt; use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.</key>
-		<value>我檢查了一下我的小偵查兵——沒錯, 我&lt;i&gt;也&lt;/i&gt;是會用這玩意的, Hornfels, \\n你個烤焦的棉花糖, 偵查兵的完整性讀數顯示, 碎空星上這一帶和別的地方\\n一樣穩定, 不過實際怎麽樣誰知道呢. </value>
+		<value>Zkontroloval jsem to s Malou sondou - taky ji &lt;i&gt;používám&lt;/i&gt;, Hornfelsi, ty jedna spálená marshmallow - a pozemní integrita je tu na poměry Křehkoduté planety dobrá, ale kdoví.</value>
 	</entry>
 	<entry>
 		<key>SignIf the fuel’s still around, feel free to use it. If not, well, wherever you’re reading this note, I’m sure you’ve got bigger problems.</key>
-		<value>要是我留的燃料還在, 隨便用, 別客氣. 要是沒了, \\n不管你是在哪兒讀到這張便條的, 你肯定是要有大麻煩了. </value>
+		<value>Pokud je v lahvi pořád palivo, klidně ho použij. Pokud ne, nu, jsem si jist, že ať už čtete tuto nótu, kde chcete, máte větší problémy.</value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1Trip 4, entry # whatever \\n Crashes: 2 \\n Boring crashes: 0 (remember to see Slate when I get back)</key>
-		<value>第四次出發, 管它第幾條呢\\n墜毀次數: 2\\n無聊的墜毀次數: 0 (記得回去的時候找Slate) </value>
+		<value>Výlet 4, zápis # kohotozajímá \\n Havárie: 2 \\n Nudné havárie: 0 (po návratu si popovídat se Slatem)</value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1Ha &lt;i&gt;ha&lt;/i&gt;, yeah! &lt;i&gt;Yeah&lt;/i&gt;! All the way down to the core! Consider yourself conquered, Giant’s Deep — you just got &lt;i&gt;Feldsparred&lt;/i&gt;.</key>
-		<value>哈&lt;i&gt;哈&lt;/i&gt;, 好啊! &lt;i&gt;好啊&lt;/i&gt;! 一路深入核心! \\n深巨星, 你剛剛被&lt;i&gt;Feldspar&lt;/i&gt;給征服啦. </value>
+		<value>Ha &lt;i&gt;ha&lt;/i&gt;, jo! &lt;i&gt;Jo&lt;/i&gt;! Až k jádru! Považuj se za pokořenou, Obří hlubino - právě jsem tě &lt;i&gt;zafeldspároval&lt;/i&gt;. </value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1That was one of my more dramatic feats, if I do say so myself. Can’t believe I wasn’t electrocuted! Ahhh, can’t wait to tell Hornfels and Gossan about this one — I guess brute force isn’t always the answer.</key>
-		<value>要我說, 這可真是我的突出的成就之一. 真不敢相信我居然沒有被電死! \\n啊, 我等不及要把這個消息告訴Hornfels和Gossan了. \\n看來蠻力並不是百試百靈的. </value>
+		<value>To byl rozhodně jeden z mých dramatičtějších kousků, co si budeme povídat. Stěží uvěřit, že jsem nebyl uškvařen! Á, už se nemůžu dočkat, až o tomhle řeknu Hornfelsovi a Gossanovi - hrubá síla není vždycky odpovědí.</value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1Right, so that’s one more off the list. Seems all that’s left is the big one now. Dark Bramble, here I come!</key>
-		<value>好了, 清單上的行星又可以劃掉一顆. 看來現在只剩下那個大家夥了. \\n黑棘星, 我來啦! </value>
+		<value>Jo, takže to je další bod ze seznamu. Zdá se, že už zbývá jen ta největší věc. Temnotrne, už se těš.</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</key>
-		<value>Outer Wilds探險隊創始成員. 左上角順時針起: \\nHornfels、Gossan、Slate, 以及Feldspar. </value>
+		<value>Zakladatelé Outer Wilds Ventures: \\nHornfels、Gossan、Slate, a Feldspar. </value>
 	</entry>
 	<entry>
 		<key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-		<value>危險! 這道柵欄後面有一團&lt;color=orange&gt;幽靈物質&lt;/color&gt;. 它擁有奇怪的特性, \\n並且冰冷異常, 無法被肉眼觀察到. 好消息是, \\n你可以通過攝像機來偵測到&lt;color=orange&gt;幽靈物質&lt;/color&gt;. </value>
+		<value>NEBEZPEČÍ! Uvnitř tohoto plotu je kapsa &lt;color=orange&gt;antihmoty&lt;/color&gt; - zvláštní a nebezpečná substance, která je holému oku neviditelná. Naštěstí můžete &lt;color=orange&gt;antihmotu&lt;/color&gt; detekovat tak, že ji vyfotíte.</value>
 	</entry>
 	<entry>
 		<key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
-		<value>穿過&lt;color=orange&gt;幽靈物質&lt;/color&gt;將會讓你痛苦無比, 並且你可能會因此送命. \\n如果你非不聽勸告, 因此受傷, 別來找我抱怨. \\n- Hornfels</value>
+		<value>Projít &lt;color=orange&gt;antihmotou&lt;/color&gt; je unikátně bolestivé a patrně vás to zabije. Pokud si s ní budete hrát a zraníte se, nestěžujte si mi.\\n- Hornfels</value>
 	</entry>
 	<entry>
 		<key>Gneiss</key>
-		<value>奈斯</value>
+		<value>Gneiss</value>
 	</entry>
 	<entry>
 		<key>Gneiss1Hello there, space cadet! I hear you’re leaving the crater today.</key>
-		<value>你好呀, 宇航學員! 聽說今天你就要離開環形山了. </value>
+		<value>Čauky, kadate! Slyšel jsem, že dnes opouštíš svůj rodný kráter. </value>
 	</entry>
 	<entry>
 		<key>Gneiss1If you meet any of the other travelers up there, remind them to take proper care of their instruments, won’t you?</key>
-		<value>假如你在路上碰到其他旅行家的話, 提醒他們保養好自己的樂器好嗎? </value>
+		<value>Pokud potkáš další cestovatele, připomeň jim, ať se žádně starají o své hudební nástroje, jo?</value>
 	</entry>
 	<entry>
 		<key>GneissGneiss1Tell me about the travelers’ instruments.</key>
-		<value>跟我說說旅行家們的樂器. </value>
+		<value>Pověz mi o jejich nástrojích. </value>
 	</entry>
 	<entry>
 		<key>GneissGneiss1Where’s the observatory?</key>
-		<value>天文台在哪兒? </value>
+		<value>Kde najdu observatoř? </value>
 	</entry>
 	<entry>
 		<key>GneissGneiss1Just saying hi before I leave.</key>
-		<value>走之前我想來打聲招呼. </value>
+		<value>Jen jsem chtěl pozdravit předtím, než odletím. </value>
 	</entry>
 	<entry>
 		<key>Gneiss2Take care of yourself up in space!</key>
-		<value>在太空里你可得多保重啊! </value>
+		<value>Opatruj se ve vesmíru! </value>
 	</entry>
 	<entry>
 		<key>ObservatoryIt’s questions like that what make us worried about you going up into space on your own, you know.</key>
-		<value>你知道嗎? 你的這個問題, 讓我們不禁擔心你一個人\\n在太空里是不是能行. </value>
+		<value>Přesně kvůli podobným otázkám mám z toho, že letíš do vesmíru sám, starost. </value>
 	</entry>
 	<entry>
 		<key>ObservatoryThe observatory is up the path behind the waterfall. There are a couple of signs marking the way, but really, you just keep going up and then hook a right when you get to the zero-g cave.</key>
-		<value>天文台就在瀑布後面, 沿著路往前走就是. 路上有不少標記. \\n不過實際上, 你只要一直走, 然後在零重力洞窟向右急轉彎就到了. </value>
+		<value>Observatoř je podél cesty za vodopádem. Po cestě potkáš několik značek, které tě povedou, ale ve finále prostě stejně půjdeš nahoru a potom doprava, když se dostaneš k jeskyni s nulkou.</value>
 	</entry>
 	<entry>
 		<key>Gneiss3Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</key>
-		<value>哦, 沒問題! 你知道嗎? 他們的樂器都是我制作的. 讓我想想啊...\\nChert的鼓、Riebeck的班卓琴, 以及Gabbro的長笛. </value>
+		<value>Jasná páka! Vytvořil jsem všechny jejich nástroje, víš? Chertovy bubny, Riebeckovo banjo, a Gabbrova flétna.</value>
 	</entry>
 	<entry>
 		<key>Gneiss3And Feldspar’s harmonica, of course, though Feldspar’s been missing for a long time. Sometimes it feels like just yesterday they were playing their harmonica around the campfire...</key>
-		<value>當然, 還有Feldspar的口琴. 雖然已經很久沒有Feldspar的消息了. \\n他在營火邊吹奏口琴的景象, 簡直恍如昨日...</value>
+		<value>A Feldsparovat harmonika, samozřejmě, přestože Feldspara pohřešujeme už nějakou dobu. Občas mi to přijde jako včera, když hrával na svou harmoniku u táboráku...</value>
 	</entry>
 	<entry>
 		<key>Gneiss3Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</key>
-		<value>總而言之, 假如你在太空里聽見有人演奏音樂, 那就一定是碰上了其中\\n一位太空計劃的旅行家. 如果你想找人作伴, 可以用信號鏡追蹤他們的\\n位置. </value>
+		<value>Na každý pád, pokud uslyšíš ve vesmíru hudbu, to buden jeden z našich dalších vesmírných cestovatelů. Pokud máš rád společnost, můžeš vždycky vytáhnout svůj signáloskop a najít je.</value>
 	</entry>
 	<entry>
 		<key>GneissSecondaryTrouble is, every time a Hearthian leaves for outer space, that’s one less musician in our orchestra.</key>
-		<value>問題在於, 每次只要有一位哈斯人出發前往外太空, \\n我們的交響樂隊里就會少一位音樂家. </value>
+		<value>Jediný problém je, že čím více Domopecanů máme ve vesmíru, tím více jich schází v orchestru.</value>
 	</entry>
 	<entry>
 		<key>GneissSecondarySo! Did you need something?</key>
-		<value>那麽! 你需要什麽呢? </value>
+		<value>Potřeboval jsi ode mě něco?</value>
 	</entry>
 	<entry>
 		<key>GneissGneissSecondaryTell me about the travelers’ instruments.</key>
-		<value>跟我說說旅行家們的樂器. </value>
+		<value>Pověz mi o nástrojích ostatních cestovatelů.</value>
 	</entry>
 	<entry>
 		<key>GneissGneissSecondaryWhere’s the observatory?</key>
-		<value>天文台在哪兒? </value>
+		<value>Kde je observatoř?</value>
 	</entry>
 	<entry>
 		<key>GneissGneissSecondaryNah, I’m good.</key>
-		<value>不用了, 沒事. </value>
+		<value>Díky, nic dalšího nepotřebuju.</value>
 	</entry>
 	<entry>
 		<key>SpaceEverything okay? Seems kind of early for you to be back from space.</key>
-		<value>一切都還好嗎? 看上去你提前從外太空回來了. </value>
+		<value>Všechno v pořádku? Je trošku brzy na to, aby ses vrátil z vesmíru. </value>
 	</entry>
 	<entry>
 		<key>SpaceDid you need something from me?</key>
-		<value>有什麽需要我幫忙的嗎? </value>
+		<value>Potřebuješ ode mě něco? </value>
 	</entry>
 	<entry>
 		<key>GneissSpaceTell me about the travelers’ instruments.</key>
-		<value>跟我說說旅行家們的樂器. </value>
+		<value>Pověz mi o nástrojích ostatních cestovatelů. </value>
 	</entry>
 	<entry>
 		<key>GneissSpaceI’m good, actually.</key>
-		<value>其實我沒什麽事. </value>
+		<value>Díky, nic dalšího nepotřebuju. </value>
 	</entry>
 	<entry>
 		<key>Gneiss4Alright. Take care, now.</key>
-		<value>那好吧. 多保重. </value>
+		<value>Dobře. Měj se.</value>
 	</entry>
 	<entry>
 		<key>Gossan</key>
@@ -6344,307 +6344,307 @@
 	</entry>
 	<entry>
 		<key>Coach1Hey, I thought I might see you before the big launch.</key>
-		<value>嘿, 我就知道會在發射前見到你. </value>
+		<value>Čau, říkal jsems si, že bych tě mohl vidět před velkým odletem.</value>
 	</entry>
 	<entry>
 		<key>Coach1Nerves getting the better of you?</key>
-		<value>這是個大日子, 你很緊張對嗎? </value>
+		<value>Máš nervy? </value>
 	</entry>
 	<entry>
 		<key>GossanCoach1Right, like you weren’t nervous for your first flight.</key>
-		<value>好像你第一次飛行就不緊張似的. </value>
+		<value>Jasně, jako bys ty neměl nervy před svým prvním letem. </value>
 	</entry>
 	<entry>
 		<key>GossanCoach1I’m a little nervous, yeah.</key>
-		<value>是啊, 我是有點緊張. </value>
+		<value>Jsem trošku nervózní, jo. </value>
 	</entry>
 	<entry>
 		<key>GossanCoach1Are you kidding? I’m a natural at this!</key>
-		<value>你在開玩笑嗎? 我天生就是幹這個的料! </value>
+		<value>Děláš si legraci? Pro tohle jsem se narodil! </value>
 	</entry>
 	<entry>
 		<key>Coach2Hey, don’t worry about it. Your nerves are between you, me, and the vast endlessness of space.</key>
-		<value>嘿, 別擔心. 緊張這種事情, 只有你和我, 還有無盡的太空知道. </value>
+		<value>Hej, neboj se. Tvoje nervy jsou mezi tebou, mnou, a nesmírností vesmíru.</value>
 	</entry>
 	<entry>
 		<key>Coach2But really, you’ll do fine out there. I’d worry more about that ship, if I were you. Hopefully that lunatic Slate at least fixed the retro rockets.</key>
-		<value>不過說真的, 你會沒事的. 如果我是你的話, 我就會操心那艘宇宙飛船. \\n但願那個瘋狂的Slate起碼把反推火箭給修好了. </value>
+		<value>Ale vážně, budeš v pořádku. Spíš bych se bál o tu loď, kdybych byl tebou. Snad ten šílenec Slate konečně spravil zpětné rakety.</value>
 	</entry>
 	<entry>
 		<key>Coach3Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</key>
-		<value>很好. 不管是誰, 上太空總會有點緊張. 我第一次飛的時候心里\\n滿不在乎, 差點在月亮上砸出一個新的環形山. </value>
+		<value>To je dobře. Každý by měl být z vesmíru trošku nervózní. Já jsem byl před svým prvním letem trošku nafoukaný a skoro jsem udělal nový kráter na měsíci.</value>
 	</entry>
 	<entry>
 		<key>Coach3Still, I was never as green as you.</key>
-		<value>不過, 我也從來不像你這樣沒有經驗. </value>
+		<value>Každopádně jsem nikdy nebyl tak nezkušený jako ty.</value>
 	</entry>
 	<entry>
 		<key>GossanCoach3Hey, I’ve gotten better!</key>
-		<value>嘿, 我進步多了! </value>
+		<value>Hej, zlepšil jsem se!</value>
 	</entry>
 	<entry>
 		<key>GossanCoach3That’s not what Slate says...</key>
-		<value>Slate可沒說過這個...</value>
+		<value>Slate tuhle historku vypráví jinak...</value>
 	</entry>
 	<entry>
 		<key>Coach4Is that so? Funny, I seem to recall the first time you strapped on a jetpack, we had to come fish you out of the crater near the south pole.</key>
-		<value>是嗎? 真有意思, 我貌似記得你第一次綁上噴射背包的時候, \\n我們還得去南極附近的環形山把你給撈出來. </value>
+		<value>Vážně? To je vtipné, pamatuju si, že když jsme tě poprvé nacpali do skafandru, museli jsme tě dojít vylovit z kráteru u jižního pólu.</value>
 	</entry>
 	<entry>
 		<key>Coach5Oi, you know better than to believe a word that lunatic says about me.</key>
-		<value>喂, 你總不至於相信那個瘋子說的話吧. </value>
+		<value>Oj, myslel jsem, že máš lepší smysl pro realitu, než abys věřil tomu, co o mně ten šílenec vypráví.</value>
 	</entry>
 	<entry>
 		<key>Coach5They’re still sore I made them install a safety harness in the cockpit. Claimed it would “throw off the thrust-to-weight ratio.”</key>
-		<value>我逼著他在駕駛艙里安裝了一副安全帶, 他到現在還在耿耿於懷呢. \\n說這樣會“對推重比造成損失”. </value>
+		<value>Pořád mu ještě vadí, že jsem je donutil nainstalovat bezpečnostní postroj v kokpitu. Tvrdil, že to "narušuje poměr tahu na váhu."</value>
 	</entry>
 	<entry>
 		<key>Coach5Honestly. One of these days I’m gonna throw off &lt;i&gt;Slate’s&lt;/i&gt; thrust-to-weight ratio.</key>
-		<value>老實說. 總有一天我一定要讓&lt;i&gt;Slate&lt;/i&gt;的推重比也損失損失. </value>
+		<value>Upřímně, jednoho dne mu jednu na&lt;i&gt;táh&lt;/i&gt;nu celou svojí váhou.</value>
 	</entry>
 	<entry>
 		<key>Coach6Think so, do you? Feel like proving it to your old flight coach?</key>
-		<value>你也這麽想嗎? 想跟從前的飛行教練證明一下自己的實力? </value>
+		<value>Takhle to máš, jo? Chceš to dokázat svému starému letovému trenérovi?</value>
 	</entry>
 	<entry>
 		<key>Coach7There’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-		<value>零重力洞窟里架設著一顆“衛星”, 需要人去進行修理. \\n它可&lt;i&gt;不&lt;/i&gt;僅僅是一件壞掉的采礦設備. </value>
+		<value>Máme jeden "satelit" - což rozhodně &lt;i&gt;není&lt;/i&gt; jen použitý důlní přístroj - uprostřed nulky, a potřebuje opravit.</value>
 	</entry>
 	<entry>
 		<key>Coach7If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-		<value>如果你想臨時抱佛腳, 練習練習無重力行走, 就坐升降梯到山洞下面去. \\n當然你也可以不去, 只要你有信心能夠在太空里把宇宙飛船修好就行. </value>
+		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jsi jistý, že dokážeš opravit loď ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>GossanCoach7One repaired “satellite,” coming up!</key>
-		<value>修理“衛星”, 這就來! </value>
+		<value>Jasňačka. Oprava "satelitu", na počkání!</value>
 	</entry>
 	<entry>
 		<key>GossanCoach7Nah, I’m ready for the real deal.</key>
-		<value>不用了, 我已經做好了正式上天的準備. </value>
+		<value>Ne, myslím, že jsem připravený na skutečný vesmír.</value>
 	</entry>
 	<entry>
 		<key>Coach8So listen, there’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-		<value>那麽聽好了, 零重力洞窟里架設著一顆“衛星”, 需要人去進行修理. \\n它可&lt;i&gt;不&lt;/i&gt;僅僅是一件壞掉的采礦設備. </value>
+		<value>Poslouchej, máme jeden "satelit" - což rozhodně &lt;i&gt;není&lt;/i&gt; jen použitý důlní přístroj - uprostřed nulky, a potřebuje opravit.</value>
 	</entry>
 	<entry>
 		<key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-		<value>如果你想臨時抱佛腳, 練習練習無重力行走, 就坐升降梯到山洞下面去. \\n當然你也可以不去, 只要你有信心能夠在太空里把宇宙飛船修好就行. </value>
+		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jsi jistý, že dokážeš opravit loď ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>GossanCoach8One repaired “satellite”, coming up!</key>
-		<value>修理“衛星”, 這就來! </value>
+		<value>Jasňačka. Oprava "satelitu", na počkání!</value>
 	</entry>
 	<entry>
 		<key>GossanCoach8Nah, I’m ready for the real deal.</key>
-		<value>不用了, 我已經做好了正式上天的準備. </value>
+		<value>Ne, myslím, že jsem připravený na skutečný vesmír. </value>
 	</entry>
 	<entry>
 		<key>Coach9Cool. Get to it, and try not to concuss yourself right before your first launch.</key>
-		<value>很好. 去吧, 盡量別在第一次發射前把自己給撞暈了. </value>
+		<value>Kůlovatý. Tak do toho, a snaž si nepřivodit otřes mozku těsně před svým prvním vzletem.</value>
 	</entry>
 	<entry>
 		<key>Coach10Heh. Darn right you are.</key>
-		<value>哼. 那倒是. </value>
+		<value>Heh. Jasně, že jsi.</value>
 	</entry>
 	<entry>
 		<key>Coach10Don’t get yourself killed out there, you hear? Not after I’ve put this much work into training you.</key>
-		<value>我花了這麽多精力訓練你. 你可別把命給弄丟了, 聽見了嗎? </value>
+		<value>Nezabij se tam venku, slyšíš mě? Ne potom, co jsem do tebe investoval takového úsilí.</value>
 	</entry>
 	<entry>
 		<key>Coach10...Haha, go on, go make Outer Wilds Ventures proud.</key>
-		<value>...哈哈, 去吧. 別讓Outer Wilds探險隊失望. </value>
+		<value>...Haha, běž, ať jsme na tebe hrdí.</value>
 	</entry>
 	<entry>
 		<key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
-		<value>如果你改主意, 依然想進行修理宇宙飛船的練習, \\n就坐升降梯到零重力洞窟里面去. </value>
+		<value>Pokud změníš názor ohledně nácviku lodních oprav, sestup výtahem do nulkové jeskyně.</value>
 	</entry>
 	<entry>
 		<key>Coach11You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
-		<value>你要做的就是飄到“衛星”那里去, 把所有的受損區域修好. \\n就和你到時候修理自己的宇宙飛船一樣. </value>
+		<value>Budeš muset manévrovat k "satelitu" a opravit každou poškozenou část, stejně jako to budeš dělat pro svou loď.</value>
 	</entry>
 	<entry>
 		<key>Coach12What’s the holdup? That “satellite” isn’t going to repair itself.</key>
-		<value>還在等什麽呢? “衛星”可不會自己修好. </value>
+		<value>Co tě zdržuje? "Satelit" se sám neopraví!</value>
 	</entry>
 	<entry>
 		<key>Coach12You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
-		<value>你要做的就是飄到“衛星”那里去, 把所有的受損區域修好. \\n就和你到時候修理自己的宇宙飛船一樣. </value>
+		<value>Budeš muset manévrovat k "satelitu" a opravit každou poškozenou část, stejně jako to budeš dělat pro svou loď. </value>
 	</entry>
 	<entry>
 		<key>PostZeroGNicely done! Of course, it’ll be a little more stressful when you’re hurtling through space, but just remember your training and try not to hit anything big.</key>
-		<value>幹得好! 當然了, 在太空里飛來飛去要更加累人. 不過只要記住訓練的\\n內容, 不要撞到什麽大東西上面, 你就會沒事的. </value>
+		<value>Hezky! Samozřejmě to bude o něco napínavější, až se budeš řítit vesmírem, ale zapamatuj si svůj trénink a snaž se nevrazit do ničeho velkého.</value>
 	</entry>
 	<entry>
 		<key>PostZeroGI can see you’re itching to get off this rock, so go get the &lt;color=orange&gt;launch codes from the observatory&lt;/color&gt; and get out of here already.</key>
-		<value>看得出來, 你急著想要離開這顆星球. 趕緊去\\n&lt;color=orange&gt;天文台拿發射密碼&lt;/color&gt;, 然後起飛吧. </value>
+		<value>Vidím, že už máš roupy, takže si běž pro &lt;color=orange&gt;spouštěcí kódy do observatoře&lt;/color&gt; a konečně se odsud dostaň. </value>
 	</entry>
 	<entry>
 		<key>PostZeroGBest of luck out there! And hey, try to avoid getting yourself killed now that I’ve put so much time into training you, got it?</key>
-		<value>祝你好運! 嘿, 還有, 我花了那麽多工夫訓練你, \\n你可別把自己的命給弄丟了, 明白嗎? </value>
+		<value>Hodně štěstí! A pokud se nezabít, slyšíš mě? Ne potom, co jsem do tebe investoval takového úsilí!</value>
 	</entry>
 	<entry>
 		<key>CoachSpaceYou’re back awfully soon. Everything alright? Slate didn’t do anything dumb like install a self-destruct button, did they?</key>
-		<value>你回來得也太快了. 一切都還好嗎? Slate沒有幹出什麽傻事吧? \\n比如說安裝了一個自毀按鈕什麽的. </value>
+		<value>Vracíš se dost brzy. Všechno v pořádku? Slate nenainstaloval tlačítko na sebe-zničení, že ne?</value>
 	</entry>
 	<entry>
 		<key>NoSuitOi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again.</key>
-		<value>喂, 別忘了穿上太空服! 我可不想再去把你撈回來了. </value>
+		<value>Oj, nezapomeň si obléct skafandr! Nechci tě zase muset vylovit z nulky.</value>
 	</entry>
 	<entry>
 		<key>SignHey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher.\\n\\n-Gossan</key>
-		<value>嘿! 出發之前, 來和你從前的飛行教練打個招呼吧. \\n如果你想溫習一下的話, 我已經把零重力訓練給準備好了. \\n\\n-Gossan</value>
+		<value>Ahoj! Pojď se před svým startem rozloučit se svým starým leteckým trenérem. Mám pro tebe trénink v nulce, pokud potřebuješ osvěžit.\\n\\n-Gossan</value>
 	</entry>
 	<entry>
 		<key>Friend1Hey, hey! So did you get a good look at that Nomai statue?</key>
-		<value>嘿, 嘿! 你看到那尊挪麥雕像了嗎? </value>
+		<value>Hej-hej! Podíval ses na tu sochu Nomai? </value>
 	</entry>
 	<entry>
 		<key>HalFriend1The statue looked at me and opened its eyes!</key>
-		<value>那個雕像看著我, 睜開了眼睛! </value>
+		<value>Ta socha otevřela oči a podívala se na mě! </value>
 	</entry>
 	<entry>
 		<key>HalFriend1The statue was glowing! Why was it glowing?!</key>
-		<value>那座雕像在發光! 它為什麽在發光? ! </value>
+		<value>Ta socha zářila! Proč zářila?!</value>
 	</entry>
 	<entry>
 		<key>Friend3Whoa, whoa — the statue was doing &lt;i&gt;what&lt;/i&gt;?</key>
-		<value>哇, 哇, 雕像在&lt;i&gt;幹嘛&lt;/i&gt;? </value>
+		<value>Wow, počkej - ta socha udělala &lt;i&gt;co&lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>Friend3So its eyes opened, and then you saw images from your own memories and glowing lights flying around? You mean like &lt;Pause/&gt; a hallucination?</key>
-		<value>它睜開了眼睛, 然後你就看見了自己回憶里的場面, \\n而且眼前到處都在發光? 你是說就像&lt;Pause/&gt;出現了幻覺那樣? </value>
+		<value>Takže její oči se otevřely, a pak jsi uviděl obrázky svých vlastních vzpomínek a zářivé záblesky koelm sebe? Myslíš jako &lt;Pauza/&gt; halucinace?</value>
 	</entry>
 	<entry>
 		<key>Friend3Listen, no offense, but... are you sure you’re okay to launch? Like, medically speaking?</key>
-		<value>聽著, 我沒有別的意思, 只是...你確定憑自己的這個身體狀況, \\n發射沒問題嗎? </value>
+		<value>Podívej, bez urážky, ale... jsi si jistý, že jsi připraven na odlet? Ze zdravotního hlediska?</value>
 	</entry>
 	<entry>
 		<key>HalFriend3You know what, don’t worry about it.</key>
-		<value>你知道嗎, 別擔心. </value>
+		<value>Víš ty co, nedělej si s tím starosti.</value>
 	</entry>
 	<entry>
 		<key>HalFriend3No, that statue is &lt;i&gt;definitely weird&lt;/i&gt;.</key>
-		<value>不, 那座雕像&lt;i&gt;絕對有問題&lt;/i&gt;. </value>
+		<value>Ne, ta socha je &lt;i&gt;rozhodně divná&lt;/i&gt;. </value>
 	</entry>
 	<entry>
 		<key>Friend4Maybe you should sit down for a bit and take it easy. I’d hate for anything bad to happen if you tried to launch while you’re not feeling great.</key>
-		<value>也許你應該坐下來歇一會兒. \\n我可不想你身體不舒服的時候還非要讓你參加發射. </value>
+		<value>Možná by sis měl na chvíli sednout a odpočinout. Bylo by tragické, kdyby se něco stalo, protože ses snažil o vzlet v průběhu nemoci.</value>
 	</entry>
 	<entry>
 		<key>Friend4But hey, when you &lt;i&gt;are&lt;/i&gt; ready, then you can make the most of our translator tool! &lt;color=grey&gt;Sniff...&lt;/color&gt;&lt;Pause/&gt; I can’t believe it’s all grown up and leaving for space already.</key>
-		<value>不過, 等你準備&lt;i&gt;好了&lt;/i&gt;以後, 就可以把我們的翻譯工具派上用場啦! \\n&lt;color=grey&gt;抽鼻子...&lt;/color&gt;&lt;Pause/&gt;真不敢相信它已經長大, 要上太空了. </value>
+		<value>Ale hej, až &lt;i&gt;budeš&lt;/i&gt; připravený, tak konečně budeš moci použít náš překladač! &lt;color=grey&gt;Fňuk...&lt;/color&gt;&lt;Pauza/&gt; Nemůžu uvěřit, že už je tak velký a letí do vesmíru.</value>
 	</entry>
 	<entry>
 		<key>Friend4For real, though, I’m glad you’re the one carrying it and not, like, Riebeck. They’d fall on it for sure.</key>
-		<value>不過說真的, 我很高興是你, 而不是Riebeck把它帶上去. \\n他肯定會摔一跤, 把它給壓壞的. </value>
+		<value>Ale vážně, jsem rád, že ho neseš ty a ne, třeba, Riebeck. Ten by na něj určitě upadnul.</value>
 	</entry>
 	<entry>
 		<key>Friend4Say, if you want to do a short trip to just get your space legs under you, you could check out the ruins on the Attlerock! I’d love to learn what those are.</key>
-		<value>這麽說吧, 要是你打算就在附近活動活動腿腳, \\n可以去看看廢巖星上的廢墟! 我很樂意了解一下它們到底是什麽東西. </value>
+		<value>Jestli si chceš udělat krátký výlet, jen tak pro orientaci, mohl by ses podívat na ruiny na Vytěženci! Moc by mě zajímalo, k čemu jsou.</value>
 	</entry>
 	<entry>
 		<key>Friend5I mean, if you’re saying it happened, then... I guess maybe it did. But why?</key>
-		<value>我想說, 按照你的說法, 那麽...我猜情況可能是真的. 可為什麽呢? </value>
+		<value>Hm, když říkáš, že se to stalo... tak se to asi stalo. Ale proč? </value>
 	</entry>
 	<entry>
 		<key>Friend5Hornfels tried everything to get the statue’s eyes to open, and nothing like this ever happened to them.</key>
-		<value>Hornfels什麽法子都用過了, 就是沒法讓雕像睜開眼睛, 也沒有出現過\\n這樣的情況. 所以我猜從博物館的雕像那里一定沒法得到答案. </value>
+		<value>Hornfels zkusil všechno, co ho napadlo, aby otevřel oči té sochy, a nic takového se mu nestalo. </value>
 	</entry>
 	<entry>
 		<key>Friend5I don’t think you’re going to get any answers from the museum statue, but Gabbro said they were going back to Giant’s Deep. Dunno which island they’re on, though.</key>
-		<value>我猜從博物館的雕像那里一定沒法得到答案, 不過Gabbro說他要回到\\n深巨星上去. 不過不知道他在哪座島上. </value>
+		<value>Socha už ti pravděpodobně nic dalšího neřekne, ale Gabbro říkal, že letí zpátky na Obří hlubinu. Ale nevím, na jakém je ostrově.</value>
 	</entry>
 	<entry>
 		<key>Friend5Maybe they’d be able to tell you more? On the other hand, Gabbro’s, y’know, &lt;i&gt;Gabbro&lt;/i&gt;, so maybe you’d be better off searching for more info on your own.</key>
-		<value>也許他可以告訴你一些具體的情況? 而另一方面, \\n你也知道&lt;i&gt;Gabbro&lt;/i&gt;這個人, 你最好還是靠自己多查查吧. </value>
+		<value>Možná ti řekne víc? Na druhou stranu, Gabbro je &lt;i&gt;Gabbro&lt;/i&gt;, takže možná bude lepší najít víc informací na vlastní pěst.</value>
 	</entry>
 	<entry>
 		<key>Friend5...Geez, now I’m &lt;i&gt;really&lt;/i&gt; jealous you’re going into space! Hey, see if you can use our translator tool to find out more about the statue, okay?</key>
-		<value>...天哪, 我是&lt;i&gt;真的&lt;/i&gt;羨慕你能夠上太空! 嘿, \\n去用我們的翻譯工具看看能不能了解到更多有關雕像的內容, 好嗎? </value>
+		<value>...Ježkovy zraky, teď &lt;i&gt;opravdu&lt;/i&gt; žárlím na to, že letíš do vesmíru! Hej, zkus použít náš překladač k tomu, abys vynašel víc o té soše, oukej?</value>
 	</entry>
 	<entry>
 		<key>Friend6Good luck, and safe flying!</key>
-		<value>祝你好運, 注意飛行安全! </value>
+		<value>Hodně štěstí, a leť bezpečně! </value>
 	</entry>
 	<entry>
 		<key>PostConvo1Hey again!</key>
-		<value>又見面了! </value>
+		<value>Ahoj ahoj! </value>
 	</entry>
 	<entry>
 		<key>PostConvoMenuWas there something else?</key>
-		<value>還有別的事嗎? </value>
+		<value>Můžu ti pomoci s něčím jiným? </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWhere on Giant’s Deep would I find Gabbro?</key>
-		<value>我要在深巨星的哪兒才能找到Gabbro? </value>
+		<value>Kde na Obří hlubině najdu Gabbra? </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWhere’s the Nomai statue in the museum from?</key>
-		<value>博物館里的挪麥雕像是從哪兒來的? </value>
+		<value>Odkud je to socha Nomai z muzea? </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWhy did the Nomai make that statue?</key>
-		<value>挪麥人為什麽要制作那個雕像? </value>
+		<value>Proč Nomai tuhle sochu vyrobili? </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWonder if I’ll discover anything cool in space.</key>
-		<value>不知道我會不會在太空里做出了不起的發現. </value>
+		<value>Jsem zvědavý, jestli ve vesmíru najdu něco kůlovatýho. </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuSee you later.</key>
-		<value>回頭見. </value>
+		<value>Měj se. </value>
 	</entry>
 	<entry>
 		<key>WheresGabbro_OutsideGabbro said they were going back to Giant’s Deep to wherever they found that Nomai statue. One of the islands, I think.</key>
-		<value>Gabbro說他要回到深巨星找到挪麥雕像的地方去. \\n我想就是其中的一座島上吧. </value>
+		<value>Gabbro říkal, že půjde zpátky na Obří hlubinu na to místo, kde našel tu sochu Nomai. Jeden z ostrovů, myslím. </value>
 	</entry>
 	<entry>
 		<key>WheresGabbro_OutsideYou remember Gabbro plays a flute, right? Like, all the time? I bet your signalscope could find them easily.</key>
-		<value>你還記得Gabbro喜歡演奏長笛吧? 一刻都不停的那種? \\n我敢說你用信號鏡很容易就能找到他. </value>
+		<value>Pamatuješ si, že Gabbro hraje na flétnu? Skoro pořád? Vsadím se, že tvůj signáloskop ho jednoduše najde. </value>
 	</entry>
 	<entry>
 		<key>WheresGabbro_OutsideIf you do see Gabbro, say hi for me!</key>
-		<value>要是你見到Gabbro, 替我向他問個好! </value>
+		<value>Pokud Gabbra uvidíš, řekni mu za mě ahoj! </value>
 	</entry>
 	<entry>
 		<key>PostConvo2From Giant’s Deep! Gabbro fished it out of the oceans and brought it back here for study.</key>
-		<value>是深巨星上找到的! Gabbro把它從海里釣了上來, 帶回去進行研究. </value>
+		<value>Z Obří hlubiny! Gabbro ji vylovil z oceánů a přinesl ji sem pro důkladnější studium.</value>
 	</entry>
 	<entry>
 		<key>PostConvo2Hornfels doesn’t know much about it yet, just that it’s &lt;i&gt;crazy&lt;/i&gt; old and super tough. I wonder why the Nomai carved it?</key>
-		<value>Hornfels對它的了解還不多, 只知道它&lt;i&gt;特別&lt;/i&gt;古老, 非常堅固. \\n不知道挪麥人為什麽要雕刻這尊雕像? </value>
+		<value>Hornfels o ní zatím mnoho neví, jen že je &lt;i&gt;šílená&lt;/i&gt;, stará a hodně tuhá. Zajímalo by mě, proč ji Nomai vytesali?</value>
 	</entry>
 	<entry>
 		<key>PostConvo2Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there.</key>
-		<value>很顯然, Gabbro打算回到深巨星, 對雕像作進一步的調查. \\n也許他可以在那里找到一些答案. </value>
+		<value>Gabbro podle všeho šel zpátky do Obří hlubiny, aby objevil víc ohledně té sochy. Možná nějaké odpovědi najdeš tam.</value>
 	</entry>
 	<entry>
 		<key>PostConvo3Good question! You know how Gabbro knocked a fragment off the statue while they were hauling it back from Giant's Deep?</key>
-		<value>問得好! Gabbro發現深巨星的博物館里展出了那座雕像, 對吧? \\nHornfels跟我說, 它是一種特別的石頭制作的, \\n和Chert從沙漏雙星帶回來的雕像碎片是同種石頭. </value>
+		<value>Dobrá otázka! Víš, jak Gabbro ulomil kousek sochy, když ji sem přepravoval z Obří hlubiny?</value>
 	</entry>
 	<entry>
 		<key>PostConvo3Hornfels analyzed the fragment and figured out the stone it's made from can store information — I heard Slate ended up repurposing it for your ship’s computer.</key>
-		<value>我們知道從Chert的碎片上獲得的石頭可以儲存信息, \\n這也就是為什麽雕像碎片的某些石頭被用在了你的宇宙飛船電腦上. </value>
+		<value>Hornfels ten úlomek zanalyzoval a došel k závěru, že ten kámen umí ukládat informace - slyšel jsem, že Slate ho použil pro počítač na tvojí lodi.</value>
 	</entry>
 	<entry>
 		<key>PostConvo3I’m not sure what the statue opening its eyes has to do with anything, but maybe the statue was made for storing information, too?</key>
-		<value>我不能肯定雕像睜開眼睛意味著什麽, \\n不過也許那座雕像也是用來儲存信息的? </value>
+		<value>Nejsem si jist, co s tím má co do činění to, že ta socha otevřela oči, ale možná je ta socha taky k ukládání informací? </value>
 	</entry>
 	<entry>
 		<key>PostConvo4Hey, you never know — maybe you’ll be the one to uncover the Nomai’s mysteries!</key>
-		<value>嘿, 誰知道呢, 也許你就是那個解開挪麥人秘密的人! </value>
+		<value>Jeden nikdy neví - možná budeš tím, kdo vyřeší všechny záhady Nomai! </value>
 	</entry>
 	<entry>
 		<key>PostConvo4Or maybe you’ll discover a new kind of rock or something.</key>
-		<value>要麽就是你發現了一種新的石頭. </value>
+		<value>Nebo najdeš nějaký nový druh kamene nebo tak nějak. </value>
 	</entry>
 	<entry>
 		<key>PostConvo4But honestly, as long as they don’t end up naming new safety equipment after you, I’m sure you’ll have done a great job.</key>
-		<value>不過老實說, 只要他們最後別用你的名字來為新的安全設備命名, \\n我肯定你一定能夠幹得很出色. </value>
+		<value>Ale upřímně, pokud podle tebe nepojmenují nový bezpečnostní přístroj, jsem si jist, že vykonáš dobrou práci. </value>
 	</entry>
 	<entry>
 		<key>PostConvoEndBe careful out there in space!</key>
-		<value>在太空里千萬多保重! </value>
+		<value>Buď ve vesmíru opatrný! </value>
 	</entry>
 	<entry>
 		<key>Marl</key>
@@ -6652,63 +6652,63 @@
 	</entry>
 	<entry>
 		<key>Marl1So it’s launch day, huh? Hal’s going to miss you.</key>
-		<value>今天是發射的日子, 對吧? Hal一定會想念你的. </value>
+		<value>Tak máme den vzletu, co? Halovi budeš scházet. </value>
 	</entry>
 	<entry>
 		<key>Marl1Speaking of launch day... I was thinking about it, and the platform those ships launch from is getting old. Isn’t it about time you built a new, less flammable one?</key>
-		<value>說到發射...我一直在想, 用來發射宇宙飛船的平台用了挺久的了. \\n是不是該造一座不那麽可燃的新平台才對? </value>
+		<value>Když tak mluvíme o vzletu... Přemýšlel jsem o tom, a plošina, ze které lodi vzlétají, je velmi stará. Není načase, aby někdo postavil novou, možná méně hořlavou? </value>
 	</entry>
 	<entry>
 		<key>Marl1That big tree in the village would be the perfect choice. I wouldn’t mind helping out the space program. Just say the word!</key>
-		<value>村子里的那棵大樹就很合適. 只要你一句話, \\n我一定會大力支持太空計劃! </value>
+		<value>Ten velký strom uprostřed vesnice by pro to byl perfektní. Nevadilo by mi pomoci vesmírnému programu! Jen houkni!</value>
 	</entry>
 	<entry>
 		<key>MarlMarl1The current launch pad is fine, thanks.</key>
-		<value>謝謝, 現在的發射台就很不錯. </value>
+		<value>Současná plošina je v pořádku, díky. </value>
 	</entry>
 	<entry>
 		<key>MarlMarl1Nice try. We all know you have it out for that tree.</key>
-		<value>想得美. 誰都知道你和那棵樹過不去. </value>
+		<value>Hezký pokus. Všichni víme, že se to snažíš tomu stromu vrátit.</value>
 	</entry>
 	<entry>
 		<key>MarlMarl1The launch pad is FLAMMABLE?!</key>
-		<value>發射台是可燃的? ! </value>
+		<value>Vzletová plošina je hořlavá?!</value>
 	</entry>
 	<entry>
 		<key>FineOh. Really? Dang.</key>
-		<value>哦. 真的嗎? 要命. </value>
+		<value>Ou. Vážně? Sakra.</value>
 	</entry>
 	<entry>
 		<key>FineWell, maybe someone needs a new porch or something. &lt;Pause/&gt;A big one.</key>
-		<value>好吧, 也許有誰想要換個新門框.  &lt;Pause /&gt;很大的門框. </value>
+		<value>Mno, možná někdo potřebuje novou verandu. &lt;Pauza /&gt; Velkou verandu.. </value>
 	</entry>
 	<entry>
 		<key>OutWhat? No, I just think it’s in the way and someone ought to chop it down, you know? Specifically, me.</key>
-		<value>什麽? 才不是呢. 我只是覺得它擋著路了, 得有人去把它給砍倒. \\n這個人就是我. </value>
+		<value>Cože? Ne, já si jen myslím, že překáží a někdo by ho měl rozštípat, víš? Specificky, já bych ho měl rozštípat. </value>
 	</entry>
 	<entry>
 		<key>Out...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</key>
-		<value>...哈哈, 你以為我是因為那次從樹上掉下來摔斷胳膊, 所以懷恨在心? \\n那都是小時候的事情了! 誰會記恨一輩子啊? </value>
+		<value>...Haha, ty si myslíš, že tohle má co do činění s tím, když jsem z něho vypadl a zlomil si ruku? To jsme byli mláďata! Kdo by se držel záště tak dlouho?</value>
 	</entry>
 	<entry>
 		<key>FlammableHa! You didn’t realize that?</key>
-		<value>哈! 你沒看出來嗎? </value>
+		<value>Ha! To sis neuvědomil? </value>
 	</entry>
 	<entry>
 		<key>FlammableDon’t worry, it’s held up for all the launches so far. It’ll definitely be fine for yours. Probably.</key>
-		<value>別擔心, 到目前為止, 發射都沒出過問題. 你肯定不會有事的. 大概吧. </value>
+		<value>Neboj, zatím vydržel všechny ostatní vzlety. Rozhodně bude v pořádku na ten tvůj. Pravděpodobně. </value>
 	</entry>
 	<entry>
 		<key>Esker1If you swing by the moon, say hi to Esker for me.</key>
-		<value>如果你路過衛星那兒, 就替我向Esker打聲招呼. </value>
+		<value>Pokud se zastavíš na měsíci, řekni za mě Eskerovi ahoj. </value>
 	</entry>
 	<entry>
 		<key>Tree...That tree has got it coming.</key>
-		<value>...那棵樹活該. </value>
+		<value>...Ten strom si to zaslouží. </value>
 	</entry>
 	<entry>
 		<key>SpaceWhat are you doing back? Did you forget your spacesuit or something?</key>
-		<value>你回來幹嘛? 你是忘穿宇航服了還是怎麽的? </value>
+		<value>Co tu děláš tak brzy? Zapomněl sis skafandr nebo tak něco?</value>
 	</entry>
 	<entry>
 		<key>Porphy</key>
@@ -6716,551 +6716,551 @@
 	</entry>
 	<entry>
 		<key>SapWineMaker1Heyo, hatchling!</key>
-		<value>你好呀, 年輕人! </value>
+		<value>Čauky, mládě! </value>
 	</entry>
 	<entry>
 		<key>SapWineMaker1I hear you’re leaving us to seek adventure amongst the stars. When you return, let’s you, me, and Gossan open up a bottle of the Good Stuff.</key>
-		<value>聽說你要離開我們, 去群星里冒險. 等你回來的時候, \\n你、我, 還有Gossan得開一瓶好酒慶祝. </value>
+		<value>Slyšel jsem, že se s námi loučíš, abys našel dobrodružství mezi hvězdami. Až se vrátíš, pojďme ty, já a Gossan otevřít jednu láhev.</value>
 	</entry>
 	<entry>
 		<key>PorphySapWineMaker1I’m only seeking adventure amongst one star, actually. Other stars are too far away.</key>
-		<value>其實, 我只是去一顆恒星上面冒險. 其它的恒星太遠了. </value>
+		<value>Hledám dobrodružství jen mezi jednou hvězdou. Ostatní hvězdy jsou moc daleko.</value>
 	</entry>
 	<entry>
 		<key>PorphySapWineMaker1The Good Stuff is less “delicious sap wine” and more “daunting digestive challenge.”</key>
-		<value>而所謂好酒, 與其說是“美味的樹液酒”, \\n倒不如說是“腸胃面臨的艱巨挑戰”. </value>
+		<value>Jedna láhev je spíš než "dobré mízové víno" "mocná digestivní výzva".</value>
 	</entry>
 	<entry>
 		<key>SolarSystemAnother metaphor ruined in the name of scientific accuracy.</key>
-		<value>又拿著科學的嚴謹來挑語法的刺. </value>
+		<value>Další metafora zničena ve jménu vědecké přesnosti.</value>
 	</entry>
 	<entry>
 		<key>SolarSystemNevertheless, I do hope you enjoy your travels. Good luck!</key>
-		<value>不管怎麽說, 我衷心地希望你一路順風. 祝你好運! </value>
+		<value>I tak doufám, že si užiješ své cesty! Hodně štěstí!</value>
 	</entry>
 	<entry>
 		<key>GoodStuffAn iron stomach is the mark of a true Hearthian, my friend.</key>
-		<value>擁有鋼鐵的腸胃, 那才能算是真正的哈斯人, 我的朋友. </value>
+		<value>Železné břicho je známka pravého Domopecana, můj příteli.</value>
 	</entry>
 	<entry>
 		<key>GoodStuffOur hardy hunter-gatherer lifestyle stems from trial and error. By which I mean our ancestors survived eating a lot of bad things.</key>
-		<value>正是在反覆的試驗之上, 我們才培養出了這種吃苦耐勞、狩獵采集的\\n生活方式. 也就是說, 我們的祖先吃了許多糟糕的東西也沒有死. </value>
+		<value>Naši předci lovci-sběrači žili pokusem a omylem. Čímž chci říci, že naše předci přežili jedení hodně špatných věcí.</value>
 	</entry>
 	<entry>
 		<key>SapWineMaker2Ho, the astronaut returns!</key>
-		<value>好啊, 宇航員回來了! </value>
+		<value>Ohó, astronaut se vrací! </value>
 	</entry>
 	<entry>
 		<key>PorphyMenuTell me, what I can do for you?</key>
-		<value>告訴我, 有什麽能為你效勞的嗎? </value>
+		<value>Řekni mi, co pro tebe můžu udělat? </value>
 	</entry>
 	<entry>
 		<key>PorphyPorphyMenuAny new dirt?</key>
-		<value>有什麽新聞嗎? </value>
+		<value>Nějaké nové drby? </value>
 	</entry>
 	<entry>
 		<key>PorphyPorphyMenuWhat are you up to?</key>
-		<value>你有事嗎? </value>
+		<value>Co plánuješ? </value>
 	</entry>
 	<entry>
 		<key>PorphyPorphyMenuI’m good, actually.</key>
-		<value>其實我沒什麽事. </value>
+		<value>Nic nepotřebuji, díky.</value>
 	</entry>
 	<entry>
 		<key>NewDirtI’m hoping to teach Esker to tap trees next time they return from the Attlerock. If they’ll bring me lunar sap, I can attempt moon wine!</key>
-		<value>我想等下次Esker從廢巖星回來的時候, 教他割樹液. \\n如果他能給我帶點月亮樹液來, 我就可以試著釀月亮酒了! </value>
+		<value>Doufám, že naučím Eskera, jak točit mízu ze stromů, až se vrátí z Vytěžence! Pokud mi přinesou lunární mízu, můžu zkusit měsíční víno!</value>
 	</entry>
 	<entry>
 		<key>WhatsUpI’ve just finished sealing up another batch of sap wine for aging. I like to begin aging a batch on the day of a significant occasion, you know!</key>
-		<value>我剛剛封存好了一批樹液酒, 等它們變醇. 你知道嗎? \\n我喜歡在重大的日子藏上一批酒! </value>
+		<value>Právě jsem dolil další dávku mízového vína do sudů, aby zestárlo! Rád začínám proces stárnutí dávky ve speciální dny, víš?</value>
 	</entry>
 	<entry>
 		<key>WhatsUpThat’s why there are so many bottles labeled “structural collapse” and “house fire.”</key>
-		<value>所以這里才會有那麽多寫著“結構倒塌”和“房屋失火”的酒瓶. </value>
+		<value>Proto mám tolik lahví, co jsou označené jako "strukturální kolaps" nebo "domácí požár". </value>
 	</entry>
 	<entry>
 		<key>GoodbyeEnjoy your travels!</key>
-		<value>祝你一路順風! </value>
+		<value>Hodně štěstí na tvých cestách!</value>
 	</entry>
 	<entry>
 		<key>SapWineMaker3Oh my, and here I thought I’d heard your ship take off. Was your adventure only a short one?</key>
-		<value>哦天哪, 我還以為你的宇宙飛船已經起飛了呢. \\n還是說你這就已經完成了冒險? </value>
+		<value>Myslel jsem, že jsem slyšel tvou loď vzlétnout. Bylo tvé dobrodružství tak krátké?</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingOkay, wow. &lt;i&gt;Wow.&lt;/i&gt; I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...</key>
-		<value>好吧, 哇哦. &lt;i&gt;哇哦. &lt;/i&gt;我在其他旅行者的圖畫里看到過這些廢墟, \\n然而百聞不如一見...</value>
+		<value>Okay, wow. &lt;i&gt;Wow.&lt;/i&gt; Viděl jsem tyhle ruiny ve fotografiích ostatních cestovatelů, ale vidět ji na vlastní oči...</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingIt’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</key>
-		<value>它實在是&lt;Pause=1&gt;&lt;i&gt;古老&lt;/i&gt;, 不是嗎? </value>
+		<value>Jsou &lt;Pauza=1&gt; &lt;i&gt;vážně&lt;/i&gt; staré, že? </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingBut wow, this is the coolest day of my life. ...Okay, um, time for some official notes!</key>
-		<value>不過呢, 哇哦, 這可是我這輩子最帥的一天...好吧, \\n嗯, 該做點正式的記錄了! </value>
+		<value>Ale wow, tohle je nejlepší den mého života. ...Oukej, čas na oficiální poznámky! </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
-		<value>原來這就是挪麥人的某種“定位器”. 它可以把不同的行星給指出來. \\n順便一說, 這個功能可真是厲害. 不過我對這里寫的內容理解有限, \\n按照上面的說法, 我覺得它是用來尋找某種特別的東西的? </value>
+		<value>Toto je nějaký "lokátor" Nomai. Dokáže poukázat na specifické planety - což je neskutečně kůlovaté, mimochodem - ale z toho, co zvládám přečíst, to zní, jako že hledali  něco specifického? </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingI’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</key>
-		<value>我不是很肯定. 另外, 我還翻譯出了一些內容, 和碎空星的南極有關. \\n所以我要飛到那兒去, 看看是不是能夠了解到更多的信息. </value>
+		<value>Nejsem si jistý. Přeložil jsem také něco o severním pólu Křehkoduté planety, takže se pokusím více zjistit tam.</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
-		<value>沒錯. 該回到那艘宇宙飛船上去, 然後駕駛它起飛了. \\n絕對安全...基本上安全. &lt;size=20&gt;哦, 群星在上啊&lt;/size&gt;...</value>
+		<value>Jo. Prostě se posadím do své staré dobré lodi a přeletím na jinou planetu. Úplně bezpečně... Z větší části bezpečně. &lt;size=20&gt;Ach, nebe nade mnou&lt;/size&gt;...</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalThe journey here from the south pole has been, um... I’m going to go with “harrowing”, because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</key>
-		<value>從南極來到這里, 一路上可以說...“驚心動魄”, \\n因為隕石一刻不停地在砸. 不過呢, 至少我來到了這里, \\n沒有被砸出腦震蕩, 而且身上也沒有著火! </value>
+		<value>Cesta sem ze severního pólu byla, um... řekněme "otřesná", kvůli všem těm, um, meteorům. Ale hej, aspoň jsem se sem dostal bez otřesu mozku a popálenin libovolného stupně!</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-		<value>好吧, 我們來看看...我在附近調查了一下, 某種古老的挪麥道路\\n從我的營地延伸進了樹木叢生的廢墟建築里. </value>
+		<value>Oukej, tak se podívejme... Trošku jsem se podíval kolem, a v jednom z domů začíná stará cesta Nomai - naproti méme tábořišti, uvnitř rozedrané budovy, ze které rostou stromy. </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
-		<value>看上去沒什麽可怕的, 那里只有通往下方的階梯. 不就是階梯嘛! \\n等我把補給都準備好, 我要沿著道路向前走, 看看它到底通向哪兒. </value>
+		<value>Nevypadá nijak hrozně - jen schody, co vedou dolů. Schody zvládnu! Až sbalím zásoby, půjdu po té stezce a zjistím, kam vede.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalHurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back &lt;i&gt;up&lt;/i&gt; that path.</key>
-		<value>哼. 好吧. 真是...叫人深感不快. 不過我都走了這麽深. \\n我猜現在我要集中精神, 而不是不得不沿路回到&lt;i&gt;上面&lt;/i&gt;去. </value>
+		<value>Mno. Inu. To bylo... hluboce nepříjemné. Dostal jsem se až sem, a na to bych se měl soustředit - ne na to, jak budu eventuelně muset jít zase zpátky &lt;i&gt;nahoru&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
-		<value>不過呢, 哇, 這地方可真不得了! 看起來懸空城就在北邊. \\n而東邊有一門重力炮! 這我&lt;i&gt;一定&lt;/i&gt;得去看一看. </value>
+		<value>Ale wow, tohle místo je úžasné! Vypadá to, že Visací město je odsud na sever. A na východ je gravitační kanón! Ten chci &lt;i&gt;rozhodně&lt;/i&gt; vidět. </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalAnd another thing - I’m detecting oxygen from somewhere below. Which is good, since I, uh, used up a lot of my supply screaming during the trip down from the surface.</key>
-		<value>還有一件事: 我檢測到下面的某個地方有氧氣. 這還是挺好的, \\n因為我, 呃, 從地面下來的時候一路慘叫, 消耗了不少補給. </value>
+		<value>A ještě jedna věc - někde pode mnou je kyslík. Což je dobře, protože většinu toho svého jsem, uh, použil. ...svým ječením po cestě dolů.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalAs soon as I stop dry heaving, I’m going to head farther down below so I can refill my tank.</key>
-		<value>等我一止住幹嘔, 我就繼續往地下深入, 好補充自己的氧氣瓶. </value>
+		<value>Jakmile se mi přestane zvedat žaludek, půjdu dál níž, abych si mohl doplnit kyslíkovou nádrž.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalAt first I thought this was an old Nomai settlement, but on closer inspection, I don’t think anyone ever lived here. These buildings are atypical for Nomai dwellings.</key>
-		<value>一開始我以為這里是挪麥人從前的一個定居點, 但是仔細一瞧, \\n我覺得這里從來沒有人住過. 這些建築是典型的挪麥民居. </value>
+		<value>Nejdřív jsem si myslel, že je to staré sídliště Nomai, ale po bližším pohledu si nemyslím, že tu kdy kdo žil. Tyto budovy by byly pro domovy Nomai atypické.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
-		<value>我的猜想? 這里應該是挪麥人制造重力水晶的地方. \\n我們知道他們會深入碎空星的地殼開采原料, 然後通過提煉來生產水晶. </value>
+		<value>Co bych si tipnul? Myslím, že tady Nomai vyráběli gravitační krystaly. Víme, že kutali nezpracovaný materiál z pode krusty na Křehkoduté planetě, a potom jej rafinovali tak, aby vytvořili krystaly.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalGravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</key>
-		<value>重力水晶可以在局部產生重力扭曲, 在一定範圍內對周圍的區域\\n造成影響. 他們實在是很聰明! 挪麥人在前往地下的時候, \\n會用這些水晶把自己栓在地表上. </value>
+		<value>Gravitační krystaly zkreslují místní gravitaci, která ovlivňuje zem kolem nich, až do jistého poloměru. Je to velmi chytrý vynález! Nomai je použávali, aby mohli přejít přes různé povrchy.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalWe Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</key>
-		<value>哈斯人在我們的宇宙飛船里借鑒了他們的技術, 只要一個平面, \\n就能用重力水晶把宇航員固定在上面 (感謝群星! ) . </value>
+		<value>My Domopecané jsme si jejich technologii vypůjčili pro naše lodě, kde gravitační krystaly upevňují astronauty ke spodní rovině (díky hvězdám!).</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingI’m here! I did it! I put the ship down safely!</key>
-		<value>我到了! 我成功了! 我讓宇宙飛船安全降落了! </value>
+		<value>Zvládl jsem to! Jsem tady! Bezpečně jsem přistál se svou lodí!</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingUm, in that the ship went down, and I didn’t sustain bodily harm. A few minor repairs, and it’s like the ship never even hit those rocks!</key>
-		<value>呃, 就是說宇宙飛船掉了下來, 我也沒有受到皮肉傷. 只要進行幾次小小\\n的修理, 宇宙飛船就會煥然一新, 跟從來沒有在那些石頭上磕碰過一樣! </value>
+		<value>Čímž myslím, že moje loď je na povrchu a já jsem nebyl zraněn. Po několika opravách má loď vypadá, jako by nikdy nenarazila do útesu!</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingOne of my better attempts. Feldspar would barely have laughed at me, I bet.</key>
-		<value>這是我比較優秀的一次降落. 我敢說, Feldspar肯定沒法笑話我. </value>
+		<value>Jeden z mých lepších pokusů. Vsadil bych se, že Feldspar by se mi skoro ani nesmál.</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingThat’s the good news. The bad news... I, uh, haven’t found a way inside this structure yet. The door is broken, and I know I’m not great at exploring, but I think I would have found a different entrance by now if there were one. P... probably.</key>
-		<value>好消息就這麽多. 至於壞消息嘛...我, 呃, 還沒有找到進入這座建築的\\n方法. 大門壞掉了, 我知道我不擅長探險, 不過我覺得如果還有其它入口\\n的話, 我應該可以找到它. 可...可能吧. </value>
+		<value>Toliko k dobrým zprávám. Špatné zprávy... zatím jsem nepřišel na to, jak se dostat do této struktury. Dveře jsou rozbité, a já vím, že nejsem dobrý průzkumník, ale myslím, že bych našel jiný vstup, kdyby existoval. P... pravděpodobně.</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingI can’t get inside from &lt;i&gt;here&lt;/i&gt;, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.</key>
-		<value>我沒法從&lt;i&gt;這里&lt;/i&gt;進去, 但我知道地下有別的路. \\n我要向北前往位於赤道的廢墟, 想辦法下去. </value>
+		<value>Nedokážu se dostat dovnitř &lt;i&gt;odsud&lt;/i&gt;, ale vím, že tu jsou stezky pod povrch. Půjdu na sever k ruinám na rovníku, abych se pokusil najít stezku dolů.</value>
 	</entry>
 	<entry>
 		<key>Rutile</key>
-		<value>魯迪爾</value>
+		<value>Rutil</value>
 	</entry>
 	<entry>
 		<key>Mayor1You’re actually blasting off in that thing, huh?</key>
-		<value>你真的要坐在那個東西里飛上天嗎? </value>
+		<value>Ty se v té věci vážně pokusíš odletět, co? </value>
 	</entry>
 	<entry>
 		<key>RutileMayor1They really don’t explode as often anymore.</key>
-		<value>它們已經不像以前那樣總是愛爆炸了. </value>
+		<value>Vážně už tak často nevybuchují. </value>
 	</entry>
 	<entry>
 		<key>RutileMayor1I’m told my odds of survival are statistically quite high.</key>
-		<value>據說從統計數據來看, 我的生還幾率相當高. </value>
+		<value>Říkají mi, že moje šance na přežití jsou statisticky celkem vysoké. </value>
 	</entry>
 	<entry>
 		<key>SkepticAnswer1All I know is between the space program and Mica’s model rockets, things seem to burn to the ground around here more than they used to.</key>
-		<value>我只知道在太空計劃和Mica的模型火箭問世期間, \\n這里失火的次數比以前多了不少. </value>
+		<value>Vše, co vím, je to, že mezi vesmírným programem a Micovými modelovými raketkami, věci tady kolem hoří mnohem častěji, než hořívaly. </value>
 	</entry>
 	<entry>
 		<key>SkepticAnswer2Yeah, the space program’s certainly come a long way. I should probably thank you for causing fewer flash fires than your predecessors.</key>
-		<value>是啊, 太空計劃確實取得了很大的進展. \\n說不定我還得謝謝你, 不像你的前輩那樣總是把東西給點著. </value>
+		<value>Jo, vesmírný program rozhodně ušel řádný kus cesty. Měl bych vám všem poděkovat za to, že způsobujete méně požárů, než vaši předchůdci. </value>
 	</entry>
 	<entry>
 		<key>SkepticAnswer2By the way, good luck with those retro rockets.</key>
-		<value>順便說一句, 祝你乘坐反推火箭的時候好運. </value>
+		<value>Mimochodem, hodně štěstí s těmi zpětnými raketami. </value>
 	</entry>
 	<entry>
 		<key>Mayor2Hey, what can I do for you?</key>
-		<value>嘿, 我能替你幫什麽忙嗎? </value>
+		<value>Ahoj, co pro tebe můžu udělat?</value>
 	</entry>
 	<entry>
 		<key>RutileMayor2Marl is plotting to cut down that big tree. Again.</key>
-		<value>Marl打算砍掉那棵大樹. 又來了</value>
+		<value>Marl plánuje uříznout náš velký strom. Už zase.</value>
 	</entry>
 	<entry>
 		<key>RutileMayor2Are you going to watch the launch?</key>
-		<value>你會來看發射嗎? </value>
+		<value>Budete se dívat na start?</value>
 	</entry>
 	<entry>
 		<key>RutileMayor2Do you really worry that the space program will burn the village down?</key>
-		<value>你真的認為太空計劃會把村子給燒掉嗎? </value>
+		<value>Vážně se bojíte, že vesmírný program spálí vesnici na popel? </value>
 	</entry>
 	<entry>
 		<key>RutileMayor2I’m good.</key>
-		<value>我沒事. </value>
+		<value>Díky, nic nepotřebuji.</value>
 	</entry>
 	<entry>
 		<key>Marl&lt;Color=#808080ff&gt;Sigh...&lt;/Color&gt; I suppose it’s my duty as mayor to stop them. Again.</key>
-		<value>唉...看來作為市長, 又來了</value>
+		<value>Marl... &lt;Color=#808080ff&gt;Vzdech...&lt;/Color&gt; Asi je má povinnost coby starosty ho zastavit. Znovu.</value>
 	</entry>
 	<entry>
 		<key>MarlWhen Marl fell out of that tree and broke their arm, I suspect they might have also hit their head on the way down.</key>
-		<value>Marl從樹上掉下來摔斷胳膊的時候, 我懷疑他的腦袋是不是也被摔壞了. </value>
+		<value>Když Marl z toho stromu vypadl a zlomil si ruku, obávám se, že možná taky spadnul na hlavu.</value>
 	</entry>
 	<entry>
 		<key>FiresOnly constantly. You learn to live with it.</key>
-		<value>無時無刻. 你只能學著將就. </value>
+		<value>Jen pořád. Zvykneš si na to.</value>
 	</entry>
 	<entry>
 		<key>FiresYou also learn to sleep with a bucket of water next to your bed, just in case.</key>
-		<value>而且你還要學會睡覺的時候床邊放一桶水, 以防萬一. </value>
+		<value>Taky se naučíš spát s kyblíkem vody vedle postele, jak tak pro strýčka Příhodu.</value>
 	</entry>
 	<entry>
 		<key>LaunchOf course!</key>
-		<value>當然! </value>
+		<value>Samozřejmě! </value>
 	</entry>
 	<entry>
 		<key>LaunchI’ll be watching from a safe distance, obviously, and mostly to make sure nothing catches fire. But watching nonetheless.</key>
-		<value>不用說, 我會保持安全距離, 遠遠地看著, \\n主要是得確保不會出現火災. 不過我還是會看的. </value>
+		<value>Budu jej sledovat z bezpečné vzdálenosti, samozřejmě, a hlavně abych se ujistil, že nic nezačalo hořet. Ale budu ho sledovat.</value>
 	</entry>
 	<entry>
 		<key>GoodGlad to hear it.</key>
-		<value>聽你這麽說真是太好了. </value>
+		<value>To rád slyším.. </value>
 	</entry>
 	<entry>
 		<key>MayorSpaceYou’re back already? Is everything OK?</key>
-		<value>你這就回來了? 一切都好嗎? </value>
+		<value>To už jsi zpátky? Je všechno v pořádku?</value>
 	</entry>
 	<entry>
 		<key>SignEast: Nomai Ruins</key>
-		<value>東邊: 挪麥廢墟</value>
+		<value>Východ: Trosky Nomai</value>
 	</entry>
 	<entry>
 		<key>SignNorth: Youngbark Crater</key>
-		<value>北邊: 嫩皮環形山</value>
+		<value>Sever: Mladolesý kráter</value>
 	</entry>
 	<entry>
 		<key>SignNorthwest: Geyser Mountains</key>
-		<value>西北邊: 間歇泉山</value>
+		<value>Severozápad: Gejzírové hory</value>
 	</entry>
 	<entry>
 		<key>SignSouth: Quantum Grove Crater</key>
-		<value>南邊: 量子樹林環形山</value>
+		<value>Jih: Kráter s kvantovým hájem</value>
 	</entry>
 	<entry>
 		<key>Spinel</key>
-		<value>斯賓奈爾</value>
+		<value>Spinel</value>
 	</entry>
 	<entry>
 		<key>Spinel1Fishing rhyme, fishing rhyme... Singing helps me pass the time.</key>
-		<value>釣魚歌, 釣魚歌...沒事幹的時候就唱唱歌. </value>
+		<value>Rybí rým, rybí rým... Zpívám si a chystám šprým...</value>
 	</entry>
 	<entry>
 		<key>Spinel1You’re leaving the crater? Guess we’ll all be a little busier without you around to lend a hand.</key>
-		<value>你要離開環形山? 看來少了你的幫忙, 我們就沒法像現在這麽清閑了. </value>
+		<value>Odlétáš z kráteru? Asi budeme všichni o něco zaneprázdněnější, když nám nebudeš moci s věcmi pomoci. </value>
 	</entry>
 	<entry>
 		<key>Spinel1That big water planet, Giant’s Deep - that’s where I’d go.</key>
-		<value>那顆大大的水星球, 深巨星. 我就要去那兒. </value>
+		<value>Ta velká vodní planeta, Obří hlubina - šel bych tam. </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel1Why’s that?</key>
-		<value>為什麽是那里? </value>
+		<value>Proč? </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel1I need to find Hornfels.</key>
-		<value>我得去找Hornfels. </value>
+		<value>Potřebuji najít Hornfelse. </value>
 	</entry>
 	<entry>
 		<key>Spinel2Did you try the observatory? I’ve literally never seen them anywhere else.</key>
-		<value>你去天文台那兒找過嗎? 別的地方我都沒見到他的影子. </value>
+		<value>Zkusil jsi observatoř? Nikdy jsem ho neviděl kdekoliv jinde. </value>
 	</entry>
 	<entry>
 		<key>Spinel3One time, after the rest of the village had left to sleep and it was just the two of us sitting around the campfire, Gabbro told me about their first trip to Giant’s Deep.</key>
-		<value>有一次, 村子里的其他人都睡著了, 只有Gabbro和我坐在營火邊. \\nGabbro跟我說了他第一次前往深巨星的故事. </value>
+		<value>Jednou, potom, co šel zbytek vesnice spát a jen já a Gabbro jsme zůstali vzhůru, mi Gabbro řekl o jeho prvním výletě na Obří hlubinu. </value>
 	</entry>
 	<entry>
 		<key>Spinel3They landed their ship easily enough in the waves, but couldn’t see too far down, on account of how murky the water was, I guess. Too dark.</key>
-		<value>他把宇宙飛船輕松地降落在水里, 但是卻無法看清水下的情況. \\n我猜是因為那里的水很渾濁. 下面太黑了. </value>
+		<value>Přistál jemně v oceánu, ale nemohl vidět moc dolů, protože voda byla příliš kalná. Příliš temná.</value>
 	</entry>
 	<entry>
 		<key>Spinel3Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</key>
-		<value>Gabbro想要看看水底下都有些什麽, 於是他決定繼續深入. \\n他一直往下, 一直往下...</value>
+		<value>Gabbro chtěl vědět, co leží pod povrchem, takže se rozhodl se ponořit hlouběji. A hlouběji, a hlouběji...</value>
 	</entry>
 	<entry>
 		<key>Spinel3But suddenly, Gabbro couldn’t go any further.</key>
-		<value>突然, Gabbro再也沒法向下潛了. </value>
+		<value>Ale najednou Gabbro zjistil, že nemohl o nic hlouběji. </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel3Tell me more.</key>
-		<value>接著往下說啊. </value>
+		<value>Co se stalo dál? </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel3Yeah, Giant’s Deep has a current you can’t pass through.</key>
-		<value>是啊, 深巨星有一道無法逾越的水流. </value>
+		<value>Jo, Obří hlubina má proud, kterým nelze prostoupit.</value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel3I underestimated how boring this would be. Goodbye.</key>
-		<value>我沒料到這個故事居然這麽無聊. 再見. </value>
+		<value>Podcenil jsem, jak nudné tohle bude. Na viděnou.</value>
 	</entry>
 	<entry>
 		<key>Spinel6...You always were my least favorite astronaut.</key>
-		<value>...我最不喜歡的宇航員就是你了. </value>
+		<value>...Vždycky jsi byl můj nejméně oblíbený astronaut.</value>
 	</entry>
 	<entry>
 		<key>Spinel4I will, I was just pausing dramatically.</key>
-		<value>我會的, 我就是想賣個關子. </value>
+		<value>Řeknu ti to, jen jsem dělal dramatickou pauzu.</value>
 	</entry>
 	<entry>
 		<key>Spinel5Sure, okay, but shut up a minute. This is the good part.</key>
-		<value>當然, 好的, 不過先別說話. 接下來的內容才精彩呢. </value>
+		<value>Jasně, oukej, ale na chvíli sklapni. Tohle je ta dobrá část.</value>
 	</entry>
 	<entry>
 		<key>Spinel7As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</key>
-		<value>水仿佛有自己的想法, 不肯讓Gabbro繼續深入. Gabbro被擋了回來...\\n就好像它在保護著什麽東西. </value>
+		<value>Jako by měla vlastní vůli, ta voda odmítala pustit Gabbra hlouběji. Zabránila Gabbrovi jít dál. ...Téměř jakoby ho před něčím chránila.</value>
 	</entry>
 	<entry>
 		<key>Spinel7And then, in the terrible darkness, Gabbro saw it...!</key>
-		<value>然後, 在一片可怕的漆黑中, Gabbro看到了...! </value>
+		<value>A potom najednou, v hrozné tmě, Gabbro uviděl...! </value>
 	</entry>
 	<entry>
 		<key>Spinel7The tentacle of some hideous beast!</key>
-		<value>某種恐怖巨獸的觸手! </value>
+		<value>Chapadlo odporné bestie! </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel7AHHH!</key>
-		<value>啊啊! </value>
+		<value>AHHH! </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel7Is that all true?</key>
-		<value>故事都是真的嗎? </value>
+		<value>Je to všechno pravda? </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel7...Was there sap wine involved during Gabbro’s campfire story?</key>
-		<value>...Gabbro在營火邊說故事的時候, 有沒有喝樹液酒? </value>
+		<value>...pil Gabbro během své historky u táboráku mízové víno? </value>
 	</entry>
 	<entry>
 		<key>Spinel8I mean, that’s what Gabbro said, anyway. Whatever it was, it freaked Gabbro out pretty good.</key>
-		<value>我的意思是, 反正那都是Gabbro說的. 總而言之, Gabbro被嚇得不輕. </value>
+		<value>To je to, co mi Gabbro řekl. Ať už to bylo, co chce, dost to Gabbra vyděsilo.</value>
 	</entry>
 	<entry>
 		<key>Spinel8Everyone wants to hear new stories at the village campfire, you know. Make sure you bring some back with you!</key>
-		<value>你也知道, 大家都想在村子的營火邊聽到新鮮故事. 等你回來的時候, \\n你也要有故事說給我們聽才行啊! </value>
+		<value>Každý chce nové historky u táboráku, víš? Nějaké nám přines!</value>
 	</entry>
 	<entry>
 		<key>Spinel9Heard it from Gabbro themself! Gabbro can be a little fanciful, sure, but they aren’t a liar. I mean, probably, anyway.</key>
-		<value>我是聽Gabbro本人說的! 當然, Gabbro這個人有點不切實際, \\n可他絕對不會撒謊. 我是說, 多半不會. </value>
+		<value>Slyšel jsem to od Gabbra samotného! Gabbro si občas věci přimyslí, jasně, ale není lhář. Pravděpodobně.</value>
 	</entry>
 	<entry>
 		<key>Spinel9I guess if you want to know if the story’s entirely true, you can go see Giant’s Deep for yourself!</key>
-		<value>我猜你要是想知道故事是不是都是真的, 可以自己去深巨星瞧瞧! </value>
+		<value>Jestli chceš vědět, zda je ten příběh zcela pravdivý, můžeš jít na Obří hlubinu a sám to zjistit!</value>
 	</entry>
 	<entry>
 		<key>Spinel10Come to think of it, don’t you have somewhere you should be exploring that isn’t here?</key>
-		<value>說起來, 你不是要去別的地方探險嗎? </value>
+		<value>Když o tom tak uvažuju, neměl bys prozkoumávat nějaké jiné místo, než tady? </value>
 	</entry>
 	<entry>
 		<key>Spinel11Fishing song, fishing song... Geez, I think my bait is wrong.</key>
-		<value>釣魚謠, 釣魚謠...哎喲我覺得魚餌它們不肯咬. </value>
+		<value>Rybí píseň, rybí píseň... Mezi prsty roste plíseň.</value>
 	</entry>
 	<entry>
 		<key>Spinel11What are you up to?</key>
-		<value>你有事嗎? </value>
+		<value>Co tu děláš?</value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel11I’m looking for Hornfels.</key>
-		<value>我在找Hornfels. </value>
+		<value>Hledám Hornfelse. </value>
 	</entry>
 	<entry>
 		<key>SpinelSpinel11Nothing.</key>
-		<value>沒事. </value>
+		<value>Nic. </value>
 	</entry>
 	<entry>
 		<key>Spinel12Oh, them? I’d bet today’s haul they’re in the observatory.</key>
-		<value>哦, 他啊? 我敢拿今天釣的魚打賭, 他就在天文台那兒. </value>
+		<value>Vsadil bych dnešní výlov na to, že je v observatoři. </value>
 	</entry>
 	<entry>
 		<key>Spinel12Not that I’ve caught anything yet, but if I had, I’d definitely bet it. Hornfels is pretty much &lt;i&gt;always&lt;/i&gt; in the observatory.</key>
-		<value>雖然我一條都沒有釣到, 不過如果釣到了, 我一定會拿來打這個賭. \\nHornfels基本上&lt;i&gt;總是&lt;/i&gt;會待在天文台里. </value>
+		<value>Ne že bych zatím něco chytil, ale kdyby ano, tak bych to rozhodně vsadil. nHornfels je v observatoři prakticky &lt;i&gt;vždycky&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>Spinel13That’s nice. I’m planning to do a lot of that later.</key>
-		<value>那就好. 回頭我也打算沒事閑上一陣子. </value>
+		<value>To je fajn. Taky doufám, že za chvíli nebudu dělat nic.</value>
 	</entry>
 	<entry>
 		<key>Spinel14You can go away now, assuming you’re done scaring off all the fish.</key>
-		<value>既然你把魚都給嚇跑了, 那你也可以走了. </value>
+		<value>Můžeš jít, pokud tě tedy přestalo bavit plašit všechny ryby.</value>
 	</entry>
 	<entry>
 		<key>Spinel15Listen, go to space or stay here, but pick one or the other! You’re scaring off all the fish.</key>
-		<value>聽著, 要麽上太空, 要麽待在這里, 你總得選一樣! 你把魚都嚇跑啦. </value>
+		<value>Poslouchej, leť do vesmíru nebo tady zůstaň, ale vyber si jedno nebo druhé! Plašíš mi všechny ryby. </value>
 	</entry>
 	<entry>
 		<key>Spinel15Fishing tune, fishing tune... uh... yeah, I didn’t think this one through at all.</key>
-		<value>釣魚調, 釣魚調...額...好吧, 這一段我還沒想好. </value>
+		<value>Rybí ráj, rybí ráj... uh... jo, to jsem asi nedomyslel.</value>
 	</entry>
 	<entry>
 		<key>Tektite</key>
-		<value>Tektite</value>
+		<value>Tektit</value>
 	</entry>
 	<entry>
 		<key>Intro1Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?</key>
-		<value>你好呀, 年輕人! 我還以為你今天要坐著那個鐵罐子上太空呢. \\n你怎麽還在這兒? </value>
+		<value>Čauky, mládě! Myslel jsem, že dneska bereš tu svou plechovku do vesmíru - co tady ještě děláš? </value>
 	</entry>
 	<entry>
 		<key>Intro1Me? I was using the old scout launcher and saw smoke in one of the photos, so I thought I’d come over here myself and take a look.</key>
-		<value>我嗎? 我看見有東西墜落在地平線上, 這跟我在小偵查兵發回來的畫面\\n看到的不一樣, 所以我覺得應該親自過來看一看. </value>
+		<value>Já? Používal jsem naši starou sondu a viděl jsem v jedné z fotek dým, tak jsem se chtěl podívat, co se tady děje. </value>
 	</entry>
 	<entry>
 		<key>TektiteIntro1So what crashed?</key>
-		<value>是什麽東西掉下來了? </value>
+		<value>Takže co tu ztroskotalo? </value>
 	</entry>
 	<entry>
 		<key>TektiteIntro1Is that a Dark Bramble seed?</key>
-		<value>是黑棘星的種子嗎? </value>
+		<value>To je semínko z Temnotrnu? </value>
 	</entry>
 	<entry>
 		<key>Intro2You again, eh, hatchling? Thought I heard you lift off earlier. What’re you still doing on Timber Hearth?</key>
-		<value>怎麽又是你, 年輕人? 我還以為你早就出發了呢. 你怎麽還在木爐星上? </value>
+		<value>Zase ty, mládě, co? Myslel jsem, že jsem tě slyšel vzlétnout. Co ještě děláš na Domopeci?</value>
 	</entry>
 	<entry>
 		<key>Intro2Me? I’m out here to see what it was I saw crash over this way. That, and make sure nothing’s on fire.</key>
-		<value>我嗎? 我看到這邊掉下來一個東西, 我想來瞧瞧到底是什麽. \\n而且還要確保不會有東西燒起來. </value>
+		<value>Já? Já jsem se jen přišel podívat, co tu havarovalo. A taky se ujistit, že nic nehoří.</value>
 	</entry>
 	<entry>
 		<key>TektiteIntro2So what crashed?</key>
-		<value>是什麽東西掉下來了? </value>
+		<value>Takže co tu havarovalo? </value>
 	</entry>
 	<entry>
 		<key>TektiteIntro2Is that a Dark Bramble seed?</key>
-		<value>是黑棘星的種子嗎? </value>
+		<value>To je semínko z Temnotrnu? </value>
 	</entry>
 	<entry>
 		<key>Intro3You again, eh, hatchling? Thought I heard you lift off earlier. What’re you still doing on Timber Hearth?</key>
-		<value>怎麽又是你, 年輕人? 我還以為你早就出發了呢. 你怎麽還在木爐星上? </value>
+		<value>Zase ty, mládě, co? Myslel jsem, že jsem tě slyšel vzlétnout. Co ještě děláš na Domopeci? </value>
 	</entry>
 	<entry>
 		<key>Intro3Me? That Scout photo you took earlier showed smoke, so I came over to check for fires, remember?</key>
-		<value>我嗎? 你之前拍的偵查照片里有煙霧, 所以我來看看有沒有火情, \\n忘記啦? </value>
+		<value>Já? Ta fotka ze sondy, kterou jsi předtím vystavil, ukazovala kouř, takže jsem se sem přišel ujistit, že nic nehoří, vzpomínáš? </value>
 	</entry>
 	<entry>
 		<key>TektiteIntro3So what crashed?</key>
-		<value>是什麽東西掉下來了? </value>
+		<value>Takže co tu havarovalo? </value>
 	</entry>
 	<entry>
 		<key>TektiteIntro3Is that a Dark Bramble seed?</key>
-		<value>是黑棘星的種子嗎? </value>
+		<value>To je semínko z Temnotrnu? </value>
 	</entry>
 	<entry>
 		<key>Tektite1I dunno what it is, exactly. Looks like some kind of plant seed, but it’s not anything I’ve seen on Timber Hearth before - and trust me, I was quite the explorer back in the day.</key>
-		<value>我不知道它到底是什麽. 看上去像是某種植物的種子, 不過我在木爐星上\\n從來沒有見過這種東西. 相信我, 當年的我好歹也算是個探險家. </value>
+		<value>Nevím, co přesně to je. Vypadá to jako nějaké rostlinné semínko, ale nikdy jsem nic podobného na Domopeci neviděl - a věř mi, býval jsem dost velký průzkumník.</value>
 	</entry>
 	<entry>
 		<key>Tektite1D’you think it’s extraterrestrial? It kinda looks like something that might’ve come off of Dark Bramble. Whatever it is, it put down roots in a hurry.</key>
-		<value>你覺得它是從外太空來的嗎? 看上去它有點像是黑棘星上的. \\n不管是什麽, 它馬上就在這里生了根. </value>
+		<value>Myslíš, že je mimopecské? Vypadá trošku jako něco z Temnotrnu. Ať už to je, co chce, dost rychle to zapustilo kořeny.</value>
 	</entry>
 	<entry>
 		<key>Tektite2You think so? It’s nothing I’ve ever seen on Timber Hearth before, so you’re probably onto something there.</key>
-		<value>你是這麽認為的嗎? 我在木爐星上從來沒有見過這種東西. \\n所以你說得可能有道理. </value>
+		<value>Myslíš, jo? Nevypadá to jako nic, co jsem kdy předtím viděl na Domopeci, takže máš pravděpodobně pravdu.</value>
 	</entry>
 	<entry>
 		<key>Tektite2Whatever it is, it put down roots in a hurry.</key>
-		<value>不管是什麽, 它馬上就在這里生了根. </value>
+		<value>Ať už to je, co chce, dost rychle to zapustilo kořeny.</value>
 	</entry>
 	<entry>
 		<key>Tektite3I don’t like the look of this thing, hatchling, and that’s a fact. Think I’ll set Marl and Hal loose on it. Best get rid of this mess sooner rather than later, and no one can remove an unwanted plant faster than a tree keeper can.</key>
-		<value>我不喜歡它的樣子, 年輕人, 這我可以肯定. 我想我得讓Marl和Hal\\n來處理它. 最好趕緊把這個爛攤子收拾掉. 要想除掉討厭的植物, \\n沒人比大樹管理員幹得更拿手了. </value>
+		<value>Tahle věc se mi nelíbí, mládě, a to je fakt. Myslím, že na ni vypustím Marla a Hala. Bude nejlepší se jí zbavit dříve spíše než později, a nikdo nedokáže plevel odstranit rychleji než lesař.</value>
 	</entry>
 	<entry>
 		<key>Tektite3I’ll have to get a look at what’s inside the seed, first, though. Don’t want to set anybody to hacking up a potentially dangerous plant without a better idea of what’s lurking inside there.</key>
-		<value>不過, 首先我得瞧瞧種子里到底有什麽. 我可不希望還沒搞清楚里面可能\\n藏著什麽東西, 就找人把一株可能十分危險的植物給打開. </value>
+		<value>Podívám se ale nejdřív, co je uvnitř toho semínka. Nechci, aby někdo rozseknul potenciálně nebezpečnou rostlinu, aniž bych věděl, co číhá uvnitř.</value>
 	</entry>
 	<entry>
 		<key>Tektite3Tuff can help me haul the old &lt;color=orange&gt;scout launcher&lt;/color&gt; over here. Obviously the opening is too small for someone to fit inside, and anyway, I’m not gonna blindly stick my hands into anything that looks as unpleasant as that seed does.</key>
-		<value>Tuff可以幫我把那邊的老式&lt;color=orange&gt;偵查發射器&lt;/color&gt;給拖過來. 很顯然, \\n開口太小, 誰都進不去. 反正我可不會盲目地把手伸進這麽一顆樣子\\n怪嚇人的種子里去. </value>
+		<value>Tuff mi pomůže sem vzít starý &lt;color=orange&gt;sondomet&lt;/color&gt;. Evidentně se neproplazím tímhle otvorem, a neplánuji strat ruce do něčeho, co vypadá tak nehostinně, jako tohle semínko.</value>
 	</entry>
 	<entry>
 		<key>Tektite3That’s a good way to lose an arm or two.</key>
-		<value>那樣可是會失去手臂的. </value>
+		<value>To zní jako dobrý způsob, jak ztratit paži nebo dvě.</value>
 	</entry>
 	<entry>
 		<key>Tektite4Blasted seed did a lot of damage when it crashed. I liked this crater.</key>
-		<value>那該死的種子墜落的時候威力可不小. 我喜歡這座環形山. </value>
+		<value>Zatracené semínko udělalo při dopadu hodně škody. Měl jsem tenhle kráter rád.</value>
 	</entry>
 	<entry>
 		<key>Tektite4Need something from me, hatchling?</key>
-		<value>有什麽需要我幫忙的嗎, 年輕人? </value>
+		<value>Potřebuješ ode mě něco, mládě? </value>
 	</entry>
 	<entry>
 		<key>TektiteTektite4I threw a Little Scout into the seed.</key>
-		<value>我派了一個小偵查兵去看看種子里面的情況. </value>
+		<value>Vypustil jsem do toho semínka sondu. </value>
 	</entry>
 	<entry>
 		<key>TektiteTektite4My signalscope is picking up a harmonica inside the seed.</key>
-		<value>我的信號鏡聽到種子里面傳來了口琴的聲音. </value>
+		<value>Můj signáloskop detekuje uvnitř semínka harmoniku. </value>
 	</entry>
 	<entry>
 		<key>TektiteTektite4You’re sure this seed isn’t from Timber Hearth?</key>
-		<value>你確定這顆種子不是從木爐星來的嗎? </value>
+		<value>Jsi si jistý, že tohle semínko není z Domopece? </value>
 	</entry>
 	<entry>
 		<key>TektiteTektite4Nope, I’m good.</key>
-		<value>不用了, 沒事. </value>
+		<value>Ne, díky. </value>
 	</entry>
 	<entry>
 		<key>Tektite5You did, did you? And you’re telling me it’s bigger on the inside than on the outside?</key>
-		<value>真的嗎? 難道你是在說, 里面的空間比外面看起來得要大? </value>
+		<value>Jo? A teď mi říkáš, že je vevnitř větší než venku?</value>
 	</entry>
 	<entry>
 		<key>Tektite5Hmph. This is going to be a chore to chop up, and no mistake. Can we even remove a seed that doesn’t have the decency to stay the same size all the way through?</key>
-		<value>嗯. 毫無疑問, 這下事情麻煩了. \\n咱們就不能好好地處理一顆大小不會變化的種子嗎? </value>
+		<value>Hm. Tohle bude fuška rozštípat. Můžeme vůbec odstranit semínko, které nemá každodenní slušnost si udržet skrz naskrz stejnou velikost? </value>
 	</entry>
 	<entry>
 		<key>Tektite5Maybe I’d better grab an extra axe or three, just in case.</key>
-		<value>也許我該再找幾把斧子來, 以防萬一. </value>
+		<value>Radši vezmu extra sekyru nebo tři, pro jistotu. </value>
 	</entry>
 	<entry>
 		<key>Tektite6Inside the seed? Huh. Dunno what to tell you there - the only harmonica player I know is Feldspar, and they disappeared ages ago.</key>
-		<value>種子里面嗎? 嗯. 我不知道該怎麽說. 我只認識一個會吹口琴的人, \\n那就是Feldspar. 他多年前就失蹤了. </value>
+		<value>Uvnitř semínka. Hm. Nevím, co ti na to říci - jediný hráč na harmoniku, kterého znám, je Feldspar, a ten zmizel před mnoha lety.</value>
 	</entry>
 	<entry>
 		<key>Tektite6Listen here, don’t go telling Gneiss about the harmonica music, okay? They’ll never let me get rid of this darn seed if they suspect it has any musical talent.</key>
-		<value>聽著, 別把口琴聲音的事情告訴奈斯, 好嗎? 如果他懷疑這顆該死的種子\\n擁有音樂天賦, 他一定不準我把它給解決掉. </value>
+		<value>Poslouchej, neříkej o té hudbě Gneissovi, jo? Nikdy mě nenechá to semínko rozštípat, pokud bude mít pocit, že má hudební talent.</value>
 	</entry>
 	<entry>
 		<key>Tektite7Back in my younger days, I explored everywhere there is to go on Timber Hearth and saw everything there is to see, and then some. Trust me, we don’t have anything like this.</key>
-		<value>我年輕的時候, 去過木爐星所有的地方, 見識過所有的事情. 相信我, \\n碰上這種東西可是頭一回. </value>
+		<value>Když jsem byl mladší, prozkoumal jsem všechno, co se na Domopeci prozkoumat dá, a spatřil jsem všechno, a víc. Věř mi, nemáme tu nic, co by se tomuhle podobalo.</value>
 	</entry>
 	<entry>
 		<key>Tektite7Nah, I reckon this thing’s from Dark Bramble if it’s from anywhere, hatchling.</key>
-		<value>不, 年輕人. 我估計它肯定就是從黑棘星來的. </value>
+		<value>Ne, pokud to je odkudkoliv, mládě, tak z Temnotrnu.</value>
 	</entry>
 	<entry>
 		<key>Tektite8Alright then, see you around.</key>
-		<value>那好吧, 回頭見. </value>
+		<value>Dobře tedy - na viděnou.</value>
 	</entry>
 	<entry>
 		<key>Tephra</key>
@@ -7268,139 +7268,139 @@
 	</entry>
 	<entry>
 		<key>HideAndSeek1Hullo, astronaut!</key>
-		<value>你好, 宇航員! </value>
+		<value>Čauky, astronaute! </value>
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek1If it isn’t my favorite troublemaker.</key>
-		<value>這不是我最喜歡的搗蛋鬼嗎. </value>
+		<value>To musí být můj oblíbený výtržník. </value>
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek1What’s with the radio?</key>
-		<value>這些無線電是怎麽回事? </value>
+		<value>Co tu děláte s rádiem? </value>
 	</entry>
 	<entry>
 		<key>HideAndSeek2We &lt;i&gt;wanted&lt;/i&gt; to play hide and seek, but Moraine won’t let us borrow their signalscope because it’s “really delicate” and “not supposed to be thrown around like that.”</key>
-		<value>我們&lt;i&gt;想&lt;/i&gt;玩捉迷藏, 但是莫瑞恩不肯把他的信號鏡借給我們, \\n因為它“非常嬌貴”, “不能像那樣被扔來扔去”. </value>
+		<value>&lt;i&gt;Chtěli&lt;/i&gt; jsme si hrát na schovávanou, ale Moraine nám nepůjči svůj signáloskop, protože je "choulostivý" a "nemá se s ním jen tak pohazovat". </value>
 	</entry>
 	<entry>
 		<key>HideAndSeek2Hey, hey, can we use &lt;i&gt;your&lt;/i&gt; signalscope? Can we? Can we, please? We’ll even let you be “it”!</key>
-		<value>嘿, 嘿, 我們可以用&lt;i&gt;你的&lt;/i&gt;信號鏡嗎? 可以嗎? 求求你? \\n我們還可以讓你來當“鬼”! </value>
+		<value>Hej, hej, mohli bychom použít &lt;i&gt;tvůj&lt;/i&gt; signáloskop? Můžeme? Můžeme, prosím? Necháme tě pikat!</value>
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek2Sure, let’s play!</key>
-		<value>當然, 我們來玩捉迷藏吧! </value>
+		<value>Jasně, pojďme hrát! </value>
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek2Sorry, can’t today.</key>
-		<value>對不起, 今天不行. </value>
+		<value>Promiň, dneska nemůžu. </value>
 	</entry>
 	<entry>
 		<key>AgreeToPlayWoohoo! Okay, here are the rules. Galena and me will hide with these radios, and you’ll use your signalscope to find us.</key>
-		<value>哇哈! 好吧, 規則是這樣的. Galena和我會和這些無線電一起藏起來, \\n你們要用信號鏡來找我們. </value>
+		<value>Woohoo! Oukej, tady jsou pravidla. Galena a já se schováme s těmito rádiy, a ty použiješ svůj signáloskop, abys nás našel.</value>
 	</entry>
 	<entry>
 		<key>AgreeToPlayLast one to be found wins! Okay, close your eyes and start counting!</key>
-		<value>最後一個被找到的人就算贏了! 好啦, 閉上你們的眼睛, 開始數數! </value>
+		<value>Poslední, koho najdeš, vítězí! Oukej, zavři oči a začni počítat!</value>
 	</entry>
 	<entry>
 		<key>RefuseToPlayAwww, really? But we can’t play without a signalscope... Play with us later, okay?</key>
-		<value>啊哦, 真的嗎? 可是沒有信號鏡, 我們就玩不了遊戲了...\\n以後來跟我們玩吧, 好嗎? </value>
+		<value>Tyjo, vážně? Ale bez signáloskopu si nemůžeme hrát... Přijď si s námi hrát později, jo?</value>
 	</entry>
 	<entry>
 		<key>FoundYouAwww, you found me? But my hiding spot was super good!</key>
-		<value>啊哦, 你找到我了? 可是我挑的地方可隱蔽了! </value>
+		<value>Né, tys mě našel? Ale já měl tak dobrý schovávací místo! </value>
 	</entry>
 	<entry>
 		<key>FoundYouDon’t forget, you have to find both of us, okay?</key>
-		<value>別忘了, 你得把我們倆都找到, 明白嗎? </value>
+		<value>Nezapomeň, že nás musíš najít oba, oukej? </value>
 	</entry>
 	<entry>
 		<key>LastKidFoundYou got me, but I’m the last one. I win!</key>
-		<value>你找到我了, 但我是最後一個被找到的. 所以我贏了! </value>
+		<value>Chytnul jsi mě, ale já jsem poslední! Vyhrál jsem!</value>
 	</entry>
 	<entry>
 		<key>LastKidFoundPromise you’ll play again when you get back from space, okay? You gotta!</key>
-		<value>等你從太空回來的時候, 再跟我們玩吧, 好嗎? 你得保證! </value>
+		<value>Slib nám, že si budeme zase hrát, až se vrátíš z vesmíru, jo? Musíš!</value>
 	</entry>
 	<entry>
 		<key>AlreadyFoundYouI wanted to hide in the observatory, but Hornfels said I was “making a nuisance of myself.”</key>
-		<value>我本來想藏在天文台里, 可是Hornfels說我這是在“調皮搗蛋”. </value>
+		<value>Chtěl jsem se schovat v observatoři, ale Hornfels řekl, že jsem "otravný".</value>
 	</entry>
 	<entry>
 		<key>PlayedTheGameHullo, astronaut!</key>
-		<value>你好, 宇航員! </value>
+		<value>Čauky, astronaute! </value>
 	</entry>
 	<entry>
 		<key>PlayedTheGameWe’re all going to watch your launch later. I hope space is nice!</key>
-		<value>我們回頭都會去看你發射升空. 希望你在太空里一切順利! </value>
+		<value>Všichni půjdeme sledovat tvůj odlet! Doufám, že je k tobě vesmír milý!</value>
 	</entry>
 	<entry>
 		<key>ShyKidB1Hullo, astronaut! Are you going into space today?</key>
-		<value>你好, 宇航員! 你今天要上太空嗎? </value>
+		<value>Čauky, astronaute! Poletíš dnes do vesmíru? </value>
 	</entry>
 	<entry>
 		<key>ShyKidB1Are you going into space and never coming back like Feldspar did?</key>
-		<value>你會前往太空, 然後像Feldspar那樣, 再也不回來了嗎? </value>
+		<value>Ztratíš se ve vesmíru a nikdy se nevrátíš, jako Feldspar? </value>
 	</entry>
 	<entry>
 		<key>TephraShyKidB1...What?</key>
-		<value>...什麽? </value>
+		<value>...cože? </value>
 	</entry>
 	<entry>
 		<key>TephraShyKidB1Don’t worry, I’ll come back.</key>
-		<value>別擔心, 我會回來的. </value>
+		<value>Neboj, vrátím se. </value>
 	</entry>
 	<entry>
 		<key>TephraShyKidB1That’s pretty disturbing.</key>
-		<value>這話可真嚇人. </value>
+		<value>To je dost zneklidňující. </value>
 	</entry>
 	<entry>
 		<key>WhatYeah, um, Hornfels says Feldspar went away into space and didn’t come back. Hornfels says Feldspar was the best pilot ever, but no one knows what happened to them.</key>
-		<value>是啊, 嗯, Hornfels說Feldspar去了太空, 然後就沒有回來. \\nHornfels說Feldspar是最厲害的飛行員, 沒人知道他出了什麽事. </value>
+		<value>Jo, no, Hornfels říká, že Feldspar odešel do vesmíru a nevrátil se. Hornfels říká, že Feldspar byl nejlepší pilot, ale nikdo neví, co se mu stalo. </value>
 	</entry>
 	<entry>
 		<key>TephraWhatHornfels probably shouldn’t be telling you stuff like this.</key>
-		<value>也許Hornfels不該跟你說這些. </value>
+		<value>Hornfels by ti pravděpodobně neměl říkat takovéhle věci. </value>
 	</entry>
 	<entry>
 		<key>TephraWhatThat’s not something I want to think about right now.</key>
-		<value>這可不是我現在想要去考慮的事情. </value>
+		<value>O tom teď nechci přemýšlet. </value>
 	</entry>
 	<entry>
 		<key>HornfelsHornfels says that, too.</key>
-		<value>Hornfels也這麽說過. </value>
+		<value>To Hornfels říká taky. </value>
 	</entry>
 	<entry>
 		<key>NotThinkAboutThatBut if Feldspar disappeared, you might disappear, too, right?</key>
-		<value>不過要是Feldspar失蹤了, 說不定你也會失蹤的, 對嗎? </value>
+		<value>Ale pokud Feldspar zmizel, tak můžeš zmizet i ty, že? </value>
 	</entry>
 	<entry>
 		<key>NotThinkAboutThatYou’re not as good as Feldspar, so you should be really careful not to get lost.</key>
-		<value>你又不像Feldspar那麽厲害, 所以你應該非常小心, 不要迷路才對. </value>
+		<value>Nejsi tak dobrý jako Feldspar, takže bys měl být opravdu opatrný, aby ses neztratil. </value>
 	</entry>
 	<entry>
 		<key>ComebackThat’s what Feldspar said, too, but they never did.</key>
-		<value>Feldspar也這麽說過, 可是他一直沒有回來. </value>
+		<value>To říkal Feldspar taky, ale pak se nikdy nevrátil. </value>
 	</entry>
 	<entry>
 		<key>ComebackHornfels will be really sad if you don’t come back, like how sad it makes them to talk about Feldspar. So you should make sure you don’t get lost in space, too.</key>
-		<value>要是你不回來的話, Hornfels會很難過的. 就像他談起Feldspar一樣\\n難過. 所以你也要千萬注意, 別在太空里迷路了. </value>
+		<value>Hornfels bude velmi smutný, pokud se nevrátíš, stejně jako je smutný, kdykoliv mluví o Feldsparovi. Takže by ses měl soustředit na to, aby ses taky neztratil ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>DisturbingBut Hornfels says no one knows what happened to Feldspar. Hornfels says they got lost in space even though they were the best pilot ever.</key>
-		<value>但是Hornfels說沒人知道Feldspar出了什麽事. Hornfels說他是最厲害\\n的飛行員, 可即便這樣, 他還是在太空里走丟了. </value>
+		<value>Ale Hornfels říká, že nikdo neví, co se stalo Feldsparovi. Hornfels říká, že se ztratil ve vesmíru, přestože byl zdaleka nejlepší pilot.</value>
 	</entry>
 	<entry>
 		<key>DisturbingYou’re not as good as Feldspar, so you should be really careful not to get lost.</key>
-		<value>你又不像Feldspar那麽厲害, 所以你應該非常小心, 不要迷路才對. </value>
+		<value>Nejsi tak dobrý jako Feldspar, takže bys měl být opravdu opatrný, aby ses neztratil. </value>
 	</entry>
 	<entry>
 		<key>MallowTalkHullo, astronaut!</key>
-		<value>你好, 宇航員! </value>
+		<value>Čágo, astronaute! </value>
 	</entry>
 	<entry>
 		<key>MallowTalkAre you bringing lots of mallows with you to roast on your trip? Mallows are my favorite!</key>
-		<value>你會帶許多棉花糖在路上烤著吃嗎? 我最喜歡吃棉花糖了! </value>
+		<value>Plánuješ si s sebou vzít hodně marshmallow, aby sis je mohl na výletě opékat? Marshmallows jsou moje oblíbené jídlo! </value>
 	</entry>
 	<entry>
 		<key>Tuff</key>
@@ -7408,167 +7408,167 @@
 	</entry>
 	<entry>
 		<key>ScaredMiner1Hey, hey. Nice of you to drop down.</key>
-		<value>嘿, 嘿. 你能過來可真是好. </value>
+		<value>Hejhej. Je od tebe hezký, že ses stavil.</value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1I’m getting some zero-g time in.</key>
-		<value>我想花點時間進行一下無重力訓練. </value>
+		<value>Jen si zkouším nulku. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Give me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Řekni mi, co se děje. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner1Guess where I’m going today.</key>
-		<value>猜猜我今天要去哪兒. </value>
+		<value>Hádej, kam dneska letím. </value>
 	</entry>
 	<entry>
 		<key>ScaredMiner2Hey, you’re back. You need something?</key>
-		<value>嘿, 你回來了. 有事嗎? </value>
+		<value>Čau, vítej zpět. Potřebuješ něco? </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Just getting in some zero-g time.</key>
-		<value>我只是想花點時間進行一下無重力訓練. </value>
+		<value>Jen si zkouším nulku. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Give me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Řekni mi, co se děje. </value>
 	</entry>
 	<entry>
 		<key>TuffScaredMiner2Guess where I’m going today.</key>
-		<value>猜猜我今天要去哪兒. </value>
+		<value>Hádej, kam dneska letím. </value>
 	</entry>
 	<entry>
 		<key>ZeroSo you’re going in &lt;i&gt;there&lt;/i&gt;? In the cave? Hnnngh...</key>
-		<value>這麽說你要&lt;i&gt;進去&lt;/i&gt;? 到洞里去? 嗯...</value>
+		<value>Takže ty jdeš &lt;i&gt;tam&lt;/i&gt;? Do jeskyně? Hnnngh...</value>
 	</entry>
 	<entry>
 		<key>ZeroWhat? No, I’m fine. Great. Great and fine.</key>
-		<value>什麽? 不, 我很好. 非常好. 好得很. </value>
+		<value>Cože? Ne, jsem v pořádku. Je mi skvěle. Jsem v pořádku a je mi skvěle.</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYou don’t &lt;i&gt;look&lt;/i&gt; fine...</key>
-		<value>你&lt;i&gt;看上去&lt;/i&gt;不太好...</value>
+		<value>&lt;i&gt;Nevypadáš&lt;/i&gt; v pořádku ani skvěle...</value>
 	</entry>
 	<entry>
 		<key>TuffZeroYeah, I’m going to drift around down there for a while.</key>
-		<value>沒錯, 我要在里面飄上一陣子. </value>
+		<value>Jo, jen si tu chvilku zavznáším. </value>
 	</entry>
 	<entry>
 		<key>FineWell you know I hate that cave so I don’t know why you’re making me talk about it.</key>
-		<value>你很清楚我討厭那個山洞, 我不知道你幹嘛非讓我談起它不可. </value>
+		<value>No, ty víš, že tu jeskyni nenávidím, takže nevím, proč o ní chceš se mnou mluvit. </value>
 	</entry>
 	<entry>
 		<key>FineFweh... Now I’ve got hand sweats.</key>
-		<value>呼...我手心都出汗了. </value>
+		<value>Ugh... Teď se mi potí ruce. </value>
 	</entry>
 	<entry>
 		<key>Sick1Eurgh...</key>
-		<value>呃啊...</value>
+		<value>Eurgh...</value>
 	</entry>
 	<entry>
 		<key>TuffSick1Just going to float upside down and whatnot.</key>
-		<value>我就這麽頭重腳輕地飄著. </value>
+		<value>Já si tu jen chvíli budu vznášet vzhůru nohama. </value>
 	</entry>
 	<entry>
 		<key>TuffSick1...Sorry. I’ll stop.</key>
-		<value>...抱歉. 我不說了. </value>
+		<value>...Promiň. Přestanu. </value>
 	</entry>
 	<entry>
 		<key>MotionlessI’m going to sit here and think about flat, motionless rocks for a while.</key>
-		<value>我要在這里坐上一陣子, 想想那些一動不動、平平整整的石頭. </value>
+		<value>Já se tady posadím a budu chvíli přemýšlet o nehybných kamenných planinách. </value>
 	</entry>
 	<entry>
 		<key>Sick2H-hurk...</key>
-		<value>呃, 嘔...</value>
+		<value>H-hurk...</value>
 	</entry>
 	<entry>
 		<key>TuffSick2Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</key>
-		<value>無非就是撞在墻壁上彈回來. 不停地轉圈子. 諸如此類的. </value>
+		<value>Jen se, však víš, odrážej od stěn. Hodně se toč. A tak podobně.</value>
 	</entry>
 	<entry>
 		<key>TuffSick2That was too far, wasn’t it.</key>
-		<value>我太過分了, 是嗎? </value>
+		<value>To asi bylo moc, co? </value>
 	</entry>
 	<entry>
 		<key>Worst1You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>Ty jsi...&lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; Ty jsi ten nejhorší. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst1Sorry.</key>
-		<value>抱歉. </value>
+		<value>Promiň. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst1I know.</key>
-		<value>我知道. </value>
+		<value>Já vím. </value>
 	</entry>
 	<entry>
 		<key>Worst2You’re... &lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; You’re the worst.</key>
-		<value>你...&lt;color=grey&gt;嘔...&lt;/color&gt;&lt;Pause/&gt;你太差勁了. </value>
+		<value>Ty jsi...&lt;color=grey&gt;Urp...&lt;/color&gt;&lt;Pause/&gt; Ty jsi ten nejhorší. </value>
 	</entry>
 	<entry>
 		<key>TuffWorst2I know.</key>
-		<value>我知道. </value>
+		<value>Já vím. </value>
 	</entry>
 	<entry>
 		<key>GuessOh, no. Nooooo, no no no.&lt;Pause/&gt; No way.</key>
-		<value>哦, 不. 不不不, 不, 不. &lt;Pause/&gt;沒門. </value>
+		<value>Ó, ne. Neeee, ne ne ne. &lt;Pause/&gt; V žádném případě. </value>
 	</entry>
 	<entry>
 		<key>GuessYou want to run off into space, that’s your business, but don’t make me, you know, &lt;i&gt;think&lt;/i&gt; about it.</key>
-		<value>你想要上太空, 那是你的事情. \\n不過你可千萬別讓我的&lt;i&gt;腦子&lt;/i&gt;里也浮現那樣的場面. </value>
+		<value>Jestli chceš utéct do vesmíru, to je na tobě, ale nenuť mě o tom - však víš - &lt;i&gt;přemýšlet&lt;/i&gt;. </value>
 	</entry>
 	<entry>
 		<key>GuessBad enough we got this weird cave down here...</key>
-		<value>有這個奇怪的山洞在這里就已經夠糟糕的了...</value>
+		<value>Dost na tom, že tu máme tuhle divnou jeskyni...</value>
 	</entry>
 	<entry>
 		<key>DirtSome fresh dirt? Not much happening down here lately. Let me think...</key>
-		<value>新鮮事? 最近可沒什麽新鮮事. 讓我想想...</value>
+		<value>Nic moc se tu neděje...</value>
 	</entry>
 	<entry>
 		<key>DirtCome to think of it, Tektite saw something crash outside of the village crater earlier. That’s new and different.</key>
-		<value>說起來, 前些時候Tektite看見村子里的環形山\\n外面有什麽東西摔了下來. 那倒是頭一回. </value>
+		<value>Když o tom tak uvažuju, Tektit viděl něco havarovat u vesnického kráteru. To je nové a jiné.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtOh, hey. How ’bout that.</key>
-		<value>哦, 嘿. 那個算不算. </value>
+		<value>Hm, to mi povídej.</value>
 	</entry>
 	<entry>
 		<key>TuffDirtIs anything on fire?</key>
-		<value>有什麽東西著火了嗎? </value>
+		<value>Hoří něco? </value>
 	</entry>
 	<entry>
 		<key>Probe1Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. “Safety first,” right?</key>
-		<value>沒錯, 他正帶著老式偵查發射器排除消防隱患, 結果看見有東西在冒煙. \\n於是他就去看了看. “安全第一”, 對吧? </value>
+		<value>Jo, zrovna byl na požární hlídce se starým sondometem a uviděl dým, takže se na něj šel podívat. "Nejdřív bezpečí," správně? </value>
 	</entry>
 	<entry>
 		<key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
-		<value>...不, 我在開玩笑呢. 我跟Tektite說過一回. 他笑了老半天, \\n要我說, 這就特別沒禮貌. </value>
+		<value>...ne, dělám si legraci. Jednou jsem tohle Tektitovi řekl. Bylo dost neuctivé, jak dlouho se smál.</value>
 	</entry>
 	<entry>
 		<key>Probe2Probably only a little. Tektite checked out the crash site with the old firewatch scout launcher and saw smoke, so they headed over to stamp out any leftover fires.</key>
-		<value>可能只有一點點. Tektite帶著老式的消防偵查發射器去查看了一下\\n墜落點, 發現那里在冒煙. 於是他跑過去把剩余的火苗給撲滅了. </value>
+		<value>Asi jen trošku. Tektit zkontroloval tu havárii starým sondometem a uviděl kouř, takže se tam vydal zadupat jakékoli další požáry.</value>
 	</entry>
 	<entry>
 		<key>Probe2Well, I better get back to work. This ore’s not going to mine itself, you know.</key>
-		<value>好了, 我該回去工作了. 礦石可不會自己開采出來. </value>
+		<value>No, já se musím vrátit do práce. Tahle ruda se sama nevykutá.</value>
 	</entry>
 	<entry>
 		<key>TooSickHurgh...</key>
-		<value>嘔哦...</value>
+		<value>Hurgh...</value>
 	</entry>
 	<entry>
 		<key>SpaceOh, I thought I heard you lift off. Change your mind?</key>
-		<value>哦, 我還以為你出發了呢. 改主意啦? </value>
+		<value>Oh, myslel jsem si, že jsem tě slyšel odletět. Změnil jsi názor?</value>
 	</entry>
 	<entry>
 		<key>TuffSpaceI needed a little more zero-g time.</key>
-		<value>我還需要再體驗一下無重力. </value>
+		<value>Potřeboval jsem trošku víc času v nulce. </value>
 	</entry>
 	<entry>
 		<key>TuffSpaceGive me the dirt.</key>
-		<value>說說都有什麽新聞. </value>
+		<value>Co se tu děje? </value>
 	</entry>
 	<entry>
 		<key>Arkose</key>
@@ -12739,7 +12739,7 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>POKRAČOVAT V EXPEDICI</value>
+			<value>NAVÁZAT NA EXPEDICI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
@@ -13303,7 +13303,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>Talk to</value>
+			<value>Mluv s</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
@@ -13711,11 +13711,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>Launch Codes: --|-..|-.</value>
+			<value>Spouštěcí kódy: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Eye Coordinates: </value>
+			<value>Souřadnice Oka: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
@@ -13947,11 +13947,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
-			<value>Interact</value>
+			<value>Interagovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>551</key>
-			<value>Skok</value>
+			<value>Skočit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
@@ -13959,7 +13959,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
-			<value>Mark Entry</value>
+			<value>Označit zápis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
@@ -13979,7 +13979,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
-			<value>Baterka</value>
+			<value>Světla</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
@@ -13995,7 +13995,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>562</key>
-			<value>Scout</value>
+			<value>Sonda</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>563</key>
@@ -14003,7 +14003,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>564</key>
-			<value>Translate</value>
+			<value>Přeložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
@@ -14107,91 +14107,91 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
-			<value>Sun Station</value>
+			<value>Sluneční stanice</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>Ash Twin</value>
+			<value>Popelák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>Ember Twin</value>
+			<value>Doutnák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
-			<value>Hourglass Twins</value>
+			<value>Přesýpací dvojčata</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>604</key>
-			<value>Timber Hearth</value>
+			<value>Domopec</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>605</key>
-			<value>Brittle Hollow</value>
+			<value>Křehkodutá planeta</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>606</key>
-			<value>Hollow's Lantern</value>
+			<value>Křehkodutý měsíc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>607</key>
-			<value>Giant's Deep</value>
+			<value>Obří hlubina</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>608</key>
-			<value>Orbital Probe Cannon</value>
+			<value>Orbitální sondový kanón</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>609</key>
-			<value>Control Module</value>
+			<value>Kontrolní modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Launch Module</value>
+			<value>Spouštěcí modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
-			<value>Probe Tracking Module</value>
+			<value>Sledovací modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>612</key>
-			<value>Dark Bramble</value>
+			<value>Temnotrn</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>613</key>
-			<value>The Interloper</value>
+			<value>Tulák</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>614</key>
-			<value>White Hole</value>
+			<value>Bílá díra</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>615</key>
-			<value>Quantum Moon</value>
+			<value>Kvantový měsíc</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>616</key>
-			<value>Sun</value>
+			<value>Slunce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>617</key>
-			<value>The Attlerock</value>
+			<value>Vytěženec</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>618</key>
-			<value>The Eye of the universe</value>
+			<value>Oko vesmíru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>650</key>
-			<value>ESCAPE POD 1</value>
+			<value>ZÁCHRANNÝ ČLUN 1</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>651</key>
-			<value>ESCAPE POD 2</value>
+			<value>ZÁCHRANNÝ ČLUN 2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>652</key>
-			<value>ESCAPE POD 3</value>
+			<value>ZÁCHRANNÝ ČLUN 3</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>653</key>
@@ -14255,7 +14255,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>668</key>
-			<value>WHITE HOLE</value>
+			<value>BÍLÁ DÍRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
@@ -14263,7 +14263,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
-			<value>UNIDENTIFIED</value>
+			<value>NEIDENTIFIKOVÁN/A</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
@@ -14283,91 +14283,91 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
-			<value>HIDE AND SEEK</value>
+			<value>HRA NA SCHOVÁVANOU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>700</key>
-			<value>SUN STATION</value>
+			<value>SLUNEČNÍ STANICE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>ASH TWIN</value>
+			<value>POPELÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>EMBER TWIN</value>
+			<value>DOUTNÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
-			<value>THE HOURGLASS TWINS</value>
+			<value>PŘESÝPACÍ DVOJČATA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>704</key>
-			<value>TIMBER HEARTH</value>
+			<value>DOMOPEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>705</key>
-			<value>BRITTLE HOLLOW</value>
+			<value>KŘEHKODUTÁ PLANETA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>706</key>
-			<value>HOLLOW'S LANTERN</value>
+			<value>KŘEHKODUTÝ MĚSÍC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>707</key>
-			<value>GIANT'S DEEP</value>
+			<value>OBŘÍ HLUBINA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>708</key>
-			<value>CONTROL MODULE</value>
+			<value>KONTROLNÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>LAUNCH MODULE</value>
+			<value>SPOUŠTĚCÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>PROBE TRACKING MODULE</value>
+			<value>SLEDOVACÍ MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
-			<value>DARK BRAMBLE</value>
+			<value>TEMNOTRN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>712</key>
-			<value>THE INTERLOPER</value>
+			<value>TULÁK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>713</key>
-			<value>WHITE HOLE</value>
+			<value>BÍLÁ DÍRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>714</key>
-			<value>QUANTUM MOON</value>
+			<value>KVANTOVÝ MĚSÍC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>715</key>
-			<value>SUN</value>
+			<value>SLUNCE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>716</key>
-			<value>THE ATTLEROCK</value>
+			<value>VYTĚŽENEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>717</key>
-			<value>THE EYE OF THE UNIVERSE</value>
+			<value>OKO VESMÍRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>718</key>
-			<value>SCOUT</value>
+			<value>SONDA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>719</key>
-			<value>YOU ARE HERE</value>
+			<value>JSI TADY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>720</key>
-			<value>SHIP</value>
+			<value>LOĎ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
@@ -14403,7 +14403,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>POSTCARDS FROM ORBIT</value>
+			<value>POHLEDY Z OBĚŽNÉ DRÁHY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
@@ -14423,31 +14423,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
-			<value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
+			<value>Status návratového warpu: NABITÝ. Až budete připraveni, vstupte na warpovou plošinu.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>YOU ARE DEAD</value>
+			<value>JSTE MRTVÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key>
-			<value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
+			<value>ZNIČILI JSTE TKANINU ČASOPROSTORU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
+			<value>NYNÍ MIMO DOSAH SUPERNOVY,\\nPLAVÍŠ SE PRÁZDNÝM VESMÍREM, DOKUD NEVYČERPÁŠ ZÁSOBY SVÉ LODI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
+			<value>JAK DLOUHO UŽ TU JSI? MINUTY? ROKY?\\nNEJSI SI JISTÝ, ALE ZDÁ SE, ŽE TVÁ CESTA JE U KONCE.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
-			<value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
+			<value>NYNÍ MIMO DOSAH SUPERNOVY JSI SE STAL JEDINÝM OBYVATELEM OPUŠTĚNÉHO SVĚTA.\\URČITĚ SE TU DÁ &lt;i&gt;NĚCO&lt;/i&gt; SNÍST?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>815</key>
-			<value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
+			<value>KOLIK ČASU UPLYNULO?\\nUŽ SE ANI NEOBTĚŽUJÍ TĚ LOVIT.\\nČAS PLYNE, A PLYNE, DOKUD SE TVŮJ PŘEDCHOZÍ ŽIVOT NEZDÁ JAKO POLOZAPOMENUTÝ SEN.\\KDYBY SES JEN MOHL PROBRAT.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
