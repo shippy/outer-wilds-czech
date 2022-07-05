@@ -4918,119 +4918,119 @@
 	</entry>
 	<entry>
 		<key>THATCH: Is everyone unharmed?</key>
-		<value>THATCH：所有人都沒事吧？</value>
+		<value>THATCH：Jsme všichni v pořádku?</value>
 	</entry>
 	<entry>
 		<key>PLUME: No one was badly injured from the &lt;color=orange&gt;escape pod’s&lt;/color&gt; impact. We’re incredibly fortunate.</key>
-		<value>PLUME：沒有人因為&lt;color=orange&gt;逃生艙&lt;/color&gt;的沖擊而受重傷。我們真是太走運了。</value>
+		<value>PLUME：Nikdo nebyl během dopadu &lt;color=orange&gt;zachranného člunu&lt;/color&gt; vážně zraněn. Máme obrovské štěstí.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This is good news, at least. Have we heard from &lt;color=orange&gt;Escape Pod 2&lt;/color&gt; or &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;?</key>
-		<value>THATCH：至少這算是個好消息。我們有&lt;color=orange&gt;2號逃生艙&lt;/color&gt;或者&lt;color=orange&gt;3號逃生艙&lt;/color&gt;的消息嗎？</value>
+		<value>THATCH：Konečně dobré zprávy. Slyšeli jsme něco od &lt;color=orange&gt;Záchranného člunu 2&lt;/color&gt; nebo &lt;color=orange&gt;Záchranného člunu 3&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</key>
-		<value>FILIX：沒有，我……我無法進行聯絡。不過，我的設備可以收到其它\\n兩個逃生艙的求救信號。兩個逃生艙的結構應該都完好無損。\\n不知道這個消息對你是不是有幫助。</value>
+		<value>FILIX：Ne, nedokážu... nelze se s nimi spojit. Moje přístroje ale slyší tísňové signály obou záchrannách člunů. Je-li to nějakou útěchou, znamená to alespoň, že oba čluny musí být strukturálně v pořádku.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I’ll continue calling for them.</key>
-		<value>FILIX：我會繼續呼叫他們。</value>
+		<value>FILIX：Budu se je snažit zkontaktovat.</value>
 	</entry>
 	<entry>
 		<key>THATCH: My gratitude. If we can —</key>
-		<value>THATCH：感激不盡。如果我們可以……</value>
+		<value>THATCH：Mé díky. Pokud můžeme -</value>
 	</entry>
 	<entry>
 		<key>PLUME: Thatch, the moon is approaching again!</key>
-		<value>PLUME：THATCH，衛星又接近了！</value>
+		<value>PLUME：Thatchi, ten měsíc se znovu blíží!</value>
 	</entry>
 	<entry>
 		<key>THATCH: Everyone brace yourselves, swiftly! The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; has returned!</key>
-		<value>THATCH：所有人做好準備，快！&lt;color=lightblue&gt;火山衛星&lt;/color&gt;回來了！</value>
+		<value>THATCH：Všichni se něčeho chytněte, rychle! &lt;color=lightblue&gt;Sopečný měsíc&lt;/color&gt; se vrátil!</value>
 	</entry>
 	<entry>
 		<key>THATCH: Be cautious of falling ash and debris!</key>
-		<value>THATCH：當心掉下來的火山灰和巖屑！</value>
+		<value>THATCH：Pozor na padající popel a sutiny!</value>
 	</entry>
 	<entry>
 		<key>PLUME: ...I believe the moon has passed.</key>
-		<value>PLUME：……我想衛星已經走了。</value>
+		<value>PLUME：...věřím, že měsíc se opět vzdálil.</value>
 	</entry>
 	<entry>
 		<key>FILIX: This planet doesn’t appear eager to have guests. We are certainly unwelcome on its surface.</key>
-		<value>FILIX：這顆行星看來不是很好客。顯然我們在它的地表上不受歡迎。</value>
+		<value>FILIX：Tato planeta se nezdá býti nadšená z hostů. Rozhodně nejsme vítáni na jejím povrchu.</value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to find shelter, and quickly. The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; won’t be gone for long.</key>
-		<value>THATCH：我們得尋找庇護所，而且要快。那顆&lt;color=lightblue&gt;火山衛星&lt;/color&gt;很快就會再回來的。</value>
+		<value>THATCH：Musíme najít útočiště, a rychle. &lt;color=lightblue&gt;Sopečný měsíc&lt;/color&gt; nebude pryč nadlouho.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I observed several promising sites below the surface, but we’ll need to construct a way for everyone to climb safely down this cliff. Perhaps we could build platforms?</key>
-		<value>PLUME：我在地下觀察到幾個可行的位置，不過我們得造一條路，\\n讓大家能夠安全地從懸崖上爬下去。也許我們可以建造一些平台？</value>
+		<value>PLUME：Všimnul jsem si několika slibných míst pod povrchem, ale budeme muset vytvořit cestu, aby se všichni bezpečně dostali z tohoto útesu. Možná můžeme použít plošiny?</value>
 	</entry>
 	<entry>
 		<key>CONOY: What have we learned thus far in our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>CONOY：到目前為止，尋找&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;讓我們了解到了哪些情況？</value>
+		<value>CONOY：Co jsme se zatím během našeho hledání &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt; naučili?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Those of us on the &lt;color=orange&gt;Vessel&lt;/color&gt; originally followed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal to this star system, but we were unable to warp to the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>PLUME：我們在&lt;color=orange&gt;飛船&lt;/color&gt;上的那些人最初跟著&lt;color=lightblue&gt;眼&lt;/color&gt;的信號來到了\\n這個星系，但是我們無法躍遷到&lt;color=lightblue&gt;眼&lt;/color&gt;那里去。</value>
+		<value>PLUME：Ti z nás, kteří byli na &lt;color=orange&gt;Plavidle&lt;/color&gt;, původně následovali signál &lt;color=lightblue&gt;Oka&lt;/color&gt; do tohoto planetárního systému, ale nedokázali jsme se teleportovat k &lt;color=lightblue&gt;Oku&lt;/color&gt; samotnému.</value>
 	</entry>
 	<entry>
 		<key>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</key>
-		<value>PRIVET：我們在&lt;color=lightblue&gt;廢巖星&lt;/color&gt;上建造的定位器，還有我們在這里新建造的\\n更加靈敏的新型定位器，都無法檢測到&lt;color=lightblue&gt;眼&lt;/color&gt;信號的任何蹤跡。</value>
+		<value>PRIVET：Ani lokátor, který jsem vybudovali na &lt;color=lightblue&gt;Vytěženci&lt;/color&gt;, ani nový a citlivější lokátor, který jsme vybudovali tady, nedokázal detekovat byť jen stopu signálu &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</key>
-		<value>AVENS：假設：&lt;color=lightblue&gt;眼&lt;/color&gt;不再發射信號了。</value>
+		<value>AVENS：Hypotéza: &lt;color=lightblue&gt;Oko&lt;/color&gt; přestalo vysílat svůj signál.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; doesn’t wish to be found.</key>
-		<value>CASSAVA：估計&lt;color=lightblue&gt;眼&lt;/color&gt;不想被別人找到。</value>
+		<value>CASSAVA：Řekněme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; nechce být nalezeno.</value>
 	</entry>
 	<entry>
 		<key>PLUME: Cassava, how can you suggest that? The &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called out to summon us to this star system!</key>
-		<value>PLUME：CASSAVA，你怎麽能這麽說？是&lt;color=lightblue&gt;眼&lt;/color&gt;的信號召喚我們來到了\\n這個星系！</value>
+		<value>PLUME：Cassavo, jak tohle můžeš navrhnout? Signál &lt;color=lightblue&gt;Oka&lt;/color&gt; nás přivolal do tohoto planetárního systému!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: I’m aware; I grew up hearing the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s story. Yet we’re no closer to finding it than you were when you first arrived here.</key>
-		<value>CASSAVA：我知道；我是聽著&lt;color=lightblue&gt;眼&lt;/color&gt;的故事長大的。可是和你第一次來到\\n這里一樣，我們壓根就沒法找到它。</value>
+		<value>CASSAVA：To samozřejmě vím; vyrostl jsem na příbězích o &lt;color=lightblue&gt;Oku&lt;/color&gt;. Ale nejsme o nic blíž jeho nálezu, než jste byli vy, když jste sem poprvé přiletěli.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</key>
-		<value>MALLOW：基於我們對&lt;color=lightblue&gt;量子衛星&lt;/color&gt;的了解，我們相信&lt;color=lightblue&gt;眼&lt;/color&gt;處在環繞該星系的&lt;color=lightblue&gt;太陽&lt;/color&gt;\\n軌道上。也就是說&lt;color=lightblue&gt;眼&lt;/color&gt;位於有限（雖然範圍異常之大）的距離之內。</value>
+		<value>MALLOW：Na základě našeho pochopení &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; věříme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; obíhá kolem &lt;color=lightblue&gt;slunce&lt;/color&gt; tohoto planetárního systému. To by znamenalo, že &lt;color=lightblue&gt;Oko&lt;/color&gt; se nalézá v konečné (ač obrovské) vzdálenosti od nás.</value>
 	</entry>
 	<entry>
 		<key>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
-		<value>CONOY：假如要繼續尋找&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;，我們應該改用怎樣的搜索方法？</value>
+		<value>CONOY：Jak by se naše metody hledání &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt; měly změnit?</value>
 	</entry>
 	<entry>
 		<key>PRIVET: As we couldn’t find the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal using two different devices built for this exact purpose, we should discontinue this search method.</key>
-		<value>PRIVET：兩台專門用於尋找&lt;color=lightblue&gt;眼&lt;/color&gt;信號的設備都無法完成任務，\\n我們不應該用這種方式繼續找下去。</value>
+		<value>PRIVET：Vzhledem k tomu, že jsme nenašli signál &lt;color=lightblue&gt;Oka&lt;/color&gt; za pomocí dvou různých lokátorů vyrobených pro tento specifický cíl, bychom měli přestat budovat lokátory.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
-		<value>MALLOW：多虧了&lt;color=lightblue&gt;量子衛星&lt;/color&gt;，我們知道了&lt;color=lightblue&gt;眼&lt;/color&gt;長什麽樣。那麽我們就用\\n肉眼去尋找&lt;color=lightblue&gt;眼&lt;/color&gt;如何？我們來發射一個探測器吧！</value>
+		<value>MALLOW：Díky &lt;color=lightblue&gt;Kvantovému měsíci&lt;/color&gt; víme, jak &lt;color=lightblue&gt;Oko&lt;/color&gt; vypadá, takže co kdybychom se jej pokusili najít vizuálně?  Pojďme vyslat sondu!</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
-		<value>CASSAVA：MALLOW的主意很不錯，但是我們不知道&lt;color=lightblue&gt;眼&lt;/color&gt;與這里的相對位置。\\n探測器發往正確方向的可能性微乎其微。</value>
+		<value>CASSAVA：Mallowova myšlenka je chytrá, ale nemáme sebemenší potuchy, kde &lt;color=lightblue&gt;Oko&lt;/color&gt; může být. Pravděpodobnost, že bychom vystřelili sondu správným směrem, je absurdně malá.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?</key>
-		<value>CONOY：我相信我有一個解決方法！你和RAMIE以及PYE談過他們正在開發\\n的技術嗎？</value>
+		<value>CONOY：Věřím, že mám pro tento problém řešení! Mluvil jsi s Ramie a Pye ohledně technologie, kterou vyvíjejí?</value>
 	</entry>
 	<entry>
 		<key>AVENS: We’d need to build a probe-launching mechanism to cover those long distances quickly. A cannon in orbit around a celestial body would circumvent the need to escape gravity’s pull.</key>
-		<value>AVENS：我們需要建造一個發射裝置，能夠迅速地把探測器發射到如此遠\\n的距離去。在某個天體軌道上設置一門大炮應該可以擺脫重力的束縛。</value>
+		<value>AVENS：Potřebovali bychom vyrobit mechanismus k vypouštění sondy, který by jí umožnil rychle překonat velké vzdálenosti. Kanón na oběžné dráze kolem hvězdného tělesa by eliminoval nutnost uniknout gravitaci.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; would be a good choice. It’s furthest from the &lt;color=lightblue&gt;sun&lt;/color&gt;, so it would provide the best angles for launch. And it’s moonless (except when the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is visiting).</key>
-		<value>CASSAVA：&lt;color=lightblue&gt;深巨星&lt;/color&gt;是個不錯的選擇。它距離&lt;color=lightblue&gt;太陽&lt;/color&gt;最遠，因此可以\\n提供最佳的發射角度。而且它沒有衛星（除非&lt;color=lightblue&gt;量子衛星&lt;/color&gt;來訪）。</value>
+		<value>CASSAVA：&lt;color=lightblue&gt;Obří hlubina&lt;/color&gt; by byla pro tento účel vhodná. Je nejdále od &lt;color=lightblue&gt;slunce&lt;/color&gt;, takže by poskytla nejlepší startovní úhly. A je bezměsíčná (krom období, kdy ji navštěvuje &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;).</value>
 	</entry>
 	<entry>
 		<key>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</key>
-		<value>AVENS：沒錯，我們就在&lt;color=lightblue&gt;深巨星&lt;/color&gt;的軌道上建造大炮吧！</value>
+		<value>AVENS：Ano, postavme kanón na oběžné dráze kolem &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
