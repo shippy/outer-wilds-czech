@@ -49,7 +49,7 @@
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
-		<value>Tady mohu být nápomocna! Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; bylo sice vytvořeno před mými časy, ale Annona mi vysvětlil mnohé ze svých vynálezů.</value>
+		<value>POKE: Tady mohu být nápomocna! Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; bylo sice vytvořeno před mými časy, ale Annona mi vysvětlil mnohé ze svých vynálezů.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
@@ -918,7 +918,7 @@
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-		<value>PYE: Ano, ale průzkum &lt;color=orange&gt;komety&lt;/color&gt; by byl bez &lt;color=lightblue&gt;lodi&lt;/color&gt; složitější. Mořná jsme neměli přistát na odvrácené straně &lt;color=lightblue&gt;komety&lt;/color&gt;...</value>
+		<value>PYE: Ano, ale průzkum &lt;color=lightblue&gt;komety&lt;/color&gt;，by byl bez &lt;color=orange&gt;lodi&lt;/color&gt; složitější. Mořná jsme neměli přistát na odvrácené straně &lt;color=lightblue&gt;komety&lt;/color&gt;...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
@@ -12739,1207 +12739,1207 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>繼續探險</value>
+			<value>RESUME EXPEDITION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
-			<value>新探險</value>
+			<value>NEW EXPEDITION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>102</key>
-			<value>退出</value>
+			<value>QUIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>103</key>
-			<value>玩家個人資料</value>
+			<value>PLAYER PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>104</key>
-			<value>選項</value>
+			<value>OPTIONS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>105</key>
-			<value>查看制作人員名單</value>
+			<value>VIEW CREDITS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>106</key>
-			<value>是</value>
+			<value>YES</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>107</key>
-			<value>否</value>
+			<value>NO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>108</key>
-			<value>預設</value>
+			<value>PRESET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>109</key>
-			<value>確認更改? </value>
+			<value>Confirm changes?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>110</key>
-			<value>當前個人資料: </value>
+			<value>CURRENT PROFILE:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>111</key>
-			<value>創建新的個人資料</value>
+			<value>CREATE NEW PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>112</key>
-			<value>刪除個人資料</value>
+			<value>DELETE PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>113</key>
-			<value>切換至</value>
+			<value>SWITCH TO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>114</key>
-			<value>重置遊戲</value>
+			<value>RESET GAME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
-			<value>你確定嗎? 這樣將會刪除所有進度. </value>
+			<value>Are you sure? This will delete all progress.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>116</key>
-			<value>你確定嗎? </value>
+			<value>Are you sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>117</key>
-			<value>返回</value>
+			<value>BACK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>118</key>
-			<value>已啟用</value>
+			<value>Enabled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>119</key>
-			<value>已停用</value>
+			<value>Disabled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>120</key>
-			<value>遊戲玩法</value>
+			<value>GAMEPLAY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>121</key>
-			<value>輸入</value>
+			<value>INPUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>122</key>
-			<value>畫質</value>
+			<value>GRAPHICS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>123</key>
-			<value>文本/音頻</value>
+			<value>TEXT/AUDIO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>124</key>
-			<value>自動</value>
+			<value>Auto</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>125</key>
-			<value>手動</value>
+			<value>Manual</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>126</key>
-			<value>顯示</value>
+			<value>Show</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>127</key>
-			<value>隱藏</value>
+			<value>Hide</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>128</key>
-			<value>設置</value>
+			<value>Settings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>129</key>
-			<value>默認設置</value>
+			<value>Default Settings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>130</key>
-			<value>全屏模式</value>
+			<value>Full Screen Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>131</key>
-			<value>屏幕</value>
+			<value>Monitor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>132</key>
-			<value>縱橫比</value>
+			<value>Aspect Ratio</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>133</key>
-			<value>分辨率</value>
+			<value>Resolution</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>134</key>
-			<value>抗鋸齒</value>
+			<value>Anti Aliasing</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>135</key>
-			<value>抗鋸齒質量</value>
+			<value>Anti Alias Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>136</key>
-			<value>紋理質量</value>
+			<value>Texture Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>137</key>
-			<value>海洋質量</value>
+			<value>Ocean Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>138</key>
-			<value>樹葉質量</value>
+			<value>Foliage Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>陰影質量</value>
+			<value>Shadow Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
-			<value>SSAO質量</value>
+			<value>SSAO Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>141</key>
-			<value>伽馬校正</value>
+			<value>Gamma</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>142</key>
-			<value>垂直同步</value>
+			<value>VSync</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>143</key>
-			<value>屏幕</value>
+			<value>Monitor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>144</key>
-			<value>抖動</value>
+			<value>Dithering</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>145</key>
-			<value>視野</value>
+			<value>Field of View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>146</key>
-			<value>畫質預設</value>
+			<value>Graphics Preset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>147</key>
-			<value>要應用更改嗎? </value>
+			<value>DO YOU WISH TO APPLY YOUR CHANGES?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>150</key>
-			<value>使用自動強化</value>
+			<value>Use Auto Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>151</key>
-			<value>視野敏感度</value>
+			<value>Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>152</key>
-			<value>飛行敏感度</value>
+			<value>Flight Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>153</key>
-			<value>文本速度</value>
+			<value>Text Speed</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
-			<value>冥想直到下一個循環</value>
+			<value>Meditate Until Next Loop</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
-			<value>退出至主菜單</value>
+			<value>Exit to Main Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>156</key>
-			<value>應用</value>
+			<value>APPLY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>157</key>
-			<value>放棄</value>
+			<value>DISCARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>160</key>
-			<value>噴射背包強化模式</value>
+			<value>Jetpack Boost Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>161</key>
-			<value>翻譯器裝備模式</value>
+			<value>Translator Equip Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>162</key>
-			<value>宇宙飛船日志傳聞模式</value>
+			<value>Ship Log Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>163</key>
-			<value>宇宙飛船日志通知</value>
+			<value>Ship Log Notifications</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>164</key>
-			<value>自動駕駛</value>
+			<value>Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>165</key>
-			<value>按鈕提示</value>
+			<value>Button Prompts</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>170</key>
-			<value>文本速度</value>
+			<value>Text Speed</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>171</key>
-			<value>閱讀暫停時間</value>
+			<value>Freeze Time While Reading</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>翻譯器</value>
+			<value>Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
-			<value>宇宙飛船日志</value>
+			<value>Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>174</key>
-			<value>對話</value>
+			<value>Conversations</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>175</key>
-			<value>主音量</value>
+			<value>Master Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>176</key>
-			<value>語言</value>
+			<value>Language</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>180</key>
-			<value>你要保留這些設置嗎? \\n還原至上一個設置倒數計時:  </value>
+			<value>Do you want to keep these settings?\\nReverting to previous settings in </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>181</key>
-			<value> 秒...</value>
+			<value> seconds...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>182</key>
-			<value> 秒...</value>
+			<value> second...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>183</key>
-			<value>錯誤: 個人資料名稱長度限制為 </value>
+			<value>Error: Profile names have a limit of </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>184</key>
-			<value> 個字符, 無法重覆使用現有的個人資料</value>
+			<value> characters and cannot be a duplicate of an existing profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>185</key>
-			<value>輸入個人資料名稱</value>
+			<value>Enter Profile Name</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>186</key>
-			<value>創建新的個人資料</value>
+			<value>CREATE NEW PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>187</key>
-			<value>刪除</value>
+			<value>Delete</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>188</key>
-			<value>你確定嗎? </value>
+			<value>Are You Sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>190</key>
-			<value>反轉玩家視野</value>
+			<value>Invert Player Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>191</key>
-			<value>反轉宇宙飛船視野</value>
+			<value>Invert Ship Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>192</key>
-			<value>視野敏感度</value>
+			<value>Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>193</key>
-			<value>飛行視野敏感度</value>
+			<value>Flight Look Sensitivity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>194</key>
-			<value>內圈死區</value>
+			<value>Inner Dead Zone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>195</key>
-			<value>外圈死區</value>
+			<value>Outer Dead Zone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>196</key>
-			<value>已反轉</value>
+			<value>Inverted</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>197</key>
-			<value>一般</value>
+			<value>Normal</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>198</key>
-			<value>重新映射控制</value>
+			<value>Remap Controls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>200</key>
-			<value>&lt;color=orange&gt; (按住) &lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Hold)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>201</key>
-			<value>&lt;color=orange&gt; (按下) &lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Press)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
-			<value>匹配速度</value>
+			<value>Match Velocity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
-			<value>開啟自動駕駛</value>
+			<value>Engage Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
-			<value>鎖定</value>
+			<value>Lock On</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
-			<value>手電筒</value>
+			<value>Flashlight</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
-			<value>裝備偵查發射器</value>
+			<value>Equip Scout Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>207</key>
-			<value>查看地圖</value>
+			<value>View Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>208</key>
-			<value>自由視野</value>
+			<value>Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>209</key>
-			<value>裝備信號鏡</value>
+			<value>Equip Signalscope</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>210</key>
-			<value>解開安全帶</value>
+			<value>Unbuckle</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>裝備翻譯器</value>
+			<value>Equip Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
-			<value>發射噴射背包推進器</value>
+			<value>Fire Jetpack Booster</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
-			<value>翻滾</value>
+			<value>Roll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
-			<value>跳躍</value>
+			<value>Jump</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>   喚醒</value>
+			<value>	 Wake Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value> (按住後放開) </value>
+			<value>(Hold and Release)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
-			<value>環視</value>
+			<value>Look Around</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>218</key>
-			<value>移動</value>
+			<value>Move</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>220</key>
-			<value>向上推進</value>
+			<value>Up Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>221</key>
-			<value>向下推進</value>
+			<value>Down Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>222</key>
-			<value>向下/向上推進</value>
+			<value>Down / Up Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>223</key>
-			<value>水平推進</value>
+			<value>Horizontal Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>224</key>
-			<value>使用噴射背包推進器   </value>
+			<value>Use Jetpack Booster	 </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>225</key>
-			<value>重置</value>
+			<value>Reset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>226</key>
-			<value>旋轉推進</value>
+			<value>Rotational Thrust</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>230</key>
-			<value>收拾</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
-			<value>瞄準發射器</value>
+			<value>Aim Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
-			<value>發射偵查兵</value>
+			<value>Launch Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
-			<value>撤回偵察兵</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
-			<value>照片模式</value>
+			<value>Photo Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>235</key>
-			<value>發射模式</value>
+			<value>Launch Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
-			<value>發送快照</value>
+			<value>Forward Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>237</key>
-			<value>拍快照</value>
+			<value>Take Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>238</key>
-			<value>後視快照</value>
+			<value>Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>239</key>
-			<value>旋轉視角</value>
+			<value>Rotate Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>240</key>
-			<value>瞄準視角</value>
+			<value>Aim Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
-			<value>移除快照</value>
+			<value>Remove Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>250</key>
-			<value>升空</value>
+			<value>Liftoff</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>251</key>
-			<value>開啟自動駕駛</value>
+			<value>Engage Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>252</key>
-			<value>中止自動駕駛</value>
+			<value>Abort Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>253</key>
-			<value>升空/降落視角</value>
+			<value>Liftoff / Landing Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>254</key>
-			<value>降落模式</value>
+			<value>Landing Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>255</key>
-			<value>駕駛艙視角</value>
+			<value>Cockpit View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>256</key>
-			<value>修理</value>
+			<value>Repair</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>257</key>
-			<value>系安全帶</value>
+			<value>Buckle Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
-			<value>提起逃脫按鈕護蓋</value>
+			<value>Raise Eject Cover</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
-			<value>打開艙口</value>
+			<value>Open Hatch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>260</key>
-			<value>查看宇宙飛船日志</value>
+			<value>View Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>261</key>
-			<value>逃脫</value>
+			<value>Eject</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>269</key>
-			<value>太空服:  </value>
+			<value>SUIT: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>270</key>
-			<value>離開</value>
+			<value>Leave</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>271</key>
-			<value>烤棉花糖</value>
+			<value>Roast Marshmallow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>272</key>
-			<value>通話</value>
+			<value>Talk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>通話對象</value>
+			<value>Talk to</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
-			<value> 啟動升降梯</value>
+			<value> Activate Lift</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>275</key>
-			<value>穿上太空服</value>
+			<value>Suit Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>276</key>
-			<value>使用攝像機</value>
+			<value>Use Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>277</key>
-			<value>使用偵查發射器</value>
+			<value>Use Scout Launcher</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>278</key>
-			<value>駕駛模型宇宙飛船</value>
+			<value>Fly Model Ship</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>279</key>
-			<value>使用衛星攝像機</value>
+			<value>Use Satellite Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>輸入發射密碼</value>
+			<value>Enter Launch Codes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>需有發射密碼</value>
+			<value>Requires Launch Codes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
-			<value>點燃營火</value>
+			<value>Light Campfire</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>283</key>
-			<value>歸還太空服</value>
+			<value>Return Suit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>284</key>
-			<value>閱讀</value>
+			<value>Read</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
-			<value>播放錄像</value>
+			<value>Play Recording</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>286</key>
-			<value>修理</value>
+			<value>Repair</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>287</key>
-			<value>開始暴脹</value>
+			<value>Begin Inflation</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>288</key>
-			<value>收集</value>
+			<value>Gather</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>289</key>
-			<value>修補太空服破洞</value>
+			<value>Patch Suit Puncture</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>使用醫藥箱並將噴射背包補滿燃料</value>
+			<value>Use Medkit and Refuel Jetpack</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>使用醫藥箱、將噴射背包補滿燃料並清理面罩</value>
+			<value>Use Medkit, Refuel Jetpack, and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
-			<value>使用醫藥箱</value>
+			<value>Use Medkit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>使用醫藥箱並清理面罩</value>
+			<value>Use Medkit and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
-			<value>將噴射背包補滿燃料</value>
+			<value>Refuel Jetpack</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
-			<value>將噴射背包補滿燃料並清理面罩</value>
+			<value>Refuel Jetpack and Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>296</key>
-			<value>清理面罩</value>
+			<value>Clean Visor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
-			<value>生命值與燃料值已滿</value>
+			<value>Health and Fuel Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>298</key>
-			<value>噴射背包燃料值已滿</value>
+			<value>Jetpack Fuel Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>299</key>
-			<value>生命值已滿</value>
+			<value>Health Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>300</key>
-			<value>關閉地圖</value>
+			<value>Close Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>301</key>
-			<value>平移視角</value>
+			<value>Pan View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>302</key>
-			<value>旋轉視角</value>
+			<value>Rotate View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>303</key>
-			<value>縮放視角</value>
+			<value>Zoom View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
-			<value>觀察</value>
+			<value>Observe</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>310</key>
-			<value>撿起 </value>
+			<value>Pick Up </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>311</key>
-			<value>放下 </value>
+			<value>Drop </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>312</key>
-			<value>移除 </value>
+			<value>Remove </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>313</key>
-			<value>插入 </value>
+			<value>Insert </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
-			<value> 不合適</value>
+			<value> Does Not Fit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>已握住 </value>
+			<value>Already Holding </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
-			<value>“說明”石</value>
+			<value>'Explain' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>317</key>
-			<value>“宇宙之眼”石</value>
+			<value>'Eye of the universe' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>318</key>
-			<value>“識別”石</value>
+			<value>'Identify' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>319</key>
-			<value>“我”石</value>
+			<value>'Me' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>320</key>
-			<value>“量子衛星”石</value>
+			<value>'Quantum Moon' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>321</key>
-			<value>“你”石</value>
+			<value>'You' Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
-			<value>卷軸</value>
+			<value>Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
-			<value>投影石</value>
+			<value>Projection Stone</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
-			<value>躍遷核心</value>
+			<value>Warp Core</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
-			<value>移動木棍</value>
+			<value>Move Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>331</key>
-			<value>旋轉木棍</value>
+			<value>Rotate Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>332</key>
-			<value>拉長木棍</value>
+			<value>Extend Stick</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>333</key>
-			<value>進食</value>
+			<value>Eat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>334</key>
-			<value>投擲</value>
+			<value>Toss</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>收拾</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
-			<value>熄滅</value>
+			<value>Extinguish</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>337</key>
-			<value>替換</value>
+			<value>Replace</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>瞄準翻譯器</value>
+			<value>Aim Translator</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
-			<value>收拾</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>翻譯</value>
+			<value>Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
-			<value>滾動文本</value>
+			<value>Scroll Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>344</key>
-			<value>翻閱文本</value>
+			<value>Page Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>345</key>
-			<value>&lt;!&gt;太靠近目標文本&lt;!&gt;</value>
+			<value>&lt;!&gt; Too close to target text &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>346</key>
-			<value>&lt;!&gt;未翻譯的挪麥錄像&lt;!&gt;</value>
+			<value>&lt;!&gt; Untranslated Nomai recording &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>347</key>
-			<value>&lt;!&gt;未翻譯的挪麥文字&lt;!&gt;</value>
+			<value>&lt;!&gt; Untranslated Nomai writing &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
-			<value>收拾</value>
+			<value>Put Away</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>351</key>
-			<value>放大</value>
+			<value>Zoom In</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>352</key>
-			<value>縮放比例</value>
+			<value>Zoom Level</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>353</key>
-			<value>更改頻率</value>
+			<value>Change Frequency</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>360</key>
-			<value>離開宇宙飛船日志</value>
+			<value>Leave Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>361</key>
-			<value>縮放視角</value>
+			<value>Zoom View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>362</key>
-			<value>地圖模式</value>
+			<value>Map Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>363</key>
-			<value>在地圖模式中尋找</value>
+			<value>Find in Map Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>364</key>
-			<value>查看記錄</value>
+			<value>View Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>365</key>
-			<value>跳過</value>
+			<value>Skip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>366</key>
-			<value>移除擡頭顯示器標記</value>
+			<value>Remove HUD Marker</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>367</key>
-			<value>在擡頭顯示器上標記位置</value>
+			<value>Mark Location On HUD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>368</key>
-			<value>查看傳聞記錄</value>
+			<value>View Rumored Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>369</key>
-			<value>查看傳聞</value>
+			<value>View Rumor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>370</key>
-			<value>返回地圖</value>
+			<value>Back to Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>371</key>
-			<value>查看記錄</value>
+			<value>View Entries</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>372</key>
-			<value>傳聞模式</value>
+			<value>Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>373</key>
-			<value>在傳聞模式中尋找</value>
+			<value>Find In Rumor Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>374</key>
-			<value>未發現任何東西. </value>
+			<value>No discoveries yet.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>375</key>
-			<value>滾動文本</value>
+			<value>Scroll Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>380</key>
-			<value>離開菜單</value>
+			<value>Leave Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>381</key>
-			<value>交換標簽</value>
+			<value>Swap Tab</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>382</key>
-			<value>按下A以開始</value>
+			<value>PRESS A TO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>383</key>
-			<value>按下 </value>
+			<value>PRESS </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>384</key>
-			<value> 以開始</value>
+			<value> TO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>400</key>
-			<value>表面完整度:  </value>
+			<value>SURFACE INTEGRITY: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>401</key>
-			<value>燃料處於危險值</value>
+			<value>FUEL LEVEL CRITICAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>402</key>
-			<value>% (剩余燃料) </value>
+			<value>% FUEL REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
-			<value>生命危急</value>
+			<value>VITALS CRITICAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>404</key>
-			<value>生命微弱</value>
+			<value>VITALS LOW</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>405</key>
-			<value> 秒 (剩余氧氣) </value>
+			<value> SECONDS OXYGEN REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>406</key>
-			<value> 分鐘 (剩余氧氣) </value>
+			<value> MINUTES OXYGEN REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>410</key>
-			<value>頻率: </value>
+			<value>FREQUENCY:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>411</key>
-			<value>離開宇宙飛船進行修理</value>
+			<value>EXIT SHIP TO REPAIR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>412</key>
-			<value>危險</value>
+			<value>HAZARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>413</key>
-			<value>錯誤: 信號重覆</value>
+			<value>ERROR: DUPLICATE SIGNAL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>414</key>
-			<value>多個標記</value>
+			<value>MULTIPLE MARKERS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>415</key>
-			<value>宇宙飛船日志已更新</value>
+			<value>SHIP LOG UPDATED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>416</key>
-			<value>   (新) </value>
+			<value> (NEW)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>發射密碼:  --|-..|-.</value>
+			<value>Launch Codes: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>眼坐標:  </value>
+			<value>Eye Coordinates: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
-			<value>警告: 燃料已耗盡\\n將氧氣作為推進劑</value>
+			<value>WARNING: FUEL DEPLETED\\nUSING OXYGEN AS PROPELLANT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>431</key>
-			<value>補滿燃料</value>
+			<value>REFUELING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>432</key>
-			<value>治療</value>
+			<value>HEALING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>433</key>
-			<value>治療並補滿燃料</value>
+			<value>HEALING AND REFUELING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
-			<value>已檢測到樹木: 氧氣瓶已補滿</value>
+			<value>TREES DETECTED — OXYGEN TANK REFILLED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>435</key>
-			<value>氧氣瓶已補滿</value>
+			<value>OXYGEN TANK REFILLED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>436</key>
-			<value>已檢測到太空服破洞</value>
+			<value>SUIT PUNCTURE DETECTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>440</key>
-			<value>已發現的頻率: </value>
+			<value>FREQUENCY DISCOVERED:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>441</key>
-			<value>已識別的信號: </value>
+			<value>SIGNAL IDENTIFIED:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>442</key>
-			<value>無法精確指出位置</value>
+			<value>UNABLE TO PINPOINT LOCATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
-			<value>與偵查兵失去聯系</value>
+			<value>CONNECTION WITH SCOUT IS LOST</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
-			<value>返回太陽系</value>
+			<value>RETURNING TO SOLAR SYSTEM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
-			<value>頭燈打開</value>
+			<value>HEADLIGHTS ON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>446</key>
-			<value>頭燈關閉</value>
+			<value>HEADLIGHTS OFF</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>447</key>
-			<value>已阻止偵查兵發射</value>
+			<value>SCOUT LAUNCH OBSTRUCTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>450</key>
-			<value>衛星節點</value>
+			<value>SATELLITE NODE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>451</key>
-			<value>上部結構</value>
+			<value>UPPER HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>452</key>
-			<value>駕駛艙</value>
+			<value>COCKPIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>453</key>
-			<value>左舷結構</value>
+			<value>PORT HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>454</key>
-			<value>降落裝備</value>
+			<value>LANDING GEAR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>455</key>
-			<value>右舷結構</value>
+			<value>STARBOARD HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>456</key>
-			<value>自動駕駛</value>
+			<value>AUTOPILOT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>457</key>
-			<value>燃料箱</value>
+			<value>FUEL TANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>458</key>
-			<value>人工重力</value>
+			<value>ARTIFICIAL GRAVITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>459</key>
-			<value>頭燈</value>
+			<value>HEADLIGHTS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>460</key>
-			<value>降落視角</value>
+			<value>LANDING CAMERA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>461</key>
-			<value>左舷推進器組</value>
+			<value>PORT THRUSTER BANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>462</key>
-			<value>電子系統</value>
+			<value>ELECTRICAL SYSTEMS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>463</key>
-			<value>氧氣瓶</value>
+			<value>OXYGEN TANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>464</key>
-			<value>反應器</value>
+			<value>REACTOR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>465</key>
-			<value>右舷推進器組</value>
+			<value>STARBOARD THRUSTER BANK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>466</key>
-			<value>未知</value>
+			<value>UNKNOWN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
-			<value>第1階段: 校準飛行軌道</value>
+			<value>STAGE 1: ALIGNING FLIGHT TRAJECTORY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>481</key>
-			<value>第2階段: 加速沖向目的地</value>
+			<value>STAGE 2: ACCELERATING TOWARD DESTINATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>482</key>
-			<value>第3階段: 發射反推火箭</value>
+			<value>STAGE 3: FIRING RETRO-ROCKETS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>483</key>
-			<value>正在匹配速度</value>
+			<value>MATCHING VELOCITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>484</key>
-			<value>速度已匹配</value>
+			<value>VELOCITY MATCHED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
-			<value>自動駕駛已中止</value>
+			<value>AUTOPILOT ABORTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
-			<value>速度匹配已中止</value>
+			<value>VELOCITY MATCH ABORTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
-			<value>自動駕駛已中止: 太靠近目標</value>
+			<value>AUTOPILOT ABORTED: TOO CLOSE TO TARGET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>488</key>
-			<value>自動駕駛完成: 未抵達目標</value>
+			<value>AUTOPILOT COMPLETE: UNDERSHOT TARGET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>489</key>
-			<value>自動駕駛完成</value>
+			<value>AUTOPILOT COMPLETE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>500</key>
-			<value>繼續</value>
+			<value>RESUME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>501</key>
-			<value>退出</value>
+			<value>QUIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>502</key>
-			<value>退出至主菜單\\n\\n (將會丟失所有進度) </value>
+			<value>QUIT TO MAIN MENU\\n\\n(ALL PROGRESS WILL BE LOST)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>重置循環並退出至主菜單</value>
+			<value>RESET LOOP AND QUIT TO MAIN MENU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>冥想直到下一個循環</value>
+			<value>MEDITATE UNTIL NEXT LOOP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
-			<value>登錄</value>
+			<value>SIGN IN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>506</key>
-			<value>重置飛船並退出至主菜單</value>
+			<value>RESET TO VESSEL AND QUIT TO MAIN MENU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
-			<value>已暫停</value>
+			<value>PAUSED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
-			<value>使用遊戲手柄能享有最佳的&lt;color=orange&gt;Outer Wilds&lt;/color&gt;遊戲體驗...</value>
+			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; is best experienced with a game pad...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>520</key>
-			<value>控制器已斷開連接. \\n請重新連接控制器. </value>
+			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>521</key>
-			<value>當前用戶已登出. \\n請再次登錄以繼續. </value>
+			<value>Current user signed out.\\nPlease sign in again to continue.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
-			<value>輸入文本...</value>
+			<value>Enter text...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>523</key>
-			<value>用戶: </value>
+			<value>USER:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>524</key>
-			<value>個人資料管理</value>
+			<value>Profile Management</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
@@ -13947,307 +13947,307 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>550</key>
-			<value>交互</value>
+			<value>Interact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>551</key>
-			<value>跳躍</value>
+			<value>Jump</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>552</key>
-			<value>匹配速度</value>
+			<value>Match Velocity</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>553</key>
-			<value>標記記錄</value>
+			<value>Mark Entry</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
-			<value>取消</value>
+			<value>Cancel</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
-			<value>信號鏡</value>
+			<value>Signalscope</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>556</key>
-			<value>宇宙飛船日志模式</value>
+			<value>Ship Log Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>557</key>
-			<value>鎖定</value>
+			<value>Lock On</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>558</key>
-			<value>手電筒</value>
+			<value>Flashlight</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
-			<value>翻滾</value>
+			<value>Roll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>560</key>
-			<value>步行</value>
+			<value>Walk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>561</key>
-			<value>後視快照</value>
+			<value>Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>562</key>
-			<value>偵查兵</value>
+			<value>Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>563</key>
-			<value>觀察鏡視角</value>
+			<value>Scope View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>564</key>
-			<value>翻譯</value>
+			<value>Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
-			<value>地圖</value>
+			<value>Map</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>566</key>
-			<value>暫停</value>
+			<value>Pause</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>567</key>
-			<value>觀看/移動</value>
+			<value>Look / Move</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>568</key>
-			<value>默認</value>
+			<value>Default</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>569</key>
-			<value>左撇子</value>
+			<value>Southpaw</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>570</key>
-			<value>上/下/縮放</value>
+			<value>Up / Down / Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>571</key>
-			<value>前進</value>
+			<value>Forward</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>572</key>
-			<value>後退</value>
+			<value>Backward</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>573</key>
-			<value>左</value>
+			<value>Left</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>574</key>
-			<value>右</value>
+			<value>Right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>575</key>
-			<value>向上推進</value>
+			<value>Thrust Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>576</key>
-			<value>向下推進</value>
+			<value>Thrust Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
-			<value>撤回偵察兵</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
-			<value>更改頻率</value>
+			<value>Change Frequency</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>579</key>
-			<value>信號鏡縮放</value>
+			<value>Signalscope Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>580</key>
-			<value>地圖縮放</value>
+			<value>Map Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>581</key>
-			<value>宇宙飛船日志縮放</value>
+			<value>Ship Log Zoom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>582</key>
-			<value>偵查攝像機向上/下</value>
+			<value>Scout Camera Up / Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>583</key>
-			<value>偵查攝像機向左/右</value>
+			<value>Scout Camera Left / Right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>584</key>
-			<value>翻譯器滾動</value>
+			<value>Translator Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>585</key>
-			<value>翻譯器翻閱</value>
+			<value>Translator Page</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>586</key>
-			<value>自動駕駛</value>
+			<value>Autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>587</key>
-			<value>宇宙飛船日志滾動</value>
+			<value>Ship Log Scroll</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>588</key>
-			<value>自由視野</value>
+			<value>Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>589</key>
-			<value>偵查模式</value>
+			<value>Scout Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
-			<value>太陽站</value>
+			<value>Sun Station</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>601</key>
-			<value>灰燼雙星</value>
+			<value>Ash Twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>602</key>
-			<value>余燼雙星</value>
+			<value>Ember Twin</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>603</key>
-			<value>沙漏雙星</value>
+			<value>Hourglass Twins</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>604</key>
-			<value>木爐星</value>
+			<value>Timber Hearth</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>605</key>
-			<value>碎空星</value>
+			<value>Brittle Hollow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>606</key>
-			<value>空心燈</value>
+			<value>Hollow's Lantern</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>607</key>
-			<value>深巨星</value>
+			<value>Giant's Deep</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>608</key>
-			<value>軌道探測炮</value>
+			<value>Orbital Probe Cannon</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>609</key>
-			<value>控制模塊</value>
+			<value>Control Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>發射模塊</value>
+			<value>Launch Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
-			<value>探測器跟蹤模塊</value>
+			<value>Probe Tracking Module</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>612</key>
-			<value>黑棘星</value>
+			<value>Dark Bramble</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>613</key>
-			<value>闖入者</value>
+			<value>The Interloper</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>614</key>
-			<value>白洞站</value>
+			<value>White Hole</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>615</key>
-			<value>量子衛星</value>
+			<value>Quantum Moon</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>616</key>
-			<value>太陽</value>
+			<value>Sun</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>617</key>
-			<value>廢巖星</value>
+			<value>The Attlerock</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>618</key>
-			<value>宇宙之眼</value>
+			<value>The Eye of the universe</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>650</key>
-			<value>1號逃生艙</value>
+			<value>ESCAPE POD 1</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>651</key>
-			<value>2號逃生艙</value>
+			<value>ESCAPE POD 2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>652</key>
-			<value>3號逃生艙</value>
+			<value>ESCAPE POD 3</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>653</key>
-			<value>阿寇斯</value>
+			<value>ARKOSE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>654</key>
-			<value>Galena</value>
+			<value>GALENA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>655</key>
-			<value>Tephra</value>
+			<value>TEPHRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>656</key>
-			<value>樹林碎片</value>
+			<value>GROVE SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>657</key>
-			<value>博物館碎片</value>
+			<value>MUSEUM SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>658</key>
-			<value>高塔碎片</value>
+			<value>TOWER SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>659</key>
-			<value>洞穴碎片</value>
+			<value>CAVE SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>660</key>
-			<value>島嶼碎片</value>
+			<value>ISLAND SHARD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>661</key>
-			<value>量子衛星</value>
+			<value>QUANTUM MOON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>662</key>
-			<value>Chert</value>
+			<value>CHERT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>663</key>
-			<value>Esker</value>
+			<value>ESKER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>664</key>
-			<value>Feldspar</value>
+			<value>FELDSPAR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>665</key>
-			<value>Gabbro</value>
+			<value>GABBRO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>666</key>
-			<value>Riebeck</value>
+			<value>RIEBECK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>667</key>
@@ -14255,275 +14255,275 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>668</key>
-			<value>白洞站</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
-			<value>白洞核心</value>
+			<value>WHITE HOLE CORE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
-			<value>未識別</value>
+			<value>UNIDENTIFIED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
-			<value>Outer Wilds探險隊</value>
+			<value>OUTER WILDS VENTURES</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
-			<value>量子波動</value>
+			<value>QUANTUM FLUCTUATIONS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>683</key>
-			<value>求救信標</value>
+			<value>DISTRESS BEACON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>684</key>
-			<value>白洞站</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
-			<value>捉迷藏</value>
+			<value>HIDE AND SEEK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>700</key>
-			<value>太陽站</value>
+			<value>SUN STATION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>701</key>
-			<value>灰燼雙星</value>
+			<value>ASH TWIN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>702</key>
-			<value>余燼雙星</value>
+			<value>EMBER TWIN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>703</key>
-			<value>沙漏雙星</value>
+			<value>THE HOURGLASS TWINS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>704</key>
-			<value>木爐星</value>
+			<value>TIMBER HEARTH</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>705</key>
-			<value>碎空星</value>
+			<value>BRITTLE HOLLOW</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>706</key>
-			<value>空心燈</value>
+			<value>HOLLOW'S LANTERN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>707</key>
-			<value>深巨星</value>
+			<value>GIANT'S DEEP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>708</key>
-			<value>控制模塊</value>
+			<value>CONTROL MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>發射模塊</value>
+			<value>LAUNCH MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>探測器跟蹤模塊</value>
+			<value>PROBE TRACKING MODULE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
-			<value>黑棘星</value>
+			<value>DARK BRAMBLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>712</key>
-			<value>闖入者</value>
+			<value>THE INTERLOPER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>713</key>
-			<value>白洞站</value>
+			<value>WHITE HOLE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>714</key>
-			<value>量子衛星</value>
+			<value>QUANTUM MOON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>715</key>
-			<value>太陽</value>
+			<value>SUN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>716</key>
-			<value>廢巖星</value>
+			<value>THE ATTLEROCK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>717</key>
-			<value>宇宙之眼</value>
+			<value>THE EYE OF THE UNIVERSE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>718</key>
-			<value>偵查兵</value>
+			<value>SCOUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>719</key>
-			<value>你在這里</value>
+			<value>YOU ARE HERE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>720</key>
-			<value>宇宙飛船</value>
+			<value>SHIP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
-			<value>Outer Wilds行星圖</value>
+			<value>PLANETARY CHART of the OUTER WILDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
-			<value>Outer Wilds探險隊</value>
+			<value>OUTER WILDS VENTURES</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
-			<value>小偵查兵</value>
+			<value>LITTLE SCOUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>733</key>
-			<value>檢測危險</value>
+			<value>DETECT HAZARDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>照亮黑暗區域</value>
+			<value>ILLUMINATE DARK AREAS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
-			<value>遠觀</value>
+			<value>SEE BEYOND THE HORIZON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>736</key>
-			<value>測試環境</value>
+			<value>TEST THE ENVIRONMENT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>737</key>
-			<value>巨獻</value>
+			<value>PRESENTS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>來自軌道的明信片</value>
+			<value>POSTCARDS FROM ORBIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
-			<value>這台投影機已連接到我們的“天空快門”衛星, 該衛星目前正繞著木爐星公轉. </value>
+			<value>This projector is linked to our "Sky Shutter" satellite, which is currently orbiting Timber Hearth.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>740</key>
-			<value>該衛星內置了兩台攝像機. 看看你是否能拍下我們村子的快照! </value>
+			<value>The satellite is equipped with two onboard cameras. See if you can take a snapshot of our village!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>800</key>
-			<value>出發時間:  </value>
+			<value>Departure Time: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>801</key>
-			<value>抵達時間:  </value>
+			<value>Arrival Time: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
-			<value>返程躍遷狀態: 已充能. 一切就緒後, 請踏上躍遷平台. </value>
+			<value>Return warp status: CHARGED. Step onto warp platform when ready.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>你死了</value>
+			<value>YOU ARE DEAD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key>
-			<value>你摧毀了時空結構</value>
+			<value>YOU DESTROYED THE FABRIC OF SPACETIME</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>你已經再也無法到達超新星, \\n只能在太空中飄蕩, 直到宇宙飛船的資源耗盡</value>
+			<value>NOW BEYOND THE REACH OF THE SUPERNOVA,\\nYOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>你在這兒待了有多久了? 幾分鐘? 還是幾年? \\n對此你並不清楚, 但你的旅途似乎已經到達了終點. </value>
+			<value>HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?\\nYOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
-			<value>你已經再也無法到達超新星, 你意識到自己成為了這片被遺棄的世界中唯一的住民. \\n這里肯定&lt;i&gt;有什麽東西&lt;/i&gt;是可以吃的吧? </value>
+			<value>NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.\\nSURELY &lt;i&gt;SOMETHING&lt;/i&gt; HERE MUST BE EDIBLE?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>815</key>
-			<value>時間已經過去了多久? \\n這個問題已經徹底與你無關. \\n時光飛逝, 永無止息, 你過往的人生仿佛成為了模糊不清的幻夢. \\n然而你卻再也沒能醒來. </value>
+			<value>HOW MUCH TIME HAS PASSED?\\nTHEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.\\nTIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.\\nIF ONLY YOU COULD WAKE UP.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>900</key>
-			<value>屏幕中央十字線</value>
+			<value>Middle Screen Reticle</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>901</key>
-			<value>擡頭顯示器</value>
+			<value>Heads Up Display</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>902</key>
-			<value>振動</value>
+			<value>Vibration</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>903</key>
-			<value>按鈕重新映射</value>
+			<value>Button Remapping</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>904</key>
-			<value>鼠標流暢度</value>
+			<value>Mouse Smoothing</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>905</key>
-			<value>擡頭顯示器通知</value>
+			<value>HUD Notifications</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>906</key>
-			<value>照片模式</value>
+			<value>Photo Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>907</key>
-			<value>音樂音量</value>
+			<value>Music Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>908</key>
-			<value>音效音量</value>
+			<value>SFX Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>909</key>
-			<value>目標幀率</value>
+			<value>Target Frame Rate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>910</key>
-			<value>視野</value>
+			<value>Field of View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>911</key>
-			<value>物理更新率</value>
+			<value>Physics Update Rate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>912</key>
-			<value>宇宙飛船自動方向</value>
+			<value>Ship Auto Orientation</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>913</key>
-			<value>宇宙飛船質心</value>
+			<value>Ship Center of Mass</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>914</key>
-			<value>難度模式</value>
+			<value>Difficulty Modes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>915</key>
-			<value>簡單</value>
+			<value>Easy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>916</key>
-			<value>中等</value>
+			<value>Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>917</key>
-			<value>困難</value>
+			<value>Hard</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>918</key>
-			<value>沖擊晃動</value>
+			<value>Impact Wobble</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>919</key>
@@ -14531,299 +14531,299 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>920</key>
-			<value>抓升鉤</value>
+			<value>Grappling Hook</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>921</key>
-			<value>跳躍倍增器</value>
+			<value>Jump Multiplier</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>922</key>
-			<value>無敵</value>
+			<value>Invincibility</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>923</key>
-			<value>探測器破壞</value>
+			<value>Probe Destruction</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>924</key>
-			<value>無限資源</value>
+			<value>Infinite Resources</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>925</key>
-			<value>宇宙飛船有限燃料</value>
+			<value>Limited Ship Fuel</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>926</key>
-			<value>沖刺速度</value>
+			<value>Sprint Speed</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>927</key>
-			<value>手電筒</value>
+			<value>FLASHLIGHT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>928</key>
-			<value>手電筒</value>
+			<value>FLASHLIGHT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>929</key>
-			<value> 降落視角</value>
+			<value> LANDING CAM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>930</key>
-			<value>電腦</value>
+			<value>COMPUTER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>931</key>
-			<value>信號鏡</value>
+			<value>SIGNALSCOPE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>932</key>
-			<value>重力</value>
+			<value>GRAVITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>933</key>
-			<value>發射塔</value>
+			<value>Launch Tower</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>934</key>
-			<value>木材廠</value>
+			<value>Lumber Mill</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>935</key>
-			<value>零重力洞窟</value>
+			<value>Zero-G Cave</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>936</key>
-			<value>天文台</value>
+			<value>Observatory</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>937</key>
-			<value>寧靜陰涼處</value>
+			<value>The quiet shade</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>938</key>
-			<value>在老樹皮對面</value>
+			<value>Across old bark</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>939</key>
-			<value>在古代林間空地</value>
+			<value>In the ancient glade</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>940</key>
-			<value>永恒黑暗</value>
+			<value>It's always dark</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
-			<value>燃料</value>
+			<value>FUEL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>942</key>
-			<value>溫度</value>
+			<value>TEMP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>943</key>
-			<value>氧氣</value>
+			<value>O2</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>944</key>
-			<value>水</value>
+			<value>H2O</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>945</key>
-			<value>主\\n警報</value>
+			<value>MASTER\\nALARM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>946</key>
-			<value>逃脫</value>
+			<value>EJECT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>947</key>
-			<value>警告: \\n只在緊急時\\n使用</value>
+			<value>WARNING:\\nUSE ONLY IN\\nEMERGENCY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>948</key>
-			<value>擡頭顯示器</value>
+			<value>HUD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>949</key>
-			<value>開</value>
+			<value>ON</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>950</key>
-			<value>關</value>
+			<value>OFF</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>951</key>
-			<value>注意</value>
+			<value>CAUTION</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>952</key>
-			<value>警告</value>
+			<value>WARNING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>953</key>
-			<value>傷害</value>
+			<value>DAMAGE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>954</key>
-			<value>高度計</value>
+			<value>ALTIMETER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>955</key>
-			<value>匹配速度</value>
+			<value>MATCH VELOCITY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>956</key>
-			<value>補充氧氣: </value>
+			<value>OXYGEN REFILL:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>957</key>
-			<value>發現一棵樹</value>
+			<value>SPOT A TREE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>958</key>
-			<value>走向目標</value>
+			<value>WALK TOWARDS IT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>959</key>
-			<value>盡情享受吧! </value>
+			<value>ENJOY!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
-			<value>正在加載... </value>
+			<value>Loading... </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>961</key>
-			<value>無法識別周遭信號</value>
+			<value>UNIDENTIFIED SIGNAL NEARBY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>962</key>
-			<value>未知</value>
+			<value>UNKNOWN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
-			<value>危險: 檢測到附近有幽靈物質</value>
+			<value>DANGER: GHOST MATTER DETECTED NEARBY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
-			<value>加載之前的存檔</value>
+			<value>LOAD PREVIOUS SAVE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>965</key>
-			<value> 已登出. \\n請再次登錄以繼續. </value>
+			<value> signed out.\\nPlease sign in again to continue.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
-			<value>切換個人資料</value>
+			<value>SWITCH PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
-			<value>檢測到宇宙飛船船體遭到破壞</value>
+			<value>SHIP HULL BREACH DETECTED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>無法收回偵查兵; 目標過多</value>
+			<value>UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
-			<value>已啟動偵察兵緊急召回</value>
+			<value>EMERGENCY SCOUT RECALL ACTIVATED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> 已損壞</value>
+			<value> DAMAGED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value> /3已修覆</value>
+			<value> OF 3 REPAIRED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
-			<value>3/3已修覆\\n訓練模擬完成</value>
+			<value>3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
-			<value>&lt;color=orange&gt;這里還有許多可探索的地方. &lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;There's more to explore here.&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>
-			<value>剩余未翻譯的文本</value>
+			<value>UNTRANSLATED TEXT REMAINING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>975</key>
-			<value>船尾結構</value>
+			<value>AFT HULL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>980</key>
-			<value>低</value>
+			<value>Low</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>981</key>
-			<value>中</value>
+			<value>Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>982</key>
-			<value>高</value>
+			<value>High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>983</key>
-			<value>非常高</value>
+			<value>Very High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>984</key>
-			<value>全部</value>
+			<value>Full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>985</key>
-			<value>二分之一</value>
+			<value>Half</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>986</key>
-			<value>四分之一</value>
+			<value>Quarter</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>987</key>
-			<value>八分之一</value>
+			<value>Eighth</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>988</key>
-			<value>無效</value>
+			<value>Invalid</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>989</key>
-			<value>慢</value>
+			<value>Slow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>990</key>
-			<value>一般</value>
+			<value>Normal</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>991</key>
-			<value>快</value>
+			<value>Fast</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>992</key>
-			<value>非常快</value>
+			<value>Instant</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1000</key>
-			<value>創建個人資料</value>
+			<value>Create Profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1001</key>
-			<value>輸入個人資料名稱...</value>
+			<value>Enter Profile Name...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1002</key>
-			<value>創建</value>
+			<value>Create</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1003</key>
-			<value>取消並退出遊戲</value>
+			<value>Cancel And Exit Game</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1004</key>
-			<value>刪除個人資料 </value>
+			<value>Delete the profile </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1005</key>
@@ -14831,7 +14831,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1006</key>
-			<value>切換至個人資料 </value>
+			<value>Switch to profile </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1007</key>
@@ -14839,123 +14839,123 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1008</key>
-			<value>切換</value>
+			<value>Switch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1009</key>
-			<value>上次保存時間:  </value>
+			<value>Last Saved: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1010</key>
-			<value>請確保\\nOuter Wilds有權限寫入磁盤\\n- 硬盤未滿</value>
+			<value>Please ensure that \\n- Outer Wilds has permissions to write to the disk \\n- The hard drive is not full</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1011</key>
-			<value>重新綁定控制</value>
+			<value>Rebind Controls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1012</key>
-			<value>控制重新綁定</value>
+			<value>Control Rebinding</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1013</key>
-			<value>遊戲手柄</value>
+			<value>Gamepad</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1014</key>
-			<value>鍵盤和鼠標</value>
+			<value>Keyboard &amp; Mouse</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1015</key>
-			<value>放棄並退出</value>
+			<value>Discard and Exit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1016</key>
-			<value>保存並退出</value>
+			<value>Save and Exit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
-			<value>取消重新綁定</value>
+			<value>Cancel Rebinding</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
-			<value>確認</value>
+			<value>Confirm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1019</key>
-			<value>地圖放大</value>
+			<value>Map Zoom In</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1020</key>
-			<value>地圖縮小</value>
+			<value>Map Zoom Out</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1021</key>
-			<value>橫向移動</value>
+			<value>Move X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1022</key>
-			<value>縱向移動</value>
+			<value>Move Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1023</key>
-			<value>橫向觀看</value>
+			<value>Look X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1024</key>
-			<value>縱向觀看</value>
+			<value>Look Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1025</key>
-			<value>發射偵察兵/發送快照</value>
+			<value>Launch Scout / Forward Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1026</key>
-			<value>偵察兵後視快照</value>
+			<value>Scout Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1027</key>
-			<value>橫向工具</value>
+			<value>Tool X-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1028</key>
-			<value>縱向工具</value>
+			<value>Tool Y-Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1029</key>
-			<value>翻滾模式</value>
+			<value>Roll Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1030</key>
-			<value>噴射背包強化</value>
+			<value>Jetpack Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1031</key>
-			<value>降落視角</value>
+			<value>Landing Camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1032</key>
-			<value>駕駛艙自由視角</value>
+			<value>Cockpit Free Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1033</key>
-			<value>更改宇宙飛船日志模式</value>
+			<value>Change Ship Log Mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1034</key>
-			<value>在擡頭顯示器上標記記錄</value>
+			<value>Mark Entry on HUD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1035</key>
-			<value>滾動宇宙飛船日志文本</value>
+			<value>Scroll Ship Log Text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1036</key>
-			<value>打盹</value>
+			<value>Doze Off</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1037</key>
-			<value>入眠</value>
+			<value>Fall Asleep</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1038</key>
@@ -14967,31 +14967,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1040</key>
-			<value>自定義</value>
+			<value>Custom</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1041</key>
-			<value>遊戲手柄預設</value>
+			<value>Gamepad Preset</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1042</key>
-			<value>文件存儲錯誤</value>
+			<value>File Save Error</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1043</key>
-			<value>PS4® (自定義) </value>
+			<value>PS4® (Custom)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1044</key>
-			<value>DualShock (自定義) </value>
+			<value>Dualshock (Custom)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1045</key>
-			<value>DualShock</value>
+			<value>Dualshock</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1046</key>
-			<value>Xbox (自定義) </value>
+			<value>Xbox (Custom)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1047</key>
@@ -14999,855 +14999,855 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1048</key>
-			<value>Switch Pro (自定義) </value>
+			<value>Switch Pro (Custom)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1049</key>
-			<value>軸#</value>
+			<value>Axis #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1050</key>
-			<value>按鈕#</value>
+			<value>Button #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
-			<value>找到了個人資料名稱為&lt;Profile Name&gt;的恢覆數據. 是否還原?  </value>
+			<value>Found recovered data for profile name &lt;Profile Name&gt;. Restore? </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1052</key>
-			<value>是否覆蓋個人資料名稱為&lt;Profile Name&gt;的現有數據? </value>
+			<value>Overwrite existing data for profile name &lt;Profile Name&gt;?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1100</key>
-			<value>裝備選項</value>
+			<value>Gear Options</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1101</key>
-			<value>裝備選項</value>
+			<value>Gear Options</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1102</key>
-			<value>錯誤: 偵察兵召回失敗</value>
+			<value>ERROR: SCOUT RECALL FAILED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1103</key>
-			<value>閱讀暫停時間</value>
+			<value>FREEZE TIME WHILE READING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1104</key>
-			<value>重新綁定控制</value>
+			<value>REBIND CONTROLS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1105</key>
-			<value>控制重新綁定</value>
+			<value>CONTROL REBINDING</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1106</key>
-			<value>遊戲手柄</value>
+			<value>GAMEPAD</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1107</key>
-			<value>鍵盤和鼠標</value>
+			<value>KEYBOARD &amp; MOUSE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1108</key>
-			<value>刪除個人資料</value>
+			<value>Delete Profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1109</key>
-			<value>切換個人資料</value>
+			<value>Switch Profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1110</key>
-			<value>從預先配置的視覺效果設置中選擇一項. </value>
+			<value>Select from pre-configured visual quality settings.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1111</key>
-			<value>設置遊戲以窗口模式還是全屏模式運行. </value>
+			<value>Whether the game should run as windowed or fullscreen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1112</key>
-			<value>選擇遊戲顯示在哪個顯示器上</value>
+			<value>Choose which monitor will display the game</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1113</key>
-			<value>根據屏幕的長寬比, 決定下列選項中應采用哪種分辨率. </value>
+			<value>Determines which resolutions are available in the following option, based on the dimensions of the screen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1114</key>
-			<value>遊戲將以該像素分辨率渲染. \\n渲染負載: 高</value>
+			<value>The game will render at this pixel resolution.\\nRendering cost: High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1115</key>
-			<value>將粗糙的像素邊緣平滑化. 增強型子像素形態學抗鋸齒 (SMAA) 更為精確, 圖形質量更高, 但快速近似抗鋸齒 (FXAA) 運行更加流暢. \\n渲染負載: 低</value>
+			<value>Smooths out jagged pixel edges.	SMAA is more precise and higher quality, but FXAA is faster.\\nRendering cost: Low</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1116</key>
-			<value>抗鋸齒後處理的質量. 質量越高, 為硬件帶來的負擔越重. </value>
+			<value>Quality of the anti-aliasing post-processing effect.	Higher quality is more expensive.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1117</key>
-			<value>遊戲中使用的紋理貼圖的相對分辨率. \\n內存負載: 中</value>
+			<value>Relative resolution of texture maps used throughout the game.\\nMemory cost: Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1118</key>
-			<value>海浪的精細程度以及水體的照明質量. \\n渲染負載: 高</value>
+			<value>Amount of detail in the ocean waves and lighting quality of the water.\\nRendering cost: High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1119</key>
-			<value>遊戲世界中陰影的分辨率與精確度, 以及光源的數目. \\n渲染負載: 高</value>
+			<value>The resolution and accuracy of shadows in the game world, as well as the number of shadow-casting lights.\\nRendering cost: High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1120</key>
-			<value>將環境光遮蔽 (物體相互靠近時形成的淺淡陰影) 視作後處理效果. \\n渲染負載: 中</value>
+			<value>Calculates ambient occlusion (the soft shadows when objects are close to each other) as a post-processing effect.\\nRendering cost: Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1121</key>
-			<value>調整畫面的明暗. \\n渲染負載: 無</value>
+			<value>Adjusts the brightness or darkness of the visuals.\\nRendering cost: None</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1122</key>
-			<value>將遊戲的幀率與顯示器的刷新率同步, 以防出現畫面撕裂現象. \\n渲染負載: 無, 但會自動將幀率降至顯示器刷新率的最大可能倍數. </value>
+			<value>Prevents screen-tearing by synchronizing the game's framerate with the monitor's refresh rate.\\nRendering cost: None, but will automatically lower your framerate to the closest multiple of the monitor's sync rate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1123</key>
-			<value>抖動可以提高顏色分辨率, 但會降低遊戲中已壓制視頻的畫面質量. \\n渲染負載: 無</value>
+			<value>Dithering improves color blending, but may make compressed video of the game look worse.\\nRendering cost: None</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1124</key>
-			<value>遊戲內鏡頭的豎向視野. 警告: 改變這項設置可能會影響Outer Wilds中的某些解謎內容. \\n渲染負載: 低</value>
+			<value>The vertical field-of-view of the in-game camera.	Warning: changing this might affect certain puzzles in Outer Wilds.\\nRendering cost: Low</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1125</key>
-			<value>你可以通過按下某一按鈕 (手動) 啟動噴射背包強化, 也可以在上升時始終開啟強化 (自動) . </value>
+			<value>Jetpack boost can be triggered with a separate button press (manual) or any time upward thrust is used (auto).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1126</key>
-			<value>你可以通過按下某一按鈕 (手動) 裝備翻譯器, 也可以在查看可譯文本時開啟翻譯功能 (自動) . </value>
+			<value>Translator can be equipped with a button press (manual) or by looking at translatable text (auto).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1127</key>
-			<value>當宇宙飛船日志中記錄新的信息時, 在擡頭顯示器上顯示通知. </value>
+			<value>Displays a HUD notification when new information is added to the ship log.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1128</key>
-			<value>在宇宙飛船日志記錄之間顯示傳聞暗示的聯系. 禁用後可以將遊戲中的教學內容減少到最小限度. </value>
+			<value>Displays rumor connections between ship log entries. Disable to minimize in-game guidance.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1129</key>
-			<value>禁用後將取消在行星間使用自動駕駛往返飛行的功能. </value>
+			<value>Disabling this will remove the ability to automatically fly between planets using autopilot.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1130</key>
-			<value>顯示可采取行動的按鈕提示. </value>
+			<value>Displays button prompts for available actions.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1131</key>
-			<value>更改所有音頻的音量. </value>
+			<value>Change volume for all audio.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1132</key>
-			<value>更改非劇情音頻的音量. </value>
+			<value>Change volume for non-diegetic music.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1133</key>
-			<value>更改遊戲中所有文本的語言. </value>
+			<value>Change the language for all text in the game.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1134</key>
-			<value>更改對話中文本的顯示速度. </value>
+			<value>Change the reveal speed of text during conversation.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1135</key>
-			<value>在閱讀已翻譯文本時的暫停時間 (譯者需要保持靜止) . \\n備注: 某些情況下時間無法暫停. </value>
+			<value>Freezes time while reading translated text (translator must remain stationary).\\nNOTE: There are certain periods when time cannot be frozen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1136</key>
-			<value>使用宇宙飛船日志時的暫停時間. \\n備注: 某些情況下時間無法暫停. </value>
+			<value>Freezes time while using the ship log.\\nNOTE: There are certain periods when time cannot be frozen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1137</key>
-			<value>與角色交談或閱讀雜志、標志時的暫停時間. 若啟用, 則對話中不會播放角色動畫. \\n備注: 某些情況下時間無法暫停. </value>
+			<value>Freezes time while talking to characters and reading journals or signs. This will prevent character animations from playing during conversation.\\nNOTE: There are certain periods when time cannot be frozen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1138</key>
-			<value>徒步行走時反轉觀看動作的上下操作. </value>
+			<value>Invert look y-axis when on foot.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1139</key>
-			<value>操作宇宙飛船時反轉觀看動作的上下操作. </value>
+			<value>Invert look y-axis when piloting your ship.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1140</key>
-			<value>啟用控制器振動 (僅適用於控制器) . </value>
+			<value>Enables controller vibration (controller only).</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1141</key>
-			<value>設置徒步行走時觀看動作的輸入靈敏度. 靈敏度越低, 觀看動作的速度就越慢, 相應地也越容易控制. </value>
+			<value>Set look input sensitivity while on foot. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1142</key>
-			<value>設置操作宇宙飛船時觀看動作的輸入靈敏度. 靈敏度越低, 觀看動作的速度就越慢, 相應地也越容易控制. </value>
+			<value>Set look input sensitivity while piloting your ship. A lower look sensitivity will result is a slower look speed that is easier to control.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1143</key>
-			<value>設置左/右操作桿必須偏移 (中心) 多遠才會檢測到輸入操作. \\n如果未操作左/右操作桿時角色也在四處移動或觀看, 可以考慮調高這個死區數值. </value>
+			<value>Determines how far (from center) the left/right stick must be tilted before any input is detected.\\nConsider increasing this dead zone if your character moves or looks around when you're not touching the left/right stick.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1144</key>
-			<value>設置左/右操作桿必須松開 (最大偏移量) 多遠才不會再檢測到最大輸入操作. \\n如果無法以最高速度移動或四處觀看, 可以考慮調高這個死區數值. </value>
+			<value>Determines how far (from full tilt) the left/right stick must be released before maximum input is no longer detected.\\nConsider increasing this dead zone if you are unable to move or look at maximum speed.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1145</key>
-			<value>開啟此菜單可以修改分配到遊戲中行動的按鈕. </value>
+			<value>Open this menu to modify which buttons are assigned to which in-game actions.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1150</key>
-			<value>投擲棉花糖</value>
+			<value>Throw Marshmallow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1151</key>
-			<value>推開</value>
+			<value>Push Off</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1152</key>
-			<value>你的存檔已損壞. </value>
+			<value>Your save file was corrupted.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1153</key>
-			<value>是否加載之前的存檔? </value>
+			<value>Load previous save?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1154</key>
-			<value>選擇遊戲使用的控制器</value>
+			<value>Selects the controller that the game will use.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1155</key>
-			<value>將控制器映射更改為所選控制器對應映射</value>
+			<value>Changes the controller mapping to correspond to the indicated controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1156</key>
-			<value>將顯示的按鈕圖像更改為所選控制器對應圖像</value>
+			<value>Changes the displayed button images to that of the indicated controller.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1157</key>
-			<value>更改鍵盤布局設置. 在此設置中的更改會提示你是否想要更改當前按鍵綁定. 此設置還會重定義鍵盤和鼠標的默認設置. </value>
+			<value>Changes the Keyboard Layout setting. Changes to this setting will prompt you as to whether or not you want to change the currently set keyboard bindings. This will also redefine the default settings for Keyboard &amp; Mouse.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1158</key>
-			<value>暫停遊戲</value>
+			<value>Pauses the game</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1159</key>
-			<value>菜單確認</value>
+			<value>Menu Confirm</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1160</key>
-			<value>菜單取消</value>
+			<value>Menu Cancel</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1161</key>
-			<value>側向移動</value>
+			<value>Movement from side to side</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1162</key>
-			<value>前後移動</value>
+			<value>Movement forward and backwards</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1163</key>
-			<value>鏡頭左右移動</value>
+			<value>Camera movement left to right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1164</key>
-			<value>鏡頭上下移動</value>
+			<value>Camera movement up and down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1165</key>
-			<value>對象交互</value>
+			<value>Interact with objects</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1166</key>
-			<value>跳躍</value>
+			<value>Jump</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1167</key>
-			<value>手電筒開關</value>
+			<value>Turns flashlight on and off</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1168</key>
-			<value>打開地圖視圖</value>
+			<value>Opens Map View</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1169</key>
-			<value>地圖視圖放大</value>
+			<value>Zoom in in map view</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1170</key>
-			<value>地圖視圖縮小</value>
+			<value>Zoom out in map view</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1171</key>
-			<value>裝備信號鏡</value>
+			<value>Equips Signalscope</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1172</key>
-			<value>裝備、發射及撤回偵查兵</value>
+			<value>Equips, Launches, and Retrieves scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1173</key>
-			<value>偵查兵: 拍攝前視快照\\n信號鏡: 更改視角\\n翻譯器: 翻譯</value>
+			<value>Scout: Takes forward snapshot\\nSignalscope: Change view\\nTranslator: Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1174</key>
-			<value>偵查兵: 拍攝後視快照</value>
+			<value>Scout: Takes rear view snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1175</key>
-			<value>通用工具模式左右移動</value>
+			<value>Generic tool mode left and right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1176</key>
-			<value>通用工具模式上下移動</value>
+			<value>Generic tool mode up and down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1177</key>
-			<value>噴射背包和宇宙飛船向上移動</value>
+			<value>Jetpack and Ship upwards movement</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1178</key>
-			<value>噴射背包和宇宙飛船向下移動</value>
+			<value>Jetpack and Ship downwards movement</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1179</key>
-			<value>按下後, 橫向移動會使你正向翻滾</value>
+			<value>When pressed, Move X-Axis will roll you about the forward direction</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1180</key>
-			<value>啟動手動噴射背包強化</value>
+			<value>Triggers manual Jetpack Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1181</key>
-			<value>鎖定所選目標</value>
+			<value>Locks on to an indicated target</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1182</key>
-			<value>鎖定時, 啟動推進器以匹配鎖定目標的速度</value>
+			<value>When locked on, activates thrusters to match the velocity of the locked on target</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1183</key>
-			<value>切換宇宙飛船降落視角</value>
+			<value>Toggles the Ship landing camera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1184</key>
-			<value>鎖定時, 啟動宇宙飛船的自動駕駛</value>
+			<value>When locked on, activates ship autopilot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1185</key>
-			<value>系好安全帶落座在宇宙飛船駕駛艙上時切換自由視野</value>
+			<value>Toggles free look while buckled into the ship cockpit seat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1186</key>
-			<value>在宇宙飛船日志中, 在地圖模式和探索模式間切換</value>
+			<value>In the ship log, toggles between map and discovery mode</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1187</key>
-			<value>在宇宙飛船日志中, 為所選宇宙飛船日志項目開啟擡頭顯示器標記</value>
+			<value>In the ship log, turns on a HUD Marker for the indicated ship log item</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1188</key>
-			<value>在宇宙飛船日志中, 滾動瀏覽長篇日志記錄</value>
+			<value>In the ship log, scrolls through long log entries</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1200</key>
-			<value>外星站</value>
+			<value>The Stranger</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
-			<value>幽禁者</value>
+			<value>THE PRISONER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
-			<value>文物</value>
+			<value>Artifact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1212</key>
-			<value>燈</value>
+			<value>Lantern</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1213</key>
-			<value>滑動卷盤</value>
+			<value>Slide Reel</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1220</key>
-			<value>推動艇筏</value>
+			<value>Push Raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1221</key>
-			<value>旋轉</value>
+			<value>Rotate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1222</key>
-			<value>用戶界面</value>
+			<value>Use Interface</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1223</key>
-			<value>松開艇筏</value>
+			<value>Release Raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1224</key>
-			<value>查看幻燈片</value>
+			<value>View Slideshow</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1225</key>
-			<value>觀看</value>
+			<value>Look</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1226</key>
-			<value>向上旋轉</value>
+			<value>Rotate Up</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1227</key>
-			<value>向下旋轉</value>
+			<value>Rotate Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1228</key>
-			<value>上/下旋轉</value>
+			<value>Rotate Up / Down</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1229</key>
-			<value>打開</value>
+			<value>Open</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1230</key>
-			<value>關閉</value>
+			<value>Close</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1231</key>
-			<value>給予</value>
+			<value>Give</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1232</key>
-			<value>拿取</value>
+			<value>Take</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1233</key>
-			<value>火把視野</value>
+			<value>Vision Torch</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1234</key>
-			<value>左/右旋轉</value>
+			<value>Rotate Left / Right</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1235</key>
-			<value>投射</value>
+			<value>Project</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1236</key>
-			<value>投射視野</value>
+			<value>Project Vision</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1237</key>
-			<value>重看視野</value>
+			<value>Rewatch Vision</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1238</key>
-			<value>掃描</value>
+			<value>Scan</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1250</key>
-			<value>&lt;color=red&gt;錯誤: 未知語言&lt;/color&gt;</value>
+			<value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1251</key>
-			<value>錯誤: \\n地圖離線</value>
+			<value>ERROR:\\nMAP OFFLINE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1260</key>
-			<value>聚焦</value>
+			<value>Focus</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1261</key>
-			<value>隱藏</value>
+			<value>Conceal</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1265</key>
-			<value>正向</value>
+			<value>Forward</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1266</key>
-			<value>反向</value>
+			<value>Reverse</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1300</key>
-			<value>返程躍遷狀態: 已充能. 踏上躍遷接收點平台以激活返程躍遷. </value>
+			<value>Return warp status: CHARGED. Step onto warp receiver platform to activate return warp.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1310</key>
-			<value>設置默認控制器</value>
+			<value>Set Default Controller</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1311</key>
-			<value>不再顯示</value>
+			<value>Don't show this again</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1312</key>
-			<value>控制器配置文件</value>
+			<value>Controller Profile</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1313</key>
-			<value>按鈕提示圖像</value>
+			<value>Button Prompt Images</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1314</key>
-			<value>  (自動檢測) </value>
+			<value> (Auto Detect)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1315</key>
-			<value>  (自定義) </value>
+			<value> (Custom)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1316</key>
-			<value>檢測到未知輸入</value>
+			<value>Unknown Input Detected</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1317</key>
-			<value>遊戲桿軸</value>
+			<value>Joystick Axis</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1318</key>
-			<value>指定遊戲桿類型</value>
+			<value>Designate Joystick Type</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1319</key>
-			<value>一般[-1, 1]</value>
+			<value>Normal [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1320</key>
-			<value>觸發[-1, 1]</value>
+			<value>Trigger [-1, 1]</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1321</key>
-			<value>操作</value>
+			<value>Action</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1322</key>
-			<value>撤回偵查兵</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
-			<value>主要工具操作</value>
+			<value>Primary Tool Action</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1324</key>
-			<value>次要工具操作</value>
+			<value>Secondary Tool Action</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1325</key>
-			<value>發射/撤回偵查兵</value>
+			<value>Launch/Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1326</key>
-			<value>V1.x.8按鍵綁定更新</value>
+			<value>V1.x.8 Key Binding Update</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1327</key>
-			<value>舊按鍵綁定</value>
+			<value>Old Key Bindings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1328</key>
-			<value>新按鍵綁定</value>
+			<value>New Key Bindings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1329</key>
-			<value>打開重新綁定菜單</value>
+			<value>Open Rebinding Menu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1330</key>
-			<value>繼續</value>
+			<value>Continue</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1331</key>
-			<value>是否保存更改? </value>
+			<value>Save Changes?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1332</key>
-			<value>保存按鍵綁定</value>
+			<value>Save Key Bindings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1333</key>
-			<value>放棄按鍵綁定</value>
+			<value>Discard Key Bindings</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1334</key>
-			<value>鍵盤布局</value>
+			<value>Keyboard Layout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1335</key>
-			<value>是否更新鍵盤綁定? </value>
+			<value>Update Keyboard Bindings?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>將按鍵從</value>
+			<value>Convert Keys from </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
-			<value>轉為</value>
+			<value> to </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1338</key>
-			<value> 布局</value>
+			<value> Layout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1339</key>
-			<value>保持原有按鍵</value>
+			<value>Keep Keys as-is</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1400</key>
-			<value>下一標簽</value>
+			<value>Next Tab</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1401</key>
-			<value>重置當前更改</value>
+			<value>Reset Current Changes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1402</key>
-			<value>離開並保存更改</value>
+			<value>Leave &amp; Save Changes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
-			<value>音頻和語言</value>
+			<value>Audio &amp; Language</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1404</key>
-			<value>控制</value>
+			<value>Controls</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1405</key>
-			<value>基礎</value>
+			<value>Basic</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1406</key>
-			<value>已激活控制器</value>
+			<value>Active Controller</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1407</key>
-			<value>高級</value>
+			<value>Advanced</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1408</key>
-			<value>預飛檢查表</value>
+			<value>Preflight Checklist</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1410</key>
-			<value>弱化恐怖</value>
+			<value>Reduced Frights</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1411</key>
-			<value>弱化恐怖 (Echoes of the Eye) </value>
+			<value>Reduced Frights (Echoes of the Eye)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>使特定恐怖鏡頭更易接受</value>
+			<value>Makes certain frightening sequences easier to navigate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>Echoes of the Eye帶來的恐怖感是預期體驗的一部分. 如果這類內容有礙你遊玩Outer Wilds, 開啟此選項可以降低這種恐怖感. \\n是否確認開啟? </value>
+			<value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>Outer Wilds帶來的恐怖感是預期體驗的一部分. 如果這類內容有礙你遊玩本遊戲, 開啟此選項可以降低這種恐怖感. \\n是否確認開啟? </value>
+			<value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
-			<value>噴射背包自動強化</value>
+			<value>Jetpack Auto Boost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>翻譯器自動裝備</value>
+			<value>Translator Auto Equip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>翻譯文本時暫停時間</value>
+			<value>Freeze time while translating text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>閱讀宇宙飛船日志時暫停時間</value>
+			<value>Freeze time while reading ship log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>與他人對話時暫停時間</value>
+			<value>Freeze time while talking to others</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
-			<value>音樂單獨音量</value>
+			<value>Music-only Volume</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1431</key>
-			<value>更改所有音樂和音效的音量. </value>
+			<value>Change volume for all music and sound effects.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>一般</value>
+			<value>General</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
-			<value>移動</value>
+			<value>Movement</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1442</key>
-			<value>裝備</value>
+			<value>Equipment</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1443</key>
-			<value>飛行</value>
+			<value>Flight</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1444</key>
-			<value>宇宙飛船日志</value>
+			<value>Ship Log</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1445</key>
-			<value>撤回偵查兵</value>
+			<value>Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1446</key>
-			<value>主要交互</value>
+			<value>Primary Interact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1447</key>
-			<value>次要交互</value>
+			<value>Secondary Interact</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1450</key>
-			<value>宇宙飛船燃料耗盡</value>
+			<value>SHIP FUEL DEPLETED</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1451</key>
-			<value>新展品</value>
+			<value>New Exhibit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
-			<value>Echoes of the Eye中的特定內容對部分玩家可能會過於刺激. 如果這類內容有礙你遊玩Outer Wilds, 遊戲玩法菜單中有一個選項可幫你改善體驗. </value>
+			<value>Certain parts of Echoes of the Eye can be intense for some players. If they become an obstacle to your enjoyment of Outer Wilds, a "Reduced Frights" option is available in the gameplay menu.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
-			<value>調整滑塊, 直到左側圖像剛好隱約可見. </value>
+			<value>Adjust the slider until the image on the left is barely visible.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1500</key>
-			<value>- 新展品 -</value>
+			<value>- NEW EXHIBIT -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1501</key>
-			<value>- 即將推出 -</value>
+			<value>- COMING SOON -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1502</key>
-			<value>翻譯器自動裝備</value>
+			<value>Translator Auto Equip</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
-			<value>音頻和語言</value>
+			<value>AUDIO &amp; LANGUAGE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1504</key>
-			<value>控制</value>
+			<value>CONTROLS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1505</key>
-			<value>水體質量</value>
+			<value>Water Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
-			<value>海浪的精細程度以及水體的照明質量. \\n渲染負載: 高</value>
+			<value>Amount of detail in waves and lighting quality of the water.\\nRendering cost: High</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
-			<value>照明效果質量</value>
+			<value>Lighting Effects Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
-			<value>遊戲世界中某些地點的反射分辨率和室內暗部. \\n渲染負載: 中</value>
+			<value>Resolution of reflections and darkened interiors in certain locations through the game world.\\nRendering cost: Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
-			<value>反射質量</value>
+			<value>Reflections Quality</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
-			<value>遊戲世界中某些地點的反射分辨率. \\n渲染負載: 中</value>
+			<value>Resolution of reflections in certain locations through the game world.\\nRendering cost: Medium</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1511</key>
-			<value>離開並保存更改</value>
+			<value>Leave &amp; Save Changes</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
-			<value>默認設置 (遊戲) </value>
+			<value>Default Settings (Gameplay)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>默認設置 (音頻和語言) </value>
+			<value>Default Settings (Audio &amp; Language)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
-			<value>默認設置 (控制) </value>
+			<value>Default Settings (Controls)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1515</key>
-			<value>默認設置 (畫面) </value>
+			<value>Default Settings (Graphics)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
-			<value>感謝您對Outer Wilds探險隊的支持! 村莊的天文台現在正在舉辦一場新的博物館展覽. </value>
+			<value>Thank you for supporting Outer Wilds Ventures! A new museum exhibit is now available in the village observatory.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1521</key>
-			<value>8號補丁 (PS4版 </value>
+			<value>Patch 8 (PS4 version </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1522</key>
-			<value>) 包含控制輸入系統的重大更新. 因此, 所有的輸入綁定已被重設為默認設置. 為您帶來不便, 我們很抱歉! </value>
+			<value>) contains major updates to the input system.	As a result, all input bindings have been reset to defaults. We apologize for the inconvenience!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1523</key>
-			<value>8號補丁包含控制輸入系統的重大更新. 因此, 所有的輸入綁定已被重設為默認設置. 為您帶來不便, 我們很抱歉! </value>
+			<value>Patch 8 contains major updates to the input system.	As a result, all input bindings have been reset to defaults. We apologize for the inconvenience!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
-			<value>深空無線電</value>
+			<value>DEEP SPACE RADIO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1531</key>
-			<value>無線電塔</value>
+			<value>RADIO TOWER</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1532</key>
-			<value>深空衛星</value>
+			<value>DEEP SPACE SATELLITE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
-			<value>在標題畫面繼續探險之後, 即可使用Echoes of the Eye. 你要立即返回到標題畫面嗎? </value>
+			<value>Echoes of the Eye will become available once you resume from the title screen. Do you want to return to the title screen now?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1541</key>
-			<value>對象交互 (次要交互) </value>
+			<value>Interact with objects (secondary interactions)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1542</key>
-			<value>偵察兵: 發射/發送快照\\n信號鏡: 放大\\n翻譯器: 翻譯</value>
+			<value>Scout: Launch/Forward Snapshot\\nSignalscope: Zoom In\\nTranslator: Translate</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1543</key>
-			<value>偵察兵: 後視快照</value>
+			<value>Scout: Rearview Snapshot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1544</key>
-			<value>更改音效的音量. </value>
+			<value>Change volume for sound effects.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1545</key>
-			<value>更改音效的音量. </value>
+			<value>Change volume for sound effects.</value>
 		</TranslationTableEntryUI>
 	</table_ui>
 </TranslationTable_XML>
