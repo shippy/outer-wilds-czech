@@ -12739,15 +12739,15 @@
 	<table_ui>
 		<TranslationTableEntryUI>
 			<key>100</key>
-			<value>RESUME EXPEDITION</value>
+			<value>POKRAČOVAT V EXPEDICI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>101</key>
-			<value>NEW EXPEDITION</value>
+			<value>NOVÁ EXPEDICE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>102</key>
-			<value>QUIT</value>
+			<value>KONEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>103</key>
@@ -12755,19 +12755,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>104</key>
-			<value>OPTIONS</value>
+			<value>NASTAVENÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>105</key>
-			<value>VIEW CREDITS</value>
+			<value>O AUTORECH</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>106</key>
-			<value>YES</value>
+			<value>ANO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>107</key>
-			<value>NO</value>
+			<value>NE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>108</key>
@@ -12775,19 +12775,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>109</key>
-			<value>Confirm changes?</value>
+			<value>Potvrdit změny?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>110</key>
-			<value>CURRENT PROFILE:</value>
+			<value>SOUČASNÝ PROFIL:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>111</key>
-			<value>CREATE NEW PROFILE</value>
+			<value>NOVÝ PROFIL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>112</key>
-			<value>DELETE PROFILE</value>
+			<value>SMAZAT PROFIL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>113</key>
@@ -12799,15 +12799,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
-			<value>Are you sure? This will delete all progress.</value>
+			<value>Určitě? Veškerý postup bude ztracen.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>116</key>
-			<value>Are you sure?</value>
+			<value>Určitě?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>117</key>
-			<value>BACK</value>
+			<value>ZPĚT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>118</key>
@@ -12819,7 +12819,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>120</key>
-			<value>GAMEPLAY</value>
+			<value>HRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>121</key>
@@ -12827,7 +12827,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>122</key>
-			<value>GRAPHICS</value>
+			<value>GRAFIKA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>123</key>
@@ -12851,15 +12851,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>128</key>
-			<value>Settings</value>
+			<value>Nastavení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>129</key>
-			<value>Default Settings</value>
+			<value>Původní nastavení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>130</key>
-			<value>Full Screen Mode</value>
+			<value>Režim celé obrazovky</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>131</key>
@@ -12867,11 +12867,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>132</key>
-			<value>Aspect Ratio</value>
+			<value>Poměr stran</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>133</key>
-			<value>Resolution</value>
+			<value>Rozlišení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>134</key>
@@ -12883,19 +12883,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>136</key>
-			<value>Texture Quality</value>
+			<value>Kvalita textur</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>137</key>
-			<value>Ocean Quality</value>
+			<value>Kvalita oceánu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>138</key>
-			<value>Foliage Quality</value>
+			<value>Kvalita vegatace</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>Shadow Quality</value>
+			<value>Kvalita stínů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
@@ -12935,15 +12935,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>151</key>
-			<value>Look Sensitivity</value>
+			<value>Citlivost pohledu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>152</key>
-			<value>Flight Sensitivity</value>
+			<value>Citlivost letu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>153</key>
-			<value>Text Speed</value>
+			<value>Rychlost textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
@@ -12951,7 +12951,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
-			<value>Exit to Main Menu</value>
+			<value>Návrat do hlavní nabídky</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>156</key>
@@ -12987,11 +12987,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>170</key>
-			<value>Text Speed</value>
+			<value>Rychlost textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>171</key>
-			<value>Freeze Time While Reading</value>
+			<value>Zastavit čas během čtení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
@@ -12999,11 +12999,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
-			<value>Ship Log</value>
+			<value>Lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>174</key>
-			<value>Conversations</value>
+			<value>Rozhovory</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>175</key>
@@ -13011,59 +13011,59 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>176</key>
-			<value>Language</value>
+			<value>Jazyk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>180</key>
-			<value>Do you want to keep these settings?\\nReverting to previous settings in </value>
+			<value>Zachovat tato nastavení?\\nNávrat k původnímu nastavení za </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>181</key>
-			<value> seconds...</value>
+			<value> vteřin...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>182</key>
-			<value> second...</value>
+			<value> vteřinu...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>183</key>
-			<value>Error: Profile names have a limit of </value>
+			<value>Chyba: Název profilu může mít maximálně </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>184</key>
-			<value> characters and cannot be a duplicate of an existing profile</value>
+			<value> znaků a nesmí být shodný s již existujícím názvem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>185</key>
-			<value>Enter Profile Name</value>
+			<value>Zadat název profilu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>186</key>
-			<value>CREATE NEW PROFILE</value>
+			<value>VYTVOŘIT NOVÝ PROFILE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>187</key>
-			<value>Delete</value>
+			<value>Smazat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>188</key>
-			<value>Are You Sure?</value>
+			<value>Určitě?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>190</key>
-			<value>Invert Player Look</value>
+			<value>Invertovat pohled postavy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>191</key>
-			<value>Invert Ship Look</value>
+			<value>Invertovat pohled z lodi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>192</key>
-			<value>Look Sensitivity</value>
+			<value>Citlivost rozhlížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>193</key>
-			<value>Flight Look Sensitivity</value>
+			<value>Citlivost rozhlížení z lodi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>194</key>
@@ -13095,7 +13095,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
-			<value>Match Velocity</value>
+			<value>Srovnat rychlost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
@@ -13107,7 +13107,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
-			<value>Flashlight</value>
+			<value>Baterka</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
@@ -13115,7 +13115,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>207</key>
-			<value>View Map</value>
+			<value>Zobrazit mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>208</key>
@@ -13635,7 +13635,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>380</key>
-			<value>Leave Menu</value>
+			<value>Opustit nabídku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>381</key>
@@ -13919,11 +13919,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
-			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; is best experienced with a game pad...</value>
+			<value>&lt;color=orange&gt;Outer Wilds&lt;/color&gt; si nejlépe užijete s ovladačem...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>520</key>
-			<value>Controller disconnected.\\nPlease reconnect your controller.</value>
+			<value>Ovladač odpojen.\\nProsím připoj ovladač.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>521</key>
@@ -13939,7 +13939,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>524</key>
-			<value>Profile Management</value>
+			<value>Správa profilu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>525</key>
@@ -13963,7 +13963,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>554</key>
-			<value>Cancel</value>
+			<value>Zrušit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
@@ -14007,11 +14007,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>565</key>
-			<value>Map</value>
+			<value>Mapa</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>566</key>
-			<value>Pause</value>
+			<value>Pauza</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>567</key>
@@ -14459,7 +14459,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>902</key>
-			<value>Vibration</value>
+			<value>Vibrace</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>903</key>
@@ -14475,15 +14475,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>906</key>
-			<value>Photo Mode</value>
+			<value>Forografický režim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>907</key>
-			<value>Music Volume</value>
+			<value>Hlasitost hudby</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>908</key>
-			<value>SFX Volume</value>
+			<value>Hlasitost zvukových efektů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>909</key>
@@ -14715,7 +14715,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
-			<value>SWITCH PROFILE</value>
+			<value>VYBRAT PROFIL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
@@ -14791,39 +14791,39 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>989</key>
-			<value>Slow</value>
+			<value>Pomalý</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>990</key>
-			<value>Normal</value>
+			<value>Normální</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>991</key>
-			<value>Fast</value>
+			<value>Rychlý</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>992</key>
-			<value>Instant</value>
+			<value>Okamžitý</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1000</key>
-			<value>Create Profile</value>
+			<value>Nový profil</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1001</key>
-			<value>Enter Profile Name...</value>
+			<value>Zadat název profilu...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1002</key>
-			<value>Create</value>
+			<value>Potvrdit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1003</key>
-			<value>Cancel And Exit Game</value>
+			<value>Zrušit a ukončit hru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1004</key>
-			<value>Delete the profile </value>
+			<value>Smazat profil </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1005</key>
@@ -14831,7 +14831,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1006</key>
-			<value>Switch to profile </value>
+			<value>Vybrat profil </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1007</key>
@@ -14839,11 +14839,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1008</key>
-			<value>Switch</value>
+			<value>Vybrat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1009</key>
-			<value>Last Saved: </value>
+			<value>Naposledy uloženo: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1010</key>
@@ -14879,7 +14879,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
-			<value>Confirm</value>
+			<value>Potvrdit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1019</key>
@@ -14891,19 +14891,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1021</key>
-			<value>Move X-Axis</value>
+			<value>Pohyb v ose X</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1022</key>
-			<value>Move Y-Axis</value>
+			<value>Pohyb v ose Y</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1023</key>
-			<value>Look X-Axis</value>
+			<value>Rozhlížení v ose X</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1024</key>
-			<value>Look Y-Axis</value>
+			<value>Rozhlížení v ose Y</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1025</key>
@@ -15051,11 +15051,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1108</key>
-			<value>Delete Profile</value>
+			<value>Smazat profil</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1109</key>
-			<value>Switch Profile</value>
+			<value>Vybrat profil</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1110</key>
@@ -15267,7 +15267,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1166</key>
-			<value>Jump</value>
+			<value>Skok</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1167</key>
@@ -15615,15 +15615,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1403</key>
-			<value>Audio &amp; Language</value>
+			<value>Audio &amp; jazyk</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1404</key>
-			<value>Controls</value>
+			<value>Ovládání</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1405</key>
-			<value>Basic</value>
+			<value>Základní</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1406</key>
@@ -15631,11 +15631,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1407</key>
-			<value>Advanced</value>
+			<value>Další</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1408</key>
-			<value>Preflight Checklist</value>
+			<value>Odletová kontrola</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1410</key>
@@ -15667,15 +15667,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Freeze time while translating text</value>
+			<value>Zastavit čas během překládání textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Freeze time while reading ship log</value>
+			<value>Zastavit čas během čtení lodního deníku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Freeze time while talking to others</value>
+			<value>Zastavit čas během rozhovorů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
@@ -15687,23 +15687,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>General</value>
+			<value>Obecné</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
-			<value>Movement</value>
+			<value>Pohyb</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1442</key>
-			<value>Equipment</value>
+			<value>Vybavení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1443</key>
-			<value>Flight</value>
+			<value>Let</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1444</key>
-			<value>Ship Log</value>
+			<value>Lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1445</key>
@@ -15711,11 +15711,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1446</key>
-			<value>Primary Interact</value>
+			<value>Primární interakce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1447</key>
-			<value>Secondary Interact</value>
+			<value>Sekundární interakce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1450</key>
@@ -15783,19 +15783,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
-			<value>Default Settings (Gameplay)</value>
+			<value>Originální nastavení (hra)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>Default Settings (Audio &amp; Language)</value>
+			<value>Originální nastavení (audio &amp; jazyk)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
-			<value>Default Settings (Controls)</value>
+			<value>Originální nastavení (ovládání)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1515</key>
-			<value>Default Settings (Graphics)</value>
+			<value>Originální nastavení (grafika)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
