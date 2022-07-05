@@ -12947,7 +12947,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>154</key>
-			<value>Meditate Until Next Loop</value>
+			<value>Meditovat do začátku další smyčky</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>155</key>
@@ -13111,7 +13111,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
-			<value>Equip Scout Launcher</value>
+			<value>Nasadit sondomet</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>207</key>
@@ -13127,11 +13127,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>210</key>
-			<value>Unbuckle</value>
+			<value>Odpoutat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Equip Translator</value>
+			<value>Nasadit překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
@@ -13147,11 +13147,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>	 Wake Up</value>
+			<value>	 Vzbuď se</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value>(Hold and Release)</value>
+			<value>(podrž a uvolni)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
@@ -13171,7 +13171,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>222</key>
-			<value>Tah vzhůru / dolů</value>
+			<value>Tah nahoru / dolu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>223</key>
@@ -13199,7 +13199,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
-			<value>Launch Scout</value>
+			<value>Vypustit sondu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
@@ -13291,7 +13291,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>270</key>
-			<value>Leave</value>
+			<value>Opustit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>271</key>
@@ -13319,11 +13319,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>277</key>
-			<value>Use Scout Launcher</value>
+			<value>Použít sondomet</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>278</key>
-			<value>Fly Model Ship</value>
+			<value>Ovládat model lodi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>279</key>
@@ -13335,7 +13335,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Requires Launch Codes</value>
+			<value>Vyžaduje spouštěcí kódy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
@@ -13759,7 +13759,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
-			<value>CONNECTION WITH SCOUT IS LOST</value>
+			<value>SPOJENÍ SE SONDOU ZTRACENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
@@ -13767,15 +13767,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
-			<value>HEADLIGHTS ON</value>
+			<value>SVĚTLA ROZSVÍCENA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>446</key>
-			<value>HEADLIGHTS OFF</value>
+			<value>SVĚTLA ZHASNUTA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>447</key>
-			<value>SCOUT LAUNCH OBSTRUCTED</value>
+			<value>CESTA SONDOMETU ZABLOKOVÁNA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>450</key>
@@ -13787,7 +13787,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>452</key>
-			<value>COCKPIT</value>
+			<value>KOKPIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>453</key>
@@ -13807,19 +13807,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>457</key>
-			<value>FUEL TANK</value>
+			<value>PALIVOVÁ NÁDRŽ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>458</key>
-			<value>ARTIFICIAL GRAVITY</value>
+			<value>UMĚLÁ GRAVITACE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>459</key>
-			<value>HEADLIGHTS</value>
+			<value>SVĚTLA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>460</key>
-			<value>LANDING CAMERA</value>
+			<value>PARKOVACÍ KAMERA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>461</key>
@@ -13831,11 +13831,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>463</key>
-			<value>OXYGEN TANK</value>
+			<value>KYSLÍKOVÁ NÁDRŽ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>464</key>
-			<value>REACTOR</value>
+			<value>REAKTOR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>465</key>
@@ -13847,23 +13847,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
-			<value>STAGE 1: ALIGNING FLIGHT TRAJECTORY</value>
+			<value>FÁZE 1: PŘIZPŮSOBENÍ TRAJEKTORIE LETU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>481</key>
-			<value>STAGE 2: ACCELERATING TOWARD DESTINATION</value>
+			<value>FÁZE 2: ZRYCHLENÍ SMĚREM K CÍLI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>482</key>
-			<value>STAGE 3: FIRING RETRO-ROCKETS</value>
+			<value>FÁZE 3: VYSTŘELUJI ZPĚTNÉ RAKETY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>483</key>
-			<value>MATCHING VELOCITY</value>
+			<value>SROVNÁVÁNÍ RYCHLOSTI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>484</key>
-			<value>VELOCITY MATCHED</value>
+			<value>RYCHLOST SROVNÁNA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
@@ -13871,7 +13871,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
-			<value>VELOCITY MATCH ABORTED</value>
+			<value>SROVNÁVÁNÍ RYCHLOSTI ZRUŠENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
@@ -13887,23 +13887,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>500</key>
-			<value>RESUME</value>
+			<value>NÁVRAT DO HRY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>501</key>
-			<value>QUIT</value>
+			<value>KONEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>502</key>
-			<value>QUIT TO MAIN MENU\\n\\n(ALL PROGRESS WILL BE LOST)</value>
+			<value>NÁVRAT DO HLAVNÍ NABÍDKY\\n\\n(VEŠKERÝ POSTUP BUDE ZTRACEN)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>RESET LOOP AND QUIT TO MAIN MENU</value>
+			<value>UKONČIT SMYČKU A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>MEDITATE UNTIL NEXT LOOP</value>
+			<value>MEDITOVAT DO ZAČÁTKU DALŠÍ SMYČKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
@@ -14075,11 +14075,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>582</key>
-			<value>Scout Camera Up / Down</value>
+			<value>Kamera sondy nahoru / dolů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>583</key>
-			<value>Scout Camera Left / Right</value>
+			<value>Kamera sondy vlevo / vpravot</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>584</key>
@@ -14103,7 +14103,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>589</key>
-			<value>Scout Mode</value>
+			<value>Režim sondy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>600</key>
@@ -14723,11 +14723,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
-			<value>UNABLE TO RETRIEVE SCOUT; TOO MANY TARGETS</value>
+			<value>NELZE VYZVEDNOUT SONDU; PŘÍLIŠ MNOHO CÍLŮ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>969</key>
-			<value>EMERGENCY SCOUT RECALL ACTIVATED</value>
+			<value>NOUZOVÉ PŘIVOLÁNÍ SONDY AKTIVOVÁNO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
@@ -14735,11 +14735,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
-			<value> OF 3 REPAIRED</value>
+			<value> ZE 3 OPRAVENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>972</key>
-			<value>3 OF 3 REPAIRED\\nTRAINING SIMULATION COMPLETE</value>
+			<value>3 ZE 3 OPRAVENO\\nCVIČENÍ DOKONČENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
@@ -14851,19 +14851,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1011</key>
-			<value>Rebind Controls</value>
+			<value>Změnit rozložení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1012</key>
-			<value>Control Rebinding</value>
+			<value>Změna rozložení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1013</key>
-			<value>Gamepad</value>
+			<value>Ovladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1014</key>
-			<value>Keyboard &amp; Mouse</value>
+			<value>Klávesnice &amp; myš</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1015</key>
@@ -14875,7 +14875,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
-			<value>Cancel Rebinding</value>
+			<value>Zrušit změnu rozložení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1018</key>
@@ -14907,11 +14907,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1025</key>
-			<value>Launch Scout / Forward Snapshot</value>
+			<value>Vypustit sondu / Přední fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1026</key>
-			<value>Scout Rearview Snapshot</value>
+			<value>Zadní fotoaparát sondy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1027</key>
@@ -14923,7 +14923,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1029</key>
-			<value>Roll Mode</value>
+			<value>Režim rotace</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1030</key>
@@ -15003,11 +15003,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1049</key>
-			<value>Axis #</value>
+			<value>Osa #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1050</key>
-			<value>Button #</value>
+			<value>Tlačítko #</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
@@ -15027,7 +15027,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1102</key>
-			<value>ERROR: SCOUT RECALL FAILED</value>
+			<value>CHYBA: VYZVEDNUTÍ SONDY SELHALO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1103</key>
@@ -15043,11 +15043,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1106</key>
-			<value>GAMEPAD</value>
+			<value>OVLADAČ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1107</key>
-			<value>KEYBOARD &amp; MOUSE</value>
+			<value>KLÁVESNICE &amp; MYŠ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1108</key>
@@ -15531,7 +15531,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1322</key>
-			<value>Retrieve Scout</value>
+			<value>Vyzvednutí sondy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1323</key>
@@ -15699,7 +15699,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1443</key>
-			<value>Let</value>
+			<value>Létání</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1444</key>
@@ -15707,7 +15707,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1445</key>
-			<value>Retrieve Scout</value>
+			<value>1445-Retrieve Scout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1446</key>
