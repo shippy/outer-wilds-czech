@@ -1806,7 +1806,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
-		<value>Vypadá to, že ty a já jsme jediní, kteří si všimli, že čas se zacyklil. Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřeli, ale mysleli si, že se ptám metaforicky.</value>
+		<value>Vypadá to, že ty a já jsme jediní, kteří si všimli, že čas se zacyklil. Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřeli, ale myslel si, že se ptám metaforicky.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
@@ -1898,7 +1898,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pauza&gt; ...Chápeš?</value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -1922,11 +1922,11 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití.</value>
 	</entry>
 	<entry>
 		<key>GabbrosShipThat’s a good question.</key>
@@ -9444,327 +9444,327 @@
 	</entry>
 	<entry>
 		<key>Esker</key>
-		<value>Esker</value>
+		<value>Eskerem</value>
 	</entry>
 	<entry>
 		<key>Esker1Oh, hey, it’s you!</key>
-		<value>哦, 嘿, 是你! </value>
+		<value>Ahoj, jsi to ty!</value>
 	</entry>
 	<entry>
 		<key>Esker1Ground control didn’t tell me you were launching. Long time no see!</key>
-		<value>地面管控沒告訴我你發射了. 好久不見! </value>
+		<value>Centrála mi neřekla, že dnes vzlétáš! Už jsme se dlouho neviděli!</value>
 	</entry>
 	<entry>
 		<key>Esker1Actually. I guess it’s been a long time since I’ve seen anyone.</key>
-		<value>實際上. 我想我已經很久沒有見到任何一個人了. </value>
+		<value>Vlastně už je to nějakou dobu, co jsem viděl kohokoliv.</value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Don’t the other travelers come by?</key>
-		<value>沒有其他的旅行家經過嗎? </value>
+		<value>Nechodí sem ostatní cestovatelé? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Was that you whistling?</key>
-		<value>是你在吹口哨嗎? </value>
+		<value>To ty si tu pískáš? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Seems lonely up here.</key>
-		<value>這兒看上去很荒蕪. </value>
+		<value>Přijde mi to tu osamělé. </value>
 	</entry>
 	<entry>
 		<key>EskerEsker1What is this place?</key>
-		<value>這是哪里? </value>
+		<value>Co je tohle za místo? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Marl says hi.</key>
-		<value>Marl向你問好. </value>
+		<value>Marl říká ahoj. </value>
 	</entry>
 	<entry>
 		<key>EskerEsker1Talk to you later.</key>
-		<value>以後再聊. </value>
+		<value>Popovídáme si později. </value>
 	</entry>
 	<entry>
 		<key>Esker2Don’t go! Uh, I mean, anything else you wanted to ask?</key>
-		<value>別走! 呃, 我是說, 你還有別的事想問嗎? </value>
+		<value>Nechoď ještě! Uh, tím myslím, chceš se ještě na něco zeptat? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2Don’t the other travelers come by?</key>
-		<value>沒有其他的旅行家經過嗎? </value>
+		<value>Nechodí sem ostatní cestovatelé? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2Seems lonely up here.</key>
-		<value>這兒看上去很荒蕪. </value>
+		<value>Přijde mi to tu osamělé. </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2Was that you whistling?</key>
-		<value>是你在吹口哨嗎? </value>
+		<value>To ty si tu pískáš? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2What is this place?</key>
-		<value>這是哪里? </value>
+		<value>Co je tohle za místo? </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2Marl says hi.</key>
-		<value>Marl向你問好. </value>
+		<value>Marl říká ahoj. </value>
 	</entry>
 	<entry>
 		<key>EskerEsker2Talk to you later.</key>
-		<value>以後再聊. </value>
+		<value>Popovídáme si později. </value>
 	</entry>
 	<entry>
 		<key>OtherTravelersThe Lunar Outpost saw more traffic back when our ships were less sophisticated and needed more frequent repairs. Nowadays, it’s mostly used to keep a set of eyes on things.</key>
-		<value>我們的宇宙飛船不那麽覆雜, 而且常常需要修理那會兒, \\n月球基地比現在熱鬧得多. 現在, 大多數時候它就是用來監視周遭的. </value>
+		<value>Lunární výspa bývala častěji navštěvovaná, když naše lodě nebyly tak sofistikované a potřebovaly častěji opravit. Dnes ji používáme hlavně k tomu, aby se na věci dohlédlo.</value>
 	</entry>
 	<entry>
 		<key>OtherTravelersSometimes Chert comes by to say hi, but Gabbro is Gabbro, and you know how Riebeck feels about “unnecessary spaceflight.”</key>
-		<value>有時Chert會過來打個招呼, 但Gabbro就是Gabbro, \\n你也知道Riebeck對“不必要的太空航行”是什麽看法. </value>
+		<value>Občas sem Chert přijde pozdravit, ale Gabbro je Gabbro, a však víš, jak se Riebeck tváří na "nepotřebné průlet vesmírem." </value>
 	</entry>
 	<entry>
 		<key>LonelyA little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</key>
-		<value>有點. 我和地面管控有聯系, 大多數時候是Hornfels和Gossan與我說話, \\n他們時不時會用無線電聊天. </value>
+		<value>Trošku. Jsem ve spojení s centrálou - což je hlavně Hornfels a Gossan - a oni mi občas zavolají a mluví se mnou.</value>
 	</entry>
 	<entry>
 		<key>LonelyAnd when ground control forgets I’m up here &lt;size=20&gt;and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</key>
-		<value>地面管控忘記我還在這兒時, 其實&lt;size=20&gt;他經常忘記&lt;/size&gt;, \\n我就在村子里發射小偵查兵. </value>
+		<value>A když na mě centrála zapomene, &lt;size=20&gt;což se často stává&lt;/size&gt;, vystřelím na vesnici svou sondu. </value>
 	</entry>
 	<entry>
 		<key>EskerLonelyThey forget about you?</key>
-		<value>他忘了你? </value>
+		<value>Oni na tebe zapomínají? </value>
 	</entry>
 	<entry>
 		<key>EskerLonelyYou &lt;i&gt;spy&lt;/i&gt; on us?</key>
-		<value>你&lt;i&gt;在監視&lt;/i&gt;我們? </value>
+		<value>Ty na nás &lt;i&gt;špehuješ&lt;/i&gt;? </value>
 	</entry>
 	<entry>
 		<key>ForgetI don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place.</key>
-		<value>我不怪他. 一是因為我不像其他旅行家那樣時常聯系, \\n畢竟我總是待在一個地方. </value>
+		<value>Nemám jim to za zlé. Nehlásím se jim tak často jako ostatní cestovatelé, protože jsem vždycky na stejném místě.</value>
 	</entry>
 	<entry>
 		<key>ForgetAnd it’s not so bad up here, really. At least it’s peaceful and quiet. You don’t always get that in our solar system.</key>
-		<value>而且老實說, 待在這里沒那麽糟糕. 至少這里很安寧祥和. \\n在我們的太陽系, 這可不多見. </value>
+		<value>A není to tu tak špatné. Alespoň je tu mírumilovně a tiše. To se v naší sluneční soustavě jen tak nenajde.</value>
 	</entry>
 	<entry>
 		<key>ForgetLet alone in our village.</key>
-		<value>更別說我們村子了. </value>
+		<value>Co teprve v naší vesnici. </value>
 	</entry>
 	<entry>
 		<key>SpyWhat? No! It’s not spying, it’s...</key>
-		<value>什麽? 不! 不是監視, 只是...</value>
+		<value>Cože? Ne! Není to špehování, je to...</value>
 	</entry>
 	<entry>
 		<key>SpyIt’s one-way communication. That none of the villagers know about. &lt;size=20&gt;Because I’ve never told them&lt;/size&gt;.</key>
-		<value>只是單向交流. 而且沒有村民知道這事兒. &lt;size=20&gt;因為我從沒告訴過他們&lt;/size&gt;. </value>
+		<value>Je to jednosměrná komunikace. O které nikdo z vesničanů neví. &lt;size=20&gt;Protože jsem jim o ní nikdy neřekl&lt;/size&gt;. </value>
 	</entry>
 	<entry>
 		<key>MusicProbably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</key>
-		<value>大概吧. 或者其實, 就是這樣. 其他旅行家攜帶樂器, \\n所以他們不吹口哨. </value>
+		<value>Pravděpodobně. Nebo vlastně, určitě. Ostatní cestovatelé mají nástroje, takže neobtěžují pískat. </value>
 	</entry>
 	<entry>
 		<key>MusicYou can pick up their music with a signalscope, you know. Best spot for that is the &lt;color=orange&gt;north pole&lt;/color&gt;. Great reception.</key>
-		<value>知道嗎, 你可以用信號鏡聽到他們的音樂. 而且最佳的位置就在\\n&lt;color=orange&gt;北極&lt;/color&gt;. 接收到的信號非常好. </value>
+		<value>Tvůj signáloskop dokáže slyšet hudbu, víš? Nejlepší místo pro to je &lt;color=orange&gt;severní pól&lt;/color&gt;. Skvělý příjem.</value>
 	</entry>
 	<entry>
 		<key>MusicThe north pole is marked in red on your &lt;color=orange&gt;mini map&lt;/color&gt;, but the Attlerock is a pretty small moon, really. Just go north. You can’t miss it.</key>
-		<value>北極已經在你的&lt;color=orange&gt;小地圖&lt;/color&gt;上用紅色標了出來. \\n不過, 廢巖星只是一顆非常小的衛星. 往北走吧. 你不會錯過的. </value>
+		<value>Severní pól je označený červeně na tvé &lt;color=orange&gt;minimapě&lt;/color&gt;, ale Vytěženec je velmi malý měsíc. Prostě běž na sever. Nemůžeš ho přehlédnout.</value>
 	</entry>
 	<entry>
 		<key>PlaceHa ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</key>
-		<value>哈哈, 非常有趣. &lt;Pause/&gt;...哦, 群星在上, 你是認真的對吧? 真讓人沮喪. </value>
+		<value>Haha, velmi vtipné. &lt;Pause/&gt; ...šmankote, to myslíš vážně, co? To je prostě smutné. </value>
 	</entry>
 	<entry>
 		<key>Place&lt;color=grey&gt;Sigh...&lt;/color&gt;&lt;Pause/&gt;Welcome to the Lunar Outpost, which apparently the space program doesn’t bother to teach anyone anymore.</key>
-		<value>&lt;color=grey&gt;唉... &lt;/color&gt;&lt;Pause/&gt;歡迎來到月球基地, 顯然現在太空計劃連教學工作都懶得做了. </value>
+		<value>&lt;color=grey&gt;Vzdech... &lt;/color&gt;&lt;Pause/&gt;Vítej do Lunární výspy, o které evidentně vesmírný program už nikoho neučí. </value>
 	</entry>
 	<entry>
 		<key>PlaceWhen we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</key>
-		<value>我們最初創辦Outer Wilds時, 旅行家們總會將宇宙飛船帶到這里修理. \\n自那時起, 我們的航天技術突飛猛進. 不過舊宇宙飛船, 呃, \\n總是會分崩離析. 我是說, 比現在壞得要嚴重得多. </value>
+		<value>Když jsme poprvé začali s Divočinnými výpravami, cestovatelé sem přilétali v jednom kuse, aby opravili své lodě. Naše vesmírná technologie se od té doby hodně zlepšila, ale starší lodě měly tendenci se, uh, hodně rozpadat. Víc než teď.</value>
 	</entry>
 	<entry>
 		<key>PlaceUsing the outpost cut down on the number of launches and landings taking place in the village and also the number of fires. Nowadays, though, it’s mostly just me up here raising saplings from Timber Hearth and keeping an eye on things.</key>
-		<value>基地的投入使用減少了宇宙飛船在村子里發射和著陸的次數, \\n也杜絕了不少火災. 不過現在基本上只有我還在這里, \\n種植木爐星的樹苗, 再監視一下周遭. </value>
+		<value>Používání výspy snížilo množství vzletů a přistání ve vesnici, a taky množství požárů. Dnes jsem to ale hlavně já - vychovávám stromečky z Domopece a dohlížím na věci.</value>
 	</entry>
 	<entry>
 		<key>MarlHeh, Marl is probably the only one who remembers I’m up here. I should go see the big lug soon.</key>
-		<value>嘿, Marl可能是唯一一個還記得我在這里的人. \\n我得趕緊去看看那個好心的大塊頭才是. </value>
+		<value>Heh, Marl je pravděpodobně jediný Domopecan, který si pamatuje, že tu jsem. Měl bych toho velkého osla brzy navštívit.</value>
 	</entry>
 	<entry>
 		<key>MarlDon’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</key>
-		<value>別告訴他這些事, 不過有時我也會派我的小偵查兵過去, \\n確保Marl沒做什麽傻事. 要不我就總會擔心村里的大樹會被砍掉. </value>
+		<value>Neříkej mu to, ale občas vystřelím svoji sondu jen proto, abych se ujistil, že Marl nedělá nic hloupého. Bojím se, že jinak by ten velký strom ve vesnici neměl šanci.</value>
 	</entry>
 	<entry>
 		<key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
-		<value>你好, 又見面了. 你還沒在這衛星上待夠? ...我開玩笑的. </value>
+		<value>Znovu ahoj. Tady na měsíci je vždycky co dělat! ...Dělám si legraci. </value>
 	</entry>
 	<entry>
 		<key>FirstConversationDo you hear music?</key>
-		<value>你聽到音樂了嗎? </value>
+		<value>Slyšíš hudbu? </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersAren’t you forgetting someone?</key>
-		<value>你是不是忘記誰了? </value>
+		<value>Nezapomínáš na někoho? </value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayI can’t wait to play with the whole group again. Can I start?</key>
-		<value>我等不及想和全組再演奏一次了. 我可以開始了嗎? </value>
+		<value>Nemůžu se dočkat, až budu zase moci se všemi hrát. Můžu začít?</value>
 	</entry>
 	<entry>
 		<key>EskerReadyToPlayYes.</key>
-		<value>是的. </value>
+		<value>Ano. </value>
 	</entry>
 	<entry>
 		<key>EskerReadyToPlayNot yet.</key>
-		<value>還不行. </value>
+		<value>Ještě ne. </value>
 	</entry>
 	<entry>
 		<key>StartPlayingOk, I won’t let you down!</key>
-		<value>好, 我不會讓你失望的! </value>
+		<value>Oukej, nezklamu tě! </value>
 	</entry>
 	<entry>
 		<key>NotYetOh, ok. I’ll– I’ll get to play soon though, right?</key>
-		<value>哦, 好的. 不過我、我很快就可以開始演奏了, 對吧? </value>
+		<value>Ach, oukej. Ale už-už budu moci brzy hrát, ano? </value>
 	</entry>
 	<entry>
 		<key>FarewellWow... How long has it been since I got to make music with everyone around a campfire?</key>
-		<value>哇...自從上次我和大家圍著營火演奏音樂以來, 已經過去多久了? </value>
+		<value>Wow... jak dlouho to je, co jsem naposledy hrál hudbu s ostatními kolem táboráku? </value>
 	</entry>
 	<entry>
 		<key>FarewellI’m really happy we’re all here.</key>
-		<value>真高興我們能在此團聚. </value>
+		<value>Jsem moc rád, že tu všichni jsme. </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersHatchling! You found me!</key>
-		<value>年輕人! 你找到我了! </value>
+		<value>Mládě! Našel jsi mě! </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersNice to have company around a campfire, isn’t it? Go on, go get the others. Wouldn’t want ’em to miss out!</key>
-		<value>有人能和我一起坐在營火邊可真棒, 對吧? 去吧, 去把其他人也叫來. \\n我可不希望他們錯過! </value>
+		<value>Je hezké mít u táboráku společnost, co? Běž, najdi ostatní. Nebudou si to chtít nechat ujít! </value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayWhaddya say, then — should I get out the ol’ harmonica?</key>
-		<value>你覺得呢, 我該把口琴拿出來嗎? </value>
+		<value>Co myslíš - měl bych vytáhnout svou starou dobrou harmoniku? </value>
 	</entry>
 	<entry>
 		<key>FeldsparReadyToPlayYes.</key>
-		<value>是的. </value>
+		<value>Ano. </value>
 	</entry>
 	<entry>
 		<key>FeldsparReadyToPlayNot yet.</key>
-		<value>還不行. </value>
+		<value>Ještě ne. </value>
 	</entry>
 	<entry>
 		<key>StartPlayingHa &lt;i&gt;ha&lt;/i&gt;! Here goes nothing!</key>
-		<value>哈&lt;i&gt;哈&lt;/i&gt;! 那我可就獻醜了! </value>
+		<value>Ha &lt;i&gt;ha&lt;/i&gt;! A jedeme! </value>
 	</entry>
 	<entry>
 		<key>NotYetYou got it hatchling. When you’re ready, just say the word.</key>
-		<value>沒問題, 年輕人. 你準備好後說一聲就行. </value>
+		<value>Jasně, mládě. Až budeš připraven, stačí říci.</value>
 	</entry>
 	<entry>
 		<key>FarewellYou cut it a little close, don’t you think?</key>
-		<value>你不覺得時間有點緊嗎? </value>
+		<value>To bylo trošku na poslední chvíli, nemyslíš? </value>
 	</entry>
 	<entry>
 		<key>FarewellWell, it worked out all right in the end, I suppose.</key>
-		<value>好吧, 我猜到頭來一切都還算順利. </value>
+		<value>Mno, nakonec všechno dopadlo dobře. </value>
 	</entry>
 	<entry>
 		<key>FarewellAhh, I hope there are beasties in the next one.</key>
-		<value>啊, 我希望下一個世界里能有小動物. </value>
+		<value>Ahh, doufám, že ten další bude taky mít potvůrky. </value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalTrip 4(?), entry #... I’m gonna say “not 1.”  \\n Crashes: 3 \\n Boring crashes: 0 (a personal best!)</key>
-		<value>第四次出發 (? ) , 第...我想說, “不是第一條. ” \\n墜毀次數: 3\\n無聊的墜機次數: 0 (個人最佳記錄! ) </value>
+		<value>Výlet 4(?), zápis #... řekněme "ne 1". \\n Havárie: 3 \\n Nudné havárie: 0 (osobní rekord!)</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalWhoa &lt;i&gt;ho&lt;/i&gt;! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?</key>
-		<value>哇哦&lt;i&gt;哈&lt;/i&gt;! 沒想到除了深巨星, 別的地方也有這些漂亮的家夥! \\n它們在深巨星可有用了, 也許在這里水母也能派上用場? </value>
+		<value>Ho&lt;i&gt;hó&lt;/i&gt;! Nikdy jsem si nemyslel, že uvidím jednu z těchhle potvůrek mimo Obří hlubinu! Byly mi tam moc užitečné - možná mi medúza pomůže i tady?</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalBLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?</key>
-		<value>呸. 這東西太難吃了! 外皮就像橡膠, 根本咬不動, \\n也許這是為了起到絕緣的作用, 保護水母內部, 以免觸電? </value>
+		<value>BLECH. Tahle věc chutná odporně! Zvenčí je gumová a tuhá -- což je možná proto, že izoluje své maso od venkovní elektřiny?</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalRight, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.</key>
-		<value>好了, 我要嘗嘗水母的里面, 看看會不會好吃一些. </value>
+		<value>No, jdu se podívat, jestli vnitřek medúzy chutná o něco líp. </value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalNote to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.</key>
-		<value>Feldspar請注意: 就算你快死了, 也別吃這玩意兒. \\n如果你臨死前最後一頓吃的是這個, 那就太糟糕了. </value>
+		<value>Poznámka pro Feldspara: NEJÍST, ANI KDYBYS UMÍRAL. Bylo by příliš smutné, kdyby tohle byla poslední věc, kterou jsi v tomto životě snědl.</value>
 	</entry>
 	<entry>
 		<key>FeldsparJellyfishJournalI guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)</key>
-		<value>我猜這些水母只有在隔絕電流時才有用. \\n再強調一遍, 別吃.  (愛你哦, Feldspar) </value>
+		<value>Hádám, že tyhle medúzy jsou užitečné jen pro izolaci od elektřiny. Znovu, NEJÍST. (S láskou, Feldspar) </value>
 	</entry>
 	<entry>
 		<key>MeetGabbroNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-		<value>真好, 是你啊. 真高興你能夠活著來到這里. \\n第一次獨自飛行總是非同一般, 不是嗎? </value>
+		<value>Á, to jsi ty! Jsem rád, že ses sem dostal v jednom kuse. První vzlet je celkem pálka, co?</value>
 	</entry>
 	<entry>
 		<key>MeetGabbroSo hey, don’t laugh, but I think I might have had some kind of spiritual experience with a rock shaped like a face.</key>
-		<value>嘿, 希望你別笑, 但我覺得我可能與一個形狀像人臉的\\n石頭一同經歷了某種精神體驗. </value>
+		<value>Hele, nesměj se, ale myslím, že jsem měl spirituální zážitek s kamenem ve tvaru tváře.</value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro...What?</key>
-		<value>...什麽? </value>
+		<value>...cože? </value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbroMe too!</key>
-		<value>我也是! </value>
+		<value>Já taky! </value>
 	</entry>
 	<entry>
 		<key>Explanation1One of the islands on Giant’s Deep has a Nomai statue on the beach - ever seen one? I brought one back to Timber Hearth with me. Big stone sculpture of a Nomai’s head, three eyes and everything. Beautifully carved, too.</key>
-		<value>深巨星其中一個島的沙灘上有座挪麥雕像, 你見過嗎? 我帶了一個回\\n木爐星. 那是個巨大的挪麥頭石雕, 有三只眼睛. 而且雕得十分精美. </value>
+		<value>Jeden z ostrovů na Obří hlubině má sochu Nomai na pláži - viděl jsi někdy nějakou? Jednu jsem s sebou přivezl na Domopec. Velká kamenná socha hlavy Nomai, se třema očima a tak. Krásně vysochaná.</value>
 	</entry>
 	<entry>
 		<key>Explanation1So one minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-		<value>一開始我還站在小島沙灘上看著挪麥雕像, 下一秒\\n我就發現它也在看著我, 還發著光. </value>
+		<value>Takže jednu minutu stojím na ostrově a koukám se na sochu Nomai na pláži, a najednou na mě taky kouká ta socha, a začne zářit. </value>
 	</entry>
 	<entry>
 		<key>Explanation1The sculpture replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-		<value>雕像把我做過的事都回放了一遍, 就好像它一直在通過我自己的眼睛\\n觀察我, 你明白嗎? 然後突然之間, 它又停下了, 一切恢覆正常. </value>
+		<value>Ta socha přehrála všechno, co jsem zrovna udělal, jako by mě sledovala mýma vlastníma očima, víš? A potom najednou přestala a všechno bylo zase normální. </value>
 	</entry>
 	<entry>
 		<key>GabbroExplanation1That happened to me at the observatory.</key>
-		<value>我是在天文台遇到這事兒的. </value>
+		<value>Totéž se mi stalo v observatoři. </value>
 	</entry>
 	<entry>
 		<key>YouTooHuhYou too, huh?</key>
-		<value>你也是嗎? </value>
+		<value>Ty taky, co? </value>
 	</entry>
 	<entry>
 		<key>Explanation2You’re saying the statue I brought to the museum started glowing at you? Yeah, sounds about right.</key>
-		<value>你是說我帶去博物館的雕像在開始對你發光? 是啊, 聽起來差不多. </value>
+		<value>Říkáš, že socha, kterou jsem přivezl do muzea, na tebe začala zářit? Jo, to odpovídá. </value>
 	</entry>
 	<entry>
 		<key>Explanation2One minute I’m standing on an island looking at a Nomai sculpture on the beach, and the next thing I know, it’s looking back at me, glowing.</key>
-		<value>一開始我還站在小島沙灘上看著挪麥雕像, 下一秒\\n我就發現它也在看著我, 還發著光. </value>
+		<value>Jednu minutu stojím na ostrově a koukám se na sochu Nomai na pláži, a najednou na mě taky kouká ta socha, a začne zářit. </value>
 	</entry>
 	<entry>
 		<key>Explanation2It replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-		<value>它把我做過的事都回放了一遍, 就好像它一直在通過我自己的眼睛\\n觀察我, 你明白嗎? 然後突然之間, 它又停下了, 一切恢覆正常. </value>
+		<value>Přehrála všechno, co jsem zrovna udělal, jako by mě sledovala mýma vlastníma očima, víš? A potom najednou přestala a všechno bylo zase normální.</value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeIt didn’t seem bad, just... weird? Were we the only ones who saw that happen?</key>
-		<value>看起來它沒有什麽惡意, 只是...感覺怪怪的? \\n只有我們目睹了這一切的發生嗎? </value>
+		<value>Nepřišlo mi to špatné, jen... divné? Stalo se to jenom nám?</value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeI tried radioing Hornfels and asking them about it, but they told me I must have just nodded off out here and gotten confused.</key>
-		<value>我試著用無線電聯系Hornfels問問他這怎麽回事, \\n但他說我肯定是在打瞌睡, 然後睡糊塗了. </value>
+		<value>Zkusil jsem zavolat Hornfelsovi a zeptat se ho, ale on mi řekl, že jsem asi usnul a něco se mi zdálo. </value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeThen we talked about dreams until Hornfels told me to go refill my oxygen tank before I talked myself to death.</key>
-		<value>然後我們就聊了聊夢的事情, 直到Hornfels提醒我去充氧氣瓶, \\n不然我就要把自己說憋死了. </value>
+		<value>Potom jsme mluvili o snech, dokud mi Hornfels neřekl, že si mám dojít doplnit kyslíkovou bombu, než ho umluvím k smrti. </value>
 	</entry>
 	<entry>
 		<key>ExplanationMergeSo that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
-		<value>嗯, 這對我倒是新鮮事兒. 不過, 嘿, 這可是你第一次單獨旅行! \\n我們還是來說說你吧? </value>
+		<value>Takže to se stalo mně. Ale hey, tohle je tvoje první sólo výprava! Pojďme mluvit o tobě, co myslíš? </value>
 	</entry>
 	<entry>
 		<key>Gabbro1_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll pull you into a trance if you look at ’em long enough.</key>
-		<value>你有沒有試過長時間地盯著氣旋看, 直到被它催眠為止? \\n我告訴你吧, 只要盯得時間足夠長, 你就會進入催眠狀態. </value>
+		<value>Sledoval jsi někdy cyklón tak dlouho, že tě začal hypnotizovat? Když na ně budeš zírat příliš dlouho, uvedou tě do transu. </value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI found a photo of you inside the old radio tower.</key>
-		<value>我在舊無線電塔里找到了一張你的照片. </value>
+		<value>Našel jsem tvou fotku uvnitř opuštěné radiové věže. </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoingWell, what are any of us doing here, really?</key>
@@ -9776,7 +9776,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoingBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>不過我得告訴你, 外太空真的能給你很大的思考空間. \\n這里又平靜又安寧. </value>
+		<value>Ale řeknu ti, vesmír ti opravdu poskytuje prostor pro přemýšlení. Je tu tiše a mírumilovně. </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoingI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
@@ -9784,103 +9784,103 @@
 	</entry>
 	<entry>
 		<key>WhereToExploreHere’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet.</key>
-		<value>你可能會對這個感興趣: 不久前, 我在天空中看到一道閃光. \\n星球周圍的軌道上一定發生了什麽. </value>
+		<value>Tumáš něco, co by se ti mohlo líbit - na začátku každé smyčky vidím na obloze jasný záblesk. Musí to být něco na oběžné dráze kolem planety. </value>
 	</entry>
 	<entry>
 		<key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš? </value>
 	</entry>
 	<entry>
 		<key>WhereToExploreI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>順便一說, 那些閃閃發光的玩意兒出現時, 我正躺在雕像島的沙灘上. \\n那座沙灘非常適合躺著放松. 按照Gabbro的舒適計量表, \\n10分里我給它打7分. </value>
+		<value>Byl jsem na pláži na Ostrovu soch, když se mi stal celý ten zářivý zážitek, mimochodem. Je to pro tento účel pěkná pláž. Dávám jí 7 bodů z 10 na Gabbrově relaxační škále. </value>
 	</entry>
 	<entry>
 		<key>WhereToExploreIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
+		<value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanetHaha, I know, right?</key>
-		<value>哈哈, 我知道, 沒錯吧? </value>
+		<value>Haha, já vím, žejo? </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>水面下有一股很強勁的水流, 使得水里的東西無法沈下去. 老實說, \\n我已經嘗試了所有能想到的東西穿過那股水流, 但全都失敗了. </value>
+		<value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanetAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>至於地塊, 算上這里, 我已經數到了四座小島. \\n我在沙灘上看到挪麥雕像的那座也算在里面. </value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanetYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>你見到氣旋了? 是啊, 不看見也難. 它們會把擋路的東西都掀飛, \\n就算是島嶼也一樣. 給你個小提示: 如果你被掀起來了, \\n試著在水里著陸. 這樣活下來的概率會高一點. </value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_1Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
-		<value>真好, 是你啊. 真高興你能夠活著來到這里. \\n第一次獨自飛行總是非同一般, 不是嗎? </value>
+		<value>Á, to jsi ty! Jsem rád, že ses sem dostal v jednom kuse. První vzlet je celkem pálka, co? </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_1So hey, don’t laugh, but I think I might have just, like, died? Somehow?</key>
-		<value>嘿, 希望你別笑, 但我覺得我可能已經死了? 莫名其妙就死了? </value>
+		<value>Hele, nesměj se, ale myslím, že jsem zrovna, jako, umřel? Nějak?</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
-		<value>你還記得幾分鐘前我們死了嗎? 也許記得? </value>
+		<value>Pamatuješ si, žes před pár minutami umřel? Možná? </value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro2F_1Oh yeah, we definitely died.</key>
-		<value>哦對, 我們肯定是死了. </value>
+		<value>Jojo, rozhodně jsme umřeli. </value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro2F_1I think we’re the only ones who know.</key>
-		<value>我覺得這一點只有我們才知道. </value>
+		<value>Myslím, že jsme jediní, kdo o tom ví. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_2Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</key>
-		<value>好吧, 我也是這樣想的. 如果是夢那就太真實了. </value>
+		<value>Oukej, kůlovatý, to jsem si myslel. Bylo to příliš intenzivní na to, aby to byl sen. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_2I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical.</key>
-		<value>我用無線電聯系了Hornfels, 想問問他有沒有死, \\n但我相當確定他以為我是在打比方. </value>
+		<value>Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřel, ale myslel si, že se ptám metaforicky. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_3Yeah, I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical or something.</key>
-		<value>對, 我用無線電聯系了Hornfels, 想問問他有沒有死, \\n但我相當確定他以為我是在打比方什麽的. </value>
+		<value>Jo, zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřeli, ale myslel si, že se ptám metaforicky. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a bad dream or something. I dunno what’s going on, though. Today’s been weird.</key>
-		<value>嗯, 如果你還記得當時快死了, 那我猜我並沒有睡著, \\n也沒有做什麽怪夢. 不過, 我不知道是怎麽回事. 今天真怪. </value>
+		<value>No, jestli si pamatuješ, že jsi umřel, tak jsem potom asi neměl jen zlý sen nebo tak něco. Nevím ale, co se děje. Dnešek je divnej.</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_4Like, I was on a different island earlier, right? I was on the beach looking at one of those big stone statues of a Nomai head, and the next thing I know, it’s looking back at me, glowing.</key>
-		<value>就像之前我不是在另一座島上嗎? 我當時在沙灘上, 看著其中一座巨大的\\n挪麥頭石雕. 結果下一秒, 我就看到它也在看著我, 還發著光. </value>
+		<value>Jako, byl jsem předtím na jiným ostrově, chápeš? Koukal jsem se na pláži na jednu z těch velkých kamenných soch hlavy Nomai, a najednou se ta socha kouká zpátky na mě a září. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_4The statue replays everything I’ve just done, like it’s been watching me through my own eyes, you know? And then suddenly it stops and everything’s normal again.</key>
-		<value>雕像把我做過的事都回放了一遍, 就好像它一直在通過我自己的眼睛\\n觀察我, 你明白嗎? 然後突然之間, 它又停下了, 一切恢覆正常. </value>
+		<value>Ta socha přehrála všechno, co jsem zrovna udělal, jako by mě sledovala mýma vlastníma očima, víš? A potom najednou přestala a všechno bylo zase normální. </value>
 	</entry>
 	<entry>
 		<key>GabbroMeetGabbro2F_4That happened to me at the observatory.</key>
-		<value>我是在天文台遇到這事兒的. </value>
+		<value>To se mi stalo taky, v observatoři. </value>
 	</entry>
 	<entry>
 		<key>YouTooHuhCome to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like that time with the statue. Do you think the Nomai statues are related to us dying somehow?</key>
-		<value>回想起來, 我死的時候明明看到了自己的記憶在回放, 就像那座雕像那次\\n一樣. 你是不是覺得挪麥雕像和我們的死在某種程度上有關系? </value>
+		<value>Když o tom tak přemýšlím, když jsem umřel, viděl jsem něco, co dost vypadalo jako moje vzpomínky, stejně jako s tou sochou. Myslíš, že socha Nomai má nějakou spojitost s tím, že jsme umřeli? </value>
 	</entry>
 	<entry>
 		<key>YouTooHuhAnd another thing - we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-		<value>還有一件事: 我們是死了, 但又沒死? 這種事情對哈斯人可不常見. </value>
+		<value>Jo, a další věc - umřeli jsme, ale nejsme mrtví? To je pro Domopecany celkem nezvyklý. </value>
 	</entry>
 	<entry>
 		<key>YouTooHuhWell, that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
-		<value>嗯, 這對我倒是新鮮事兒. 不過, 嘿, 這可是你第一次單獨旅行! \\n我們還是來說說你吧? </value>
+		<value>Takže to se mi v poslední době událo. Ale hej, tohle je tvoje první sólová výprava! ...V zásadě! Pojďme si pohovořit o tobě, co říkáš? </value>
 	</entry>
 	<entry>
 		<key>Gabbro2F_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you look at ’em long enough.</key>
-		<value>你有沒有試過長時間地盯著氣旋看, 直到被它催眠為止? \\n我告訴你吧, 只要盯得時間足夠長, 你就會進入催眠狀態. </value>
+		<value>Sledoval jsi někdy cyklón tak dlouho, že tě začal hypnotizovat? Když na ně budeš zírat příliš dlouho, uvedou tě do transu. </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2FWell, what are any of us doing here, really?</key>
@@ -9892,7 +9892,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2FBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>不過我得告訴你, 外太空真的能給你很大的思考空間. \\n這里又平靜又安寧. </value>
+		<value>Ale řeknu ti, vesmír ti opravdu poskytuje prostor pro přemýšlení. Je tu tiše a mírumilovně. </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2FI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
@@ -9900,95 +9900,95 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
-		<value>其實, 你懂的, 從死亡中醒來後, 我在天空中看到了相同的明亮閃光. \\n星球的軌道上一定發生了什麽. </value>
+		<value>No vlastně, potom co jsem se probral ze - um - smrti, viděl jsem ten samý jasný záblesk na obloze. Něco se musí dít na oběžné dráze kolem planety.</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上\\n找到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš? </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>順便一說, 那些閃閃發光的玩意兒出現時, 我正躺在雕像島的沙灘上. \\n那座沙灘非常適合躺著放松. 按照Gabbro的舒適計量表, \\n10分里我給它打7分. </value>
+		<value>Byl jsem na pláži na Ostrovu soch, když se mi stal celý ten zářivý zážitek, mimochodem. Je to pro tento účel pěkná pláž. Dávám jí 7 bodů z 10 na Gabbrově relaxační škále. </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
+		<value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FHaha, I know, right?</key>
-		<value>哈哈, 我知道, 沒錯吧? </value>
+		<value>Haha, já vím, žejo? </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2F...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>水面下有一股很強勁的水流, 使得水里的東西無法沈下去. 老實說, \\n我已經嘗試了所有能想到的東西穿過那股水流, 但全都失敗了. </value>
+		<value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>至於地塊, 算上這里, 我已經數到了四座小島. \\n我在沙灘上看到挪麥雕像的那座也算在里面. </value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>你見到氣旋了? 是啊, 不看見也難. 它們會把擋路的東西都掀飛, \\n就算是島嶼也一樣. 給你個小提示: 如果你被掀起來了, \\n試著在水里著陸. 這樣活下來的概率會高一點. </value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_1Okay, here’s a weird one for you — I think I might have just, like, died? Somehow?</key>
-		<value>好了, 這件事可能有點怪, 我覺得我可能已經死了? 莫名其妙就死了? </value>
+		<value>Oukej, tumáš jednu divnou - myslím, že jsem právě, jako, umřel? Nějak? </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_1I radioed Hornfels at the observatory to ask them about it, but they’re convinced I fell asleep out here and had a nightmare something.</key>
-		<value>我在天文台用無線電聯系Hornfels, 想問問他有沒有什麽頭緒, \\n不過他確信我只是睡著了, 做了個惡夢什麽的. </value>
+		<value>Zavolal jsem Hornfelsovi v observatoři, abych se ho na to zeptal, ale on je přesvědčený, že jsem tu usnul a měl jsem noční můru nebo tak něco. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
-		<value>你還記得幾分鐘前我們死了嗎? 也許記得? </value>
+		<value>Vzpomínáš si, že bys před pár minutami, um, umřel? Možná? </value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro2T_1Oh yeah, we definitely died.</key>
-		<value>哦對, 我們肯定是死了. </value>
+		<value>Jojo, rozhodně jsme umřeli. </value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro2T_1I think we’re the only ones who know.</key>
-		<value>我覺得這一點只有我們才知道. </value>
+		<value>Myslím, že jsme jediní, kteří o tom ví. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_2Okay, cool, that’s what I thought. It was all way too vivid to be a dream.</key>
-		<value>好吧, 我也是這樣想的. 如果是夢那就太真實了. </value>
+		<value>Oukej, kůlovatý, to jsem si myslel. Bylo to příliš intenzivní na to, aby to byl sen.</value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_2I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</key>
-		<value>我用無線電聯系了Hornfels, 想問問他有沒有死, \\n但我相當確定他以為我是在打比方. </value>
+		<value>Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřel, ale myslel si, že se ptám metaforicky. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_3Yeah, I radioed Hornfels again to ask if they had died, too, but I’m pretty sure they thought I was being metaphorical.</key>
-		<value>對, 我用無線電聯系了Hornfels, 想問問他有沒有死, \\n但我相當確定他以為我是在打比方. </value>
+		<value>Jo, zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřel, ale myslel si, že se ptám metaforicky. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a weird dream or something. But stars above, what’s going on, then? And then there was that thing with the Nomai statue earlier...</key>
-		<value>嗯, 如果你還記得當時快死了, 那我猜我並沒有睡著, 也沒有做什麽\\n怪夢. 可是群星在上, 這是怎麽回事? 還有先前挪麥雕像那件事...</value>
+		<value>No, jestli si pamatuješ, že jsi umřel, tak jsem potom asi neměl jen zlý sen nebo tak něco. Ale hvězdy nade mnou, co se tedy děje? A potom je tu ta věc s tou sochou Nomai...</value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4Come to think of it, when I died, I saw what I’m pretty sure were my memories going backward, just like the time with that statue. Do you think the Nomai statues are related to us dying somehow?</key>
-		<value>回想起來, 我死的時候明明看到了自己的記憶在回放, 就像那座雕像那次\\n一樣. 你是不是覺得挪麥雕像和我們的死在某種程度上有關系? </value>
+		<value>Když o tom tak přemýšlím, když jsem umřel, viděl jsem něco, co dost vypadalo jako moje vzpomínky, stejně jako s tou sochou. Myslíš, že socha Nomai má nějakou spojitost s tím, že jsme umřeli? </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-		<value>所以...我們死了, 但又沒死? 這種事情對哈斯人可不常見. </value>
+		<value>Takže... umřeli jsme, ale nejsme mrtví? To je pro Domopecany celkem nezvyklý. </value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_4I am going to need to do some serious thinking before I come up with any theories. Maybe I’ll have figured something out by the next time you come by.</key>
-		<value>在得出推論之前, 我還要好好地想一想. \\n也許下次你來的時候我會搞清楚是怎麽回事. </value>
+		<value>Budu muset vážně přemýšlet, než začnu s teoriemi. Možná mě něco napadne, až tu budeš příště.</value>
 	</entry>
 	<entry>
 		<key>Gabbro2T_saidhiHey again. If you feel like roasting a mallow, feel free to use my campfire. It’s just up the path a little ways.</key>
-		<value>又見面了. 如果你想烤棉花糖, 請用我的營火吧. \\n就在這條路往前一點兒. </value>
+		<value>Znovu ahoj. Jestli si chceš opéct marshmallow, klidně použij můj táborák. Je dál nahoru po téhle stezce.</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuSo what’s up?</key>
-		<value>有事嗎? </value>
+		<value>Takže jak se daří? </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2TWell, what are any of us doing here, really?</key>
@@ -10000,7 +10000,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2TBut I tell you what, outer space really gives you room to think. It’s quiet and peaceful out here.</key>
-		<value>不過我得告訴你, 外太空真的能給你很大的思考空間. \\n這里又平靜又安寧. </value>
+		<value>Ale řeknu ti, vesmír ti opravdu poskytuje prostor pro přemýšlení. Je tu tiše a mírumilovně. </value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2TI mean, it’s usually quiet and peaceful. Sometimes a cyclone comes by and lifts my little island paradise clean out of the water. Then: less peaceful.</key>
@@ -10008,79 +10008,79 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
-		<value>其實, 你懂的, 從死亡中醒來後, 我在天空中看到了相同的明亮閃光. \\n星球的軌道上一定發生了什麽. </value>
+		<value>No vlastně, potom co jsem se probral ze - um - smrti, viděl jsem ten samý jasný záblesk na obloze. Něco se musí dít na oběžné dráze kolem planety. </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>還有什麽、還有什麽...你去過雕像島嗎? 因為我就是在這座&lt;i&gt;島&lt;/i&gt;上找\\n到了發光的挪麥&lt;i&gt;雕像&lt;/i&gt;. &lt;Pause&gt;所以我就一直這麽叫它了...明白了嗎? </value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš? </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-		<value>順便一說, 那些閃閃發光的玩意兒出現時, 我正躺在雕像島的沙灘上. \\n那座沙灘非常適合躺著放松. 按照Gabbro的舒適計量表, \\n10分里我給它打7分. </value>
+		<value>Byl jsem na pláži na Ostrovu soch, když se mi stal celý ten zářivý zážitek, mimochodem. Je to pro tento účel pěkná pláž. Dávám jí 7 bodů z 10 na Gabbrově relaxační škále. </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>如果你想去雕像島看看, 去找兩座由天然石拱門連接的島嶼就是了. \\n好吧...差不多連著. 你會明白的. </value>
+		<value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2THaha, I know, right?</key>
-		<value>哈哈, 我知道, 沒錯吧? </value>
+		<value>Haha, já vím, žejo? </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2T...Oh, you meant, like, tell you more about it? I gotcha. Well, Giant’s Deep is massive, and mostly water. No surprises there.</key>
-		<value>...哦, 你是說讓我再多告訴你一些? 明白了. 嗯, 深巨星十分巨大, \\n差不多到處是水. 這也不奇怪. </value>
+		<value>...Ah, tím jsi myslel, abych ti o něm řekl víc? Chápu. No, Obří hlubina je obří, a z větší části vodní. To tě asi nešokuje. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TThere’s a strong current a ways beneath the surface that prevents anything from sinking below it. Seriously, I tried everything I could think of to get past that current, and neither idea worked.</key>
-		<value>水面下有一股很強勁的水流, 使得水里的東西無法沈下去. 老實說, \\n我已經嘗試了所有能想到的東西穿過那股水流, 但全都失敗了. </value>
+		<value>Je tu silný proud trošku pod hladinou, který zabraňuje čemukoliv, aby se dostalo pod něj. Zcela vážně, zkusil jsem všechno, co mě napadlo, abych se dostal pod ten proud, a nic nezafungovalo. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>至於地塊, 算上這里, 我已經數到了四座小島. \\n我在沙灘上看到挪麥雕像的那座也算在里面. </value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>你見到氣旋了? 是啊, 不看見也難. 它們會把擋路的東西都掀飛, \\n就算是島嶼也一樣. 給你個小提示: 如果你被掀起來了, \\n試著在水里著陸. 這樣活下來的概率會高一點. </value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití. </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersHey, time pal. So you’re getting the band back together, huh?</key>
-		<value>你好啊, 時間夥伴. 所以你最近在重組樂隊, 嗯? </value>
+		<value>Čágo, časokámo. Takže dáváš zase naši kapelu dohromady, co? </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersGo on, go find the others. I’ll be here. You don’t need me yet, but you will.</key>
-		<value>去吧, 去把其他人也找來. 我就待在這里. \\n你還用不著我, 不過你之後會需要我的. </value>
+		<value>Běž, najdi ostatní. Já budu tady. Zatím mě ještě nepotřebuješ, ale to se za chvíli změní.</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayWhat do you say, time buddy? Ready to start the music?</key>
-		<value>你覺得呢, 時間夥伴? 準備好開始演奏了? </value>
+		<value>Co myslíš, časokámo? Můžeme začít s hudbou?</value>
 	</entry>
 	<entry>
 		<key>GabbroReadyToPlayYes.</key>
-		<value>是的. </value>
+		<value>Ano. </value>
 	</entry>
 	<entry>
 		<key>GabbroReadyToPlayNot yet.</key>
-		<value>還沒有. </value>
+		<value>Ještě ne. </value>
 	</entry>
 	<entry>
 		<key>StartPlayingHeh, this should be cool.</key>
-		<value>嘿, 這樣一定很酷. </value>
+		<value>Ha, tohle by mělo být kůlovatý. </value>
 	</entry>
 	<entry>
 		<key>NotYetNo rush, I’m not going anywhere.</key>
-		<value>不急, 我哪兒都不去. </value>
+		<value>Beze spěchu, nikam nejdu. </value>
 	</entry>
 	<entry>
 		<key>FarewellI tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</key>
-		<value>實話說吧, 我過得很開心. 我還幫你完成了點很酷的工作, \\n真是叫人再高興不過了. </value>
+		<value>Musím říct, že tohle byla opravdu sranda. A přičinil jsem se o něco vážně suprovýho, takže nemám sebemenší stížnost.</value>
 	</entry>
 	<entry>
 		<key>FarewellI mean, not me, exactly, but close enough.</key>
-		<value>我的意思是, 確切來說不是我, 但也差不多. </value>
+		<value>No, ne přesně já, ale chápeš, co se snažím říct. </value>
 	</entry>
 	<entry>
 		<key>FarewellIt’s the kind of thing that makes you glad you stopped and smelled the pine trees along the way, you know?</key>
-		<value>就是那種會讓你愉快, 讓你駐足, 讓你聞到沿途松樹味道的事情, \\n你懂嗎? </value>
+		<value>Je to přesně ten důvod, proč se občas zastavit a přičichnout si k vůni smrků, víš? </value>
 	</entry>
 	<entry>
 		<key>Hornfels</key>
