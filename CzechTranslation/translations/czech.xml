@@ -8848,599 +8848,599 @@
 	</entry>
 	<entry>
 		<key>ChertIntro1Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</key>
-		<value>老天, 是你啊! 你好! 這麽說你的第一次發射一切順利了? \\n歡迎來到沙漏雙星. &lt;Pause=2&gt;現在, 小心沙子. </value>
+		<value>Tyjo, jsi to ty. Ahoj! Předpokládám, že tvůj první vzlet dopadl dobře, co? Vítej na Přesýpacích dvojčatech. &lt;Pause=2&gt; Pozor na písek. </value>
 	</entry>
 	<entry>
 		<key>ChertChertIntro1I have a question for you.</key>
-		<value>我想問你個問題. </value>
+		<value>Mám pro tebe otázku. </value>
 	</entry>
 	<entry>
 		<key>ChertChertIntro1What are you up to?</key>
-		<value>你在幹嘛? </value>
+		<value>Co tu děláš? </value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationHornfels asked me to update our star charts, so I’m out here observing. This is one of the best places in the solar system to spot astronomical events, you know.</key>
-		<value>Hornfels讓我更新星圖, 所以我正在這里觀察. 你知道, \\n這里是全太陽系觀測天文活動的最佳地點. </value>
+		<value>Hornfels mě požádal, abych aktualizoval naše hvězdné mapy, takže jsem tady a pozoruju. Tohle je jedno z nejlepších míst ve sluneční soustavě pro pozorování astronomický událostí, víš?</value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationWhat’s weird is I’ve actually seen a couple of supernovae today. Usually, I’d be fortunate to see just one. Keep an eye or four on the stars, and maybe you’ll spot one yourself!</key>
-		<value>奇怪的是我今天著實看到了好幾顆超新星. 通常來說, 能看到一顆就算我\\n走運了. 你多留神觀察恒星, 說不定就能親眼看到一顆! </value>
+		<value>Jedna věc, co je zvláštní: dnes jsem viděl už několik supernov. Normálně bych měl štěstí, kdybych viděl jen jednu! Nezapomeň se občas podívat na hvězdy, a možná taky jednu uvidíš!</value>
 	</entry>
 	<entry>
 		<key>QuestionsTell me, what can I do for you?</key>
-		<value>嘿, 我能幫你什麽忙嗎? </value>
+		<value>Řekni mi, co pro tebe můžu udělat? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsI found something!</key>
-		<value>我有所發現! </value>
+		<value>Něco jsem našel! </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsHow do I know if I've spotted a supernova?</key>
-		<value>我要怎麽分辨看到的是超新星呢? </value>
+		<value>Jak poznám, že jsem spatřil supernovu? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhat are you doing out here?</key>
-		<value>你在這里幹什麽? </value>
+		<value>Co tu děláš? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhere should I explore here?</key>
-		<value>我應該去這里的什麽地方進行探索? </value>
+		<value>Co bych tu měl prozkoumat? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsHow dangerous is that big column of falling sand?</key>
-		<value>那一大片流沙瀑布有多危險? </value>
+		<value>Jak nebezpečný je ten velký sloup padajícího písku? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsJust saying hi.</key>
-		<value>我只是來打聲招呼. </value>
+		<value>Jen jsem se stavil, abych tě pozdravil. </value>
 	</entry>
 	<entry>
 		<key>Chert1Right now I’m documenting stars. Hornfels noticed our star charts are out of date, so they asked me to update them.</key>
-		<value>我現在正在記錄恒星. Hornfels注意到我們的星圖太舊, \\n所以他叫我更新一下. </value>
+		<value>Právě teď dokumentuji hvězdy. Hornfels si všimnul, že naše hvězdné mapy jsou zastaralé, takže mě požádal, abych je aktualizoval.</value>
 	</entry>
 	<entry>
 		<key>Chert1Please don’t tell the others I said this, but sometimes I think I’m the only traveler out here interested in doing any science at all.</key>
-		<value>請別告訴其他人我這麽說過, 但有時我覺得自己是唯一一個想來這里\\n搗鼓搗鼓科學的旅行家. </value>
+		<value>Neříkej to ostatním, ale občas mám pocit, že jsem jediný cestovatel, který má zájem dělat jakoukoliv vědu. </value>
 	</entry>
 	<entry>
 		<key>Chert1...Er, maybe don’t tell Hornfels, either. I think they’re pretty deep in denial.</key>
-		<value>...呃, 也別告訴Hornfels. 我覺得他一定會大力否認的. </value>
+		<value>...Er, možná to neříkej ani Hornfelsovi. Myslím, že si to nechce připustit.</value>
 	</entry>
 	<entry>
 		<key>Chert2To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-		<value>老實說, 我還沒離開過這個湖床. 不是自誇, 我現在操縱小偵查兵真的\\n很嫻熟了. 所以我一直在營地這里拍照, 把周圍都拍了個遍. </value>
+		<value>Abych byl upřímný, neopustil jsem dno tohoto jezera. Nechci se vychloubat, ale sondomet mám opravdu v ruce, takže fotím všechno odsud, ze svého tábora.</value>
 	</entry>
 	<entry>
 		<key>Chert2Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-		<value>你見過余燼雙星南半球的那個舊宇宙飛船殘骸遺址嗎? \\n就是那個朝天空射出光束的地方? 叫人吃驚的是, \\n那不是我們宇宙飛船的殘骸, 是挪麥宇宙飛船的. </value>
+		<value>Viděl jsi ztroskotalou loď na jižní polokouli Doutnáku? Tu, co vyzařuje jasný paprsek světla na oblohu? Není to jedna z našich havárií, překvapivě - tohle je loď Nomai.</value>
 	</entry>
 	<entry>
 		<key>Chert2You’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
-		<value>你可以在雙星上找到挪麥的遺跡, 但奇怪的是, 沒有一處是定居點! \\n相信我, 要是有, 我早就派我的小偵查兵過去看看了. </value>
+		<value>Najdeš trosky Nomai po celých Dvojčatech, ale - a to je zvláštní - ani jedno město! Věř mi, kdyby tu nějaké bylo, spatřil bych ho svými sondami.</value>
 	</entry>
 	<entry>
 		<key>Chert2So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-		<value>那麽他們住哪兒? 很顯然, 他們不住在星球表面. \\n不過余燼雙星上到處是洞穴群, 也許答案在地底下? </value>
+		<value>Takže kde žili? Evidentně ne na povrchu. Ale Doutnák je plný jeskynních systémů - možná najdeš odpovědi v podzemí?</value>
 	</entry>
 	<entry>
 		<key>Chert3On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
-		<value>從一分到死定了打分, 我能給它打七分或八分. 不過, 這真是太漂亮了. </value>
+		<value>Na škále od jedné do smrti bych mu dal asi sedm nebo osm. Ale je hrozně hezký.</value>
 	</entry>
 	<entry>
 		<key>Chert3Right now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-		<value>現在沙子正從灰燼雙星流到余燼雙星上去. 不過你知道嗎? 這個過程最後\\n還會反過來. 我們現在還無法完全確定為什麽沙子會在雙星之間來回\\n流動, 但這似乎是個自然現象. </value>
+		<value>Právě teď se písek přesýpá z Popeláku na Doutnák, ale věděl jsi, že se tenhle proces eventuelně obrátí? Nejsme si úplně jistí, proč se písek přesouvá mezi Dvojčaty tam a zpátky, ale vypadá to jako přírodní úkaz.</value>
 	</entry>
 	<entry>
 		<key>Chert3Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-		<value>哦, 如果你想瞧點有意思的東西, 可以等雙星的其中一顆沙子流盡時\\n再去看看. 我保證你不會失望. </value>
+		<value>Pokud chceš vidět něco zajímavého, běž se podívat na druhé Dvojče, až odsype trošku víc písku. Slibuju ti, že tě nezklame.</value>
 	</entry>
 	<entry>
 		<key>Chert4Supernovae look like extra bright stars to the naked eye, but if you zoom in with your signalscope you can tell that they're actually enormous explosions.</key>
-		<value>如果用肉眼來觀察超新星, 你會覺得它們不過是亮一點的恒星. \\n但如果你用信號鏡進行放大, 你會發現它們其實在進行著劇烈的爆炸. </value>
+		<value>Supernovy vypadají jako extra jasné hvězdy, ale pokud přiblížíš obraz svým signáloskopem, uvidíš, že jsou vlastně obrovskými výbuchy. </value>
 	</entry>
 	<entry>
 		<key>Chert4Massive stars go supernova at the very end of their life spans, which is why it's so unusual to see two in a single day.</key>
-		<value>巨大的恒星會在生命終結時變為超新星, \\n所以一天能看到兩顆的情況實在是太罕見了. </value>
+		<value>Obrovské hvězdy se stávají supernovami na konci svého životního cyklu, což je důvodem toho, proč je nezvyklé vidět za celý den víc než jednu. </value>
 	</entry>
 	<entry>
 		<key>Chert4I wonder if some of these stars are older than we realized?</key>
-		<value>我想知道有些恒星的年齡是不是比我們想象的還要大? </value>
+		<value>Možná jsou některé z těchto hvězd starší, než jsme si mysleli? </value>
 	</entry>
 	<entry>
 		<key>Chert5Watch out for falling sand, okay? I’ve had to dig myself out once or twice, and that’s not half as fun as it sounds.</key>
-		<value>當心流沙瀑布, 明白嗎? 有那麽一兩次, 我還得動手把自己挖出來. \\n這可沒有聽起來那麽有趣. </value>
+		<value>Bacha na padající písek, oukej? Musel jsem se jednou nebo dvakrát vykopat, a není to taková švanda, jak to zní.</value>
 	</entry>
 	<entry>
 		<key>ChertSecondaryHello again!</key>
-		<value>你好, 又見面了! </value>
+		<value>Znovu ahoj! </value>
 	</entry>
 	<entry>
 		<key>FoundSomethingMenuPlease, do tell!</key>
-		<value>請告訴我吧! </value>
+		<value>Prosím, povídej!</value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found out the sun is about to go supernova.</key>
-		<value>我發現太陽馬上就要變成超新星了. </value>
+		<value>Přišel jsem na to, že slunce se za chvíli vznítí a stane se supernovou. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found your notes about the Attlerock’s main crater.</key>
-		<value>我找到你寫的關於廢巖星主環形山的筆記了. </value>
+		<value>Našel jsem tvoje poznámky o hlavním kráteru na Vytěženci. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found Nomai writing about a hidden planet.</key>
-		<value>我找到了挪麥人的文字, 是關於一顆隱藏星球的. </value>
+		<value>Našel jsem spisky Nomai o skryté planetě. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found Nomai writing about the Quantum Moon.</key>
-		<value>我找到了挪麥人的文字, 是關於量子衛星的. </value>
+		<value>Našel jsem spisky Nomai o Kvantovém měsíci. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found Nomai writing about the Sun Station.</key>
-		<value>我找到了挪麥人的文字, 是關於太陽站的. </value>
+		<value>Našel jsem spisky Nomai o Sluneční stanici. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuI found modern Nomai transmissions saying the universe is dying.</key>
-		<value>我找到了現代挪麥傳送的信息, 上面說這個宇宙正在死亡. </value>
+		<value>Našel jsem vysílání moderních Nomai, které říká, že celý vesmír umírá. </value>
 	</entry>
 	<entry>
 		<key>ChertFoundSomethingMenuActually, nevermind.</key>
-		<value>其實, 沒什麽事. </value>
+		<value>Vlastně zatím nic. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1What? What makes you think that?</key>
-		<value>什麽? 你怎麽會這麽想? </value>
+		<value>Cože? Proč si to myslíš? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1It’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>太陽最近, 確實...&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
+		<value>Je pravda, že slunce se v poslední době... &lt;i&gt;změnilo&lt;/i&gt;, ale neviděl jsem žádné důkazy jeho nadcházející smrti! Jako že jsou hvězdy nade mnou, ne!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
-		<value>我來告訴你吧, 我一直關注著太陽的情況, \\n如果我發現任何太陽內核正在坍塌的跡象, 我第一個告訴你. </value>
+		<value>Ale řeknu ti - budu slunce nadále pozorovat, a pokud si všimnu, že jeho jádro se hroutí, dám ti vědět jako prvnímu. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1I hope that puts your mind at ease.</key>
-		<value>希望這能讓你安心. </value>
+		<value>Doufám, že se cítíš klidněji. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2Did you! I hope they were useful?</key>
-		<value>真的嗎! 它們有用嗎? </value>
+		<value>Vážně! Doufám, že byly užitečné? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2The planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</key>
-		<value>我提到的那顆星球可能已經被凍住了, 或者它大半是由冰構成的, \\n就像深巨星那樣, 只是更寒冷, 現在還很難說. \\n它曾是我們太陽系的第五顆行星. </value>
+		<value>Ta planeta, kterou jsem zmínil, mohla být plně zmrzlá, nebo jen částečně vyrobená z ledu, jako mnohem studenější Obří hlubina - těžko říci. Bývala to pátá planeta naší sluneční soustavy.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2You’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</key>
-		<value>當然, 你可以發現, 現在這顆星球已經不見了. 取而代之的是黑棘星, \\n要怎麽說呢, 它從本來第五顆行星的位置長了出來. </value>
+		<value>Ale žádná taková planeta už tu samozřejmě není. Místo ní máme Temnotrn, který - jak to říci - dorostl do prostoru, který předtím pátá planeta obývala.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2That is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</key>
-		<value>也就是說, 黑棘星出現在了第五顆行星的中心, 並從內部摧毀了它. \\n最終, 這顆行星完全碎裂, 它的碎片遍布太空. </value>
+		<value>To jest, Temnotrn se doslova objevil ve středu páté planety a začal ji ničit zevnitř. Nakonec se planeta rozlomila, a její úlomky se rozprášily napříč vesmírem.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething2Some of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-		<value>其中一些碎片與我們太陽系中的天體相撞, 比如廢巖星. \\n我認為它上面最大的環形山就是這樣形成的. </value>
+		<value>Některé z těchto úlomků se srazily s hvězdnými tělesy v naší sluneční soustavě, jako třeba Vytěženec, jehož největší kráter vznikl tímto způsobem. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething3How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-		<value>真是令人驚嘆! 如果你仔細研究太陽系中的物理現象, 你可能會有意思地\\n發現, 在這里完全有可能存在著另一顆行星. 只是它可能離得非常遠, \\n比哈斯人的宇宙飛船所能到達的地方還要遠. </value>
+		<value>Fascinující! Mohlo by tě zajímat, že existence další planety je zcela možná, pokud se podíváš na fyziku naší sluneční soustavy. Musela by být neskutečně daleko odsud - dál, než domopecké lodě dokážou doputovat.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3And honestly, we don’t know all that much about what’s out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
-		<value>而且說實話, 我們並不清楚那里到底有什麽. 你走得越遠, \\n我們知道得越少! 正因為如此, 這樣一顆行星的存在是完全可能的. </value>
+		<value>A upřímně, tolik toho nevíme o tom, co je za hranicemi naší sluneční soustavy. Čím dál letíš, tím míň toho víš! Takže je zcela v hranicích možného, že taková planeta existuje.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4Oh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-		<value>哦對啊, 人人都喜歡神秘的事物, 不是嗎? \\n誰不想了解一顆有時在這兒有時又不在的衛星呢! </value>
+		<value>Ano, každý zbožňuje dobrou záhadu, že? A koho by nezajímal měsíc, který tu občas je a občas ne!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4I’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-		<value>我觀察到量子衛星會圍繞著這五顆行星旋轉, \\n但有時它會從天空消失不見. 也許它去了其他地方! </value>
+		<value>Pozoroval jsem Kvantový měsíc na oběžné dráze každé z pěti planet, ale občas úplně z oblohy zmizí. Možná cestuje k nějakému dalšímu tělesu!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4Unfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話...</value>
+		<value>Bohužel, pokud je tomu tak, nikdy jsem ho neviděl. Možná, pokud blíže prostuduji tyto hvězdné mapy...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Is that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-		<value>你覺得沿著太陽軌道運行的就是它? 這個...太陽站? </value>
+		<value>Takže to je ta věc, co obíhá slunce? Ta... Sluneční stanice?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5Quite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難...里面也一定很熱. 我簡直無法想象! </value>
+		<value>Velmi chytré, vymyslet způsob, jak studovat slunce z takové blízkosti! Muselo být ohromně těžké ji vybudovat... a horko uvnitř. Stěží si to lze představit!</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-		<value>我真好奇, 他們是怎麽在太陽站和沙漏雙星之間來回穿梭的. \\n畢竟一點微小的疏忽就會導致慘烈的死亡. </value>
+		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími Dvojčaty, když sebemenší problém s přistáním znamenal ohnivou smrt. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6You - what? I don’t... um. What?</key>
-		<value>你...什麽? 我不...唔. 什麽? </value>
+		<value>Tys - cože? Já ne...  um. Cože? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6You mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;...正在死亡? </value>
+		<value>Tvrdíš, že ve zbytku vesmíru existují moderní Nomai? A věří, že vesmír - celý vesmír - umírá? &lt;Pause/&gt; V tuto chvíli? &lt;Pause/&gt; ...Právě teď? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6If... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-		<value>如果...如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星...算了, 如果這是真的, \\n那一切還有什麽意義...哦...</value>
+		<value>Pokud... pokud je to pravda, jak jsem si mohl nevšimnout tolika znamení? Byly tu ty supernovy, ale já, ale, já jsem studovat hvězdy už od... ale co na tom záleží, když...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6I’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意...</value>
+		<value>Moc se omlouvám, a-ale musím se podívat na své hvězdné mapy. D-d-doufám, že ti to n-nevadí...</value>
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaiB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許...? </value>
+		<value>A-a-ale určitě bych viděl nějaké jiné znamená než jen supernovy, takže m-možná...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7Nothing you’d like to discuss at the moment? That’s no trouble! If you do discover anything you want to talk about, I’d be happy to help!</key>
-		<value>眼下你不想談點什麽嗎? 沒關系! \\n要是你發現了什麽想和我談談的內容, 我很樂意幫忙! </value>
+		<value>Nechceš teď o ničem mluvit? V pořádku! Pokud objevíš něco, o čem bys mluvit chtěl, rád ti pomůžu!</value>
 	</entry>
 	<entry>
 		<key>ChertIntro1Hm? Oh, it’s you! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</key>
-		<value>嗯? 哦, 是你! 這麽說你的第一次發射一切順利了? \\n歡迎來到沙漏雙星. &lt;Pause=2&gt;現在, 小心沙子. </value>
+		<value>Hm? Á, to jsi ty! Předpokládám, že tvůj první vzlet dopadl dobře, co? Vítej na Přesýpacích dvojčatech. &lt;Pause=2&gt; Pozor na písek. </value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationHornfels noticed our star charts are out of date, so I came out here to update them. But something seems... &lt;Pause=0.5&gt;how to put this... &lt;Pause=0.5&gt;off.</key>
-		<value>Hornfels注意到我們的星圖太舊, 所以他叫我更新一下. \\n但有什麽似乎...&lt;Pause=0.5&gt;要怎麽...&lt;Pause=0.5&gt;說呢. </value>
+		<value>Hornfels si všimnul, že naše hvězdné mapy jsou zastaralé, takže mě požádal, abych je aktualizoval. Ale něco je... &lt;Pause=0.5&gt; jak bych to řekl...&lt;Pause=0.5&gt; špatně.</value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationI’ve seen, what, ten supernovae by now? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常...</value>
+		<value>Dnes jsem viděl, kolik, deset supernov? Dvanáct? Jejich počet je dvojciferný, a to je, víš, nenormální. Absolutně nenormální...</value>
 	</entry>
 	<entry>
 		<key>ChertIntro2Hm? Oh, you’re back.</key>
-		<value>嗯? 哦, 你回來了. </value>
+		<value>Hm? Á, vítej zpět. </value>
 	</entry>
 	<entry>
 		<key>ChertIntro2Say, have you noticed anything unusual about the stars lately? Something seems...&lt;Pause=0.5&gt; how to put this... &lt;Pause=0.5&gt;off.</key>
-		<value>這麽說吧, 你最近有注意到恒星有什麽不同尋常之處嗎? \\n但有什麽似乎...&lt;Pause=0.5&gt;要怎麽...&lt;Pause=0.5&gt;說呢. </value>
+		<value>Řekni mi, všiml sis na hvězdách něčeho neobvyklého? Něco je...&lt;Pause=0.5&gt; jak bych to řekl...&lt;Pause=0.5&gt; špatně.</value>
 	</entry>
 	<entry>
 		<key>ChertIntro2I’ve seen, what, ten supernovae already? Twelve? They’re in the double digits now, and that’s, you know, not normal. Not normal at all...</key>
-		<value>我看到了, 大概有十顆超新星了? 十二顆? 已經上升到兩位數了, \\n你知道的, 這不正常. 一點也不正常...</value>
+		<value>Dnes jsem viděl, kolik, deset supernov? Dvanáct? Jejich počet je dvojciferný, a to je, víš, nenormální. Absolutně nenormální...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondaryHello again.</key>
-		<value>你好, 又見面了. </value>
+		<value>Znovu zdravím.</value>
 	</entry>
 	<entry>
 		<key>QuestionsWas there something you needed?</key>
-		<value>你需要什麽嗎? </value>
+		<value>Potřeboval jsi něco? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhy are so many stars going supernovae?</key>
-		<value>為什麽會有這麽多恒星變成超新星? </value>
+		<value>Proč se z tolika hvězd stávají supernovy? </value>
 	</entry>
 	<entry>
 		<key>Chert1Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - &lt;i&gt;too&lt;/i&gt; many supernovae.</key>
-		<value>唔, 我是...是這樣, 我本來到這兒是要更新我們的星圖. 不過現在, \\n我正在試著搞清楚這些恒星出了什麽事. 這兒有這麽多...\\n&lt;i&gt;太&lt;/i&gt;多超新星了. </value>
+		<value>Mno, já - původně jsem sem přišel aktualizovat naše hvězdné mapy. Ale teď se snažím přijít na to, co se děje s hvězdami. Tolik supernov - &lt;i&gt;příliš mnoho&lt;/i&gt; supernov.</value>
 	</entry>
 	<entry>
 		<key>Chert1Why are so many stars dying out? I’ve never seen anything like this.</key>
-		<value>為什麽會有這麽多恒星死亡? 我從沒見過這樣的情況. </value>
+		<value>Proč tolik hvězd umírá? Nikdy jsem neviděl nic podobného.</value>
 	</entry>
 	<entry>
 		<key>Chert1Frankly, I’m worried. And a little scared.</key>
-		<value>老實說, 我很擔心. 還有點害怕. </value>
+		<value>Upřímně, jsem znepokojený. A trošku vystrašený.</value>
 	</entry>
 	<entry>
 		<key>Chert2bTo be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-		<value>老實說, 我還沒離開過這個湖床. 不是自誇, 我現在操縱小偵查兵真的\\n很嫻熟了. 所以我一直在營地這里拍照, 把周圍都拍了個遍. </value>
+		<value>Abych byl upřímný, neopustil jsem dno tohoto jezera. Nechci se vychloubat, ale sondomet mám opravdu v ruce, takže fotím všechno odsud, ze svého tábora. </value>
 	</entry>
 	<entry>
 		<key>Chert2bHave you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
-		<value>你見過余燼雙星南半球的那個舊宇宙飛船殘骸遺址嗎? \\n就是那個朝天空射出光束的地方? 叫人吃驚的是, \\n那不是我們宇宙飛船的殘骸, 是挪麥宇宙飛船的. </value>
+		<value>Viděl jsi ztroskotalou loď na jižní polokouli Doutnáku? Tu, co vyzařuje jasný paprsek světla na oblohu? Není to jedna z našich havárií, překvapivě - tohle je loď Nomai. </value>
 	</entry>
 	<entry>
 		<key>Chert2bYou’ll find Nomai ruins across the Twins, but, strangely, not a single settlement! Believe me, if there was one to see, I’d have seen it with my Little Scout.</key>
-		<value>你可以在雙星上找到挪麥的遺跡, 但奇怪的是, 沒有一處是定居點! \\n相信我, 要是有, 我早就派我的小偵查兵過去看看了. </value>
+		<value>Najdeš trosky Nomai po celých Dvojčatech, ale - a to je zvláštní - ani jedno město! Věř mi, kdyby tu nějaké bylo, spatřil bych ho svými sondami. </value>
 	</entry>
 	<entry>
 		<key>Chert2bSo where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-		<value>那麽他們住哪兒? 很顯然, 他們不住在星球表面. \\n不過余燼雙星上到處是洞穴群, 也許答案在地底下? </value>
+		<value>Takže kde žili? Evidentně ne na povrchu. Ale Doutnák je plný jeskynních systémů - možná najdeš odpovědi v podzemí? </value>
 	</entry>
 	<entry>
 		<key>Chert3bOn a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
-		<value>從一分到死定了打分, 我能給它打七分或八分. 不過, 這真是太漂亮了. </value>
+		<value>Na škále od jedné do smrti bych mu dal asi sedm nebo osm. Ale je hrozně hezký. </value>
 	</entry>
 	<entry>
 		<key>Chert3bRight now sand is flowing from Ash Twin to Ember Twin, but did you know the process eventually reverses? We're not completely sure why the sand flows back and forth between the Twins, but it seems to be a natural phenomena.</key>
-		<value>現在沙子正從灰燼雙星流到余燼雙星上去. 不過你知道嗎? 這個過程最後\\n還會反過來. 我們現在還無法完全確定為什麽沙子會在雙星之間來回\\n流動, 但這似乎是個自然現象. </value>
+		<value>Právě teď se písek přesýpá z Popeláku na Doutnák, ale věděl jsi, že se tenhle proces eventuelně obrátí? Nejsme si úplně jistí, proč se písek přesouvá mezi Dvojčaty tam a zpátky, ale vypadá to jako přírodní úkaz. </value>
 	</entry>
 	<entry>
 		<key>Chert3bOh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-		<value>哦, 如果你想瞧點有意思的東西, 可以等雙星的其中一顆沙子流盡時\\n再去看看. 我保證你不會失望. </value>
+		<value>Pokud chceš vidět něco zajímavého, běž se podívat na druhé Dvojče, až odsype trošku víc písku. Slibuju ti, že tě nezklame. </value>
 	</entry>
 	<entry>
 		<key>Chert4I have no idea! Massive stars go supernova when they reach the end of their life spans, so it's possible that the stars are older than we realized. Or maybe our models are wrong and they don't live as long as we expected.</key>
-		<value>我不知道! 巨大的恒星會在壽命走到盡頭時成為超新星, \\n所以也許這些恒星的年齡比我們想象的還要大. \\n也可能是我們的模型出了錯, 它們的壽命並沒有我們預期得那麽長. </value>
+		<value>Nemám sebemenší tušení. Masivní hvězdy se stávají supernovami, když dosáhnou konce svých životů, takže je možné, že hvězdy jsou starší, než jsme si uvědomili. Nebo jsou možná naše modely chybné a hvězdy nežijí tak dlouho, jak jsme čekali.</value>
 	</entry>
 	<entry>
 		<key>Chert4Honestly, I'm not fond of either option! If our charts are wrong, what else is wrong? And our sun...</key>
-		<value>老實說, 這兩種說法我都不喜歡! 如果我們的星圖錯了, \\n那麽還有什麽也是錯的? 而我們的太陽...</value>
+		<value>Upřímně se mi nelíbí ani jedna možnost! Pokud jsou chybné naše mapy, v čem dalším se mýlíme? A naše slunce...</value>
 	</entry>
 	<entry>
 		<key>Chert4No, I shouldn't jump to conclusions. I- I'm probably overlooking something. That's it, I just need to collect more data.</key>
-		<value>不, 我不該這麽草率地下結論. 我、我很可能忽視了一些東西. \\n對, 就是這樣, 我需要收集更多的數據. </value>
+		<value>Ne, neměl bych přeskakovat k závěrům. Pa-patrně něco přehlížím. Ano, jen musím nasbírat více dat.</value>
 	</entry>
 	<entry>
 		<key>Chert5Watch out for the stars. I mean, sand.</key>
-		<value>當心恒星. 我是說, 沙子. </value>
+		<value>Pozor na hvězdy. Um, tím myslím - pozor na písek.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bWhat? What makes you think that?</key>
-		<value>什麽? 你怎麽會這麽想? </value>
+		<value>Cože? Proč si to myslíš?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bIt’s true the sun has... &lt;i&gt;changed&lt;/i&gt;, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!</key>
-		<value>太陽最近, 確實...&lt;i&gt;發生了變化&lt;/i&gt;. 不過我沒有發現任何證據, \\n能夠證明我們的太陽即將死亡! 群星在上, 不! </value>
+		<value>Je pravda, že slunce se v poslední době... &lt;i&gt;změnilo&lt;/i&gt;, ale neviděl jsem žádné důkazy jeho nadcházející smrti! Jako že jsou hvězdy nade mnou, ne! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bI’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know.</key>
-		<value>我來告訴你吧, 我一直關注著太陽的情況, \\n如果我發現任何太陽內核正在坍塌的跡象, 我第一個告訴你. </value>
+		<value>Ale řeknu ti - budu slunce nadále pozorovat, a pokud si všimnu, že jeho jádro se hroutí, dám ti vědět jako prvnímu. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething1bI hope that puts your mind at ease.</key>
-		<value>希望這能讓你安心. </value>
+		<value>Doufám, že se cítíš klidněji. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bDid you! I hope they were useful?</key>
-		<value>真的嗎! 它們有用嗎? </value>
+		<value>Vážně! Doufám, že byly užitečné? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bThe planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</key>
-		<value>我提到的那顆星球可能已經被凍住了, 或者它大半是由冰構成的, \\n就像深巨星那樣, 只是更寒冷, 現在還很難說. \\n它曾是我們太陽系的第五顆行星. </value>
+		<value>Ta planeta, kterou jsem zmínil, mohla být plně zmrzlá, nebo jen částečně vyrobená z ledu, jako mnohem studenější Obří hlubina - těžko říci. Bývala to pátá planeta naší sluneční soustavy. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bYou’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</key>
-		<value>當然, 你可以發現, 現在這顆星球已經不見了. 取而代之的是黑棘星, \\n要怎麽說呢, 它從本來第五顆行星的位置長了出來. </value>
+		<value>Ale žádná taková planeta už tu samozřejmě není. Místo ní máme Temnotrn, který - jak to říci - dorostl do prostoru, který předtím pátá planeta obývala. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bThat is, Dark Bramble quite literally appeared at the center of the fifth planet and began destroying it from the inside-out. Eventually, the planet shattered completely, and its shards were flung across space.</key>
-		<value>也就是說, 黑棘星出現在了第五顆行星的中心, 並從內部摧毀了它. \\n最終, 這顆行星完全碎裂, 它的碎片遍布太空. </value>
+		<value>To jest, Temnotrn se doslova objevil ve středu páté planety a začal ji ničit zevnitř. Nakonec se planeta rozlomila, a její úlomky se rozprášily napříč vesmírem. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething2bSome of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-		<value>其中一些碎片與我們太陽系中的天體相撞, 比如廢巖星. \\n我認為它上面最大的環形山就是這樣形成的. </value>
+		<value>Některé z těchto úlomků se srazily s hvězdnými tělesy v naší sluneční soustavě, jako třeba Vytěženec, jehož největší kráter vznikl tímto způsobem. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bHow fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-		<value>真是令人驚嘆! 如果你仔細研究太陽系中的物理現象, 你可能會有意思地\\n發現, 在這里完全有可能存在著另一顆行星. 只是它可能離得非常遠, \\n比哈斯人的宇宙飛船所能到達的地方還要遠. </value>
+		<value>Fascinující! Mohlo by tě zajímat, že existence další planety je zcela možná, pokud se podíváš na fyziku naší sluneční soustavy. Musela by být neskutečně daleko odsud - dál, než domopecké lodě dokážou doputovat. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bAnd honestly, we don’t know all that much about what’s all out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
-		<value>而且說實話, 我們並不清楚那里到底有什麽. 你走得越遠, \\n我們知道得越少! 正因為如此, 這樣一顆行星的存在是完全可能的. </value>
+		<value>A upřímně, tolik toho nevíme o tom, co je za hranicemi naší sluneční soustavy. Čím dál letíš, tím míň toho víš! Takže je zcela v hranicích možného, že taková planeta existuje. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething4bOh yes, everyone loves a good mystery, don’t they? Who wouldn’t wonder about a moon that’s sometimes there and sometimes not!</key>
-		<value>哦對啊, 人人都喜歡神秘的事物, 不是嗎? \\n誰不想了解一顆有時在這兒有時又不在的衛星呢! </value>
+		<value>Ano, každý zbožňuje dobrou záhadu, že? A koho by nezajímal měsíc, který tu občas je a občas ne! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething4bI’ve observed the Quantum Moon orbiting each of the five planets, but sometimes, it quite simply disappears from the sky altogether. Maybe there’s another place it travels to!</key>
-		<value>我觀察到量子衛星會圍繞著這五顆行星旋轉, \\n但有時它會從天空消失不見. 也許它去了其他地方! </value>
+		<value>Pozoroval jsem Kvantový měsíc na oběžné dráze každé z pěti planet, ale občas úplně z oblohy zmizí. Možná cestuje k nějakému dalšímu tělesu! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething4bUnfortunately, if there is, I’ve never seen it. Perhaps if I take a closer look at these star charts...</key>
-		<value>遺憾的是, 就算真有這個地方, 我也沒見過. \\n也許我仔細觀察這些星圖的話...</value>
+		<value>Bohužel, pokud je tomu tak, nikdy jsem ho neviděl. Možná, pokud blíže prostuduji tyto hvězdné mapy...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bIs that what’s in orbit around the sun, then, do you think? This... Sun Station?</key>
-		<value>你覺得沿著太陽軌道運行的就是它? 這個...太陽站? </value>
+		<value>Takže to je ta věc, co obíhá slunce? Ta... Sluneční stanice? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bQuite clever of the Nomai to devise a way to study the sun up close and personal! It must have been tremendously difficult to construct. ...And hot inside. I can only imagine!</key>
-		<value>挪麥人真聰明, 能想出這樣的辦法來近距離研究太陽! \\n要建造它一定異常艱難...里面也一定很熱. 我簡直無法想象! </value>
+		<value>Velmi chytré, vymyslet způsob, jak studovat slunce z takové blízkosti! Muselo být ohromně těžké ji vybudovat... a horko uvnitř. Stěží si to lze představit! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething5bI wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-		<value>我真好奇, 他們是怎麽在太陽站和沙漏雙星之間來回穿梭的. \\n畢竟一點微小的疏忽就會導致慘烈的死亡. </value>
+		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími Dvojčaty, když sebemenší problém s přistáním znamenal ohnivou smrt. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bYou - what? I don’t... um. What?</key>
-		<value>你...什麽? 我不...唔. 什麽? </value>
+		<value>Tys - cože? Já ne...  um. Cože?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bYou mean to say there are modern Nomai out in other parts of space? And they believe the universe - all of it, the whole thing - is dying? &lt;Pause/&gt;Currently? &lt;Pause/&gt;...Right now?</key>
-		<value>你是說在太空的其他區域有現代挪麥人? 而他們相信宇宙, 整個宇宙, \\n所有的一切都在死亡? &lt;Pause/&gt;現在? &lt;Pause/&gt;...正在死亡? </value>
+		<value>Tvrdíš, že ve zbytku vesmíru existují moderní Nomai? A věří, že vesmír - celý vesmír - umírá? &lt;Pause/&gt; V tuto chvíli? &lt;Pause/&gt; ...Právě teď?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bIf... if that’s true, how could I have missed so many signs? The supernovae were there, but I, but, I’ve been studying the stars for... well, what does it matter if... oh...</key>
-		<value>如果...如果這是真的, 我怎麽會錯過如此多的征兆? 超新星就在那兒, \\n但我, 但, 我一直在研究恒星...算了, 如果這是真的, \\n那一切還有什麽意義...哦...</value>
+		<value>Pokud... pokud je to pravda, jak jsem si mohl nevšimnout tolika znamení? Byly tu ty supernovy, ale já, ale, já jsem studovat hvězdy už od... ale co na tom záleží, když...</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bI’m very sorry, b-but I have to look over my charts. I h-h-hope you don’t m-mind...</key>
-		<value>我很抱歉, 但、但我得去看看我的星圖. 我希、希、希望你不要介意...</value>
+		<value>Moc se omlouvám, a-ale musím se podívat na své hvězdné mapy. D-d-doufám, že ti to n-nevadí...</value>
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaibB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>但、但、但我敢肯定, 除了超新星, 我本應該能觀察到一些其它的征兆, \\n所以也、也許...? </value>
+		<value>A-a-ale určitě bych viděl nějaké jiné znamená než jen supernovy, takže m-možná...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7bNothing you’d like to discuss at the moment? That’s no trouble! If you do find something you wish to discuss, please, come find me! I’ll be here studying the stars for a while yet.</key>
-		<value>眼下你不想談點什麽嗎? 沒關系! 如果你發現了什麽想找人談談, \\n請一定來找我! 我會待在這里再研究一陣子恒星. </value>
+		<value>Nechceš teď o ničem mluvit? V pořádku! Pokud objevíš něco, o čem bys mluvit chtěl, rád ti pomůžu. </value>
 	</entry>
 	<entry>
 		<key>ChertIntroThe stars! They're all dying! There’ve been too many supernovae for it to be anything else!</key>
-		<value>那些恒星! 它們正在死去! 它們的能量太過巨大, 只能變成超新星! </value>
+		<value>Hvězdy! Všechny umírají! Viděl jsem příliš mnoho supernov na to, aby to bylo cokoliv jiného!</value>
 	</entry>
 	<entry>
 		<key>ChertIntroWe’re next, do you understand?! Our sun! By Hearth’s name, &lt;i&gt;we’re next&lt;/i&gt;!</key>
-		<value>你明白嗎? ! 我們就是下一個. 我們的太陽! \\n哈斯在上, &lt;i&gt;下一個就輪到我們了&lt;/i&gt;! </value>
+		<value>My jsme příští na řadě, chápeš?! Naše slunce! Šmankote, &lt;i&gt;jsme další na řadě&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>ChertSecondaryPlease, just... Leave me alone, won’t you?</key>
-		<value>拜托...讓我一個人待著, 好嗎? </value>
+		<value>Prosím, jen... nech mě být, jo? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhat do you mean, "we’re next"?</key>
-		<value>什麽叫“我們就是下一個”? </value>
+		<value>Co tím myslíš, "jsme další na řadě"? </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsWhy are the stars dying?</key>
-		<value>為什麽恒星在死去? </value>
+		<value>Proč hvězdy umírají? </value>
 	</entry>
 	<entry>
 		<key>ChertNextIt’s the stars, you see. All the other stars are dying out. Oh, why did we have to be born at the end of the universe? And our sun, it...</key>
-		<value>你知道的, 是恒星. 所有這些恒星都在滅亡. 哦, 為什麽\\n我們要出生在宇宙的末日? 還有我們的太陽, 它...</value>
+		<value>Kvůli těm hvězdám, víš? Všechny ostatní hvězdy umírají. Ach, proč jen jsme se narodili na konci vesmíru? A naše slunce, ono...</value>
 	</entry>
 	<entry>
 		<key>ChertNextThe star charts! Why? Why did I want to update them so badly? I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-		<value>星圖! 為什麽? 為什麽我這麽想更新星圖? 我也沒必要知道, 但不, \\n哦不, 我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要...就要...哦...</value>
+		<value>Hvězdné mapy! Proč? Proč jsem je tak moc chtěl aktualizovat? Nemusel jsem o ničem vědět, ale ne, ach ne, musel jsem jít aktualizovat hvězdné mapy! Musel jsem se jít poohlížet po věcech, které bych neměl vědět! A teď naše slunce... naše slunce... ach...</value>
 	</entry>
 	<entry>
 		<key>ChertNext...I don’t feel well. I’d like to be alone, please.</key>
-		<value>...我不太舒服. 請讓我一個人待著吧. </value>
+		<value>...Necítím se dobře. Byl bych rád o samotě, prosím.</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingWhy, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</key>
-		<value>這不是很好嗎! 你知道嗎, 我自己也有不少發現! \\n大多都和太陽爆炸有關! </value>
+		<value>No, to je super! A víš ty co, já jsem taky leccos našel! Většina věcí, co jsem našel, mají co do činění s explodujícími hvězdami!</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingOh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!</key>
-		<value>哦, 誰&lt;i&gt;在乎啊&lt;/i&gt;? ! 還有什麽意義? ! &lt;i&gt;什麽&lt;/i&gt;都沒意義了! \\n太陽馬上就要變成超新星了! 而我, 我的所有研究, \\n我的畢生心血, 都白費了! </value>
+		<value>Hergot, koho to &lt;i&gt;zajímá&lt;/i&gt;?! K čemu to je?! Už nezáleží na &lt;i&gt;ničem&lt;/i&gt;! Slunce za chvíli vybuchne! A já, veškerý můj výzkum, práce mého života, promarněna! </value>
 	</entry>
 	<entry>
 		<key>FoundSomething&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-		<value>&lt;size=50&gt;都白費了, 你懂嗎? ! &lt;/size&gt;</value>
+		<value>&lt;size=50&gt;Promarněna, chápeš?!&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>Chert1The star charts! It’s all the star charts’ fault! I didn’t have to know, but no, oh no, I had to update the star charts! I had to go looking for things I shouldn’t have! And now our sun is about to... about to... oh...</key>
-		<value>星圖! 都是星圖的錯! 我也沒必要知道, 但不, 哦不, \\n我一定得更新星圖! 我得去尋找那些我本不該追尋的東西! \\n現在我們的太陽就要...就要...哦...</value>
+		<value>Moje hvězdné mapy! Je to všechno jejich vina! Nemusel jsem o ničem vědět, ale ne, ach ne, musel jsem jít aktualizovat hvězdné mapy! Musel jsem se jít poohlížet po věcech, které bych neměl vědět! A teď naše slunce... naše slunce... ach...</value>
 	</entry>
 	<entry>
 		<key>Chert1...I don’t feel well. I’d like to be alone, please.</key>
-		<value>...我不太舒服. 請讓我一個人待著吧. </value>
+		<value>...Necítím se dobře. Byl bych rád o samotě, prosím.</value>
 	</entry>
 	<entry>
 		<key>Chert2Where should you &lt;i&gt;go&lt;/i&gt;? Where can anyone go? Can’t you see it’s too late now?</key>
-		<value>你要&lt;i&gt;去&lt;/i&gt;哪里? 大家還能去哪里? 你難道看不出來, \\n一切已經太遲了嗎? </value>
+		<value>Kam bys měl &lt;i&gt;jít&lt;/i&gt; Kam se dá jít? Nevidíš, že je příliš pozdě?</value>
 	</entry>
 	<entry>
 		<key>Chert2Oh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!</key>
-		<value>哦, 誰&lt;i&gt;在乎啊&lt;/i&gt;? ! 還有什麽意義? ! &lt;i&gt;什麽&lt;/i&gt;都沒意義了! \\n在你到那里之前, 太陽很可能就已經炸了! 而我, 我的所有研究, \\n我的畢生心血, 都白費了! </value>
+		<value>Hergot, koho to &lt;i&gt;zajímá&lt;/i&gt;?! K čemu to je?! Už nezáleží na &lt;i&gt;ničem&lt;/i&gt;! Slunce za chvíli vybuchne! A já, veškerý můj výzkum, práce mého života, promarněna!</value>
 	</entry>
 	<entry>
 		<key>Chert2&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-		<value>&lt;size=50&gt;都白費了, 你懂嗎? ! &lt;/size&gt;</value>
+		<value>&lt;size=50&gt;Promarněna, chápeš?!&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>Chert3Not as dangerous as what’s about to happen to our entire solar system!</key>
-		<value>和整個太陽系即將發生的事情相比, 一點都不危險! </value>
+		<value>Ne tak nebezpečný jako to, co se za chvíli stane celé naší sluneční soustavě! </value>
 	</entry>
 	<entry>
 		<key>Chert3I... I don’t feel well. I’d like to be alone, please. I can’t believe this...</key>
-		<value>我...我不太舒服. 請讓我一個人待著吧. 真是不敢相信...</value>
+		<value>...Necítím se dobře. Byl bych rád o samotě, prosím. Nemůžu tomu uvěřit...</value>
 	</entry>
 	<entry>
 		<key>Chert4I don't know — they're old! Far older than we realized and now all of them are dying!</key>
-		<value>我不知道, 它們已經老了! 比我們想象的要老得多, 現在它們都快死了! </value>
+		<value>Nevím - jsou staré! Mnohem starší, než jsme si mysleli, a všechny teď umírají!</value>
 	</entry>
 	<entry>
 		<key>Chert4What does it matter?! It doesn’t! It doesn’t matter at all! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! All my research, my life’s work, wasted!</key>
-		<value>還有什麽意義? ! 沒有了! 都無所謂了! &lt;i&gt;什麽&lt;/i&gt;都沒意義了! \\n我的所有研究, 我的畢生心血, 都白費了! </value>
+		<value>Co na tom záleží! Nezáleží! Nezáleží na &lt;i&gt;ničem&lt;/i&gt; Všechen můj výzkum, všechna moje práce, promarněna! </value>
 	</entry>
 	<entry>
 		<key>Chert4&lt;size=50&gt;Wasted, you understand?!&lt;/size&gt;</key>
-		<value>&lt;size=50&gt;都白費了, 你懂嗎? ! &lt;/size&gt;</value>
+		<value>&lt;size=50&gt;Promarněna, chápeš?!&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>Chert5I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I &lt;i&gt;won’t&lt;/i&gt; believe it!</key>
-		<value>我不相信. 我不敢相信會發生這樣的事. 我不...我不! \\n我&lt;i&gt;不會&lt;/i&gt;相信的! </value>
+		<value>Nemůžu tomu uvěřit. Nemůžu uvěřit, že se tohle děje. Nemůžu... Nebudu! &lt;i&gt;Nebudu&lt;/i&gt; tomu věřit! </value>
 	</entry>
 	<entry>
 		<key>ChertIntroOh, hello...</key>
-		<value>哦, 你好...</value>
+		<value>Ahoj...</value>
 	</entry>
 	<entry>
 		<key>QuestionsCome, sit with me, my fellow traveler. Let’s sit together and watch the stars die.</key>
-		<value>我親愛的旅行家, 快過來, 和我坐會兒. 我們一起坐著, 看看恒星滅亡. </value>
+		<value>Pojď, sedni si se mnou, můj spolucestovateli. Pojďme spolu sedět a sledovat, jak hvězdy umírají.</value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsSure, why not.</key>
-		<value>好啊, 何樂不為. </value>
+		<value>Jasně, proč ne.</value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsIf it helps, we’re in a time loop, so we won’t really die.</key>
-		<value>其實我們正在一個時間循環中, 所以我們並不會真正死去. \\n希望這麽說你能好受些. </value>
+		<value>Pokud ti to pomůže, jsme v časové smyčce, takže neumřeme doopravdy. </value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsNo, thanks.</key>
-		<value>還是不了, 謝謝. </value>
+		<value>Ne, díky. </value>
 	</entry>
 	<entry>
 		<key>Chert1We only get so much time, don’t we? Ah, there was still more I wanted to do...</key>
-		<value>我們的時間就這麽點, 不是嗎? 啊, 我還有許多想做的事呢...</value>
+		<value>Je nám vyhrazeno jen určité množství času, že? Ach, chtěl jsem toho ještě tolik udělat...</value>
 	</entry>
 	<entry>
 		<key>Chert1How unlucky to have been born at the end of the universe.</key>
-		<value>出生在宇宙末日真是太不走運了. </value>
+		<value>Jak smolné, že jsme se narodili na konci vesmíru. </value>
 	</entry>
 	<entry>
 		<key>Chert2Ah, that’s a lovely thought. Is that how you’re coping with this?</key>
-		<value>啊, 這想法真有趣. 你就是這麽安慰自己的嗎? </value>
+		<value>Ach, to je krásná myšlenka. Takže ty se s tím potýkáš takhkle? </value>
 	</entry>
 	<entry>
 		<key>Chert2Does it help?</key>
-		<value>好受些了? </value>
+		<value>Pomáhá ti to? </value>
 	</entry>
 	<entry>
 		<key>Chert3Perhaps you’re right. ...Yes, we should face this alone. That’s the way.</key>
-		<value>也許你說得對...沒錯, 我們應該獨自面對這個問題. 就是這樣. </value>
+		<value>Možná máš pravdu... Ano, měli bychom tomu čelit sami. Tak se na to musí.</value>
 	</entry>
 	<entry>
 		<key>Chert3We enter this world alone, and we leave it alone...</key>
-		<value>我們孤獨地來到世上, 再孤獨地離去...</value>
+		<value>Vstupujeme do tohoto světa sami, a také z něho sami odcházíme...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondary1Any minute now...</key>
-		<value>任何時候...</value>
+		<value>Teď už každou chvíli...</value>
 	</entry>
 	<entry>
 		<key>ChertSecondary2A time loop, you said? I like that idea...</key>
-		<value>你說時間循環? 我喜歡這想法...</value>
+		<value>Časová smyčka, říkáš? Ta myšlenka se mi líbí...</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersThe stars were beautiful, weren’t they? Even if our star is what ultimately killed us.</key>
-		<value>恒星真美啊, 不是嗎? 即便到最後, 我們都會死於這顆恒星. </value>
+		<value>Hvězdy byly krásné, že? I přestože nás naše hvězda nakonec zabila.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersI’ll wait here and remember them while you gather everybody.</key>
-		<value>你去召集所有人時, 我會在這里等著, 並將它們一一記住. </value>
+		<value>Počkám tady a budu na ně vzpomínat, zatímco shromáždíš všechny ostatní. </value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayShall I begin?</key>
-		<value>我可以開始了嗎? </value>
+		<value>Mám začít? </value>
 	</entry>
 	<entry>
 		<key>ChertReadyToPlayYes.</key>
-		<value>是的. </value>
+		<value>Ano. </value>
 	</entry>
 	<entry>
 		<key>ChertReadyToPlayNot yet.</key>
-		<value>還不行. </value>
+		<value>Ještě ne. </value>
 	</entry>
 	<entry>
 		<key>StartPlayingWell, then, here I go!</key>
-		<value>嗯, 好吧, 我開始了! </value>
+		<value>Nu, tedy začnu! </value>
 	</entry>
 	<entry>
 		<key>NotYetTake your time! I don’t think there’s anything left to go supernova.</key>
-		<value>慢慢來! 我覺得這兒已經剩不下什麽東西可以變成超新星了. </value>
+		<value>Dej si načas! Nemyslím si, že se supernova může stát z čehokoli dalšího. </value>
 	</entry>
 	<entry>
 		<key>FarewellEven if it’s over now, I had a good time learning.</key>
-		<value>即便一切已經結束, 至少我學到了充分的知識. </value>
+		<value>Přestože jsme u konce, líbilo se mi se učit. </value>
 	</entry>
 	<entry>
 		<key>FarewellBut I think the rules are about to change.</key>
-		<value>不過我覺得規則就快變了. </value>
+		<value>Ale myslím, že se pravidla za moment změní. </value>
 	</entry>
 	<entry>
 		<key>SignNEW EXHIBITS COMING SOON!</key>
-		<value>新展品即將推出! </value>
+		<value>NOVÉ EXPONÁTY JIŽ BRZY! </value>
 	</entry>
 	<entry>
 		<key>Esker</key>
