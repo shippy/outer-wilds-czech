@@ -8112,79 +8112,79 @@
 	</entry>
 	<entry>
 		<key>SignThis piece of Nomai writing was essential to deciphering their unique language.</key>
-		<value>要想破譯挪麥人的獨特語言, 他們書寫的這篇文字至關重要. </value>
+		<value>Tato část písma Nomai byla nezbytná k rozluštění jejich unikátního jazyka. </value>
 	</entry>
 	<entry>
 		<key>SignAlthough this text is linear, Nomai text often branches off from a central point. Interestingly, each branch tends to be written by a different author.</key>
-		<value>雖然挪麥文字是線性展開的, 但它們常常會從一個中心點向外衍生出分支. \\n有意思的是, 每個分支往往都由不同的作者書寫. </value>
+		<value>Přestože tento text je lineární, písmo Nomai často odbočí od hlavního tématu. Je zajímavé, že každou odbočku většinou napíše jiný autor.</value>
 	</entry>
 	<entry>
 		<key>SignWhat you see here are parts of the Nomai skeleton. We can tell from their skulls that they possessed antlers and, quite unusually, only three eyes.</key>
-		<value>你目前看到的是挪麥人骨骼的一部分. 從頭骨上我們可以看出他們長著\\n鹿角. 並且不尋常的是, 他們只有三只眼睛. </value>
+		<value>Zde můžete vidět části kostry Nomai. Z jejich lebky vidíme, že měli parohy a, nezvykle, jen tři oči.</value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
-		<value>挪麥人的身體很可能只適應在陸地上生活. 挪麥人在解剖上與哈斯人\\n截然不同, 他們擁有異常脆弱的骨骼結構, 這也證明了哈斯人\\n不可能是挪麥人的後代. </value>
+		<value>Tělo Nomai bylo patrně přizpůsobeno k žití na souši. Rozdíly v anatomii Nomai, jako jejich šokujícně křehká kostní struktura, nám ukazují, že Domopecané nemohli vzejít z Nomai.</value>
 	</entry>
 	<entry>
 		<key>SignIt’s not clear where the Nomai originated from, or why they disappeared. We hope to find more clues to this puzzle as we explore our solar system.</key>
-		<value>目前還不清楚挪麥人源自哪里, 以及他們為什麽會消失. \\n我們希望在探索自身太陽系的同時, 能夠找到更多這個未解之謎的線索. </value>
+		<value>Není jasné, kde se Nomai vyvinuli, nebo proč zmizeli. Doufáme, že najdeme více kousků do této skládačky během zkoumání naší sluneční soustavy.</value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai who came to our solar system were following a signal from the Eye of the universe.</key>
-		<value>那些挪麥人追尋著宇宙之眼發出的信號, 來到了我們這個太陽系. </value>
+		<value>Nomai, kteří přišli do naší sluneční soustavy, následovali signál Oka vesmíru. </value>
 	</entry>
 	<entry>
 		<key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
-		<value>闖入者到來的時候帶來了一種致命的物質, 並葬送了他們的性命. \\n我們稱這種物質為幽靈物質. 它幾乎毫無征兆地立刻淹沒了整個太陽系. </value>
+		<value>Zemřeli, když přiletěl Tulák a přinesl s sebou s životem neslučitelnou substanci, kterou nazýváme antihmota. Ta zaplavila téměř okamžitě a bez varování celou sluneční soustavu. </value>
 	</entry>
 	<entry>
 		<key>SignWe never figured out how they died.</key>
-		<value>我們一直沒弄明白他們到底是怎麽死的. </value>
+		<value>Nikdy jsme nepřišli na to, jak zemřeli. </value>
 	</entry>
 	<entry>
 		<key>SignStars like our sun generate light and heat by fusing hydrogen into helium.</key>
-		<value>和我們的太陽一樣, 恒星會將氫原子聚變成氦原子, 來產生光和熱. </value>
+		<value>Hvězdy jako ta naše generují světlo a teplo tím, že fúzují vodík na hélium.</value>
 	</entry>
 	<entry>
 		<key>SignAs it grows older, the star runs out of hydrogen and starts to contract.</key>
-		<value>隨著恒星步入晚年, 它耗盡了氫原子, 並開始收縮. </value>
+		<value>V procesu stárnutí hvězdě dojde vodík a začne se zmenšovat.</value>
 	</entry>
 	<entry>
 		<key>SignAs the star’s core contracts, it gets hotter, causing the outer layers to expand. The star has become a red giant.</key>
-		<value>隨著核心收縮, 恒星會變得越來越熱, 導致外層體積膨脹. \\n於是它就變成了紅巨星. </value>
+		<value>Tím, že se jádro hvězdy zmenšuje, se stane horčejším, což vypuzuje další vrstvy. Hvězda se stala rudým obrem.</value>
 	</entry>
 	<entry>
 		<key>SignWhen the core is hot enough, it starts to fuse helium into carbon.</key>
-		<value>當核心溫度達到一定程度之後, 恒星將會把氦核聚變為碳核. </value>
+		<value>Když je jádro dostatečně horké, začne fúzovat hélium na uhlík. </value>
 	</entry>
 	<entry>
 		<key>SignIf a star is massive enough, it will continue to fuse carbon into even heavier elements like iron.</key>
-		<value>如果一顆恒星的體積足夠大, 它將會不斷把碳聚變成質量更高的元素, \\n比如鐵. </value>
+		<value>Dostatečně obrovská hvězda začne fúzovat uhlík do těžších prvků jako železo. </value>
 	</entry>
 	<entry>
 		<key>SignUltimately, the star will collapse under its own gravity and then explode in a violent event called a supernova.</key>
-		<value>最終, 這顆恒星會在自身重力的作用下坍縮, 並劇烈地爆炸, \\n形成名為超新星的天體. </value>
+		<value>Ve finále se hvězda zhroutí pod svou vlastní váhou a potom vybuchne, čemuž říkáme supernova.</value>
 	</entry>
 	<entry>
 		<key>SignBased on Chert’s observations, this will one day be the fate of our own sun.</key>
-		<value>根據Chert的觀察, 總有一天, 我們的太陽也會走到這一步. </value>
+		<value>Na základě Chertových sledování víme, že to se jednou stane našemu vlastnímu slunci.</value>
 	</entry>
 	<entry>
 		<key>SignAt the end of its lifespan, our sun collapsed under its own gravity and then exploded in a violent supernova.</key>
-		<value>我們的太陽走到了生命的盡頭. 它在自身重力的作用下坍縮, \\n並劇烈爆炸, 形成了一顆超新星. </value>
+		<value>Na konci svého života se naše slunce zhroutilo pod svou vlastní váhou a vybuchlo jako prudká supernova. </value>
 	</entry>
 	<entry>
 		<key>SignWatch closely... these balls move on their own!</key>
-		<value>仔細觀察...這些球體會自己移動! </value>
+		<value>Sledujte pozorně... tyto míče se hýbají samy od sebe! </value>
 	</entry>
 	<entry>
 		<key>SignThe ground is perfectly level, so what do you think causes this spooky motion?</key>
-		<value>地面極為平整, 那麽你認為是什麽造成了這種奇怪的運動? </value>
+		<value>Povrch je perfektně rovný, takže co si myslíte, že může za tento zvláštní pohyb? </value>
 	</entry>
 	<entry>
 		<key>SignThe answer is the moon! As it orbits our planet, the Attlerock’s gravity pulls on objects from different directions. In fact, it’s pulling on you right now!</key>
-		<value>答案就是衛星! 當它圍繞我們的行星運轉時, 廢巖星的重力就會\\n把物體朝不同的方向吸引. 事實上, 它現在就在吸引著你! </value>
+		<value>Odpověď je měsíc! V průběhu svého oběhu působí Vytěženec svojí gravitací na různá tělesa z různých směrů. Působí právě teď i na tebe!</value>
 	</entry>
 	<entry>
 		<key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
