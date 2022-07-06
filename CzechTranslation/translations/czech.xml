@@ -10831,115 +10831,115 @@
 	<table_shipLog>
 		<TranslationTableEntry>
 			<key>Village</key>
-			<value>村子</value>
+			<value>Vesnice</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe one and only Hearthian village, as well as the main source of explosions on this planet.</key>
-			<value>哈斯人唯一的村子就坐落在這顆行星上. 它也是爆炸的主要來源. </value>
+			<value>Jediná domopecská vesnice, a hlavní zdroj výbuchů na této planetě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
-			<value>天文台里的那座挪麥雕像睜開了眼睛, 還盯著我看! 我看見了奇怪的光芒, 我的回憶在眼前閃過. </value>
+			<value>Socha Nomai v observatoři otevřela oči a podívala se na mě! Viděl jsem zvláštní zářivá světélka a mé vlastní vzpomínky se prohnaly před mýma očima.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageHal says the statue has never opened its eyes before (despite Hornfels' best efforts).</key>
-			<value>Hal說雕像以前從來沒有睜開過眼睛 (雖然Hornfels什麽辦法都用過了) . </value>
+			<value>Hal říká, že socha nikdy předtím oči neotevřela (ač se Hornfels velmi snažil). </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G Cave</key>
-			<value>零重力洞窟</value>
+			<value>Nulková jeskyně</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI hear Gossan has the zero-g cave set up if I want a refresher before I launch.</key>
-			<value>我聽說Gossan把零重力洞窟準備好了, 就看我發射前要不要去進修一下. </value>
+			<value>Slyšel jsem, že Gossan má nulkovou jeskyni připravenou, pokud chci osvěžovací kurz předtím, než vyrazím.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
-			<value>那是一個位於木爐星正中央的洞窟, Outer Wilds探險隊用它來訓練新的宇航員. </value>
+			<value>Jeskyně v samém středu Domopece, používaná Divočinnými výpravami pro trénování nových astronautů. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Zero-G CaveI successfully repaired another "satellite" for Gossan.</key>
-			<value>我成功地為Gossan修好了另一顆“衛星”. </value>
+			<value>Úspěšně jsem pro Gossana spravil další "satelit".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble Seed</key>
-			<value>黑棘星種子</value>
+			<value>Semínko z Temnotrnu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Harmonica Signal</key>
-			<value>口琴信號</value>
+			<value>Harmonikový signál</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedEsker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</key>
-			<value>Esker的信號鏡日志報告說, 木爐星的某處傳來了口琴聲. \\n他說那聲音聽起來和Feldspar的口琴一模一樣. 可是Feldspar早就消失在太空里了. </value>
+			<value>Eskerovy záznamy detekovaných signálů tvrdí, že odněkud z Domopece zní harmonika. Tvrdí, že zní přesně jako Feldsparova harmonika, ale Feldspar dávno zmizel ve vesmíru.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedA seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</key>
-			<value>一顆黑棘星的種子墜落在了這里, 並且已經紮了根. Tektite想要用偵查發射器去看看里面是什麽樣子. </value>
+			<value>Semínko z Temnotrnu tu havarovalo a zakořenilo. Tektit se chce za pomocí sondometu podívat, co je uvnitř.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedMy signalscope picks up harmonica music when I aim it at the seed.</key>
-			<value>我用信號鏡對準種子的時候, 聽到那里傳來了口琴聲. </value>
+			<value>Můj signáloskop detekuje harmoniku, když jej zamířím na semínko. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Dark Bramble SeedI launched my Little Scout into the seed. Somehow the seed is much bigger on the inside.</key>
-			<value>我往種子里發射了一個小偵查兵. 不知道為什麽, 種子的里面比外面要大. </value>
+			<value>Vypustil jsem svou sondu do semínka. Semínko je nějakým způsobem větší uvnitř než venku.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Mines</key>
-			<value>挪麥礦井</value>
+			<value>Doly Nomai</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-			<value>挪麥人在木爐星的某處開采礦石. </value>
+			<value>Nomai kutali rudu na Domopeci. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
-			<value>挪麥人從這里開采礦石, 然後拿去建造保護外殼, 以便將灰燼雙星的中央艙室與外界物理隔絕. </value>
+			<value>Nomai kutali rudu v tomto dole, aby vyrobili ochrannou skořápku, která by fyzicky zapečetila centrální komoru uvnitř Popeláku. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesOnce the shell was finished, the Nomai checked to ensure there were no longer any physical entrances or cracks.</key>
-			<value>保護外殼一經完成, 挪麥人便對其進行檢查, 確認其上沒有裂縫, 也沒有任何與內部物理接觸的方式. </value>
+			<value>Jakmile byla skořápka dokončena, Nomai zkontrolovali, že neobsahuje žádné otvory nebo praskliny.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine.</key>
-			<value>挪麥人在礦井附近的航道里發現了一個長著四只眼睛的半水生物種. </value>
+			<value>Nomai objevili živočišný druh čtyřokých, polo-vodních bytostí ve vodě poblíž dolu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Grove</key>
-			<value>量子樹林</value>
+			<value>Kvantový háj</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Signal</key>
-			<value>量子信號</value>
+			<value>Kvantový signál</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveChert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon.</key>
-			<value>Chert檢測到從木爐星南極的環形山那里傳來了一個奇怪的信號. 它和量子衛星發射出來的信號十分類似. </value>
+			<value>Chert detekoval zvláštní signál, který pocházel z kráteru na jižním pólu Domopece. Je velmi podobný signálu, který vydává Kvantový měsíc.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThe Nomai detected a quantum signal coming from somewhere on Timber Hearth.</key>
-			<value>挪麥人檢測到從木爐星的某處傳來了一個量子信號. </value>
+			<value>Nomai detekovali kvantový signál pocházející odněkud z Domopece.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveThere is a strange rock shard in this grove that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
-			<value>這片樹林里有一塊奇怪的巖石碎片. 當我不看它的時候, 它就會移動. 它發射出一種具備量子波動頻率的\\n信號. </value>
+			<value>V tomto háji je zvláštní kamenný úlomek, který se hýbe, když ho spustím z očí. Vydává signál na frekvenci Kvantových fluktuací.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum GroveI found a poem written on one of the trees in the grove.</key>
-			<value>我發現有人在樹林的一棵樹上寫了一首詩. </value>
+			<value>Našel jsem báseň na jednom ze stromů v tomto háji. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Radio Tower</key>
-			<value>無線電塔</value>
+			<value>Rádiová věž</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Radio TowerA radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation.</key>
-			<value>這座無線電塔的作用是接收深空衛星拍攝的照片. 幾面墻上掛著數張太陽系全貌的照片. \\nHornfels發現其中一張照片有些不對勁, 然而最終得出的唯一合理解釋是設備故障. </value>
+			<value>Rádiová věž vytvořená k příjmu fotek od hlubokovesmírného satelitu. Na zdech visí několik fotek sluneční soustavy. Hornfels si všiml něčeho zvláštního na jedné z fotek, ale rozhodl se, že porucha zařízení byla jediným rozumným vysvětlením.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s Camp</key>
-			<value>Riebeck的營地</value>
+			<value>Riebeckův tábor</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck</key>
