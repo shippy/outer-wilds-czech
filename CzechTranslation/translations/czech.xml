@@ -13085,11 +13085,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>200</key>
-			<value>&lt;color=orange&gt;(Hold)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Tiskni)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>201</key>
-			<value>&lt;color=orange&gt;(Press)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Stiskni)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
@@ -13097,7 +13097,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>203</key>
-			<value>Engage Autopilot</value>
+			<value>Zapnout autopilota</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>204</key>
@@ -13121,7 +13121,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>209</key>
-			<value>Equip Signalscope</value>
+			<value>Nasadit signáloskop</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>210</key>
@@ -13145,11 +13145,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>215</key>
-			<value>	 Vzbuď se</value>
+			<value>	 Vzbudit se</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value>(podrž a uvolni)</value>
+			<value>(stiskni a uvolni)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
@@ -13189,11 +13189,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>230</key>
-			<value>Put Away</value>
+			<value>Odložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
-			<value>Aim Launcher</value>
+			<value>Zacílit sondomet</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
@@ -13213,23 +13213,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
-			<value>Forward Snapshot</value>
+			<value>Frontální fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>237</key>
-			<value>Take Snapshot</value>
+			<value>Vyfotit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>238</key>
-			<value>Rearview Snapshot</value>
+			<value>Zadní fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>239</key>
-			<value>Rotate Camera</value>
+			<value>Rotovat fotoaparátem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>240</key>
-			<value>Aim Camera</value>
+			<value>Zacílit fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
@@ -13237,35 +13237,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>250</key>
-			<value>Liftoff</value>
+			<value>Vzlétnout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>251</key>
-			<value>Engage Autopilot</value>
+			<value>Zapnout autopilota</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>252</key>
-			<value>Abort Autopilot</value>
+			<value>Vypnout autopilota</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>253</key>
-			<value>Liftoff / Landing Camera</value>
+			<value>Vzletová / parkovací kamera</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>254</key>
-			<value>Landing Mode</value>
+			<value>Parkovací režim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>255</key>
-			<value>Cockpit View</value>
+			<value>Pohled z kokpitu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>256</key>
-			<value>Repair</value>
+			<value>Opravit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>257</key>
-			<value>Buckle Up</value>
+			<value>Zapnout pás</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
@@ -13273,11 +13273,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
-			<value>Open Hatch</value>
+			<value>Odklopit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>260</key>
-			<value>View Ship Log</value>
+			<value>Zobrazit lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>261</key>
@@ -13285,7 +13285,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>269</key>
-			<value>SUIT: </value>
+			<value>SKAFANDR: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>270</key>
@@ -13305,19 +13305,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
-			<value> Activate Lift</value>
+			<value> Aktivovat výtah</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>275</key>
-			<value>Suit Up</value>
+			<value>Nahodit skafandr</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>276</key>
-			<value>Use Camera</value>
+			<value>Vyzkoušet fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>277</key>
-			<value>Použít sondomet</value>
+			<value>Vyzkoušet sondomet</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>278</key>
@@ -13325,11 +13325,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>279</key>
-			<value>Use Satellite Camera</value>
+			<value>Vyzkoušet satelitní fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>Enter Launch Codes</value>
+			<value>Zadat spouštěcí kódy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
@@ -13337,15 +13337,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
-			<value>Light Campfire</value>
+			<value>Zapálit ohýnek</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>283</key>
-			<value>Return Suit</value>
+			<value>Vrátit skafandr</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>284</key>
-			<value>Read</value>
+			<value>Prostudovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
@@ -13385,7 +13385,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
-			<value>Refuel Jetpack</value>
+			<value>Doplnit palivo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
@@ -13397,31 +13397,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
-			<value>Health and Fuel Full</value>
+			<value>Zdraví a palivo na maximu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>298</key>
-			<value>Jetpack Fuel Full</value>
+			<value>Palivo na maximu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>299</key>
-			<value>Health Full</value>
+			<value>Zdraví na maximu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>300</key>
-			<value>Close Map</value>
+			<value>Schovat mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>301</key>
-			<value>Pan View</value>
+			<value>Panoramatický pohled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>302</key>
-			<value>Rotate View</value>
+			<value>Rotovat pohledem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>303</key>
-			<value>Zoom View</value>
+			<value>Detailní pohled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
@@ -13429,7 +13429,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>310</key>
-			<value>Pick Up </value>
+			<value>Zvednout </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>311</key>
@@ -13509,7 +13509,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>Put Away</value>
+			<value>Odložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
@@ -13521,15 +13521,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Aim Translator</value>
+			<value>Zacílit překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
-			<value>Put Away</value>
+			<value>Odložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Translate</value>
+			<value>Přeložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
@@ -13553,39 +13553,39 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
-			<value>Put Away</value>
+			<value>Sundat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>351</key>
-			<value>Zoom In</value>
+			<value>Najet na cíl</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>352</key>
-			<value>Zoom Level</value>
+			<value>Detail</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>353</key>
-			<value>Change Frequency</value>
+			<value>Jiná frekvence</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>360</key>
-			<value>Leave Ship Log</value>
+			<value>Opustit lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>361</key>
-			<value>Zoom View</value>
+			<value>Detailní pohled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>362</key>
-			<value>Map Mode</value>
+			<value>Zobrazení mapy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>363</key>
-			<value>Find in Map Mode</value>
+			<value>Najít v zobrazení mapy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>364</key>
-			<value>View Entry</value>
+			<value>Zobrazit záznam</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>365</key>
@@ -13593,35 +13593,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>366</key>
-			<value>Remove HUD Marker</value>
+			<value>Odstranit lokaci z displeje</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>367</key>
-			<value>Mark Location On HUD</value>
+			<value>Zvýraznit lokaci na displeji</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>368</key>
-			<value>View Rumored Entry</value>
+			<value>Zobrazit údajný záznam</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>369</key>
-			<value>View Rumor</value>
+			<value>Zobrazit fámu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>370</key>
-			<value>Back to Map</value>
+			<value>Zpátky na mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>371</key>
-			<value>View Entries</value>
+			<value>Zobrazit záznamy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>372</key>
-			<value>Rumor Mode</value>
+			<value>Zobrazení fám</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>373</key>
-			<value>Find In Rumor Mode</value>
+			<value>Najít v zobrazení fám</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>374</key>
@@ -13657,11 +13657,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>401</key>
-			<value>FUEL LEVEL CRITICAL</value>
+			<value>KRITICKÁ ÚROVEŇ PALIVA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>402</key>
-			<value>% FUEL REMAINING</value>
+			<value>% PALIVA ZBÝVÁ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
@@ -13673,19 +13673,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>405</key>
-			<value> SECONDS OXYGEN REMAINING</value>
+			<value> VTEŘIN KYSLÍKU ZBÝVÁ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>406</key>
-			<value> MINUTES OXYGEN REMAINING</value>
+			<value> MINUT KYSLÍKU ZBÝVÁ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>410</key>
-			<value>FREQUENCY:</value>
+			<value>FREKVENCE:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>411</key>
-			<value>EXIT SHIP TO REPAIR</value>
+			<value>VYSTUP Z LODI A OPRAV JI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>412</key>
@@ -13733,15 +13733,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
-			<value>TREES DETECTED — OXYGEN TANK REFILLED</value>
+			<value>DETEKOVÁNY STROMY — KYSLÍKOVÁ NÁDRŽ DOPLNĚNA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>435</key>
-			<value>OXYGEN TANK REFILLED</value>
+			<value>KYSLÍKOVÁ NÁDRŽ DOPLNĚNA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>436</key>
-			<value>SUIT PUNCTURE DETECTED</value>
+			<value>DETEKOVÁNA TRHLINA VE SKAFANDRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>440</key>
@@ -13777,7 +13777,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>450</key>
-			<value>SATELLITE NODE</value>
+			<value>SATELITNÍ UZEL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>451</key>
@@ -13793,7 +13793,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>454</key>
-			<value>LANDING GEAR</value>
+			<value>PODVOZEK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>455</key>
@@ -13813,7 +13813,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>459</key>
-			<value>SVĚTLA</value>
+			<value>REFLEKTOR</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>460</key>
@@ -13845,15 +13845,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
-			<value>FÁZE 1: PŘIZPŮSOBENÍ TRAJEKTORIE LETU</value>
+			<value>FÁZE 1: ÚPRAVA TRAJEKTORIE LETU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>481</key>
-			<value>FÁZE 2: ZRYCHLENÍ SMĚREM K CÍLI</value>
+			<value>FÁZE 2: ZRYCHLOVÁNÍ K CÍLI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>482</key>
-			<value>FÁZE 3: VYSTŘELUJI ZPĚTNÉ RAKETY</value>
+			<value>FÁZE 3: REGRESNÍ RAKETY VYPÁLENY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>483</key>
@@ -13913,7 +13913,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
-			<value>PAUSED</value>
+			<value>POZASTAVENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>511</key>
@@ -13965,7 +13965,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>555</key>
-			<value>Signalscope</value>
+			<value>Signáloskop</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>556</key>
@@ -14057,11 +14057,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>578</key>
-			<value>Change Frequency</value>
+			<value>Jiná frekvence</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>579</key>
-			<value>Signalscope Zoom</value>
+			<value>Přiblížit signáloskopem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>580</key>
@@ -14325,7 +14325,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
-			<value>SLEDOVACÍ MODULE</value>
+			<value>SLEDOVACÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>711</key>
@@ -14397,19 +14397,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>737</key>
-			<value>PRESENTS</value>
+			<value>UVÁDÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>738</key>
-			<value>POHLEDY Z OBĚŽNÉ DRÁHY</value>
+			<value>ORBITÁLNÍ POHLEDY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>739</key>
-			<value>This projector is linked to our "Sky Shutter" satellite, which is currently orbiting Timber Hearth.</value>
+			<value>Tento projektor je spojen s naším satelitem Sky Shutter, který obíhá Domopec.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>740</key>
-			<value>The satellite is equipped with two onboard cameras. See if you can take a snapshot of our village!</value>
+			<value>Satelit je vybaven 2 palubními kamerami. Zkuste si s ním vyfotit naši vesnici!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>800</key>
@@ -14565,35 +14565,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>929</key>
-			<value> LANDING CAM</value>
+			<value> PARKOVACÍ KAMERA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>930</key>
-			<value>COMPUTER</value>
+			<value>POČÍTAČ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>931</key>
-			<value>SIGNALSCOPE</value>
+			<value>SIGNÁLOSKOP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>932</key>
-			<value>GRAVITY</value>
+			<value>GRAVITACE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>933</key>
-			<value>Launch Tower</value>
+			<value>Vzletová věž</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>934</key>
-			<value>Lumber Mill</value>
+			<value>Pila</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>935</key>
-			<value>Zero-G Cave</value>
+			<value>Nulková jeskyně</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>936</key>
-			<value>Observatory</value>
+			<value>Observatoř</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>937</key>
@@ -14613,7 +14613,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
-			<value>FUEL</value>
+			<value>PALIVO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>942</key>
@@ -14697,7 +14697,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>962</key>
-			<value>UNKNOWN</value>
+			<value>NEODHALENO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
@@ -14729,7 +14729,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> DAMAGED</value>
+			<value> POŠKOZEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
@@ -15685,7 +15685,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1440</key>
-			<value>Obecne</value>
+			<value>Obecné</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1441</key>
@@ -15797,7 +15797,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
-			<value>Thank you for supporting Outer Wilds Ventures! A new museum exhibit is now available in the village observatory.</value>
+			<value>Děkujeme za podporu Divočinných výprav (Outer Wilds Ventures)! A new museum exhibit is now available in the village observatory.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1521</key>
