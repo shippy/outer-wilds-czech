@@ -1846,7 +1846,7 @@
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuI found something!</key>
-		<value>Něco jsem našel!</value>
+		<value>Něco jsem objevil!</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbroMenuWhat are you doing out here?</key>
@@ -7576,78 +7576,77 @@
 	</entry>
 	<entry>
 		<key>Arkose1Hi, astronaut!</key>
-		<value>嗨, 宇航員! </value>
+		<value>Ahoj astronaute! </value>
 	</entry>
 	<entry>
 		<key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-		<value>你知道這道柵欄里的幽靈物質嗎? Gossan說, 我們小的時候它要大得多. \\n因為幽靈物質會蒸發. </value>
+		<value>Víš o tom kousku antihmoty uvnitř tohohle plotu? Gossan říkal, že býval větší, kdy byl mládě. Protože antihmota se odpařuje.</value>
 	</entry>
 	<entry>
 		<key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
-		<value>它要花上超級&lt;Pause=1&gt;超級&lt;Pause=1&gt;超級&lt;Pause=1&gt;長的時間才會消失. </value>
+		<value>Jen to trvá &lt;Pause=1&gt;dló&lt;Pause=1&gt;ó&lt;Pause=1&gt;óuhatánsky dlouho. </value>
 	</entry>
 	<entry>
 		<key>Arkose1I hope there’s still ghost matter in the village when I’m a grown-up. Ghost matter is awesome!</key>
-		<value>但願等我長大的時候, 村子里的幽靈物質還在. 幽靈物質可棒了! </value>
+		<value>Doufám, že ve vesnici bude pořád antihmota, až vyrostu! Antihmota je super!</value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1Ghost matter is super cool. It’ll burn the heck out of you!</key>
-		<value>幽靈物質特別帥. 碰到它你會疼死的! </value>
+		<value>Antihmota je super. Pořádně tě spálí! </value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1You shouldn’t be throwing rocks in there — ghost matter is dangerous.</key>
-		<value>你不能朝里面扔石頭, 幽靈物質是很危險的. </value>
+		<value>Neměla bys tam házet kamení - antihmota je nebezpečná. </value>
 	</entry>
 	<entry>
 		<key>ArkoseArkose1You know ghost matter is how Tektite lost their foot, right?</key>
-		<value>你應該知道吧? Tektite就是因為幽靈物質才失去了雙腿. </value>
+		<value>Víš, že Tektit ztratil nohu kvůli antihmotě, žejo? </value>
 	</entry>
 	<entry>
 		<key>Arkose2Yeah! I heard touching it hurts so bad it feels like your whole hand’s on fire!</key>
-		<value>沒錯! 我聽說碰到它會特別疼, 就好像你的整只手都燒起來了一樣! </value>
+		<value>Jo! Slyšela jsem, že dotknout se jí bolí, jakoby ti někdo zapálil ruku! </value>
 	</entry>
 	<entry>
 		<key>Arkose2Try not to walk into any in space, okay? That sounds bad and painful.</key>
-		<value>上太空的時候盡量別碰到它們, 行嗎? 因為聽上去會很糟糕, \\n而且非常痛. </value>
+		<value>Zkus do ní nenarazit ve vesmíru, oukej? To zní špatně a bolestivě. </value>
 	</entry>
 	<entry>
 		<key>Arkose3Uhhh, obviously? That’s what makes it so &lt;i&gt;awesome&lt;/i&gt;? Geez, I’m not dumb enough to &lt;i&gt;touch&lt;/i&gt; it.</key>
-		<value>呃, 當然啦. 所以它才這麽&lt;i&gt;帥&lt;/i&gt;啊! 天哪, \\n我還沒有傻到會去&lt;i&gt;碰&lt;/i&gt;它. </value>
+		<value>No jasňačka, ne? Proto je tak &lt;i&gt;hypersuper&lt;/i&gt;! Šmankote, nejsem tak hloupá, že bych se jí &lt;i&gt;dotkla&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>Arkose3Ugh, you’re such a grown-up.</key>
-		<value>呃, 你真是長不大. </value>
+		<value>Uch, jsi takovej dospělák. </value>
 	</entry>
 	<entry>
 		<key>Arkose4Whoa, really?! &lt;Pause=2&gt;...That is &lt;i&gt;so cool&lt;/i&gt;!</key>
-		<value>哇哦, 真的嗎? ! &lt;Pause=2&gt;...這可&lt;i&gt;真是太帥&lt;/i&gt;了! </value>
+		<value>Wow vážne?! &lt;Pause=2&gt;...To je &lt;i&gt;tak kůlovatý&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
-		<value>小偵查兵可以檢測到幽靈物質. 但要是小偵查兵可以對別的東西發射\\n幽靈物質, 那才&lt;i&gt;真的&lt;/i&gt;叫帥呢. &lt;i&gt;砰砰砰&lt;/i&gt;! </value>
+		<value>Je fajn, že sondomety dovedou objevit antihmotu, ale co by bylo &lt;i&gt;真的opravdu/i&gt; fajn by byly sondomety, co dokážou, jako, střílet antihmotu. &lt;i&gt;Paf paf paf&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
-		<value>我們的一艘宇宙飛船飛得離黑棘星太近. 發現這個安康魚標本的時候, \\n它正附在宇宙飛船的起落架上. \\n貌似它十分適合在極度缺乏大氣的黑暗空間里生活. </value>
+		<value>Tento vzorek ďasa se zakousl do podvozku jedné z našich lodí, která letěla blízko Temnotrnu. Je dobře přizpůsoben životu v temnotě a s minimální atmosférou.</value>
 	</entry>
 	<entry>
 		<key>SignOf all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</key>
-		<value>宇宙即將死亡, 所有的生命形式也會隨之而去. \\n其中安康魚是我們最不可惜的一種. </value>
+		<value>Ze všech forem života, které uhynou v nadcházející smrti vesmíru, nám bude ďas scházet nejméně.</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</key>
 		<value>
-			Outer Wilds 探險隊是木爐星首個也是唯一的一個太空計劃. 
-			創建它的目的, \\n是為了能夠前往我們太陽系的最遠端進行探索. 
+			Divočinné výpravy (Outer Wilds Ventures), první a jediný vesmírný program na Domopeci, byly založeny za účelem výzkumu nejvzdálenějších konců naší sluneční soustavy. 
 		</value>
 	</entry>
 	<entry>
 		<key>SignFeldspar was the first Hearthian to be intentionally launched into space. They completed the first orbit around Timber Hearth and later made the first of what would be many landings on our moon, the Attlerock.</key>
-		<value>Feldspar是第一位被人為發射到太空中去的哈斯人. 他第一個完成了\\n環繞木爐星的飛行. 之後更是首次登上了我們的衛星廢巖星, \\n為眾多的後來者開創了先河. </value>
+		<value>Feldspar byl první Domopecan, který do vesmíru vyletěl úmyslně. Dokončil první oběh kolem Domopece a později učinil první z mnoha přistání na našem měsíci, Vytěženci.</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe.</key>
-		<value>Outer Wilds探險隊由Feldspar、Gossan、Slate, 以及Hornfels創建. \\n目的是為了對宇宙盡頭的某個太陽系進行探索. </value>
+		<value>Divočinné výpravy (Outer Wilds Ventures) založili Feldspar、Gossan、Slate, a Hornfels, aby prozkoumali sluneční soustavu na konci vesmíru. </value>
 	</entry>
 	<entry>
 		<key>Galena</key>
@@ -7663,7 +7662,7 @@
 	</entry>
 	<entry>
 		<key>ShyKid2&lt;size=20&gt;Good luck in space.&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;祝你在太空中好運&lt;/size&gt;. </value>
+		<value>&lt;size=20&gt;Hodně štěstí ve vesmíru.&lt;/size&gt;. </value>
 	</entry>
 	<entry>
 		<key>ShyKid3&lt;size=20&gt;...&lt;/size&gt;</key>
@@ -7675,15 +7674,15 @@
 	</entry>
 	<entry>
 		<key>FoundYou&lt;size=20&gt;You found me...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;你找到我了...&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;Našel jsi mě...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>LastKidFound&lt;size=20&gt;...I won? I’m happy...&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;...我贏了嗎? 我真開心...&lt;/size&gt;</value>
+		<value>&lt;size=20&gt;...Já jsem vyhrála? Jsem šťastná...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>LastKidFound&lt;size=20&gt;Thanks... for playing with us.&lt;/size&gt;</key>
-		<value>&lt;size=20&gt;謝謝你...和我們一起玩. &lt;/size&gt;</value>
+		<value>&lt;size=20&gt;Díky... že sis s námi hrál. &lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>AlreadyFoundYou&lt;size=20&gt;...&lt;/size&gt;</key>
@@ -7691,11 +7690,11 @@
 	</entry>
 	<entry>
 		<key>SignThis crystal was taken from a Nomai ruin on Brittle Hollow.</key>
-		<value>這塊水晶是從碎空星的挪麥人廢墟那里拿到的. </value>
+		<value>Tento krystal jsme vzali z trosek Nomai na Křehkoduté planetě. </value>
 	</entry>
 	<entry>
 		<key>SignIt seems to create a local gravity distortion, and was most likely used to traverse steep surfaces. Try it out!</key>
-		<value>貌似它能夠產生局部重力扭曲, 用處很可能是讓人們在陡峭的表面上\\n行走. 來試試看吧! </value>
+		<value>Vytváří místní gravitační zkreslení, a patrně byl použit ke zdolání strmých povrchů. Vyzkoušej si ho! </value>
 	</entry>
 	<entry>
 		<key>Mica</key>
@@ -7703,134 +7702,133 @@
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Hey, it’s you!</key>
-		<value>嘿, 是你! </value>
+		<value>Hej, to jseš ty! </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Slate said you’re blasting off in your ship today. I’m really excited to see the launch!</key>
-		<value>Slate說今天你就要坐宇宙飛船升空了. 我很想去看你的發射! </value>
+		<value>Slate říkál, že dnes odlétáš se svou lodí. Jsem vážně nadšená z toho, že uvidím tvůj vzlet! </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Aren’t you gonna go into space? Aren’t you? You better not have changed your mind!</key>
-		<value>你不是要上太空了嗎? 對不對? 你最好別改主意! </value>
+		<value>Letíš do vesmíru? Neletíš? Doufám, že jsi nezměnil názor! </value>
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1Hey, I’m still going!</key>
-		<value>嘿, 我沒說不去! </value>
+		<value>Jasňačka, že pořád letím! </value>
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1I want to practice with a pro before I leave.</key>
-		<value>走之前, 我想和專家練習一下. </value>
+		<value>Než odletím, chci si nejdřív zacvičit s profíkem. </value>
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1I hear you and Slate beefed up the model ship. Can I see it?</key>
-		<value>我聽說你和Slate強化了模型宇宙飛船. 我能看看嗎? </value>
+		<value>Slyšel jsem, že jsi se Slatem posílila pokusnou loďku. Můžu se na ní podívat? </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid5You better be! It’s been forever since anyone launched into space. I really, &lt;i&gt;really&lt;/i&gt; want to see it.</key>
-		<value>那樣最好! 已經很久沒有人上過太空了. 我真的、&lt;i&gt;真的&lt;/i&gt;\\n想要見見這一盛況. </value>
+		<value>No to snad! Už je to nějakou dobu, co kdokoliv odletěl do vesmíru. Moc, &lt;i&gt;moc&lt;/i&gt; to chci vidět.</value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid5Really bad.</key>
-		<value>想得要死. </value>
+		<value>Moc.</value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid5Hey, you want to try out my model ship? Slate says it’s just like the real thing, only less likely to start a fire.</key>
-		<value>嘿, 你想試試我的模型宇宙飛船嗎? \\nSlate說它和實物一樣, 只是沒那麽容易引起火災. </value>
+		<value>Hej, chceš zkusit moji pokusnou loď? Slate říká, že je úplně jako ta opravdová, ale míň náchylná požárům.</value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid2Aww, you’re just saying that.&lt;Pause&gt; ...But if you &lt;i&gt;really&lt;/i&gt; want to practice with me, I &lt;i&gt;guess&lt;/i&gt; I could help you out a little.</key>
-		<value>哦, 你真是會說話. &lt;Pause&gt;...不過假如你&lt;i&gt;真的&lt;/i&gt;想要和我練習的話, \\n我&lt;i&gt;猜&lt;/i&gt;我倒是可以幫幫你. </value>
+		<value>Ó, ty mi lichotíš. &lt;Pause&gt;...ale jestli si se mnou &lt;i&gt;opravdu&lt;/i&gt; chceš procvičit létání, &lt;i&gt;asi&lt;/i&gt; ti můžu trošku pomoct. </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid3Yeah, we recalibrated the controls and installed better thrusters. Want to give it a test drive? Slate says it’s just like the real thing, only less likely to start a fire.</key>
-		<value>是啊, 我們重新調整了操控, 並安裝了更為出色的推進器. \\n想坐上去試試嗎? Slate說它和實物一樣, 只是沒那麽容易引起火災. </value>
+		<value>Jo, rekalibrovali jsme ovládání a nainstalovali lepší rakety. Chceš ji vzít na testovací let? Slate říká, že je úplně jako ta opravdová, ale míň náchylná požárům.</value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid4Try to land on one of the &lt;color=orange&gt;geyser pools&lt;/color&gt;. Show me what you’ve got!</key>
-		<value>盡量降落在那些&lt;color=orange&gt;間歇泉噴池&lt;/color&gt;上. 讓我看看你的本事! </value>
+		<value>Zkus s ní přistát na jednom z &lt;color=orange&gt;gejzírových jezírek&lt;/color&gt;. Ukaž mi, zač je toho loket! </value>
 	</entry>
 	<entry>
 		<key>FailureWow, that was just like the time the external fuel tanks exploded on reentry!</key>
-		<value>哇, 就和上次再入大氣層時外部燃料箱爆炸一樣! </value>
+		<value>Wow, to bylo úplně jako když externí tanky jednou vybouchly při vstupu do atmosféry! </value>
 	</entry>
 	<entry>
 		<key>FailureYou’ll... you’ll be okay flying the big one, right?</key>
-		<value>你...你實際上天的時候應該不會這樣吧? </value>
+		<value>Budeš... budeš v pořádku v té velké, žejo? </value>
 	</entry>
 	<entry>
 		<key>SuccessWhat a landing! I guess that’s why Slate lets you fly the real thing, huh?</key>
-		<value>多麽漂亮的著陸! 難怪Slate讓你來駕駛實物宇宙飛船呢. 是不是? </value>
+		<value>To je ale přistání! Proto tě asi Slate nechává pilotovat tu opravdickou loď, co? </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKidSecondarySomeday, I want to design a ship that goes even faster than the ones Slate makes!</key>
-		<value>總有一天, 我要設計出一艘宇宙飛船, 飛得比Slate造的還要快! </value>
+		<value>Jednoho dne chci postavit loď, která poletí ještě rychleji než ty Slatovy! </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKidSecondarySlate says they think I can do it. And Gossan says I should ask Slate to be my first test pilot.</key>
-		<value>Slate說他們認為我能做到. \\nGossan說我應該請Slate當我的第一個試飛員. </value>
+		<value>Slate říká, že mi to půjde. A Gossan říká, že Slate by měl být můj první testovací pilot.</value>
 	</entry>
 	<entry>
 		<key>SignThis remarkably intact statue was carved by the Nomai, an ancient species who dwelled in our solar system thousands of years ago.</key>
-		<value>這座異常完好的雕像是由挪麥人雕刻的. \\n他們是上千年前居住在我們這個太陽系的古代物種. </value>
+		<value>Tato nezvykle zachovalá socha byla vytesána Nomai, prastarým druhem, který v našem slunečním systému žil před mnoha tisíci lety. </value>
 	</entry>
 	<entry>
 		<key>SignThe statue provides us with our most detailed look yet at the Nomai, who appear to have been covered with a layer of fur. Note the decorative jewelry that has been carved as part of the antlers.</key>
-		<value>這座雕像為我們提供了迄今為止挪麥人最為詳盡的外觀. \\n看來他們的身上覆蓋著一層毛皮. 需要注意的是那些珠寶飾品, \\n它們被作為鹿角的一部分呈現了出來. </value>
+		<value>Tato socha nám poskytuje zatím nejdetailnější náhled na Nomai, kteří byli podle všeho pokryti srstí. Všimněte si dekorativních šperků vtesaných do paroží.</value>
 	</entry>
 	<entry>
 		<key>SignAlthough their artifacts and structures have been found on almost every planet in this solar system, we still have no idea where this species came from or what happened to them.</key>
-		<value>盡管這個太陽系的幾乎所有行星上都曾經發現過該物種的文物和建築, \\n但我們依然不知道他們來自哪里, \\n以及後來他們的身上究竟發生了什麽事. </value>
+		<value>Přestože jejich artefakty a budovy byly nalezeny na téměř každé planetě v této sluneční soustavě, stále netušíme, odkud tento druh přišel nebo co se jim stalo.</value>
 	</entry>
 	<entry>
 		<key>SignThis pilot seat, used by pioneering astronaut Feldspar, is all that remains of our inaugural flight into space.</key>
-		<value>宇航先驅Feldspar曾經就坐在這把駕駛員座椅上. \\n它是我們最初航向太空所留下的唯一紀念. </value>
+		<value>Toto pilotní křeslo, použito naším pilotem-průkopníkem Feldsparem, je jediný pozůstatek našeho prvního letu do vesmíru. </value>
 	</entry>
 	<entry>
 		<key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
-		<value>盡管有人認為, 這樣的殊榮需要宇航員在飛行方面創造出極具突破性\\n的功績. 不過, 那一天依然是哈斯人歷史上被人們永遠銘記, \\n有著里程碑意義的日子. </value>
+		<value>Ačkoliv zlé jazyky tvrdí, že taková pocta vyžaduje extrémně liberální definici "letu", ten den zůstane v domopecské historii navždy jako významný mezník. </value>
 	</entry>
 	<entry>
 		<key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
-		<value>除了民居和建築之外, 挪麥人還會進行藝術創作. \\n碎空星上發現過他們的裝飾陶藝. </value>
+		<value>Krom budov, které postavili, Nomai také vytvářeli umění. Tato dekorovaná keramika byla nalezena na Křehkoduté planetě.</value>
 	</entry>
 	<entry>
 		<key>SignSome ancient Nomai art depicts strange animals, foreign celestial objects, and other subjects that can’t be found in our solar system, which makes us wonder whether the Nomai originated elsewhere in the universe or simply had vibrant imaginations.</key>
-		<value>某些古代的挪麥藝術品描繪著奇怪的動物、外來的天體, 以及其它在我們的\\n太陽系中不曾出現過的物體. 這讓我們不禁懷疑, 挪麥人是否來自於宇宙的\\n其它地方, 還是說他們只是想象力異常豐富而已. </value>
+		<value>Prastaré umění Nomai zobrazuje zvláštní zvířata, cizorodá hvězdná tělesa, a další předměty, které se nenecházejí v naší sluneční soustavě. To nastoluje otázku: přišli Nomai z jiné sluneční soustavy, nebo měli jen divokou představivost?</value>
 	</entry>
 	<entry>
 		<key>SignWere the Nomai born in our solar system? Or were they born among other stars and planets - and if they were, how and why did they come here?</key>
-		<value>挪麥人是否源自我們的太陽系? 還是說他們出生在其它的恒星和行星上? \\n如果是這樣的話, 他們是怎麽來到這里的, 為什麽要來這里? </value>
+		<value>Narodili se Nomai v naší sluneční soustavě? Nebo se narodili mezi jinými hvězdami a planetami - a pokud ano, odkud a proč sem přišli?</value>
 	</entry>
 	<entry>
 		<key>SignThese are just some of the questions we hope to answer through further xenoarchaeological expeditions.</key>
-		<value>這只是眾多問題中的一部分. \\n我們希望能夠通過外星考古遠征來得到這些問題的解答. </value>
+		<value>To jsou jen některé z otázek pro další xenoarcheologické výpravy. </value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai technology brought back from space by our astronauts has been a great boon to Outer Wilds Ventures, allowing us to modify expedition gear in exciting and useful ways.</key>
 		<value>
-			我們的宇航員從太空中帶回來的挪麥技術為Outer Wilds
-			探險隊帶來了顯著的\\n提升, 讓我們得以調整探險裝備, 使之變得更加有用. 
+			Technologie Nomai, kterou nám přinesli naši astronauti, byla Divočinným výpravám (Outer Wilds Ventures) velmi užitečnou. Umožnila nám upravit a inovovat naši expediční výbavu.
 		</value>
 	</entry>
 	<entry>
 		<key>SignFor example, the Little Scout now boasts a warp retrieval capability that allows astronauts to recall their scouts almost instantly. This has dramatically reduced the number of scouts lost to the depths of space.</key>
-		<value>比如說, 小偵查兵現在具備了躍遷回收能力, 可以讓宇航員幾乎在瞬間\\n召回他們的偵查兵. 從此, 偵查兵在太空深處的損失數量得以銳減. </value>
+		<value>Například náš sondomet má nyní schopnost warpového vracení, která umožňuje našim astronautům přivolat jejich sondy okamžitě zpět. To dramaticky snížilo množství sond ztracených ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>SignThe Nomai never got to see it for themselves, but thanks to their efforts and technology, a Hearthian was able to reach the Eye of the universe.</key>
-		<value>雖然挪麥人無法親眼目睹宇宙之眼. 但多虧了他們的努力和技術, \\n才能讓一位哈斯人來到了宇宙之眼. </value>
+		<value>Nomai jej nikdy neviděli, ale díky jejich snaze a technologii se jednomu Domopecanovi podařilo dosáhnout Oka vesmíru. </value>
 	</entry>
 	<entry>
 		<key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
-		<value>在這個巖洞里到處移動的奇怪石頭貌似會對刻意的觀察產生反應. </value>
+		<value>Tento zvláštní kámen, který se pohybuje kolem této jeskyně, zdánlivě reaguje na vědomé pozorování. </value>
 	</entry>
 	<entry>
 		<key>SignThe level-headed among us realize there must be some sort of optical illusion at play, but Gabbro claims the rock “exists in all possible states until it is observed” (whatever that means).</key>
-		<value>我們中一些頭腦靈光的人認為, 這一定是眼睛產生的錯覺在作怪. \\n但是Gabbro聲稱石頭“除非被觀察到, \\n否則便會存在於所有可能的狀態中” (天知道是什麽意思) . </value>
+		<value>Ti z nás, kteří jsou duševně vyrovnaní, chápou, že musí jít o nějakou optickou iluzi, ale Gabbro tvrdí, že tento kámen "existuje ve všech možných stavech, dokud není pozorován" (ať už to znamená, co chce).</value>
 	</entry>
 	<entry>
 		<key>SignWhatever is actually happening, both sides of this debate agree the effect is extremely creepy.</key>
-		<value>不管真相到底是怎樣的, 爭辯的雙方一致同意, 該現象極其古怪. </value>
+		<value>Obě strany debaty každopádně souhlasí, že tento efekt jim trošku nahání hrůzu.</value>
 	</entry>
 	<entry>
 		<key>Riebeck</key>
@@ -7838,59 +7836,59 @@
 	</entry>
 	<entry>
 		<key>Riebeck0Oh, you launched! That’s great. Great job, you.</key>
-		<value>哦, 你已經升空了! 太好了. 幹得好啊. </value>
+		<value>Tys vzlétl! To je super. Dobrá práce.</value>
 	</entry>
 	<entry>
 		<key>Riebeck0Wow, I guess that means I’ve been out here a while, huh. Well, um, this is Brittle Hollow. But you probably knew that.</key>
-		<value>哇, 我猜我得在這兒待一陣子了. 嗯. 嗯, 這里是碎空星. \\n不過你可能已經知道了. </value>
+		<value>Wow, to znamená, že už tu jsem drahnou dobu, co? Mno, tohle je Křehkodutá planeta. Ale tos už asi věděl.</value>
 	</entry>
 	<entry>
 		<key>Riebeck0Lot of history here. ...It’s great.</key>
-		<value>這里有不少的歷史古跡...挺不錯的. </value>
+		<value>Je tu mnoho dějin... Je to super.</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeck0What are you doing here?</key>
-		<value>你在這兒幹嘛? </value>
+		<value>Co tu děláš?</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeck0I’m in a hurry — can I ask you something?</key>
-		<value>我趕時間, 我能問你點事情嗎? </value>
+		<value>Mám naspěch - můžu se tě na něco zeptat?</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroI’m here to see the Hanging City. It’s always been my dream to see it with my own four eyes, ever since I was a hatchling.</key>
-		<value>我是來看懸空城的. 從小的時候起, 我就一直夢想著能夠親眼看看它. </value>
+		<value>Chtěl jsem vidět Visací město. Vždycky jsem snil o tom, že ho uvidím vlastníma čtyřma očima, už od dob, kdy jsem byl mládě.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroAn alien race lived in this solar system long before our species even existed! How could I &lt;i&gt;not&lt;/i&gt; want to see what their civilization was like?</key>
-		<value>在我們這個物種還沒有形成的時候, 某個外星種族就生活在了這個\\n太陽系里! 我&lt;i&gt;自然&lt;/i&gt;想要來看看他們的文明是什麽樣的啦! </value>
+		<value>Rasa mimozemšťanů žila v této sluneční soustavě předtím, než náš živočišný druh vůbec začal existovat! Jak bych mohl &lt;i&gt;nechtít&lt;/i&gt; vidět vrchol jejich civilizace?</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroOnly...</key>
-		<value>只不過...</value>
+		<value>Ale...</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroYou’ve... probably heard the others say it, right? I’m afraid of space. Seriously, I’m more surprised than anybody that I’m out here.</key>
-		<value>你...可能已經聽別人說過了, 對嗎? 我有太空恐懼癥. \\n真的, 自己居然能夠上太空, 這一點我比誰都要驚訝. </value>
+		<value>Pravděpodobně jsi slyšel, jak si o mně ostatní povídají, co? Mám strach z vesmíru. Zcela vážně, jsem překvapenější, že tu jsem, než všichni dohromady.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroDo you want to know how I even got this far? I fell. Tripped over a gravity crystal. It’s dumb luck I landed somewhere my Little Scout says is halfway stable, instead of being sucked into... &lt;i&gt;what’s below&lt;/i&gt;.</key>
-		<value>你想不想知道我是怎麽走這麽遠的? 我是掉下來的. 被重力水晶絆倒的. \\n按照我的小偵查兵的說法, 我走狗屎運, 落到了一個半穩定的地方, \\n而不是被吸到了...&lt;i&gt;下面去&lt;/i&gt;. </value>
+		<value>Chceš vědět, jak jsem se sem dostal? Upadnul jsem. Zakopnul jsem o gravitační krystal. Mám štěstí, že jsem přistál na místě, které je podle mého sondometu napůl stabilní, místo... &lt;i&gt;tam dole&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroI’ve been gauging the stability of the ground around me using my Little Scout, and this seems to be the place with the best surface integrity, so I’m just going to stay here until I’m ready to move on.</key>
-		<value>我一直在用小偵查兵測量周圍地面的穩定性, 這塊地方貌似是地面完整度\\n最高的. 所以在做好出發的準備之前, 我要待在這里. </value>
+		<value>Testuji stabilitu půdy kolem svým sondometem, a tohle je místo s nejlepší povrchovou integritou, takže tu prostě zůstanu, dokud se mi nebude chtít jinam.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntro...But that’s enough about me and my problems. You didn’t come all this way to listen to me blather, did you! Heh, that’d be... yeah.</key>
-		<value>...我和我的麻煩就說到這里吧. 你太老遠跑過來, 可不是聽我閑扯, \\n對不對! 哼, 當然不是. </value>
+		<value>...ale dost o mně a mých problémech. Nepřišel jsi sem, abys mě slyšel blábolit! To by bylo... mno.</value>
 	</entry>
 	<entry>
 		<key>Riebeck1Hi! ...What’s up?</key>
-		<value>嗨! 你還好嗎? </value>
+		<value>Ahoj! ...Jak se daří? </value>
 	</entry>
 	<entry>
 		<key>RiebeckHurryToQuestionsUm, sure — of course! Anything you want.</key>
-		<value>呃, 當然可以啦! 想問什麽都行. </value>
+		<value>Jasně, samozřejmě! Ptej se, na co chceš.</value>
 	</entry>
 	<entry>
 		<key>Questions</key>
@@ -7898,219 +7896,219 @@
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsI learned something!</key>
-		<value>我了解到了一些情報! </value>
+		<value>Něco jsem se naučil! </value>
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsWhere should I explore here?</key>
-		<value>我應該去這里的什麽地方進行探索? </value>
+		<value>Co bych tu měl prozkoumat? </value>
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsWhat are you doing out here?</key>
-		<value>你在這里幹什麽? </value>
+		<value>Co tu děláš? </value>
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsSee you later.</key>
-		<value>回頭見. </value>
+		<value>Na viděnou. </value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistMe? I’m an archeologist, remember?</key>
-		<value>我嗎? 我是個考古學家, 還記得嗎? </value>
+		<value>我嗎Já? Já jsem archeolog, vzpomínáš? </value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistOr, um, &lt;i&gt;the&lt;/i&gt; archeologist, I guess. Seeing as I’m all Timber Hearth’s got right now.</key>
-		<value>或者說, 嗯, &lt;i&gt;那個&lt;/i&gt;考古學家. 畢竟眼下木爐星就只能指望我了. </value>
+		<value>Nebo, um, &lt;i&gt;hlavní&lt;/i&gt; archeolog. Vzhledem k tomu, že jsem jediný archeolog na Domopeci.</value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistBrittle Hollow is rich with Nomai history. That’s why I’m here. This planet is an absolute treasure trove of culture, history, and science.</key>
-		<value>碎空星上到處都遺留著挪麥人的過去. 所以我才來這兒. \\n這顆星球無疑是一座文化、歷史和科學的寶藏. </value>
+		<value>Křehkodutá planeta je plná historie Nomai. Proto jsem tady. Tato planeta je naprostý poklad pro kulturu, dějepis a vědu.</value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
-		<value>如果你對碎空星的挪麥人有任何問題, 可以盡管來問我! 或者, \\n嗯...我是說, 我可以解答其中的一部分. 那麽. &lt;size=20&gt;需要我效勞嗎? &lt;/size&gt;</value>
+		<value>Pokud máš jakékoliv dotazy o Nomai na Křehkoduté planetě, jsem tvůj Domopecan. ...něco o nich vím. Takže. &lt;size=20&gt;Možná ti můžu pomoci?&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreOh wow, where &lt;i&gt;shouldn’t&lt;/i&gt; you explore here?&lt;Pause&gt; Um, not the &lt;size=20&gt;black hole&lt;/size&gt;, actually. That’s... very no.</key>
-		<value>哦, 哇, 這里有哪兒是&lt;i&gt;不值得&lt;/i&gt;探索的啊? &lt;Pause&gt;呃, \\n事實上, &lt;size=20&gt;黑洞&lt;/size&gt;最好不要去. 特別不推薦你去. </value>
+		<value>Oh, wow, spíš co bys tu &lt;i&gt;neměl&lt;/i&gt; prozkoumat? &lt;Pause&gt; Um, asi ne &lt;size=20&gt;černou díru&lt;/size&gt;. To je... velké ne.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreWhich is unfortunate, because uh, the most exciting stuff is all below the crust. Including the &lt;color=orange&gt;Hanging City&lt;/color&gt; — that’s just to the north. You can kinda see it from here.</key>
-		<value>然而很遺憾, 因為最刺激的內容都在地殼下面. 包括&lt;color=orange&gt;懸空城&lt;/color&gt;, \\n它就在北邊. 你從這里差不多能看見它. </value>
+		<value>Což je nešťastné, protože většina zajímavých věcí je pod povrchem. Včetně &lt;color=orange&gt;Visacího města&lt;/color&gt; - to je odsud na sever. Je ho trošku vidět.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreThere’s also this big dome on the south pole called the &lt;color=orange&gt;Southern Observatory&lt;/color&gt;. You can’t get inside from the surface — trust me, I tried — but if it’s like the rest of the Nomai structures here, there’s probably a path to it beneath the crust somewhere.</key>
-		<value>南極還有一座巨大的&lt;color=orange&gt;南部天文台&lt;/color&gt;. 你從地表是無法到達那里的. \\n相信我, 我試過. 但如果它和其它挪麥建築一樣的話, \\n那麽很有可能地殼下面會有一條通路. </value>
+		<value>Je tu taky velká kupole na jižním pólu, která se jmenuje &lt;color=orange&gt;Jižní observatoř&lt;/color&gt;. Nedá se tam dostat zvenčí - věř mi, zkusil jsem to - ale jako většina ostatních struktur, které tu Nomai zanechali, se k ní pravděpodobně dá dostat zevnitř.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
-		<value>祝你探索的時候好運. 嗯, 如果你了解到了什麽有關挪麥人的情報, \\n那麽&lt;size=20&gt;不介意的話&lt;/size&gt;, 是不是也能說給我聽聽? </value>
+		<value>Hodně štěstí s průzkumem. Pokud se něco o Nomai dozvíš, moc rád bych to slyšel, &lt;size=20&gt;pokud ti to nebude proti srsti&lt;/size&gt;? </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
-		<value>哦, 太好了!  &lt;Pause /&gt;呃, 是什麽? </value>
+		<value>Kůlovatý!  &lt;Pause /&gt; A cos objevil? </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found the Nomai escape pod on Brittle Hollow.</key>
-		<value>我在碎空星上找到了挪麥人的逃生艙. </value>
+		<value>Našel jsem na této planetě záchranný člun Nomai. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found the Vessel!</key>
-		<value>我找到了這艘飛船! </value>
+		<value>Našel jsem Plavidlo! </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the old settlement.</key>
-		<value>我看到了從前的定居點. </value>
+		<value>Viděl jsem původní osadu. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the Hanging City on Brittle Hollow.</key>
-		<value>我在碎空星上看到了懸空城. </value>
+		<value>Prošel jsem Visacím městem na Křehkoduté planetě. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI saw the Sunless City on Ember Twin.</key>
-		<value>我在余燼雙星上看到了背陰城. </value>
+		<value>Viděl jsem Neslunné město na Doutnáku. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found Nomai writing about a quantum pilgrimage.</key>
-		<value>我找到了挪麥人的文字, 是關於量子朝聖的. </value>
+		<value>Našel jsem písmo Nomai ohledně kvantové poutě. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI went to the comet, and...</key>
-		<value>我登上了彗星, 並且...</value>
+		<value>Navštívil jsem kometu, a...</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI TALKED TO A LIVING NOMAI!</key>
-		<value>和一個活著的挪麥人說了話! </value>
+		<value>MLUVIL JSEM S ŽIVÝM NOMAI!</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedActually, nevermind.</key>
-		<value>其實, 我沒別的事情. </value>
+		<value>Vlastně zatím nic.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_ExitOh, okay. If you do learn something new about the Nomai, though, I’d love to hear it! Um, if you don’t mind, I mean.</key>
-		<value>哦, 好的. 嗯, 不過要是你真的了解到了什麽有關挪麥人的情報, \\n我很樂意聽一聽! 呃, 我是說, 如果你不介意的話. </value>
+		<value>No, oukej. Jestli se přiučíš něco nového o Nomai, moc rád bych to slyšel! Pokud ti to nebude vadit, samozřejmě.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1Wow! So then, the Nomai probably came here from somewhere outside the solar system. And they must have been in trouble when they launched their escape pod... but what kind of trouble?</key>
-		<value>哇哦! 這麽說來, 挪麥人可能來自於這個太陽系以外的地方. 他們發射\\n逃生艙的時候一定是遇到了麻煩...可是他們遇到了什麽麻煩呢? </value>
+		<value>Wow! Takže Nomai sem asi přišli z jiné sluneční soustavy. A museli se před něčím zachraňovat... ale před čím?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1And where did the escape pod launch from? I’m so curious!</key>
-		<value>逃生艙又是從什麽地方發射出來的? 我實在是想知道! </value>
+		<value>A odkud byly jejich záchranné čluny odpáleny? Jsem tak zvědavý!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_1This is an amazing discovery. I hope we can find out more about how and why the Nomai arrived here!</key>
-		<value>這是一次了不起的發現. 希望我們能進一步了解挪麥人是如何來到這里, \\n以及為什麽來到這里的! </value>
+		<value>Tohle je úžasný objev. Doufám, že brzy přijdeme na to, jak a proč sem Nomai přiletěli!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2You did?! That, that’s incredible, congratulations!</key>
-		<value>是嗎? ! 那可真是不得了, 恭喜你! </value>
+		<value>Vážně? To je neskutečné, blahopřeji!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2That means they really &lt;i&gt;were&lt;/i&gt; from far outside our solar system. Haha, &lt;i&gt;yes&lt;/i&gt;! I knew it!</key>
-		<value>這意味著他們&lt;i&gt;的確&lt;/i&gt;來自於我們太陽系之外的地方. \\n哈哈, &lt;i&gt;沒錯&lt;/i&gt;! 我就知道! </value>
+		<value>To znamená, že opravdu &lt;i&gt;byli&lt;/i&gt; z jiné části vesmíru. Haha, &lt;i&gt;jo&lt;/i&gt;! Já to věděl! </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2But that creates so many new questions! If they didn’t come from our solar system, where did they come from? Are they from our galaxy, or somewhere even farther? What were their lives like before they came here? And &lt;i&gt;why&lt;/i&gt; did they come here?</key>
-		<value>可如此一來, 就又多了許多新的問題! 如果他們並非來自我們的太陽系, \\n那麽他們是從哪兒來的? 他們是否來自於我們的銀河, \\n還是說來自於更遠的地方? 來到這里之前, 他們的生活又是怎樣的? \\n他們&lt;i&gt;為什麽&lt;/i&gt;會來到這里? </value>
+		<value>Ale to vytváří tolik nových otázek! Pokud nebyli z naší sluneční soustavy, odkud přišli? Jsou z naší galaxie, nebo odněkud dál? Jaké byly jejich životy předtím, než sem přišli? A &lt;i&gt;proč&lt;/i&gt; sem přišli?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2Hey, I... I might not be much of an astronaut, but I’m really glad I came out here to see the Nomai’s artifacts for myself. And, um, thanks for telling me. &lt;Pause/&gt;About the Vessel, I mean.</key>
-		<value>嘿, 我...作為宇航員, 我也許算不上有多出色, \\n但我真的很高興能夠來到這里, 親眼目睹挪麥人的文物. 而且, 嗯, \\n謝謝你能夠告訴我. &lt;Pause/&gt;我是說, 關於飛船的事情. </value>
+		<value>Hej, já... možná nejsem moc dobrý astronaut, ale jsem opravdu rád, že jsem sem přiletěl a mohl si prohlédnout artefakty Nomai vlastníma očima. A díky, žes mi o něm řekl. &lt;Pause/&gt; Tím myslím o Plavidlu.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3Isn’t it amazing? Hard to believe the settlement is still standing, but there it is.</key>
-		<value>很了不起不是嗎? 定居點居然還在, 真是叫人難以置信. \\n但事實就是如此. </value>
+		<value>Není úžasné? Stěží uvěřit, že tahle osada stále stojí, ale je tu. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3It really makes you appreciate living somewhere like Timber Hearth. You know, somewhere that isn’t being constantly bombarded with meteors and rocks and stuff.</key>
-		<value>你會覺得自己能夠住在木爐星這樣的地方, 運氣還真是不錯. 要知道, \\n那里可不會整天被隕星、石頭, 還有別的東西砸. </value>
+		<value>Jeden si opravdu začne vážit života na Domopeci. Víš, kde se nemusíš pořád vyhýbat meteorům a kamení a tak.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
-		<value>你去過懸空城了? 哦天哪, 那里怎麽樣? 壯觀不壯觀? 美不美? \\n嚇不嚇人? </value>
+		<value>Tys navštívil Visací město? Šmankote, jaké to bylo? Bylo úžasné? Bylo krásné? ...Bylo strašidelné?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4The Hanging City is where the Nomai settled permanently on Brittle Hollow. It was their most advanced settlement here!</key>
-		<value>懸空城是挪麥人在碎空星的長期定居點. \\n那里也是他們最為先進的定居點! </value>
+		<value>Ve Visacím městě se Nomai usídlili na Křehkoduté planetě natrvalo. Byla to jejich hlavní místní osada! </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4Why they chose to build their most advanced settlement so close to a &lt;i&gt;you-know-what&lt;/i&gt; is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the &lt;size=20&gt;black hole&lt;/size&gt; for something?</key>
-		<value>至於他們為什麽要把自己最先進的定居點建造在距離&lt;i&gt;那玩意兒&lt;/i&gt;\\n這麽近的地方, 這我可說不上來. 不過, 也許對挪麥人而言, \\n那種東西他們用得著...也許他們需要&lt;size=20&gt;黑洞&lt;/size&gt;? </value>
+		<value>Proč se rozhodli vybudovat svou hlavní osadu tak blízko &lt;i&gt;ty-víš-čemu&lt;/i&gt;, to nemám tušení. Možná něco takového dává smysl pro Nomai... Možná k něčemu &lt;size=20&gt;černou díru&lt;/size&gt; potřebovali?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5You mean there’s another Nomai city &lt;i&gt;inside&lt;/i&gt; of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!</key>
-		<value>你是說余燼雙星&lt;i&gt;內部&lt;/i&gt;還有一座挪麥人的城市? 太難以置信了! \\n整整一座城市, 而我卻根本不知道它的存在! 這真是太棒了! </value>
+		<value>To mi říkáš, že existuje celé další město Nomai &lt;i&gt;uvnitř&lt;/i&gt; Doutnáku? To je neskutečné! Celé město, a já jsem ani netušil, že existuje! To je super!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5How did they keep the sand out? If it were me, I’d be nervous about getting buried in the caves by that awful river of sand. Gosh, the Nomai sure were ingenius, building an entire settlement underground. The Sunless City! ...Wow!</key>
-		<value>他們是怎麽把沙子攔在外頭的? 如果是我的話, \\n我一定整天擔心自己會不會被可怕的沙河活埋在洞穴里. \\n天哪, 挪麥人真是天才, 居然把整個定居點造在了地下. 背陰城! 哇! </value>
+		<value>Jak vypudili písek? Kdybych já byl jimi, byl bych nervózní z toho, že mě v jeskyni pohřbí ta hrozná řeka písku. Šmankote, Nomai byli zcela brilantní, takhle vybudovat podzemní městovc. Neslunné město! ...Wow!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-		<value>也就是說一共有兩批挪麥人. 一批住在余燼雙星, 另一批住在碎空星\\n這里. 但是他們一定遊歷過太陽系, 因為其它星球上也有挪麥人的文字. </value>
+		<value>To znamená, že tu byly dvě skupiny Nomai - jedna, která žila na Doutnáku, a jedna tady na Křehkoduté planetě. Ale museli cestovat napříč sluneční soustavu, protože psaní Nomai lze nalézt i na ostatních planetách.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
-		<value>前往量子衛星朝聖? 挪麥人在他們的文字里總是提起這顆量子衛星. \\n因此顯然對挪麥人而言, 它非常特別. 特別得足以讓他們親自前往! </value>
+		<value>Pouť na Kvantový měsíc? Nomai zmiňují Kvantový měsíc v mnoha traktátech, takže pro ně byl evidentně důležitý. Dostatečně důležitý, aby se tam sami vydali!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6It sounds like a coming-of-age ritual, like how hatchlings stay hatchlings until their stomachs are strong enough to drink sap wine.</key>
-		<value>這聽起來像是某種成年儀式, 就好像在我們這里, \\n只有能夠喝下樹液酒的年輕人才算是成人. </value>
+		<value>Zní to jako rituál dospívání, jako to, že mláďata zůstanou mláďaty, dokud jejich žaludky neudrží mízové víno.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6Maybe once a Nomai journeyed to the Quantum Moon, they were considered an adult?</key>
-		<value>也許一旦挪麥人踏上量子衛星, 他們就算是成年了? </value>
+		<value>Možná se Nomai, který se úspěšně vrátil z Kvantového měsíce, považoval za dospělého? </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7Oh, wow. &lt;i&gt;Wow.&lt;/i&gt; So that’s how the Nomai died?</key>
-		<value>哦, 哇. &lt;i&gt;哇哦. &lt;/i&gt;原來這就是挪麥人的死因? </value>
+		<value>Oh, wow. &lt;i&gt;Wow.&lt;/i&gt; Takže to je příčina vyhynutí Nomai?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7That’s... really sad, isn’t it? I know it was a long time ago, but still...</key>
-		<value>那可真是...太遺憾了, 不是嗎? 我知道事情已經過去了很久, 可是...</value>
+		<value>To je... opravdu smutné, co? Vím, že to už bylo dávno, ale i tak...</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7Stars above, it’s lucky we hadn’t evolved to live on land yet.</key>
-		<value>群星在上, 幸好咱們還沒進化到可以在陸地上生存. </value>
+		<value>Hvězdy nade mnou, máme štěstí, že jsme se tehdy ještě nevyvinuli pro život nad vodou.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7To think, if the comet hadn’t killed them, our species might have coexisted in this solar system. That would have been amazing.</key>
-		<value>想想看, 要是彗星沒有殺死他們, 我們這一物種說不定能和他們在這個\\n太陽系共存. 那樣該有多好啊. </value>
+		<value>Jen si představit, že kdyby je kometa nezabila, naše druhy by mohly žít společně v tomto slunečním systému. To by bylo úžasné.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7But...</key>
-		<value>可是...</value>
+		<value>Ale...</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7I guess if I hadn’t wanted to learn why the Nomai disappeared, I’d never have left Timber Hearth and come out here, or had any of these adventures.</key>
-		<value>我猜, 如果不是我想弄清楚挪麥人為什麽會消失, \\n那麽我將永遠不會離開木爐星, 來到這里, 或是去進行任何一次冒險. </value>
+		<value>Kdybych nechtěl vědět, proč Nomai zmizeli, asi bych nikdy neopustil Domopec a nepodnikl žádné z mých dobrodružství. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7...Don’t get me wrong, space is terrifying! But, you know, it has its moments.</key>
-		<value>...別搞錯了, 太空可是非常恐怖的地方! \\n不過, 你也知道, 它也有自己的美妙之處. </value>
+		<value>...Nechápej mě špatně, vesmír je děsivý! Ale má svoje hezké chvíle.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8AHHH! That doesn’t make any sense! I don’t understand! I am very excited for you, though! P-please stop yelling!</key>
-		<value>啊啊! 這樣根本就說不通! 我不明白! 不過我替你感到十分高興! \\n請、請別再嚷嚷了! </value>
+		<value>AHHH! To nedává žádný smysl! Nerozumím ti! Ale mám z tebe radost! P-prosím, přestaň křičet!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
-		<value>...什麽? 你是說在量子衛星上? &lt;Pause&gt;量子衛星上有活著的挪麥人? ! </value>
+		<value>...Cože? Na Kvantovém měsíci, říkáš? &lt;Pause&gt; Skoro-živý Nomai na Kvantovém měsíci?!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8WELL, WHY DIDN’T YOU SAY SO?!</key>
-		<value>你! 幹! 嘛! 不! 早! 說! 呀? ! </value>
+		<value>PROČ JSI TO NEŘEKL HNED?!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Oh wow! &lt;i&gt;Wow&lt;/i&gt;! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!</key>
-		<value>哦, 哇! &lt;i&gt;哇哦&lt;/i&gt;! 這可是Outer Wilds 探險隊有史以來最好的消息了! \\n真不敢相信你居然和一個真的挪麥人說了話! </value>
+		<value>Wow! &lt;i&gt;Wow&lt;/i&gt;! Tohle je nejlepší věc, co se kdy stala v dějinách Divočinných výprav! Nemůžu uvěřit tomu, žes mluvil se skutečným Nomai!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Great! So I just have to go back into space, fly to the Quantum Moon with zero visibility, find a spooky ruin, and travel through a few different types of dangerous terrain to get there.</key>
-		<value>太好了! 這麽說我只要回到太空, 兩眼一抹黑地飛到量子衛星上, \\n找到一個嚇人的廢墟, 然後穿過各種危險的地貌, 就能抵達那里. </value>
+		<value>Super! Takže teď jen musím zpátky do vesmíru, doletět na Kvantový měsíc, který nelze vidět, najít strašidelné trosky, a procestovat několik typů nebezpečného terénu, abych se tam dostal.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Okay, yeah, that’s... that’s not so bad. &lt;Pause&gt;&lt;size=20&gt;That’s probably doable...&lt;/size&gt;</key>
-		<value>好的, 很好, 這也...也沒那麽糟糕. &lt;Pause&gt;&lt;size=20&gt;說不定還是可行的...&lt;/size&gt;</value>
+		<value>Oukej, jo, to... to není tak hrozné. &lt;Pause&gt;&lt;size=20&gt;To se asi dá provést...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>SignThis piece of Nomai writing was essential to deciphering their unique language.</key>
