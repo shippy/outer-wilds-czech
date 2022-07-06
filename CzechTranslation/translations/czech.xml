@@ -8188,84 +8188,84 @@
 	</entry>
 	<entry>
 		<key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>ROOT: 我本來想把新的礦石數據發到POKE的&lt;color=orange&gt;黑洞熔爐&lt;/color&gt;中, \\n但是&lt;color=orange&gt;沙漏雙星&lt;/color&gt;上的躍遷塔把我誤送到&lt;color=lightblue&gt;碎空星&lt;/color&gt;的另一個地方. </value>
+		<value>ROOT: Chtěl jsem doručit nová rudná data Poke v její 的&lt;color=orange&gt;Černoděré kovárně&lt;/color&gt;中, ale warpová věž na &lt;color=orange&gt;Popeláku&lt;/color&gt; mě poslala na špatnou část &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Could someone kindly remind me if there’s a way to warp directly to the forge or if I imagined this?</key>
-		<value>ROOT: 有人可以告訴我是否有方法可以直接躍遷到熔爐, \\n或是可以靠想象就可以到達? </value>
+		<value>ROOT: Může mi někdo prosím připomenout, zda existuje způsob, jak se teleportovat přímo do kovárny, nebo jsem si jej vysnil? </value>
 	</entry>
 	<entry>
 		<key>CLARY: There is! The &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; warp tower that stands on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; will take you to two different places, including the forge. Just make sure you start at the correct place within the tower.</key>
-		<value>CLARY: 有方法! &lt;color=lightblue&gt;碎空星&lt;/color&gt;躍遷塔位於&lt;color=orange&gt;沙漏雙星&lt;/color&gt;上, \\n它可以帶你去兩個不同的地方, 包括熔爐都可以到達. \\n最好確定你是從塔中正確的地方出發. </value>
+		<value>CLARY: Existuje! Warpová věž &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;, která stojí na &lt;color=orange&gt;Popeláku&lt;/color&gt;, tě vezme na dvě různá místa, jedním z nicž je kovárna. Jen se ujisti, že začneš na správném patře věže.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Of personal note: Remember to give Clary my gratitude when next I visit the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;.</key>
-		<value>ROOT: 個人備注: 下次我造訪&lt;color=orange&gt;黑洞熔爐&lt;/color&gt;時, \\n記得向CLARY致上我的感謝. </value>
+		<value>ROOT: Osobní poznámka: Nezapomeň vzdát Clary hold, až příště navštívím &lt;color=orange&gt;Černoděrou kovárnu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			Black Hole Forge controls
 		</key>
-		<value>&lt;color=orange&gt;黑洞熔爐控制裝置&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Řízení Černoděré kovárny&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>POKE: Clary and Root, kindly tune the alignments on each black hole core as I finish them. The schematic on the floor shows which warp tower aligns with which astral body.</key>
-		<value>POKE: CLARY還有ROOT, 請在我完成黑洞核心的時候, \\n對每一顆核心進行校準調節. 哪座躍遷塔和哪個天體匹配, \\n都畫在地上的圖示里了. </value>
+		<value>POKE: Clary a Roote, prosím použijte správná nastavení na každé černoděré jádro, které dokončím. Schématika na podlaze ukazuje, která warpová věž patří ke kterému hvězdnému tělesu.</value>
 	</entry>
 	<entry>
 		<key>CLARY: To speed future deliveries to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, I’ve tuned the first black hole core to activate when its warp tower aligns with &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>CLARY: 為了以後能更快捷地到達&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;, \\n我已經調整好了第一顆黑洞核心, 把它設為在躍遷塔對準&lt;color=lightblue&gt;碎空星&lt;/color&gt;時啟動. </value>
+		<value>CLARY: Abychom urychlili budoucí dodávky na &lt;color=lightblue&gt;Popelák&lt;/color&gt;, nastavila jsem první černoděré jádro tak, aby se aktivovalo, když se jeho warpová věž srovná s &lt;color=lightblue&gt;Křehkodutou planetou&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: And before anyone comments, &lt;i&gt;yes&lt;/i&gt;, I am aware this reduces the distance between Yarrow and me.</key>
-		<value>CLARY: 不用你們說, &lt;i&gt;沒錯&lt;/i&gt;, 我注意到了: 如此一來, \\nYARROW和我之間的距離將會大大縮減. </value>
+		<value>CLARY: A než někdo prohodí uštěpačnou poznámku, &lt;i&gt;ano&lt;/i&gt;, jsem si vědoma, že toto sníží vzdálenost mezi Yarrowem a mnou. </value>
 	</entry>
 	<entry>
 		<key>ROOT: The schematic shows the six towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; are being tuned to only five alignments. Is that a mistake?</key>
-		<value>ROOT: 根據圖示, &lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;的六座躍遷塔只匹配了五個天體. 是哪里出錯了嗎? </value>
+		<value>ROOT: Schématika ukazuje, že šest věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; nastavujeme pro pět těles. Je to chyba?</value>
 	</entry>
 	<entry>
 		<key>POKE: No, that’s correct. For these alignments we've decided to treat the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as a single astral body.</key>
-		<value>POKE: 不, 沒有錯. 匹配躍遷塔時, 我們得把&lt;color=lightblue&gt;沙漏雙星&lt;/color&gt;看作一個天體. </value>
+		<value>POKE: Ne, tak je to správně. Pro tyto účely považujeme &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt; za jediné těleso.</value>
 	</entry>
 	<entry>
 		<key>POKE: Have you seen Phlox’s tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;? They clarify each tower’s warp destination.</key>
-		<value>POKE: 你有沒有去&lt;color=lightblue&gt;余燼雙星&lt;/color&gt;上的&lt;color=orange&gt;高能實驗室&lt;/color&gt;看過PHLOX的\\n躍遷塔設計圖? 每座塔的躍遷目的地都已經標明在上面了. </value>
+		<value>POKE: Viděl jsi Phloxovy návrhy věží ve &lt;color=lightblue&gt;Vysokoenergetické laboratoři&lt;/color&gt; na &lt;color=orange&gt;Doutnáku&lt;/color&gt;? Objasňují warpový cíl každé věže. </value>
 	</entry>
 	<entry>
 		<key>POKE: If it helps, you can imagine the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as aligning with themselves.</key>
-		<value>POKE: 你可以這樣理解, &lt;color=lightblue&gt;沙漏雙星&lt;/color&gt;之間算是相互匹配的. </value>
+		<value>POKE: Pokud ti to pomůže, představ si, že &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt; se srovnávají jedno s druhým.</value>
 	</entry>
 	<entry>
 		<key>THATCH: This knowledge is too dear to lose: Here is everything we can recall about the signal we encountered while aboard the &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-		<value>THATCH: 這一知識十分關鍵, 一定要保存下來: 關於我們在&lt;color=orange&gt;飛船&lt;/color&gt;\\n上收到的那個信號, 我們所記得的情況都在這里. </value>
+		<value>THATCH: Toto poznání nesmí být ztraceno: Tu je vše, co si pamatujeme o signálu, který jsme spatřili na palubě &lt;color=orange&gt;Plavidla&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>FILIX: The signal looked like an eye: round, with a circle at the center much like a pupil. (Suppose the signal was looking for something.)</key>
-		<value>FILIX: 那個信號看上去像是一只眼睛, \\n中央有個與瞳孔十分類似的圓形.  (估計信號在尋找什麽東西. ) </value>
+		<value>FILIX: Signál vypadal jako oko: kulatý, s kruhem uvnitř jako zřítelnicí. (Řekněme, že ten signál se po něčem díval.) </value>
 	</entry>
 	<entry>
 		<key>FILIX: The signal was older than the universe itself! This is the most significant detail.</key>
-		<value>FILIX: 那個信號比宇宙本身還要古老! 這是最重要的細節. </value>
+		<value>FILIX: Signál byl starší než vesmír samotný. To je nejvýznamnější detail.</value>
 	</entry>
 	<entry>
 		<key>PLUME: No Nomai clan has ever encountered anything like it! How can anything in this universe be older than the universe itself?</key>
-		<value>PLUME: 以前從來沒有哪個挪麥家族遇到過這樣的東西! \\n這個宇宙里怎麽會有比宇宙本身還要古老的對象? </value>
+		<value>PLUME: Žádný klan Nomai nikdy nepotkal nic podobného! Jak může cokoliv v tomto vesmíru být starší než vesmír samotný?</value>
 	</entry>
 	<entry>
 		<key>THATCH: Imagine what rare and profound knowledge it might offer. We &lt;i&gt;must&lt;/i&gt; find this &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>THATCH: 想想看, 我們將會從它的身上了解到多麽少有以及深遠的知識. \\n我們&lt;i&gt;必須&lt;/i&gt;找到這個&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;. </value>
+		<value>THATCH: Představte si, jak vzácné a hluboké poznání by nám mohlo nabídnout. &lt;i&gt;Musíme&lt;/i&gt; najít toto &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Black Hole Forge District&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;黑洞熔爐區&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Okres Černoděré kovárny&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(west 350m)
 		</key>
 		<value>
-			&lt;color=orange&gt;十字路口&lt;/color&gt;\\n (向西350米) 
+			&lt;color=orange&gt;Rozcestí&lt;/color&gt;\\n (západně 350m) 
 		</value>
 	</entry>
 	<entry>
@@ -8273,7 +8273,7 @@
 			The &lt;color=orange&gt;Southern Observatory&lt;/color&gt;\\n(south 550m)
 		</key>
 		<value>
-			&lt;color=orange&gt;南部天文台&lt;/color&gt;\\n (向南550米) 
+			&lt;color=orange&gt;Jižní observatoř&lt;/color&gt;\\n (jižně 550m) 
 		</value>
 	</entry>
 	<entry>
@@ -8281,7 +8281,7 @@
 			&lt;color=orange&gt;Gravity Crystal Workshop&lt;/color&gt;\\n(above 140m)
 		</key>
 		<value>
-			&lt;color=orange&gt;重力水晶車間&lt;/color&gt;\\n (上方140米) 
+			&lt;color=orange&gt;Dílna gravitačních krystalů&lt;/color&gt;\\n (nahoru 140m) 
 		</value>
 	</entry>
 	<entry>
@@ -8289,7 +8289,7 @@
 			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(east 400m)
 		</key>
 		<value>
-			&lt;color=orange&gt;重力炮&lt;/color&gt;\\n (向東400米) 
+			&lt;color=orange&gt;Gravitační kanón&lt;/color&gt;\\n (východně 400m) 
 		</value>
 	</entry>
 	<entry>
@@ -8297,7 +8297,7 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(north 250m)
 		</key>
 		<value>
-			&lt;color=orange&gt;懸空城&lt;/color&gt;\\n (向北250米) 
+			&lt;color=orange&gt;Visací město&lt;/color&gt;\\n (severně 250m) 
 		</value>
 	</entry>
 	<entry>
@@ -8305,7 +8305,7 @@
 			The &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(west 190m)
 		</key>
 		<value>
-			&lt;color=orange&gt;量子知識之塔&lt;/color&gt;\\n (向西190米) 
+			&lt;color=orange&gt;Věž kvantového poznání&lt;/color&gt;\\n (západně 190m) 
 		</value>
 	</entry>
 	<entry>
@@ -8313,7 +8313,7 @@
 			&lt;color=orange&gt;Lower Crossroads&lt;/color&gt;\\n(below 56m)
 		</key>
 		<value>
-			&lt;color=orange&gt;底部十字路口&lt;/color&gt;\\n (下方56米) 
+			&lt;color=orange&gt;Spodní rozcestí&lt;/color&gt;\\n (dolů 56m) 
 		</value>
 	</entry>
 	<entry>
@@ -8321,23 +8321,23 @@
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(below 50m)
 		</key>
 		<value>
-			&lt;color=orange&gt;懸空城&lt;/color&gt;\\n (下方50米) 
+			&lt;color=orange&gt;Visací město&lt;/color&gt;\\n (dolů 50m) 
 		</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;眼祭壇區&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Okres Svatyně oku&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Meltwater District&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;融水區&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Okres tající vody&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(left 30m)
 		</key>
 		<value>
-			&lt;color=orange&gt;黑洞熔爐&lt;/color&gt;\\n (向左30米) 
+			&lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt;\\n (doleva 30m) 
 		</value>
 	</entry>
 	<entry>
@@ -8345,17 +8345,17 @@
 			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(east 190m)
 		</key>
 		<value>
-			&lt;color=orange&gt;十字路口&lt;/color&gt;\\n (向東190米) 
+			&lt;color=orange&gt;Rozcestí&lt;/color&gt;\\n (východně 190m) 
 		</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;School District&lt;/color&gt;</key>
-		<value>&lt;color=orange&gt;學校區&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Školní patro&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>&lt;color=orange&gt;Gravity Cannon&lt;/color&gt; Controls\\n(90m)</key>
 		<value>
-			&lt;color=orange&gt;重力炮&lt;/color&gt;控制裝置\\n (90米) 
+			Ovládání &lt;color=orange&gt;gravitačního kanónu&lt;/color&gt;\\n(90m) 
 		</value>
 	</entry>
 	<entry>
@@ -8363,35 +8363,35 @@
 			Entrance to the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(below 90m)
 		</key>
 		<value>
-			&lt;color=orange&gt;量子知識之塔&lt;/color&gt;入口\\n (下方90米) 
+			Vstup do &lt;color=orange&gt;Věže kvantového poznání&lt;/color&gt;\\n (dolů 90m) 
 		</value>
 	</entry>
 	<entry>
 		<key>The &lt;color=orange&gt;shuttle&lt;/color&gt; is currently resting at the &lt;color=lightblue&gt;comet&lt;/color&gt;.</key>
-		<value>&lt;color=orange&gt;航天飛機&lt;/color&gt;目前停泊在&lt;color=lightblue&gt;彗星&lt;/color&gt;上. </value>
+		<value>&lt;color=orange&gt;Loď&lt;/color&gt; nyní odpočívá na &lt;color=lightblue&gt;kometě&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>Who’s been computing shuttle trajectories to the &lt;color=orange&gt;Sun Station&lt;/color&gt;? Don’t worry; the station is in such a low stellar orbit, we’ve constructed a different, safer way to travel there from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>是誰在一直計算航天飛機飛往&lt;color=orange&gt;太陽站&lt;/color&gt;的軌道? 別擔心; 太陽站所處的\\n恒星軌道非常低. 我們已經實現了另一種更加安全的方法, \\n可以從&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;前往那里. </value>
+		<value>Kdo pořád ještě vypočítává trajektorie na přistání na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;? Nebojte se - stanice obíhá slunce v takové blízkosti, že jsem postavili bezpečnější způsob, jak tam cestovat z &lt;color=lightblue&gt;Popeláku&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: That would be Pye. I told her we wouldn’t be traveling there by &lt;color=orange&gt;shuttle&lt;/color&gt;, and that the &lt;color=orange&gt;Sun Station&lt;/color&gt; doesn’t even have a landing pad, but she said she knew.</key>
-		<value>IDAEA: 肯定是PYE. 我告訴過她, 我們不會乘坐&lt;color=orange&gt;航天飛機&lt;/color&gt;飛過去, \\n太陽站也沒有停機坪, 但她說她知道了. </value>
+		<value>IDAEA: To bude Pye. Řekl jsem jí, že sem už nebudeme cestovat &lt;color=orange&gt;lodí&lt;/color&gt;, a že &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; ani nemá prostor na přistání, na což mi odvětila, že to všechno ví.</value>
 	</entry>
 	<entry>
 		<key>PYE: It’s a purely theoretical exercise on my part, Yarrow. Who doesn’t love computing a good low stellar orbit shuttle trajectory!</key>
-		<value>PYE: 對我來說這僅僅是一種理論練習, YARROW. \\n誰不願意把航天飛機的低恒星軌道路徑算出來呢! </value>
+		<value>PYE: Je to čistě teoretické cvičení, Yarrowe. Kdo nezbožňuje hezkou nízko-orbitální trajektorii!</value>
 	</entry>
 	<entry>
 		<key>IDAEA: Pye, I look forward to working with you, but I’m also relieved it will be easy to return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; regularly.</key>
-		<value>IDAEA: PYE, 我很期待能夠與你共事, \\n不過我也很高興自己能夠定期返回&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;. </value>
+		<value>IDAEA: Pye, těším se na naši spolupráci, ale mám také radost, že bude jednoduché vrátit se na &lt;color=lightblue&gt;Popelák&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: This rock is very familiar! Did you travel here, my sedimentary friend? Because your unique color and texture appears identical to a rock I met earlier.
 		</key>
 		<value>
-			MELORAE: 這塊巖石真是眼熟! 你是自己過來的嗎? 我的沈積巖朋友? \\n因為你的顏色和材質十分特別, 和我之前遇到的一塊巖石一模一樣. 
+			MELORAE: Tento kámen je velmi povědomý. Cestoval jsi sem, můj sedlinový příteli? Protože barvou i texturou jako bys z oka vypadl kameni, který jsem potkala už dříve.
 		</value>
 	</entry>
 	<entry>
@@ -8399,7 +8399,7 @@
 			MELORAE: Wasn’t this same rock fragment in the cave we found at the bottom of the dry lakebed (at the north pole)?
 		</key>
 		<value>
-			MELORAE: 它會不會就是我們在幹湖床底部 (北極) 的那個洞穴里發現\\n的那塊巖石碎片? 
+			MELORAE: Není tohle ten samý úlomek kamene, který jsme našli na dně vysušeného jezera (na severním pólu)? 
 		</value>
 	</entry>
 	<entry>
@@ -8407,7 +8407,7 @@
 			COLEUS: An update: Melorae and I went back to the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; and observed this rock again. Sometimes it’s there, and sometimes it isn’t.
 		</key>
 		<value>
-			COLEUS: 更新: MELORAE和我回到了&lt;color=orange&gt;湖床洞穴&lt;/color&gt;, \\n再次觀察了這塊巖石. 有時它會出現在那里, 有時卻不會. 
+			COLEUS: Update: Melorae jsme šli zpět do &lt;color=orange&gt;jeskyně u jezerního dna&lt;/color&gt; a znovu zpozorovali tento kámen. Občas tam je, občas není. 
 		</value>
 	</entry>
 	<entry>
@@ -8415,7 +8415,7 @@
 			MELORAE: That means this rock wanders like the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; does. How curious!
 		</key>
 		<value>
-			MELORAE: 也就是說, 這塊巖石和&lt;color=lightblue&gt;量子衛星&lt;/color&gt;一樣, \\n會到處移動. 真是奇怪! 
+			MELORAE: To znamená, že tento kámen se toulá stejně jako &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;. Jak fascinující! 
 		</value>
 	</entry>
 	<entry>
@@ -8423,7 +8423,7 @@
 			COLEUS: We plan to reexamine the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt;. (Maybe our friendly rock will meet us down there!)
 		</key>
 		<value>
-			COLEUS: 我們打算重新檢查一下北邊的&lt;color=orange&gt;湖床洞穴&lt;/color&gt;.  (也許我們的\\n巖石朋友在那里等著我們呢! ) 
+			COLEUS: Plánujeme znovu prozkoumat &lt;color=orange&gt;jeskyni u jezerního dna&lt;/color&gt;.  (Možná se tam s námi náš kamenný přítel setká!) 
 		</value>
 	</entry>
 	<entry>
@@ -8431,7 +8431,7 @@
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(110m)
 		</key>
 		<value>
-			&lt;color=orange&gt;背陰城&lt;/color&gt;\\n (120米) 
+			&lt;color=orange&gt;Neslunné město&lt;/color&gt;\\n (120m) 
 		</value>
 	</entry>
 	<entry>
@@ -8439,7 +8439,7 @@
 			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(120m)
 		</key>
 		<value>
-			&lt;color=orange&gt;重力炮&lt;/color&gt;\\n (120米) 
+			&lt;color=orange&gt;Gravitační kanón&lt;/color&gt;\\n (120m) 
 		</value>
 	</entry>
 	<entry>
@@ -8447,7 +8447,7 @@
 			The &lt;color=orange&gt;High Energy Lab&lt;/color&gt;\\n(400m)
 		</key>
 		<value>
-			&lt;color=orange&gt;高能實驗室&lt;/color&gt;\\n (400米) 
+			&lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt;\\n (400m) 
 		</value>
 	</entry>
 	<entry>
@@ -8455,7 +8455,7 @@
 			&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
 		</key>
 		<value>
-			&lt;color=orange&gt;安康魚化石瞭望台&lt;/color&gt;\\n (40米) 
+			&lt;color=orange&gt;Ďasí vyhlídka&lt;/color&gt;\\n (40m) 
 		</value>
 	</entry>
 	<entry>
@@ -8463,7 +8463,7 @@
 			&lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;\\n(20m)
 		</key>
 		<value>
-			&lt;color=orange&gt;墊腳石洞&lt;/color&gt;\\n (20米) 
+			&lt;color=orange&gt;Kamenná jeskyně&lt;/color&gt;\\n (20m) 
 		</value>
 	</entry>
 	<entry>
@@ -8471,7 +8471,7 @@
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(120m)
 		</key>
 		<value>
-			&lt;color=orange&gt;背陰城&lt;/color&gt;\\n (120米) 
+			&lt;color=orange&gt;Neslunné město&lt;/color&gt;\\n (120m) 
 		</value>
 	</entry>
 	<entry>
@@ -8479,7 +8479,7 @@
 			&lt;color=orange&gt;Crash Site Caves&lt;/color&gt;\\n(60m)
 		</key>
 		<value>
-			&lt;color=orange&gt;墜落點山洞&lt;/color&gt;\\n (60米) 
+			&lt;color=orange&gt;Havarijní jeskyně&lt;/color&gt;\\n (60m) 
 		</value>
 	</entry>
 	<entry>
@@ -8487,7 +8487,7 @@
 			The &lt;color=orange&gt;High Energy Lab&lt;/color&gt;\\n(300m)
 		</key>
 		<value>
-			&lt;color=orange&gt;高能實驗室&lt;/color&gt;\\n (300米) 
+			&lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt;\\n (300m) 
 		</value>
 	</entry>
 	<entry>
@@ -8495,71 +8495,71 @@
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(300m)
 		</key>
 		<value>
-			&lt;color=orange&gt;背陰城&lt;/color&gt;\\n (300米) 
+			&lt;color=orange&gt;Neslunné město&lt;/color&gt;\\n (300m) 
 		</value>
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Long-range probe successfully launched from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-		<value>&lt;TimeMinutes&gt;分鐘&lt;TimeSeconds&gt;秒之前: &lt;color=orange&gt;軌道探測炮&lt;/color&gt;發射遠程探測器成功. </value>
+		<value>PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Sonda s dlouhým dosahem úspěšně vystřelena z &lt;color=orange&gt;Orbitálního kanónu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We offer our congratulations! You’ve learned the rule of quantum imaging. Take this knowledge with you on the remainder of your quantum pilgrimage.</key>
-		<value>在此獻上我們的祝賀! 你已學會了量子成像法則. \\n就帶著這個知識伴你度過余下的量子朝聖之旅. </value>
+		<value>Gratulujeme! Naučil ses pravidlo kvantového obrazu. Opatruj toto pravidlo po zbytek své kvantové pouti.</value>
 	</entry>
 	<entry>
 		<key>Remember, the other quantum shards have other lessons to teach.</key>
-		<value>記住, 其它的內容可以從別的量子碎片那里學習. </value>
+		<value>Nezapomeň, že další kvantové úlomky pro tebe mají další lekce.</value>
 	</entry>
 	<entry>
 		<key>Our curiosity goes with you on your journey. You walk in the footsteps of those who came before you, and your path guides those who will follow later.</key>
-		<value>我們對你的旅程充滿好奇心. 你將跟隨前人的腳步, \\n帶領後人走向正確的道路. </value>
+		<value>Nechť tě naše zvídavost opatruje na tvé cestě. Kráčíš ve stopách těch, kteří přišli před tebou, a tvé kroky usměrňují ty, kteří tě budou následovat.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Yarrow, would you kindly step back so Daz is closest to the statue? When pairing, the statue will choose whoever is in closest proximity.</key>
-		<value>PHLOX: YARROW, 能不能請你退後一點? 這樣DAZ才能距離雕像最近. \\n到時候, 雕像會選擇最近的人來進行匹配. </value>
+		<value>PHLOX: Yarrowe, ustoupil bys prosím, aby Daz byla nejblíže k soše. Během párování si socha vybere toho, kdo je k ní nejblíž.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: ...See how its eyes have opened? That tells us the statue has paired with Daz. Now, no matter where he is in this star system, Daz’s statue will record his memories and send them to the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>PHLOX: ...看見它睜開眼睛的樣子了嗎? 這說明雕像已經\\n和DAZ進行了匹配. 現在, 不管DAZ處在這個星系的什麽地方, \\n雕像都會把他的回憶記錄下來, 並發往&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;. </value>
+		<value>PHLOX: ...Vidíš, jak se její oči otevřely? To nám potvrzuje, že socha se spárovala s Daz. Bez ohledu na to, kam teď Daz v této planetární soustavě půjde, bude tato socha nahrávat její vzpomínky a posílat je do &lt;color=orange&gt;Popelákového projektu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: This is extraordinary sculpting work, Phlox!</key>
-		<value>YARROW: PHLOX, 你的這座雕像真是非凡! </value>
+		<value>YARROW: Phloxi, to je fenomenální sochařský úspěch!</value>
 	</entry>
 	<entry>
 		<key>DAZ: He has outdone himself again, hasn’t he? And now that we have our first successful pairing, we can test my memory storage prototype.</key>
-		<value>DAZ: 他再次突破了自己, 對不對? 既然第一例匹配已經成功, \\n那麽我們現在可以測試一下我的回憶存儲原型了. </value>
+		<value>DAZ: Zase se překonal, že? A teď, když máme první úspěšné spárování, můžeme vyzkoušet můj paměťový prototyp.</value>
 	</entry>
 	<entry>
 		<key>DAZ: Each statue will send a single Nomai’s memories to his or her own storage unit within &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
-		<value>DAZ: 每座雕像都會把一個挪麥人的回憶發送到他或者她自己位於\\n&lt;color=lightblue&gt;灰燼雙星&lt;/color&gt;的存儲單元里. </value>
+		<value>DAZ: Každá socha pošle vzpomínky jediného Nomai na jeho nebo její paměťové zařízení uvnitř &lt;color=lightblue&gt;Popeláku&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai.</key>
-		<value>PHLOX: 每個存儲單元都配有和雕像成對的面具, \\n可以將那些存儲起來的回憶重新發送給相應的挪麥人. </value>
+		<value>PHLOX: Každé paměťové zařízení je označeno maskou, tedy doplňkem sochy, a maska pošle tyto vzpomínky zpátky každému spárovanému Nomai. </value>
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Request to launch probe received from &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>&lt;TimeMinutes&gt;分鐘&lt;TimeSeconds&gt;秒之前: 收到來自&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;的探測器發射請求. </value>
+		<value>PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Pokyn odpálit sondu přijat z &lt;color=orange&gt;Popelákového projektu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>Cannon aligned with randomly selected probe trajectory. Gravity field activated.</key>
-		<value>大炮已經對準隨機選擇的探測器軌道. 啟動重力場. </value>
+		<value>Kanón namířen pro náhodně zvolenou trajektorii sondy. Gravitační pole aktivováno.</value>
 	</entry>
 	<entry>
 		<key>Control Module</key>
-		<value>&lt;color=orange&gt;控制模塊&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Kontrolní modul&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Launch Module</key>
-		<value>&lt;color=orange&gt;發射模塊&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Spouštěcí modul&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
 			Receiving data from probe &lt;NbTimeloops&gt;.
 		</key>
 		<value>
-			正在接收探測器&lt;NbTimeloops&gt;傳來的數據. 
+			Přijímáme data ze sondy &lt;NbTimeloops&gt;. 
 		</value>
 	</entry>
 	<entry>
@@ -8567,204 +8567,204 @@
 			Visualizing current trajectory of probe &lt;NbTimeloops&gt;.
 		</key>
 		<value>
-			正在描繪探測器&lt;NbTimeloops&gt;的當前軌道. 
+			Vizualizujeme současnou trajektorii sondy &lt;NbTimeloops&gt;. 
 		</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: There is fundamental uncertainty throughout the universe. Normally, this uncertainty is only observable on a very small scale. As one approaches the &lt;color=lightblue&gt;Eye&lt;/color&gt;, however, that uncertainty grows &lt;i&gt;enormously&lt;/i&gt;.</key>
-		<value>SOLANUM: 整個宇宙遍布基礎不確定性. 一般來說, 這種不確定性只能\\n在非常微小的尺度上才能被觀察到. 但是, 當有人接近&lt;color=lightblue&gt;眼&lt;/color&gt;的時候, \\n它就會&lt;i&gt;急劇&lt;/i&gt;放大. </value>
+		<value>SOLANUM: Vesmírem proniká základní nejistota. Normálně tuto nejistotu pozorujeme jen na velmi malé škále. Ale s klesající vzdáleností k &lt;color=lightblue&gt;Oku&lt;/color&gt; tato nejistota roste &lt;i&gt;exponenciálně&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; probably exhibits macroscopic quantum behavior because of its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. Shards that broke off from the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; have a similar effect, as I imagine you’ve seen elsewhere in this star system.</key>
-		<value>SOLANUM: &lt;color=lightblue&gt;量子衛星&lt;/color&gt;很可能是因為接近&lt;color=lightblue&gt;眼&lt;/color&gt;, 所以才在宏觀尺度上\\n表現出了量子行為. 從&lt;color=lightblue&gt;量子衛星&lt;/color&gt;上分離出來的碎片擁有類似的特性. \\n我想你已經在這個星系的其它地方見到過了. </value>
+		<value>SOLANUM: &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; patrně vykazuje makroskopické kvantové chování kvůli své blízkosti k &lt;color=lightblue&gt;Oku&lt;/color&gt; Úlomky, které se z &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; odlomily, se chovají podobně, jak jste už bezpochyby viděli ve zbytku tohoto planetárního systému.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Conscious observation forces a quantum object to collapse to a single possibility. But what would happen if a conscious observer somehow entered the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself?</key>
-		<value>SOLANUM: 對一個量子對象進行有意識地觀察, 將會使其坍縮為單一的\\n可能態. 但要是一個有意識的觀察者進入&lt;color=lightblue&gt;眼&lt;/color&gt;, 那麽又會發生什麽事情呢? </value>
+		<value>SOLANUM: Vědomé pozorování nutí kvantový předmět k tomu, aby se zhroutil do jediné možnosti. Ale co by se stalo, kdyby vědomý pozorovatel vstoupil do &lt;color=lightblue&gt;Oka&lt;/color&gt; samotného? </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Over time, this has become my clan’s greatest question.</key>
-		<value>SOLANUM: 漸漸地, 這個問題成為了我的家族最大的疑問. </value>
+		<value>SOLANUM: To se postupně stalo pro můj klan nejdůležitější otázkou. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine your purpose here is the same as mine: to learn about and to find the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
-		<value>SOLANUM: 我想你和我的目的一樣: 來這里了解並尋找&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;. </value>
+		<value>SOLANUM: Myslím, že tvůj cíl tady je tentýž, co můj: studovat a objevit &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’m unsure how you arrived here, however. Perhaps you came from another star system, as my clan originally did?</key>
-		<value>SOLANUM: 不過, 我不知道你是怎麽來到這里的. \\n也許你也來自於別的星系? 就和我的家族一開始那樣. </value>
+		<value>SOLANUM: Nejsem si ale jistá, jak ses sem dostal. Možná jsi přišel z jiného planetárního systému, jako kdysi můj klan?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Have you encountered a quantum shard on another planet? The shards look the same as the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s surface does now, while at the &lt;color=lightblue&gt;Eye&lt;/color&gt;.</key>
-		<value>SOLANUM: 你有沒有在其它行星上遇到過量子碎片? 那些碎片的樣子, \\n就和現在&lt;color=lightblue&gt;量子衛星&lt;/color&gt;位於&lt;color=lightblue&gt;眼&lt;/color&gt;時其表面所展現出來的外觀一樣. </value>
+		<value>SOLANUM: Potkal jsi na jiné planetě kvantový úlomek? Úlomky vypadají stejně jako povrch &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt;, když obíhá &lt;color=lightblue&gt;Oko&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can reasonably infer the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s natural state is as we see it now, and that the Eye is its primary location.</key>
-		<value>SOLANUM: 借此有理由推斷, 我們目前看到的就是&lt;color=lightblue&gt;量子衛星&lt;/color&gt;\\n的自然狀態. 並且眼是它的主要運動位置. </value>
+		<value>SOLANUM: Z tohoto můžeme usoudit, že přírodní stav &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; je takový, jak ho vidíme teď, a že Oko je jeho primární lokací. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Given the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s moon, it’s likely that any characteristics the moon exhibits are also exhibited by the Eye itself. The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; and its shards, for instance, are quantum; thus, the &lt;color=lightblue&gt;Eye&lt;/color&gt; is likely also quantum.</key>
-		<value>SOLANUM: 鑒於&lt;color=lightblue&gt;量子衛星&lt;/color&gt;是&lt;color=lightblue&gt;眼&lt;/color&gt;的衛星, 那麽很可能眼也會\\n具備衛星所展現出來的所有特性. 比如說, &lt;color=lightblue&gt;量子衛星&lt;/color&gt;及其\\n碎片是量子態的; 因此, &lt;color=lightblue&gt;眼&lt;/color&gt;很可能也是量子態的. </value>
+		<value>SOLANUM: Vzhledem k tomu, že &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; je měsícem &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;, je pravděpodobné, že všechny vlastnosti, které vykazuje, vykazuje i Oko samotné. Například, &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; a jeho úlomky jsou kvantové; tím pádem můžeme usoudit, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je také kvantové.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: In fact, this moon is probably quantum because its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt; made it quantum, the same way the areas surrounding quantum shards that landed on other planets eventually became quantum, too.</key>
-		<value>SOLANUM: 事實上, 這顆衛星或許是因為接近&lt;color=lightblue&gt;眼&lt;/color&gt;, \\n所以才具備了量子特性. 墜落在其它行星上的量子碎片\\n會對周遭的環境造成同樣的影響, 也是這個道理. </value>
+		<value>SOLANUM: Tento měsíc je patrně kvantový, protože jeho blízkost k &lt;color=lightblue&gt;Oku&lt;/color&gt; jej kvantovým učinila, podobně jako se oblasti kolem kvantových úlomků na ostatních planetách také stanou kvantovými.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am on my first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. All Nomai in my clan make this journey when we come of age.</key>
-		<value>SOLANUM: 我正要前往&lt;color=lightblue&gt;量子衛星&lt;/color&gt;, 進行首次朝聖. 在我的家族里, \\n所有的挪麥人一旦到了足夠的年紀, 都會踏上這樣的旅程. </value>
+		<value>SOLANUM: Jsem na své první pouti na &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;. Všichni Nomai v mém klanu tuto pouť podniknou, když dospějí.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Even though the &lt;color=lightblue&gt;Eye&lt;/color&gt; cannot be reached from here, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; remains special to us, as it carries us nearer to the &lt;color=lightblue&gt;Eye&lt;/color&gt; than any other place we know.</key>
-		<value>SOLANUM: 雖然從這里無法抵達&lt;color=lightblue&gt;眼&lt;/color&gt;, 但&lt;color=lightblue&gt;量子衛星&lt;/color&gt;對我們而言依然\\n意義非凡. 和別的地方相比, 它可以帶著我們來到最為靠近&lt;color=lightblue&gt;眼&lt;/color&gt;的地方. </value>
+		<value>SOLANUM: Přestože odsud nemůžeme dosáhnout na &lt;color=lightblue&gt;Oko&lt;/color&gt;, &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; je pro nás význačný, protože nás donáší blíže k &lt;color=lightblue&gt;Oku&lt;/color&gt;, než jakékoliv jiné místo, které známe.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve journeyed here to be close to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. While the &lt;color=lightblue&gt;Eye&lt;/color&gt; is obscured from our sight, we can see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt; in the sky above us.</key>
-		<value>SOLANUM: 我一路跋涉來到這里, 為的就是接近&lt;color=lightblue&gt;眼&lt;/color&gt;. \\n雖然無法直接觀察到&lt;color=lightblue&gt;眼&lt;/color&gt;, 但是我們可以在上方的天空里看到\\n&lt;color=lightblue&gt;眼&lt;/color&gt;在&lt;color=lightblue&gt;量子衛星&lt;/color&gt;上的倒影. </value>
+		<value>SOLANUM: Vypravila jsem se sem, abych se přiblížila k &lt;color=lightblue&gt;Oku&lt;/color&gt;. Přestože &lt;color=lightblue&gt;Oko&lt;/color&gt; samotné odsud nelze vidět, vidíme alespoň jeho odraz na obloze nad námi.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Suppose you could reach the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;: Would you try to enter it?</key>
-		<value>SOLANUM: 假如你能夠到達&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;: 你會想辦法進去嗎? </value>
+		<value>SOLANUM: Řekněme, že by ses dostal k &lt;color=lightblue&gt;Oku vesmíru&lt;/color&gt;: Vstoupil bys do něj?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: What do you imagine the effects of a conscious observer might be?</key>
-		<value>SOLANUM: 你覺得有意識的觀察者可能會造成怎樣的影響? </value>
+		<value>SOLANUM: Jaké si myslíš, že by byly dopady vědomého pozorovatele?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine you’ve noticed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; changes in appearance depending on which location it is currently orbiting (for instance, the moon looks quite different when orbiting &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; than it does when orbiting the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;).</key>
-		<value>SOLANUM: 我想你已經注意到了, 根據&lt;color=lightblue&gt;量子衛星&lt;/color&gt;當前環繞的\\n軌道不同, 它的外觀也會發生變化 (比如說, 衛星在環繞&lt;color=lightblue&gt;深巨星&lt;/color&gt;\\n的時候和環繞&lt;color=lightblue&gt;沙漏雙星&lt;/color&gt;的時候, 樣子是完全不一樣的) . </value>
+		<value>SOLANUM: Patrně sis všimnul toho, že &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; se mění na základě toho, jakou planetu zrovna obíhá (například, náš měsíc vypadá velmi odlišně, když obíhá &lt;color=lightblue&gt;Obří hlubinu&lt;/color&gt;, než když obíhá &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt;).</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Because the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; clearly changes in its different forms, the &lt;color=lightblue&gt;Eye&lt;/color&gt; (being this moon’s primary location) must be similarly malleable.</key>
-		<value>SOLANUM: 因為&lt;color=lightblue&gt;量子衛星&lt;/color&gt;會在不同的形態之間產生變化, \\n那麽&lt;color=lightblue&gt;眼&lt;/color&gt; (該衛星的主要運動位置) 一定也具備類似的可變性. </value>
+		<value>SOLANUM: Protože &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; jasně mění svou formu, &lt;color=lightblue&gt;Oko&lt;/color&gt; (coby hlavní planeta pro tento měsíc) musí být obdobně tvárné.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can hypothesize that &lt;i&gt;the Eye represents extreme changeability&lt;/i&gt;.</key>
-		<value>SOLANUM: 由此, 我們可以假設&lt;i&gt;眼將會表現出異常多變的特性&lt;/i&gt;. </value>
+		<value>SOLANUM: Na základě tohoto můžeme postulovat, že &lt;i&gt;Oko představuje extrémní změnitelnost&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: That said, despite its malleable nature, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; becomes locked to one specific version of itself when it is consciously observed.</key>
-		<value>SOLANUM: 也就是說, 雖然&lt;color=lightblue&gt;量子衛星&lt;/color&gt;具有可變的特性, \\n但在受到有意識的觀察時, 它會固定在某個具體的性態上. </value>
+		<value>SOLANUM: Ale navzdory své tvárnosti zůstává &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; v jediné podobě, je-li vědomě sledován.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: But what would happen if a conscious observer were to enter the &lt;i&gt;Eye&lt;/i&gt;?</key>
-		<value>SOLANUM: 但要是一個有意識的觀察者進入&lt;i&gt;眼&lt;/i&gt;, \\n那麽又會發生什麽事情呢? </value>
+		<value>SOLANUM: Ale co by se stalo, kdyby vědomý pozorovatel vstoupil do &lt;i&gt;Oka samotného&lt;/i&gt;?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Many in my clan have believed the &lt;color=lightblue&gt;Eye&lt;/color&gt; called to us for a particular purpose.</key>
-		<value>SOLANUM: 我的家族里有許多人相信&lt;color=lightblue&gt;眼&lt;/color&gt;呼叫我們是有特殊原因的. </value>
+		<value>SOLANUM: Mnozí v mém klanu věřili, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je sem zavolalo z konkrétního důvodu.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: When I was a child, I used to believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; was malevolent, to have lured my clan to this star system only to then vanish from them so completely.</key>
-		<value>SOLANUM: 小的時候, 我以為&lt;color=lightblue&gt;眼&lt;/color&gt;不懷好意, \\n想把我的家族引到這個星系來, 好把我們徹底鏟除. </value>
+		<value>SOLANUM: Jako dítě jsem věřívala, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je zlomyslné - nalákalo jsem můj klan, jen aby následně kompletně zmizelo.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: But I don’t fear the &lt;color=lightblue&gt;Eye&lt;/color&gt;, anymore. In fact, it became my fondest hope to see the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself, someday, but I fear this may be beyond my reach.</key>
-		<value>SOLANUM: 不過我已經不再害怕&lt;color=lightblue&gt;眼&lt;/color&gt;了. 事實上, \\n有朝一日能夠親自看到&lt;color=lightblue&gt;眼&lt;/color&gt;已經成了我最大的心願. \\n不過恐怕我將無法實現這個願望. </value>
+		<value>SOLANUM: Ale už se &lt;color=lightblue&gt;Oka&lt;/color&gt; nebojím. Naopak, začala jsem toužebně doufat, že jednou uvidím &lt;color=lightblue&gt;Oko&lt;/color&gt; samotné, přestože se bojím, že to je mimo mé možnosti.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: You may think I’m strange, but I have a hypothesis that I may not be entirely alive. Perhaps my journey has reached its end.</key>
-		<value>SOLANUM: 你可能會覺得我說這話很奇怪, 不過我有一個假設, \\n那就是我可能只是部分地活著. 也許我的旅程已經走到了終點. </value>
+		<value>SOLANUM: Možná si myslíš, že jsem zvláštní, ale mám hypotézu, že nejsem zcela naživu. Možná je má cesta u konce.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: These are the two tenets of Nomai philosophy; to seek out and to understand is our way of living.</key>
-		<value>SOLANUM: 挪麥人信奉兩大人生信條; 尋找和理解是我們生命的意義. </value>
+		<value>SOLANUM: Toto jsou dva principy filozofie Nomai; najít a porozumět. Takto žijeme.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
-		<value>SOLANUM: 我們現在正在環繞&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的軌道上. 不過我們無法\\n看見它 (只能看見它在&lt;color=lightblue&gt;量子衛星&lt;/color&gt;上的倒影) . &lt;color=lightblue&gt;眼&lt;/color&gt;比宇宙本身\\n還要古老. 我的家族認為它處在一個十分遙遠的軌道上環繞這個星系. </value>
+		<value>SOLANUM: Nyní obíháme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;, přestože ho nemůžeme vidět (jen to, jak se na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; odráží). &lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než vesmír samotný, a můj klan věří, že obíhá kolem tohoto slunce na extrémně vzdálené oběžné dráze.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve never met one of your kind before. It’s an honor to speak with you! I particularly admire your four eyes.</key>
-		<value>SOLANUM: 我以前從來沒有遇見過你們種族的人. \\n能夠和你交談我十分榮幸! 我特別喜歡你的四只眼睛. </value>
+		<value>SOLANUM: Nikdy jsem nepotkala nikoho z tvého druhu. Je mi ctí s tebou promluvit! Moc se mi líbí tvé čtyři oči.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: There are many questions I would ask, if I could comprehend your language. You have my gratitude for understanding mine.</key>
-		<value>SOLANUM: 要是我能夠理解你們的語言就好了. \\n我有許多問題想要問. 你能夠聽懂我說的話, 我實在是感激不盡. </value>
+		<value>SOLANUM: Mám mnoho otázek, na které bych se zeptala, pokud bych dokázala rozumět tvému jazyku. Máš mé díky za to, že rozumíš tomu mému.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: This is the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, where we both are standing.</key>
-		<value>SOLANUM: 我們所站的地方叫做&lt;color=lightblue&gt;量子衛星&lt;/color&gt;. </value>
+		<value>SOLANUM: Oba stojíme na &lt;color=lightblue&gt;Kvantovén měsícu&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Despite also orbiting other celestial bodies, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;’s moon.</key>
-		<value>SOLANUM: &lt;color=lightblue&gt;量子衛星&lt;/color&gt;是&lt;color=lightblue&gt;宇宙之眼&lt;/color&gt;的衛星, \\n但它也會圍繞其它天體運動. </value>
+		<value>SOLANUM: Přestože obíhá i jiná tělesa, &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; je primárně měsícem &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I am Solanum, a Nomai. My clan arrived in this star system before my birth, and we now call it home.</key>
-		<value>SOLANUM: 我叫SOLANUM, 是一名挪麥人. 在我出生之前, \n我的家族就來到了這個星系. 如今, 我們在這里安了家. </value>
+		<value>SOLANUM: Já jsem Solanum, a jsem Nomai. Můj klan do tohoto planetárního systému dorazil před mým narozením, a nyní je to náš domov.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Is this your first time on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;? It’s my first time here.</key>
-		<value>SOLANUM: 你是第一次來到&lt;color=lightblue&gt;量子衛星&lt;/color&gt;嗎? 我是第一次來. </value>
+		<value>SOLANUM: Jsi tady na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; poprvé? Já tu jsem poprvé.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: If you’ve come here looking for answers, I hope you find them.</key>
-		<value>SOLANUM: 如果你是來尋找答案的, 希望你能夠如願以償. </value>
+		<value>SOLANUM: Pokud tu hledáš odpovědi, doufám, že je tu nalezneš.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Like many of my clan before me, I journeyed here to see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt;. This is the closest any of us have come to seeing the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>SOLANUM: 我和之前的許多族人一樣, 來這里想要看看&lt;color=lightblue&gt;眼&lt;/color&gt;在\\n&lt;color=lightblue&gt;量子衛星&lt;/color&gt;上的倒影. 這是我們對&lt;color=lightblue&gt;眼&lt;/color&gt;進行的最近一次觀察. </value>
+		<value>SOLANUM: Jako mnozí v mém klanu přede mnou, i já jsem sem cestovala, abych uviděla, jak &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; odráží &lt;color=lightblue&gt;Oko&lt;/color&gt;. Toto je nejblíže, co jsme kdy došli k obrazy &lt;color=lightblue&gt;Oka&lt;/color&gt; samotného.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We do not have much connection, you and I.</key>
-		<value>SOLANUM: 你我之間沒有太多的共同點. </value>
+		<value>SOLANUM: My dva toho nemáme moc společného. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Still, this encounter feels special. I hope you won’t mind if I think of you as a friend.</key>
-		<value>SOLANUM: 可是, 這次相遇依然讓我覺得非比尋常. \\n我想把你當成朋友, 希望你不要介意. </value>
+		<value>SOLANUM: Ale naše setkání mi přijde neobyčejné. Doufám, že ti nebude vadit, pokud o tobě budu smýšlet jako o příteli.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I’ve installed the masks inside the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, Phlox. They look beautiful (although I do feel as though I’m being observed!).</key>
-		<value>RAMIE: PHLOX, 我已經安裝好了&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;內部的面具. \\n它們看上去很漂亮 (不過我覺得它們好像在觀察我! ) . </value>
+		<value>RAMIE: Phloxi, naaranžoval jsem masky uvnitř &lt;color=orange&gt;Popelákového projektu&lt;/color&gt;. Vypadají nádherně (přestože si připadám, jako by mne pozorovaly!).</value>
 	</entry>
 	<entry>
 		<key>RAMIE: It’s comforting to know the statues will not pair until the project succeeds. Otherwise, I imagine the experience would be hard to endure!</key>
-		<value>RAMIE: 還好雕像在計劃成功之前不會進行匹配. \\n不然的話, 那一定是叫人難以忍受的體驗! </value>
+		<value>RAMIE: Uklidňuje mě, že sochy se nespárují, dokud projekt neuspěje. Jinak si dovedu představit, že by takovou zkušenost mohlo být těžké zvládnout! </value>
 	</entry>
 	<entry>
 		<key>PHLOX: Ideally, they’ll only need to activate once the project succeeds; as a safety measure, however, the statues will also activate in the event of equipment failure.</key>
-		<value>PHLOX: 理想的情況下, 我們只需要在計劃成功時啟動它們; \\n不過作為安全措施, 這些雕像也會在設備出現故障的時候被啟動. </value>
+		<value>PHLOX: Ideálně se aktivují pouze tehdy, pokud projekt uspěje; jako bezpečnostní opatření se ale také aktivují, pokud jakkoli selže vybavení.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: They will? Why is that?</key>
-		<value>RAMIE: 真的嗎? 那是為什麽? </value>
+		<value>RAMIE: Aha? Proč?</value>
 	</entry>
 	<entry>
 		<key>PHLOX: If anything goes wrong with the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, the statues (and their masks) will make us aware of the situation and enable us to fix it. Otherwise, it would be possible for us to remain permanently unaware of the problem.</key>
-		<value>PHLOX: 如果&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;出現問題, 雕像 (還有它們的面具) \\n可以把情況通知給我們, 讓我們進行修覆. \\n不然的話, 我們就可能永遠也不知道出了什麽問題. </value>
+		<value>PHLOX: Pokud něco selže na &lt;color=orange&gt;Popelákovém projektu&lt;/color&gt;, sochy (a jejich masky) nám o tom dají vědět a poskytnou nám možnost chybu opravit.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I hadn’t thought of that! What a profoundly horrific fate that would be.</key>
-		<value>RAMIE: 這我倒是沒想過! 那將會多麽可怕的情況啊. </value>
+		<value>RAMIE: To mne nenapadlo! Jak hrůzný osud by to mohl být.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Friends in the &lt;color=orange&gt;Timber Hearth Mines&lt;/color&gt;, the last type of ore you sent us survives the longest in direct heat.</key>
-		<value>ROOT: &lt;color=orange&gt;木爐星礦井&lt;/color&gt;的各位朋友, 你們寄給我們的礦石中, \\n最後一種在直接受熱時堅持的時間最長. </value>
+		<value>ROOT: Přátelé v &lt;color=orange&gt;dolech na Domopeci&lt;/color&gt;, poslední typ rudy, který jste poslali, přežije horko nejdéle. </value>
 	</entry>
 	<entry>
 		<key>ROOT: Can you send us more of the same for additional testing? We’re attempting to improve its durability, and our forge has already burned through everything you sent!</key>
-		<value>ROOT: 能不能再寄來些這種礦石, 好讓我們再多做幾次實驗? \\n我們想把耐久度再提高點, 可你們寄來的東西都已經燒光了! </value>
+		<value>ROOT: Můžete nám poslat víc na další testování? Snažíme se zlepšit jeho vytrvalost, a naše kovárna se už propálila vším, co jste nám poslali! </value>
 	</entry>
 	<entry>
 		<key>OENO: We’ll deliver more ore to &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; immediately. You must be fired up about crafting the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;’s protective shell!</key>
-		<value>OENO: 我們將立即把更多礦石寄往&lt;color=lightblue&gt;空心燈&lt;/color&gt;. \\n你們造起這個&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;的保護外殼, 還真是挺有幹勁的嘛! </value>
+		<value>OENO: Okamžitě doručíme víc rudy na &lt;color=lightblue&gt;Křehkodutý měsíc&lt;/color&gt;. Určitě jsi zapálený pro tvorbu ochranné skořápku pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! </value>
 	</entry>
 	<entry>
 		<key>ROOT: Yes, the idea of an encasement that’s supernova-proof, however briefly, has kindled my curiosity!</key>
-		<value>ROOT: 沒錯! 隔絕超新星的保護殼, 光是想到這個主意我就夠興奮的了! </value>
+		<value>ROOT: Ano, myšlenka zapouzdření, které překoná supernovu, jakkoli krátce, mne velmi zaujala! </value>
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! I imagine we’ll also have an updated estimate soon of how much ore is needed to seal off the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>ROOT: 太感謝了! 那麽, 關於完成&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;所需的具體礦石數量, \\n想必近期就能向你們提供最新的估測結果. </value>
+		<value>ROOT: Mnohé díky! Myslím, že brzy budeme mít aktualizovaný odhad toho, kolik rudy budeme potřebovat, abychom zapečetili &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>OENO: Will it be more than we initially thought?</key>
-		<value>OENO: 會比我們最開始預計的還要多嗎? </value>
+		<value>OENO: Bude to víc, než jsme si původně mysleli?</value>
 	</entry>
 	<entry>
 		<key>ROOT: It will be &lt;i&gt;significantly&lt;/i&gt; more. The smallest crack or opening in the protective shell would destroy everything.</key>
-		<value>ROOT: 多&lt;i&gt;大發&lt;/i&gt;了. 保護外殼哪怕裂了一丁點, 一切努力就都白費了. </value>
+		<value>ROOT: Bude to &lt;i&gt;mnohem&lt;/i&gt; víc. I nejmenší prasklina nebo otvor v ochranné skořápce by mohl všechno zničit.</value>
 	</entry>
 	<entry>
 		<key>Solanum</key>
@@ -8772,18 +8772,18 @@
 	</entry>
 	<entry>
 		<key>SolanumNomai1Who are you?</key>
-		<value>你是誰? </value>
+		<value>Kdo jsi?</value>
 	</entry>
 	<entry>
 		<key>SolanumNomai1Where are we?</key>
-		<value>我們在哪? </value>
+		<value>Kde jsme?</value>
 	</entry>
 	<entry>
 		<key>
 			281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
 		</key>
 		<value>
-			281,042年前: 10分鐘內沒有收到用戶命令. 所有系統進入休眠. 
+			PŘED 281,042 LETY: Žádné uživatelské příkazy v posledních 10 minutách. Všechny systémy nyní spí. 
 		</value>
 	</entry>
 	<entry>
@@ -8791,56 +8791,56 @@
 			&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Increased solar activity detected. &lt;color=orange&gt;Sun Station&lt;/color&gt; hull integrity approaching critical levels. Closing emergency doors.
 		</key>
 		<value>
-			&lt;TimeMinutes&gt;分鐘&lt;TimeSeconds&gt;秒之前: 檢測到太陽活動增加. \\n&lt;color=orange&gt;太陽站&lt;/color&gt;結構完整度接近臨界水平. 正在關閉緊急逃生門. 
+			PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Zvýšená sluneční aktivita detekována. Integrita pláště &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; dostupuje kritické úrovně. Uzavírám nouzové dveře. 
 		</value>
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Received data from previous cycles.</key>
-		<value>&lt;TimeMinutes&gt;分鐘&lt;TimeSeconds&gt;秒之前: 接收到來自之前循環的數據. </value>
+		<value>PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Přijímáme data z předchozích smyček.</value>
 	</entry>
 	<entry>
 		<key>
 			MASKS RECEIVING DATA FROM:\\n&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;\\n&lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; memory statue\\n&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; memory statue
 		</key>
 		<value>
-			面具正在接收以下方面的數據: \\n&lt;color=orange&gt;探測器跟蹤模塊&lt;/color&gt;\\n&lt;color=lightblue&gt;深巨星&lt;/color&gt;回憶雕像\\n&lt;color=lightblue&gt;木爐星&lt;/color&gt;回憶雕像
+			MASKY PŘIJÍMAJÍ DATA Z: \\n&lt;color=orange&gt;Sledovací modul&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Domopece&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutesRemaining&gt; MINUTES UNTIL END-OF-CYCLE TRANSMISSION</key>
-		<value>距離循環結束傳輸前還有&lt;TimeMinutesRemaining&gt;分鐘</value>
+		<value>&lt;TimeMinutesRemaining&gt; MINUT DO VYSÍLÁNÍ NA KONCI CYKLU</value>
 	</entry>
 	<entry>
 		<key>YARROW: Some time has passed since I checked in with you, Pye. How are you and Idaea progressing with the &lt;color=orange&gt;Sun Station&lt;/color&gt; plans?</key>
-		<value>YARROW: PYE, 距上次我跟你匯報已經過一陣子了. \\n你和IDAEA的&lt;color=orange&gt;太陽站&lt;/color&gt;計劃進行得如何? </value>
+		<value>YARROW: Už je to nějakou chvilku, co jsem na vás naposledy hodil okem, Pye. Jak s Idaeou postupujete na plánech na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PYE: Presently, my assessment is that our plan will either fail explosively or succeed explosively.</key>
-		<value>PYE: 當前我的評估是我們的計劃不是一敗塗地就是一鳴驚人. </value>
+		<value>PYE: V tuto chvíli odhaduji, že náš plán buď explozivně selže nebo explozivně uspěje. </value>
 	</entry>
 	<entry>
 		<key>IDAEA: Pye, you know I don’t find that funny.</key>
-		<value>IDAEA: PYE, 你知道這個笑話不好笑. </value>
+		<value>IDAEA: Pye, víš, že mi to nepřijde vtipné. </value>
 	</entry>
 	<entry>
 		<key>PYE: How curious; Ramie thinks I’m a gas. And I don’t recall requesting that you monitor this conversation, Idaea.</key>
-		<value>PYE: 真是奇怪; RAMIE竟然覺得我真有意思. \\nIDAEA, 我不記得曾要求你要監控這段對話. </value>
+		<value>PYE: To je zajímavé; Ramie si myslí, že jsem čtverák. A nepamatuji si, že bych tě žádala o to, abys tuto konverzaci monitoroval, Idaeo.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: I don’t see what state of matter you are has to do with this. And I don’t recall supporting the &lt;color=orange&gt;Sun Station&lt;/color&gt;’s construction, but here we are.</key>
-		<value>IDAEA: 我看不出你跟這事有什麽關聯. 我不記得曾支持\\n&lt;color=orange&gt;太陽站&lt;/color&gt;建設的事, 但我們還是到達了太陽站. </value>
+		<value>IDAEA: Nevím, co má tvá geometrie s čímkoliv do činění. A nepamatuji si, že bych podporoval vybudování &lt;color=orange&gt;Sluneční stanice&lt;/color&gt;, ale i tak tady jsme.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Hypothesis: Time spent away from the station would be beneficial to you both.</key>
-		<value>YARROW: 假設: 遠離太陽站所花費的時間對你們倆是件好事. </value>
+		<value>YARROW: Hypotéza: Čas mimo stanici by vám oběma prospěl. </value>
 	</entry>
 	<entry>
 		<key>PYE: I’m immensely interested in testing your hypothesis, Yarrow.</key>
-		<value>PYE: YARROW, 我對驗證你的假設非常有興趣. </value>
+		<value>PYE: Yarrowe, moc ráda bych tvou hypotézu otestovala. </value>
 	</entry>
 	<entry>
 		<key>IDAEA: That, at least, we can agree on.</key>
-		<value>IDAEA: 至少這件事我們同調. </value>
+		<value>IDAEA: Alespoň na tom se shodneme. </value>
 	</entry>
 	<entry>
 		<key>Chert</key>
