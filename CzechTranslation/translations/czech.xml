@@ -1570,7 +1570,7 @@
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
-		<value>VAROVÁNÍ: Buďte opatrní v nástupní zóně v době, kdy je &lt;color=orange&gt;Černoděrá pec&lt;/color&gt; funkční.</value>
+		<value>VAROVÁNÍ: Buďte opatrní v nástupní zóně v době, kdy je &lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt; funkční.</value>
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
@@ -5615,8 +5615,7 @@
 		<value>&lt;color=orange&gt;Vysokoenergetická laboratoř&lt;/color&gt;</value>
 	</entry>
 	<entry>
-		<key>
-			SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
+		<key>SECCA: To any who come here searching for us: We followed one of the two beacons from the &lt;color=orange&gt;Vessel&lt;/color&gt; to this place, but now can go no further.
 		</key>
 		<value>
 			SECCA: Komukoliv, kdo nás sem přijde hledat: Následovali jsme sem jeden ze dvou signálů z našeho &lt;color=orange&gt;Plavidla&lt;/color&gt;, ale nemůžeme jít dál. 
@@ -10947,311 +10946,311 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
-			<value>Riebeck前往碎空星去調查挪麥人在南極的活動. </value>
+			<value>Riebeck odletěl na Křehkodutou planetu, aby vyzvěděl, co Nomai dělali na jižním pólu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</key>
-			<value>Riebeck將宇宙飛船降落在了南極巨大天文台的附近. 通往內部的大門壞掉了, \\n因此他決定向北前往位於赤道的廢墟, 尋找進入地下的方法. </value>
+			<value>Riebeck přistál poblíž velké kupole na jižním pólu. Dveře dovnitř byly rozbité, takže se rozhodl jít na sever k troskám na rovníku, aby našel cestu pod zem.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck discovered an old Nomai path near their campsite on the equator. The path starts inside the ruined building with trees growing out of it.</key>
-			<value>Riebeck在赤道營地附近發現了一條古老的挪麥道路. 道路從樹木叢生的廢墟建築里延伸了出去. </value>
+			<value>Riebeck našel starou stezku Nomai poblíž svého tábora na rovníku. Stezka začíná uvnitř rozbité budovy, ze které rostou stromy.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck reached the Crossroads and continued downward in search of oxygen.</key>
-			<value>Riebeck來到了十字路口, 繼續向下走, 尋找氧氣. </value>
+			<value>Riebeck dosáhl Rozcestí a pokračoval směrem dolů, aby našel kyslík. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck has set up camp at the bottom of the Crossroads. Their excitement at being surrounded by so much Nomai history is matched only by their terror of the black hole.</key>
-			<value>Riebeck在十字路口的底部紮了營. 身邊有這麽多挪麥歷史遺跡, 這讓他興奮不已. \\n不過黑洞也讓他同樣心生恐懼. </value>
+			<value>Riebeck založil tábořiště pod Rozcestím. Jeho radost z toho, že je obklopen historií Nomai, je jediná věc srovnatelná s jeho strachem z černé díry.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture.</key>
-			<value>Riebeck是木爐星唯一的一名考古學家. 他克服了對太空的恐懼, 前去探索碎空星的挪麥文化寶藏. </value>
+			<value>Riebeck je jediný archeolog na Domopeci. Překonal svůj strach z vesmíru, aby prozkoumal kulturu Nomai na Křehkoduté planetě.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity Cannon</key>
-			<value>重力炮</value>
+			<value>Gravitační kanón</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonA huge cylindrical structure that generates a strong upward gravity field.</key>
-			<value>一座巨大的圓柱形建築, 可以制造強有力的向上重力場. </value>
+			<value>Obrovská válcová struktura, která generuje silné gravitační pole směrem vzhůru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gravity CannonI recalled a Nomai shuttle from the Quantum Moon.</key>
-			<value>我從量子衛星那里召回了一艘挪麥人的航天飛機. </value>
+			<value>Přivolal jsem loď Nomai z Kvantového měsíce. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Knowledge</key>
-			<value>量子知識之塔</value>
+			<value>Věž kvantového poznání</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThis tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon.</key>
-			<value>這座高塔 (位於碎空星的赤道) 保存著挪麥人前往量子衛星, 踏上首次朝聖之旅所需的有用知識. </value>
+			<value>Tato věž (na rovníku Křehkoduté planety) schraňovala užitečné znalosti pro Nomai, kteří se plánovali vydat na svou první pouť na Kvantový měsíc. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeA Nomai named Solanum was told to visit the Tower of Quantum Knowledge (on Brittle Hollow's equator) to learn one final rule before embarking on her pilgrimage to the Quantum Moon.</key>
-			<value>有人告訴一個叫做SOLANUM的挪麥人, 在踏上前往量子衛星的朝聖之旅前, \\n要去量子知識之塔 (位於碎空星的赤道) 學習最後一條法則. </value>
+			<value>Nomai, která se jmenovala Solanum, dostala instrukce navštívit Věž kvantového poznání (na rovníku Křehkoduté planety), aby se naučila jedno poslední pravidlo před svou poutí na Kvantový měsíc. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
-			<value>挪麥人在量子衛星上建造了一座祭壇, 幫助人們朝聖的時候前往第六個位置. \\n“把最後的這條法則銘記在心: 要想探索第六個位置, 祭壇必須位於衛星的北極. ”</value>
+			<value>Nomai vybudovali na Kvantovém měsíci svatyni, aby pomohli poutníkům se dostat do jeho šestého umístění. "Pamatujte si toto poslední pravidlo: Abyste mohli prozkoumat šesté umístění, svatyně musí být na měsíčním severním pólu."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</key>
-			<value>前往量子衛星的朝聖之旅對於挪麥人而言意義非同凡響. </value>
+			<value>Pouť na Kvantový měsíc byla pro Nomai velmi důležitá. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeAfter the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon.</key>
-			<value>被困在余燼雙星和碎空星的兩批挪麥人匯合之後, 尋找並拜訪量子衛星就成了他們共同的目標. </value>
+			<value>Potom, co se skupiny Nomai ztroskotalé na Doutnáku a Křehkoduté planetě znovu sjednotily, nalezení a návštěva Kvantového měsíce se staly jejich jednotným cílem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Shard</key>
-			<value>量子碎片</value>
+			<value>Kvantový úlomek</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai noticed a strange rock shard that appeared to wander when no one was watching.</key>
-			<value>挪麥人注意到, 貌似有一塊奇怪的巖石碎片會在沒有人看著它的時候到處亂跑. </value>
+			<value>Nomai si všimli zvláštního kamenného úlomku, který se přesunoval, když se na něj nikdo nedíval. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardA strange rock shard that wanders when no one is watching. The Nomai determined this shard is the reason objects in this grove behave in a quantum manner.</key>
-			<value>一塊奇怪的巖石碎片, 沒有人看著它的時候就會到處亂跑. 挪麥人做出推斷, \\n這片樹林的物體之所以會表現出量子特征, 就是因為這種碎片. </value>
+			<value>Zvláštní kamenný úlomek, který se přesunuje, když ho nikdo nepozoruje. Nomai určili, že tento úlomek je důvodem pro kvantové chování ostatních předmětů v tomto háji.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThe Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</key>
-			<value>根據挪麥人的假設, 這塊碎片其實是量子衛星的一部分. </value>
+			<value>Nomai měli hypotézu, že tento úlomek je ve skutečnosti kouskem Kvantového měsíce. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum ShardThis shard emits the same signal as the Quantum Moon.</key>
-			<value>這塊碎片也發射出了和量子衛星一樣的信號. </value>
+			<value>Tento úlomek vysílá stejný signál jako Kvantový měsíc. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Glacier</key>
-			<value>北部冰川</value>
+			<value>Severní ledovec</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>碎空星的北極覆蓋著冰雪. 地面上還有一座形狀奇特的挪麥廢墟. </value>
+			<value>Severní pól Křehkoduté planety je pokrytý sněhem a ledem. Na povrchu je unikátně tvarovaná zřícenina Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
-			<value>挪麥人從白洞站躍遷到了這里. 這是他們首次再現躍遷技術. </value>
+			<value>Nomai se sem mohli teleportovat z Běloděré stanice. Tady poprvé znovu-vytvořili warpovou technologii.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1</key>
-			<value>1號逃生艙</value>
+			<value>Záchranný člun 1</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of the three Nomai escape pods landed somewhere on Brittle Hollow.</key>
-			<value>三個挪麥逃生艙里, 有一個降落在了碎空星的某個地方. </value>
+			<value>Jeden ze tří záchranných člunů Nomai přistál někde na Křehkoduté planetě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>三個挪麥逃生艙里, 有一個墜毀在了我們的太陽系. </value>
+			<value>Jeden ze tří záchranných člunů Nomai, který havaroval v naší sluneční soustavě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 1All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>所有三個逃生艙都是從某個損壞嚴重、名叫飛船的東西發射出來的. </value>
+			<value>Všechny tři záchranné čluny byly vypáleny z tzv. Plavidla, které bylo těžce poškozeno.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old Settlement</key>
-			<value>舊定居點</value>
+			<value>Stará osada</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shelter Site</key>
-			<value>庇護所</value>
+			<value>Útočiště</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface.</key>
-			<value>墜毀在碎空星的挪麥幸存者們爬下懸崖, 來到了地表下的一處庇護所. </value>
+			<value>Přeživší Nomai, kteří havarovali na Křehkoduté planetě, sešplhali útes k útočišti pod povrchem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai constructed a temporary settlement beneath their crashed escape pod.</key>
-			<value>挪麥人在失事逃生艙的下方建造了一個臨時的定居點. </value>
+			<value>Nomai zde postavili dočasnou osadu pod jejich havarovaným záchranným člunem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai worked together to recall an eye-shaped signal they encountered while aboard the Vessel.</key>
-			<value>這些挪麥人一同回想起了在飛船上遭遇的一個信號, 它的形狀好像眼睛一樣. </value>
+			<value>Nomai spolupracovali, aby si vzpomněli na vše ohledně signálu ve tvaru oka, který na Plavidle uviděli. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</key>
-			<value>那個信號比宇宙本身還要古老. 挪麥人決定將其稱為“宇宙之眼”. </value>
+			<value>Signál byl nějakým způsobem starší než vesmír samotný. Nomai se rozhodli jej nazvat "Okem vesmíru".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai abandoned this settlement over growing concerns about its stability.</key>
-			<value>由於擔心定居點不夠穩固, 挪麥人放棄了它. </value>
+			<value>Nomai tuto osadu opustili kvůli rostoucí obavě ohledně její stability. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 3)</key>
-			<value>壁畫 (第3塊) </value>
+			<value>Nástěnná malba (Panel 3) </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 3)A mural of three escape pods evacuating the Nomai vessel.</key>
-			<value>一幅三個逃生艙從挪麥飛船里撤離的壁畫. </value>
+			<value>Nástěnná malba tří záchranných člunů opouštějících loď Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 2)</key>
-			<value>壁畫 (第2塊) </value>
+			<value>Nástěnná malba (Panel 2) </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 2)A mural of Dark Bramble ensnaring the Nomai vessel.</key>
-			<value>一幅黑棘星纏住挪麥飛船的壁畫. </value>
+			<value>Nástěnná malba Temnotrnu polapujícího loď Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 1)</key>
-			<value>壁畫 (第1塊) </value>
+			<value>Nástěnná malba (Panel 1) </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 1)A mural of a Nomai vessel encountering a signal.</key>
-			<value>一幅挪麥飛船遭遇信號的壁畫. </value>
+			<value>Nástěnná malba lodi Nomai, která narazila na signál. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging City</key>
-			<value>懸空城</value>
+			<value>Visací město</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern Settlement</key>
-			<value>北方定居點</value>
+			<value>Severní osada</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface.</key>
-			<value>挪麥人決定從舊定居點向北部冰川遷移. 他們使用重力水晶在地下制造出了一條穩定的道路. </value>
+			<value>Nomai se rozhodli přesunout se z Staré osady na severní ledovec. Použili gravitační krystaly, aby vytvořili stabilní cestu pod povrchem.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThere's a huge Nomai city just to the north of Riebeck's campsite.</key>
-			<value>Riebeck營地的北方坐落著一座巨大的挪麥城市. </value>
+			<value>Severně od Riebeckova tábořiště je obrovské město Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityA Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</key>
-			<value>一座懸掛在碎空星北部冰川下的挪麥城市. 這座城市被分成四個垂直區劃. </value>
+			<value>Město Nomai pověšené zpod severního ledovce Křehkoduté planety. Město je vertikálně rozděleno do čtyř okresů.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityI found a switch in the Meltwater District that raises and lowers the Black Hole Forge.</key>
-			<value>我在融水區找到了一個可以升降黑洞熔爐的開關. </value>
+			<value>V Okrese tající vody jsem našel vypínač, který zvedá a snižuje Černoděrou kovárnu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai debated how to obtain the powerful, highly advanced warp core required for the Ash Twin Project.</key>
-			<value>灰燼雙星計劃需要一顆威力強大的高級躍遷核心, 挪麥人曾經就如何才能得到它展開過一系列爭論. </value>
+			<value>Nomai debatovali o tom, jak získat mocné, vysoce pokročilé warpové jádro potřebné pro Doutnákový projekt. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Hanging CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
-			<value>挪麥人為了追尋某個信號, 所以才來到了這個太陽系. 那個信號是從某個比宇宙還要古老的地方\\n發出來的. 他們將信號的源頭稱為“宇宙之眼”. </value>
+			<value>Nomai přicestovali do této sluneční soustavy za signálem od něčeho staršího než vesmír samotný. Pojmenovali zdroj tohoto signálu "Oko vesmíru".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole Forge</key>
-			<value>黑洞熔爐</value>
+			<value>Černoděrá kovárna</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</key>
-			<value>黑洞熔爐懸掛在懸空城的下方. 我在融水區找到了一個可以升降熔爐的開關. </value>
+			<value>Černoděrá kovárna je pověšená pod Visacím městem. V Okrese tající vody jsem našel vypínač, který ji zvedá a snižuje.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Black Hole Forge District is the highest district in the Hanging City.</key>
-			<value>黑洞熔爐區是懸空城最高的區劃. </value>
+			<value>Okres Černoděré kovárny je nejvýše položený okres ve Visacím městě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
-			<value>一個叫做POKE的挪麥人打算在黑洞熔爐制造一顆新的高級躍遷核心. </value>
+			<value>Nomai jménem Poke plánovala vytvořit pokročilé warpové jádro v Černoděré kovárně. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Nomai crafted warp cores at the Black Hole Forge before delivering them to Ash Twin.</key>
-			<value>挪麥人在黑洞熔爐制造躍遷核心, 然後把它們送往灰燼雙星. </value>
+			<value>Nomai tvořili warpová jádra v Černoděré kovárně a potom je doručovali na Popelák. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA warp tower's alignment point is not its warp receiver. Rather, a warp tower always aligns with the center of its corresponding astral body.</key>
-			<value>躍遷塔的對準點不是它的躍遷接收點. 躍遷塔會始終對準對應天體的中心. </value>
+			<value>Warpová věž nemusí být přesně srovnaná se svým warpovým přijímačem. Warpová věž se vždy srovnává se středem svého korespondujícího hvězdného tělesa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe warp receiver must be located on (or in close orbit around) the relevant astral body.</key>
-			<value>躍遷接收點必須位於相關天體上 (或在它的相鄰軌道中) . </value>
+			<value>Warpový přijímač se musí nacházet na relevantním hvězdném tělese, nebo jej blízce obíhat.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeThe Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-			<value>沙漏雙星離得特別近, 就像一個天體一樣, 它們共用的對準點就在雙星之間. </value>
+			<value>Přesýpací dvojčata jsou tak blízko jedno druhému, že fungují jako jediné hvězdné těleso, a sdílejí zarovnávací bod mezi sebou. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>所有躍遷塔都會建在灰燼雙星上, 但六個躍遷接收點會建在不同的位置. </value>
+			<value>Všechny warpové věže byly postaveny na Popeláku, zatímco šest warpových přijímačů byly postaveny na různých místech. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
-			<value>一個叫做POKE的挪麥人成功地為灰燼雙星計劃鑄造出了一顆高級躍遷核心. </value>
+			<value>Nomai jménem Poke úspěšně vytvořila pokročilé warpové jádro pro Popelákový projekt. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle Diagram</key>
-			<value>對齊角度簡圖</value>
+			<value>Diagram úhlu zarovnání</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramA diagram depicting the alignment angle between a warp tower and its corresponding astral body.</key>
-			<value>一張描繪躍遷塔和它對應天體間的對齊角度的簡圖. </value>
+			<value>Diagram vyobrazující úhel zarovnání mezi warpovou věží a jejím příslušným hvězdným tělesem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramWarp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</key>
-			<value>躍遷塔對齊角度不必精確, 只需要對準天體中心周圍五度的範圍內即可. </value>
+			<value>Úhly zarovnání nemusí být přesné. Mohou mít odchylku nejvýše pěti stupňů od středu hvězdného tělesa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
-			<value>這樣就有了稍微長一些的躍遷時間, 大概會有幾秒鐘. </value>
+			<value>To znamená, že okno pro teleportaci trvá zhruba několik sekund. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramAnyone stepping onto the warp platform during the active window will be immediately warped.</key>
-			<value>在有效時間內踏上躍遷平台的任何人都會立即躍遷. </value>
+			<value>Kdokoli, kdo se postaví na warpovou plošinu během aktivního okna bude okamžitě teleportován. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern Observatory</key>
-			<value>南部天文台</value>
+			<value>Jižní observatoř</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole.</key>
-			<value>挪麥人曾經考慮過在碎空星的南極建造一個規模更大、更加覆雜的眼信號定位器. </value>
+			<value>Nomai se rozhodli vybudovat větší, sofistikovanější lokátor signálu Oka na jižním pólu Křehkoduté planety. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere are two paths beneath Brittle Hollow's surface that lead to the observatory. One starts at the gravity cannon, and the other starts at the Tower of Quantum Knowledge.</key>
-			<value>碎空星地下有兩條通往天文台的路. 一條起始於重力炮, 另一條起始於量子知識之塔. </value>
+			<value>K observatoři vedou dvě podzemní cesty. Jedna začíná u gravitačního kanónu, a ta druhá u Věže kvantového poznání. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryRiebeck says you can't get into the observatory from the surface (they tried), but there's probably a path to it beneath the crust somewhere.</key>
-			<value>根據Riebeck的說法, 從地面進入天文台是不可能的 (他試過了) , 不過地殼下某個地方可能有條通路. </value>
+			<value>Riebeck říká, že se nelze do observatoře dostat z povrchu (o což se pokusil), ale pravděpodobně existuje nějaká přístupová cesta pod povrchem planety. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere's a door to the observatory on the surface, but it's broken.</key>
-			<value>地面上有扇通往天文台的大門, 不過它已經壞了. </value>
+			<value>Observatoř má nad povrchem dveře, ale jsou rozbité. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe new, more sensitive locator the Nomai built in this observatory was unable to detect any trace of the Eye's signal.</key>
-			<value>挪麥人在這個天文台里新造出來的定位器更加敏感, 但是它無法檢測到眼信號的任何蹤跡. </value>
+			<value>Ani tento nový, citlivější lokátor, který Nomai v této observatoři vyrobili, nebyl schopen najít byť jen stopu signálu Oka. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryBased on their knowledge of the Quantum Moon, the Nomai believed the Eye was in a distant orbit around the sun.</key>
-			<value>基於挪麥人對量子衛星的了解, 他們相信眼位於環繞太陽的遙遠軌道上. </value>
+			<value>Na základě jejich znalostí o Kvantovém měsíci Nomai věřili, že Oko obíhá slunce na vzdálené orbitě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThe Nomai decided to stop searching for the Eye's signal and instead look for it visually by sending out a deep space probe.</key>
-			<value>挪麥人決定不再搜尋眼信號, 轉而通過發射深空探測器來用肉眼去尋找它. </value>
+			<value>Nomai se rozhodli přestat hledat signál Oka a místo toho jej hledat vizuálně tak, že vyšlou hlubokovesmírnou sondu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Southern ObservatoryThere were concerns that the probability of launching a probe in the correct direction would be absurdly small.</key>
-			<value>有人擔心, 找到正確的探測器發射方向的可能性微乎其微. </value>
+			<value>Existovaly obavy, že pravděpodobnost poslání sondy správným směrem je absurdně malá. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado Simulation</key>
-			<value>龍卷風模擬</value>
+			<value>Simulace tornáda</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Current Discovery</key>
-			<value>洋流發現</value>
+			<value>Objev proudu v oceánu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThe Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current.</key>
-			<value>挪麥人在南部天文台構築了一個深巨星的模型, 它告訴了我們為什麽物體會沈到湍急的洋流下面去. </value>
+			<value>Nomai v Jižní observatoři postavili model Obří hlubiny, který objasnil, jak se předmět může ponořit pod silný proud v oceánu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationMost cyclones on Giant's Deep rotate clockwise. These are the cyclones the Nomai used to send components into orbit.</key>
-			<value>深巨星上的大多數氣旋都是順時針旋轉的. 挪麥人會用這種氣旋把部件運送到軌道上去. </value>
+			<value>Většina cyklónů na Obří hlubině rotuje podle hodinových ručiček. Tyto cyklóny Nomai normálně používali k tomu, aby poslali součástky na oběžnou dráhu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tornado SimulationThere also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-			<value>還有一種較為罕見的氣旋, 會反方向旋轉, 把對象往水面和水流下方推. </value>
+			<value>Existuje ale i vzácnější typ cyklónu, který se točí opačným směrem a tlačí předměty pod vodu a pod proud. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
