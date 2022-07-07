@@ -12290,31 +12290,31 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Depths</key>
-			<value>海洋深處</value>
+			<value>Hloubky oceánu</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsGabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it.</key>
-			<value>Gabbro說水面下有一股很強勁的水流, 使得水里的東西無法沈下去. </value>
+			<value>Gabbro říká, že pod povrchem oceánu je silný proud, pod který se nelze ponořit. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</key>
-			<value>建造廠的挪麥人看見有東西沈到了水流的下面. 在此之前, 他們覺得這種事情是不可能的. </value>
+			<value>Nomai na stavebním dvoře byli svědky toho, že se něco ponořilo pod podvodní proud, což předtím považovali za nemožné. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
-			<value>Feldspar找到了抵達深巨星核心的方法. </value>
+			<value>Feldspar přišel na to, jak se dostat do středu Obří hlubiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe ocean is surprisingly calm beneath the current. Some sort of electrical field surrounds the planet's core.</key>
-			<value>水流下面的海洋出奇地寧靜. 某種電場環繞著行星的核心. </value>
+			<value>Oceán pod proudem je překvapivě klidný. Střed planety je obklopen jakýmsi elektrickým polem.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsI passed through the electric barrier and reached the coral forest at the planet's core.</key>
-			<value>我穿過電流屏障, 來到了在行星核心的珊瑚森林. </value>
+			<value>Prošel jsem skrz elektrickou bariéru a dostal jsem se ke korálovému lesu ve středu planety. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s Island</key>
-			<value>Gabbro的島嶼</value>
+			<value>Gabbrův ostrov</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro</key>
@@ -12322,131 +12322,131 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandHal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory.</key>
-			<value>Hal說Gabbro打算回到深巨星, 對天文台的挪麥雕像作進一步的調查. </value>
+			<value>Hal říká, že Gabbro se vrátil zpět na Obří hlubinu, aby více vyzjistil o soše Nomai v observatoři. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro is lounging in a hammock near the island’s shore.</key>
-			<value>Gabbro閑躺在島嶼岸邊的吊床里. </value>
+			<value>Gabbro lenoší v houpacím pytli u břehu ostrova. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro found a Nomai statue on another island. The statue's eyes started glowing and Gabbro saw their memories flash before their eyes.</key>
-			<value>Gabbro在另一個島上發現了一座挪麥雕像. 雕像的眼睛開始發光, Gabbro看見自己的回憶在眼前閃過. </value>
+			<value>Gabbro našel sochu Nomai na jiném ostrově. Oči sochy začaly zářit a Gabbro uviděl své vzpomínky prolétnout před svýma očima.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
-			<value>Gabbro記得自己死了. 他看見自己的回憶在眼前閃過. 就好像遇到雕像那次一樣. </value>
+			<value>Gabbro si pamatuje, jak zemřel. Uviděl své vzpomínky prolétnou před očima, stejně jako předtím se sochou Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro and I seem to be the only ones aware that we're in a time loop.</key>
-			<value>看來只有Gabbro和我意識到自己處在時間循環里. </value>
+			<value>Gabbro a já jsme jediní, kdo si uvědomujeme, že jsme v časové smyčce. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction Yard</key>
-			<value>建造廠</value>
+			<value>Stavební dvůr</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-			<value>挪麥人在深巨星的一座建造廠里建造軌道探測炮. </value>
+			<value>Nomai postavili Orbitální sondový kanón na stavebním dvoře na Obří hlubině. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
-			<value>這座島就是挪麥人建造軌道探測炮的地方. </value>
+			<value>Tento ostrov je místem, kde Nomai postavili Orbitální sondový kanón. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardFor some reason, the Nomai put the Orbital Probe Cannon on indefinite hiatus. The cannon was not asked to fire.</key>
-			<value>出於某種原因, 挪麥人將軌道探測炮無限期地擱置了起來. 大炮並沒有獲得發射請求. </value>
+			<value>Z nějakého důvodu Nomai odstavili Orbitální sondový kanón na dobu neurčitou. Kanón nevypálil.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardAccording to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon.</key>
-			<value>根據一台挪麥電腦的說法, 一枚遠程探測器最近從軌道探測炮里發射了出去. </value>
+			<value>Podle počítače Nomai Orbitální kanón nedávno vypálil sondu s dlouhým dosahem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble Island</key>
-			<value>荊棘島</value>
+			<value>Trnitý ostrov</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Bramble IslandAn island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble.</key>
-			<value>一座長滿了有刺藤蔓的島嶼, 樣子像是一只凍住的水母. 看起來Feldspar在前往黑棘星之前曾經在這里\\n紮營. </value>
+			<value>Ostrov trnitých větví a zmrzlé medúzy. Vypadá to, že Feldspar tu kempoval předtím, než odešel na Temnotrn.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Island</key>
-			<value>雕像島</value>
+			<value>Ostrov soch</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandOne of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth.</key>
-			<value>深巨星某些島嶼的海灘上有挪麥雕像, 這是其中的一座. 這些雕像就和Gabbro帶回到木爐星的那個沒什麽\\n兩樣. </value>
+			<value>Jeden z ostrovů na Obří hlubině má sochu Nomai na pláži, která se podobá té, kterou Gabbro přinesl zpět na Domopec. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
-			<value>雕像島 (Gabbro是這麽稱呼它的) 就在兩座由天然石拱門連接的島嶼那里. </value>
+			<value>Ostrov soch (jak mu Gabbru říká) je ten se dvěma ostrovy propojenými přírodním kamenným můstkem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandThis island must be where the Nomai created statues like the one in our observatory.</key>
-			<value>那些雕像和我們在天文台里的那座一樣. 一定是挪麥人在這座島上制作了它們. </value>
+			<value>Tento ostrov musí být místem, kde Nomai vytvořili sochy, jako je ta v naší observatoři. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandI found a Nomai statue lying on the beach. It looks just like the one in our observatory.</key>
-			<value>我發現海灘上躺著一座挪麥雕像. 它看起來和我們天文台里的那座沒什麽兩樣. </value>
+			<value>Našel jsem sochu Nomai ležící na pláži. Vypadá přesně jako ta v naší observatoři.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue Workshop</key>
-			<value>雕塑車間</value>
+			<value>Sochová dílna</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI found a sign for a "Statue Workshop" next to a broken door that used to lead inside the island.</key>
-			<value>我在一扇破損的大門旁發現了一塊牌子, 上面寫著“雕塑車間”. 這扇門一度可以通往島嶼的內部. </value>
+			<value>Našel jsem ukazatel pro "Sochovou dílnu" vedle rozbitých dveří, které vedly dovnitř ostrova. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopSome Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route.</key>
-			<value>一些挪麥孩子曾經考慮過要不要繞過雕塑車間的大門, 通過另一條路 (更加危險) 偷偷溜進去. </value>
+			<value>Některé děti Nomai debatovaly o tom, zda obejít dveře do Sochové dílny a proplížit se dovnitř skrz alternativní (nebezpečnější) cestu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Island Interior</key>
-			<value>島嶼內部</value>
+			<value>Vnitřek ostrova</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopI can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water.</key>
-			<value>從島嶼頂端的其中一個廢墟上, 我可以看到一個巨大的山洞內部. 山洞的底部全是水. </value>
+			<value>Z jedné zříceniny na vrchu ostrova lze vidět do velké jeskyně. Spodek jeskyně je naplněn vodou.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopNomai statues were designed to pair with a single user, record their memories, and send those memories to a storage unit within the Ash Twin Project.</key>
-			<value>挪麥雕像的作用是和單一使用者進行匹配, 記錄他們的回憶, \\n將那些回憶送到灰燼雙星計劃中的存儲單元里. </value>
+			<value>Sochy Nomai byly navrženy tak, aby se spárovaly s jediným uživatelem, nahrály jeho vzpomínky, a poslaly tyto vzpomínky do paměťové banky uvnitř Popelákového projektu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>灰燼雙星計劃里的每個存儲單元都配有一副面具 (和雕像配對) , 然後就可以將那些存儲起來的回憶重新\\n發送給相應的使用者. </value>
+			<value>Každá paměťová banka uvnitř Popelákového projektu byla vybavená maskou (což byl protějšek každé sochy), která potom mohla vyslat tyto uložené vzpomínka zpět ke svému uživateli. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
-			<value>那些雕像只有在灰燼雙星計劃成功後才會啟動, 或者在它失敗的時候也會啟動. </value>
+			<value>Sochy byly navrženy tak, aby se aktivovaly, jakmile Popelákový projekt uspěl, nebo v případě jeho selhání. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials</key>
-			<value>量子試驗之塔</value>
+			<value>Věž kvantových zkoušek</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai detected a Quantum signal coming from somewhere on Giant’s Deep.</key>
-			<value>挪麥人檢測到從深巨星的某處傳來了一個量子信號. </value>
+			<value>Nomai detekovali kvantový signál pocházející odněkud z Obří hlubiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThis tower held knowledge a Nomai needed to make his or her first quantum journey.</key>
-			<value>這座高塔保存著挪麥人踏上第一次量子之旅所需要了解的知識. </value>
+			<value>Tato věž schraňuje poznání, které každý Nomai potřeboval k tomu, aby podnikl svou první kvantovou pouť. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Observing a quantum object; observing an image of a quantum object. These are the same."</key>
-			<value>“觀察一個量子對象; 觀察一個量子對象的圖形. 它們是一樣的事情. ”</value>
+			<value>"Pozorovat kvantový objekt; pozorovat obraz kvantového objektu. Tyto dvě věci jsou totožné."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum TrialsThe Nomai called this the "Rule of Quantum Imaging."</key>
-			<value>挪麥人稱其為“量子成像法則. ”</value>
+			<value>Nomai toto nazývali "pravidlo kvantového obrazu".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum Trials"Remember, the other quantum shards have other lessons to teach."</key>
-			<value>“記住, 其它的內容可以從別的量子碎片那里學習. ”</value>
+			<value>"Nezapomeň, že další kvantové úlomky pro tebe mají další lekce."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum Moon</key>
-			<value>量子衛星</value>
+			<value>Kvantový měsíc</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonThe Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky.</key>
