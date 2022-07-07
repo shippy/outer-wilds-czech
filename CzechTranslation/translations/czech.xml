@@ -11402,127 +11402,127 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-			<value>Našel jsem nahrávku původního signálu Oka vesmíru, který Nomai našli. Nomai se báli, že signál zmizí, takže se teleportovali předtím, než mohli říci jinému klanu, kam letí. </value>
+			<value>Našel jsem nahrávku původního signálu Oka vesmíru, který Nomai uslyšeli. Nomai se báli, že signál zmizí, takže se teleportovali předtím, než mohli říci jinému klanu, kam letí. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe Cannon</key>
-			<value>軌道探測炮</value>
+			<value>Orbitální sondový kanón</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep.</key>
-			<value>挪麥人完成了軌道探測炮最終模塊的建造, 並把它送進了深巨星的軌道. </value>
+			<value>Nomai dokončili budování posledního modulu pro Orbitální sondový kanón a poslali jej na oběžnou dráhu kolem Obří hlubiny.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
-			<value>我用挪麥投影池看到了圍繞深巨星軌道運行的太空站內部. </value>
+			<value>Použil jsem projekční jezírko Nomai a uviděl jsem vnitřek vesmírné stanice obíhající kolem Obří hlubiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
-			<value>挪麥人決定在深巨星的軌道上建造探測炮. </value>
+			<value>Nomai se rozhodli postavit sondový kanón na oběžné dráze kolem Obří hlubiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Flash</key>
-			<value>軌道閃光</value>
+			<value>Záblesk na oběžné dráze</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonGabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep.</key>
-			<value>Gabbro在每個循環開始時, 總會在天空中看到一道明亮的閃光. 深巨星的軌道上一定發生了什麽事情. </value>
+			<value>Gabbro vidí na začátku každé smyčky jasný záblesk na obloze. Něco se musí dít na oběžné dráze kolem Obří hlubiny.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe broken remains of a Nomai space station in orbit around Giant's Deep. There are three accessways branching off from the central hub area.</key>
-			<value>圍繞深巨星軌道運行的破碎挪麥太空站殘骸. 中樞區域分出來三條通道. </value>
+			<value>Rozbité zbytky vesmírné stanice Nomai obíhající kolem Obří hlubiny. Má tři přístupové chodby, které vybíhají z centrální přístupové oblasti.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Orbital Probe Cannon was created to find the precise location of the Eye of the universe.</key>
-			<value>軌道探測炮是用來尋找宇宙之眼的確切位置的. </value>
+			<value>Orbitální sondový kanón byl vytvořen, aby našel přesné souřadnice Oka vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe CannonThe Nomai pushed the Orbital Probe Cannon above its maximum power setting to create the greatest chance of finding the Eye of the universe.</key>
-			<value>挪麥人讓動力超過軌道探測炮所能承受的極限, 從而最大限度地增加發現宇宙之眼的機會. </value>
+			<value>Nomai nastavili Orbitální sondový kanón nad jeho maximální možnosti, aby zvýšili šanci na nalezení Oka vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking Module</key>
-			<value>探測器跟蹤模塊</value>
+			<value>Sledovací modul</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>軌道探測炮的三個模塊之一. </value>
+			<value>Jeden ze tří modulů Orbitálního sondového kanónu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Probe Tracking Module is receiving data from the launched probe.</key>
-			<value>探測器跟蹤模塊正在從發射出去的探測器那里接收傳來的數據. </value>
+			<value>Sledovací modul přijímá data od vystřelené sondy. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleAny Nomai aboard the Probe Tracking Module would be the first to see the coordinates of the Eye of the universe.</key>
-			<value>所有乘坐探測器跟蹤模塊的挪麥人都將首次看到宇宙之眼的坐標. </value>
+			<value>Jakýkoliv Nomai na palubě sledovacího modulu by byl tím prvním, kdo by viděl souřadnice Oka vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleA Nomai computer reports the Probe Tracking Module as "missing."</key>
-			<value>一台挪麥電腦報告說, 探測器跟蹤模塊“失蹤”了. </value>
+			<value>Počítač Nomai považuje Sledovací modul za "pohřešovaný". </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI saw the Probe Tracking Module through a Nomai projection pool. It looks like the module is underwater. I could see purple electricity outside the viewport.</key>
-			<value>我通過一個挪麥投影池看到了探測器跟蹤模塊. 看起來模塊在水下面. 我可以看到觀察窗外面的紫色電流. </value>
+			<value>Viděl jsem Sledovací modul skrz projekční jezírko Nomai. Vypadá to, že modul je pod vodou. Viděl jsem fialovou elektřinu za jeho průhledním oknem.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe Orbital Probe Cannon has launched millions of probes.</key>
-			<value>軌道探測炮發射了上百萬枚探測器. </value>
+			<value>Orbitální sondový kanón vypálil miliony sond. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe 9,318,054th probe located a deep space anomaly matching all known criteria for the Eye of the universe.</key>
-			<value>探測器9,318,054發現了與宇宙之眼所有已知指標相符的深空異常現象. </value>
+			<value>Sonda 9,318,054 našla hlubokovesmírnou anomálii, která odpovídá všem známým znakům Oka vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleThe statue in the Probe Tracking Module automatically records each probe's trajectory and transmits the data to the Ash Twin Project.</key>
-			<value>探測器跟蹤模塊中的雕像會自動記錄下每個探測器的軌道, 並將數據傳輸給灰燼雙星計劃. </value>
+			<value>Socha ve Sledovacím modulu automaticky zaznamenává trajektorii každé sondy a přeposílá data na Popelákový projekt. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Probe Tracking ModuleI found Nomai coordinates marking the location of the Eye of the universe.</key>
-			<value>我發現了標出宇宙之眼所在位置的挪麥坐標. </value>
+			<value>Našel jsem souřadnice Oka vesmíru, zapsané v souřadnicovém systému Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
-			<value>發射模塊</value>
+			<value>Spouštěcí modul</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>軌道探測炮的三個模塊之一. </value>
+			<value>Jeden ze tří modulů Orbitálního sondového kanónu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</key>
-			<value>發射模塊看起來損傷很嚴重. 玻璃觀察窗上破了一個大洞. </value>
+			<value>Spouštěcí modul vypadá těžce poškozeně. Ve skleněném průhledu je obrovská trhlina.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module's viewport window is fractured, exposing it to the vacuum of space.</key>
-			<value>發射模塊的玻璃觀察窗碎了, 它被暴露在了真空里. </value>
+			<value>Skleněný průhled ve Spouštěcím modulu je popraskaný a vystavuje jej vesmírnému vakuu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module is badly damaged, but its projection pool is still intact.</key>
-			<value>發射模塊損傷嚴重, 但是它的投影池依然完好. </value>
+			<value>Spouštěcí modul je těžce poškozený, ale jeho projekční jezírko je stále nedotčené. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
-			<value>一個叫做MALLOW的挪麥人辯稱, 大炮的結構完整性是否會遭到破壞無關緊要. 因為他只要發射一次探測器就\\n可以了. </value>
+			<value>Nomai jménem Mallow tvrdila, že není důležitá, zda bude strukturální integrita kanónu narušena, protože potřebují vypálit sondu jen jednou. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed.</key>
-			<value>一個叫做PRIVET的挪麥人反駁說, 如果探測器跟蹤模塊損毀, 那麽他將無法接收到探測器的數據. </value>
+			<value>Nomai jménem Privet nesouhlasila, poukazujíc na to, že by nemohli přijmout od sondy data, pokud by byl Sledovací modul zničen. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control Module</key>
-			<value>控制模塊</value>
+			<value>Kontrolní modul</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleOne of the Orbital Probe Cannon’s three modules.</key>
-			<value>軌道探測炮的三個模塊之一. </value>
+			<value>Jeden ze tří modulů Orbitálního sondového kanónu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory.</key>
-			<value>控制模塊 (最近) 收到了一份來自灰燼雙星計劃的探測器發射請求. 大炮對準了隨機選擇的探測器軌道. </value>
+			<value>Kontrolní modul (nedávno) obdržel požadavek od Popelákového projektu, aby vypálil sondu. Kanón byl namířen do náhodného směru.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Control ModuleThe probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules.</key>
-			<value>探測器成功地發射了出去, 但是大炮的結構完整性在發射過程中遭到了破壞. 多個模塊都檢測到了損傷. </value>
+			<value>Sonda byla úspěšně vypálena, ale strukturální integrita kanónu byla v průběhu výstřelu narušena. Škody jsou na mnoha modulech.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Stranger</key>
