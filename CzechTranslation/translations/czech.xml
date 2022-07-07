@@ -11254,7 +11254,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s Camp</key>
-			<value>Feldspar的@@營地</value>
+			<value>Feldsparovo tábořiště</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar</key>
@@ -11262,147 +11262,147 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar headed off to Dark Bramble after reaching the core of Giant's Deep.</key>
-			<value>抵達深巨星的核心之後, Feldspar便向黑棘星出發. </value>
+			<value>Feldspar se vydal na Temnotrn poté, co dosáhl jádra Obří hlubiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Inside the Seed</key>
-			<value>種子內部</value>
+			<value>Uvnitř semínka</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampWhen I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines.</key>
-			<value>當我把偵查兵發射到墜落在木爐星的種子里面去的時候, 它最後卻出現在了一個充滿霧氣和尖刺藤蔓的更大的空間. </value>
+			<value>Když vyšlu svou sondu do semínka, které havarovalo na Domopeci, skončí v mnohem větším prostoru naplněném mlhou a trnitými větvemi. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar is alive! They crashed their ship and is now camping inside a huge anglerfish skeleton.</key>
-			<value>Feldspar還活著! 他的飛船墜毀了, 現在正在一條巨大安康魚的骨架內部紮營. </value>
+			<value>Feldspar je naživu! Havaroval se svou lodí a nyní táboří uprostřed obrovské kostry ďasa. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-			<value>我的偵查跟蹤器說, 偵查兵同時出現在了兩個地方. 而Feldspar認為跟蹤器說得沒錯. \\n他得出了一個理論, 認為那里的空間和黑棘星內部的空間是不一樣的. </value>
+			<value>Feldspar si nemyslí, že můj sondomet se mýlí, když říká, že moje sonda je na dvou místech zároveň. Má teorii, že prostor nefunguje uvnitř Temnotrnu stejně jako mimo něj.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
-			<value>聽上去Feldspar對於回到文明世界並不十分熱衷. 他十分享受這種 (相對來說) 祥和安寧的生活. </value>
+			<value>Feldsparovi se moc nechce vrátit se do civilizace. Užívá si (relativního) klidu a míru.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Jellyfish</key>
-			<value>凍住的水母</value>
+			<value>Zmrzlá medúza</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Hollow Vine</key>
-			<value>空心藤蔓</value>
+			<value>Dutá větev</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog.</key>
-			<value>Feldspar提示說, 抵達深巨星核心的秘密就藏在他的飛船墜毀的那棵空心藤蔓盡頭里. \\n我要去安康魚骨架的尾巴那里, 在迷霧里尋找閃爍的光亮, 才能發現Feldspar的飛船. </value>
+			<value>Feldspar mi naznačil, že tajemství proniknutí do jádra Obří hlubiny je na konci duté větve, do které narazil se svou lodí. Abych našel Feldsparovu loď, mám jít k ocasu kostry ďasa a hledat blikající světlo v mlze.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar documented their attempts to eat this enormous jellyfish frozen in the ice. The outside was all rubbery and tough, possibly because it insulates the jellyfish’s insides from getting zapped by electricity.</key>
-			<value>Feldspar曾經多次嘗試吃掉這條冰封起來的巨大水母, 並把這些內容記錄了下來. 外皮就像橡膠, \\n根本咬不動. 可能是為了起到絕緣的作用, 保護水母內部, 以免觸電. </value>
+			<value>Feldspar zaznamenal své pokusy o snězení této obrovské medúzy zamrzlé v ledu. Vnějšek byl gumový a tvrdý, možná protože izoloval orgány medúzy od elektřiny, kterou medúza vydává.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishFeldspar decided to venture into the jellyfish’s interior cavity to see if it tasted any better on the inside.</key>
-			<value>Feldspar決定深入水母的內腔, 看看里面的味道會不會好吃一些. </value>
+			<value>Feldspar se rozhodl zabořit do vnitřní dutiny medúzy, aby zjistil, jestli chutná lépe zevnitř. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen JellyfishAfter tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity.</key>
-			<value>品嘗過水母的內部之後, Feldspar得出了結論, 這些水母只有在隔絕電流時才有用. </value>
+			<value>Potom, co ochutnal vnitřek medúzy, Feldspar usoudil, že tyto medúzy jsou dobré jen pro izolaci od elektřiny. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3</key>
-			<value>逃生艙</value>
+			<value>Záchranný člun 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of the three Nomai escape pods never made it out of Dark Bramble.</key>
-			<value>三個挪麥逃生艙里, 有一個沒能抵達黑棘星. </value>
+			<value>Jeden ze tří záchranných člunů Nomai nikdy neopustil Temnotrn. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3One of three Nomai escape pods that crashed in our solar system.</key>
-			<value>三個挪麥逃生艙里, 有一個墜毀在了我們的太陽系. </value>
+			<value>Jeden ze tří záchranných člunů Nomai, který havaroval v naší sluneční soustavě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-			<value>所有三個逃生艙都是從一艘損壞嚴重, 名叫飛船的地方發射出來的. </value>
+			<value>Všechny tři záchranné čluny byly vypáleny z tzv. Plavidla, které bylo těžce poškozeno. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</key>
-			<value>3號逃生艙的幸存者檢測到了從飛船發出的兩個不同信標, 好像飛船同時出現在了兩個地方一樣. </value>
+			<value>Přeživší ze záchranného člunu 3 detekovali dva různé signály z Plavidla, jako by bylo na dvou místech zároveň. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Grave</key>
-			<value>挪麥墳墓</value>
+			<value>Hrob Nomai</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 3 Survivors</key>
-			<value>3號逃生艙的@@幸存者</value>
+			<value>Přeživší záchranného člunu 3</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel.</key>
-			<value>3號逃生艙的幸存者放棄了殘骸, 打算回到飛船上去. </value>
+			<value>Přeživší ze záchranného člunu 3 opustili jeho vrak a pokusili se vrátit k Plavidlu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors decided to follow the closer of the two Vessel beacons due to their limited air supply. They planned to leave a trail of lights behind them in case someone heard their distress signal.</key>
-			<value>由於空氣補給有限, 因此幸存者們決定跟著兩個飛船信標中距離比較近的那一個走. \\n他們打算一路留下燈光做記號, 以防有人收到自己的求救信號. </value>
+			<value>Přeživší se rozhodli následovat bližší signál kvůli své omezené zásobě kyslíku. Plánovali za sebou nechat stopu ze světel, kdyby někdo náhodou vyslyšel jejich tísňové volání.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe survivors from Escape Pod 3 followed one of the two Vessel beacons to a small Dark Bramble seed, where they could go no further.</key>
-			<value>3號逃生艙的幸存者跟著兩個飛船信標中的其中一個找到了一顆小型黑棘星種子. \\n他們無法從那里繼續前進. </value>
+			<value>Přeživší ze záchranného člunu 3 dosledovali jeden ze dvou signálů Plavidla k malému temnotrnitému semínku, do kterého se nemohli dostat. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
-			<value>挪麥人只能勉強聽到從種子內部傳來的飛船信標信號. 然而種子的開口太小, 只能讓一個挪麥人鉆進去, \\n更別提逃生艙了. </value>
+			<value>Nomai matně slyšeli signál Plavidla zevnitř semínka, ale otvor v něm byl příliš malý na to, aby se do něj vešel Nomai - nebo na to, aby jím prolétl záchranný člun. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveThe Vessel's beacon was dying, and would soon be gone completely.</key>
-			<value>飛船的信標正在衰退, 隨時可能完全消失. </value>
+			<value>Signál Plavidla umíral, a brzy kompletně zmizel. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai GraveIf I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship.</key>
-			<value>如果我把偵查兵發射到種子里面去, 我就可以拍下那艘被挪麥人廢棄的巨大飛船的照片. </value>
+			<value>Pokud vypustím svou soudu do semínka, můžu vyfotit obrovskou trosku opuštěné lodi Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Vessel</key>
-			<value>飛船</value>
+			<value>Plavidlo</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>挪麥人乘坐著一艘叫做飛船的太空船, 躍遷到了這個太陽系. \\n當時他們正要追蹤從宇宙之眼發出來的信號. </value>
+			<value>Nomai se teleportovali do této sluneční soustavy ve vesmírné lodi, které říkali Plavidlo. Snažili ses následovat signál z Oka vesmíru.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
-			<value>飛船墜毀在了黑棘星某處. </value>
+			<value>Plavidlo havarovalo někde uvnitř Temnotrnu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core broke when the ship crashed in Dark Bramble.</key>
-			<value>飛船墜毀在黑棘星上時, 它的躍遷核心摔壞了. </value>
+			<value>Warpové jádro Plavidla se rozbilo, když loď havarovala v Temnotrnu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</key>
-			<value>我把偵查兵發射到挪麥墳墓的種子里面去, 拍下了一艘被挪麥人廢棄的巨大飛船的照片. </value>
+			<value>Vypustil jsem svou sondu do semínka o hrobu Nomai a vyfotil jsem obrovskou opuštěnou loď Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found the derelict Nomai Vessel deep within Dark Bramble.</key>
-			<value>我在黑棘星的內部深處找到了被挪麥人廢棄的飛船. </value>
+			<value>Našel jsem opuštěné Plavidlo Nomai hluboko uvnitř Temnotrnu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel's warp core is long dead.</key>
-			<value>飛船的躍遷核心早已失靈. </value>
+			<value>Warpové jádro Plavidla už je dlouho mrtvé. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</key>
-			<value>我啟動了飛船艦橋上的一根三面柱. 它看上去像是某種輸入裝置. </value>
+			<value>Aktivoval jsem na můstku Plavidla třístranný sloup, který se zdá býti jakýmsi vstupním zařízením. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</key>
-			<value>挪麥人曾經試著發出求救呼叫, 但是飛船的通訊發送系統在墜落時摔壞了. </value>
+			<value>Nomai se pokusili volat o pomoc, ale odesílání zpráv se během havárie Plavidla rozbilo. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel can still hear incoming messages from other Nomai vessels. The remaining Nomai clans are regrouping in response to the impending death of the universe.</key>
-			<value>飛船仍然能夠收到從其它挪麥飛船那里傳來的消息. \\n其它挪麥家族正在重新集結, 應對宇宙即將面臨的死亡. </value>
+			<value>Plavidlo stále slyší příchozí zprávy od ostatních Plavidel Nomai. Ostatní klany Nomai se přeskupují během příprav na brzkou smrt vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going.</key>
-			<value>我找到了一份記錄, 上面是挪麥人從宇宙之眼那里收到的原始信號. 挪麥人擔心信號會消失, 因此他們還\\n沒有來得及告訴其它家族自己要去哪里, 就躍遷走了. </value>
+			<value>Našel jsem nahrávku původního signálu Oka vesmíru, který Nomai našli. Nomai se báli, že signál zmizí, takže se teleportovali předtím, než mohli říci jinému klanu, kam letí. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Orbital Probe Cannon</key>
