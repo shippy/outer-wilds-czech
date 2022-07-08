@@ -8,7 +8,7 @@ Based on [Outer Wilds Korean Translation](https://outerwildsmods.com/mods/outerw
 
 1. Check the [issues](https://github.com/shippy/outer-wilds-czech/issues) to see if it's already being worked on;
 2. If not, file an issue.
-3. Consider [contributing a fix](CONTRIBUTING).
+3. Consider [contributing a fix](CONTRIBUTING.md).
 
 ## Installation
 
