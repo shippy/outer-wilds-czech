@@ -12,7 +12,7 @@
 			Suppose it is a relic from a previous universe.
 		</key>
 		<value>
-			Mohlo by být pozůstatkem předchozího vesmíru?
+			Řekněme, že by mohlo být pozůstatkem předchozího vesmíru?
 		</value>
 	</entry>
 	<entry>
@@ -20,7 +20,7 @@
 			The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed.
 		</key>
 		<value>
-			Raný vesmír byl nepředstavitelně hustý a horký. Jakýkoliv pozůstatek předchozího vesmíru by byl zničen.
+			Raný vesmír byl nepředstavitelně hustý a horký. Jakýkoliv pozůstatek předchozího vesmíru by byl v takových podmínkách zničen.
 		</value>
 	</entry>
 	<entry>
@@ -41,7 +41,7 @@
 	</entry>
 	<entry>
 		<key>OENO: The greatest challenge here, I think, is we don’t have the design for such a powerful core, or any of the original crafters of the &lt;color=orange&gt;Vessel&lt;/color&gt;’s core.</key>
-		<value>OENO: Myslím, že náš největší problém je to, že jsme přišli jak o náčrt tak silného jádra, tak o všechny tvůrce jádra na &lt;color=orange&gt;Plavidle&lt;/color&gt;.</value>
+		<value>OENO: Myslím, že náš největší problém je to, že jsme přišli jak o náčrt tak silného jádra, tak o všechny tvůrce jader na &lt;color=orange&gt;Plavidle&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
@@ -49,7 +49,7 @@
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
-		<value>POKE: Tady mohu být nápomocna! Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; bylo sice vytvořeno před mými časy, ale Annona mi vysvětlil mnohé ze svých vynálezů.</value>
+		<value>POKE: Tady mohu být nápomocna! Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; bylo sice vytvořeno předtím, než jsem se narodila, ale Annona mi vysvětlil mnohé ze svých vynálezů.</value>
 	</entry>
 	<entry>
 		<key>IDAEA: This is the safest path for our clan.</key>
@@ -61,11 +61,11 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Is it, though? We’ve tried for so long to find something that I (and others) now believe might be impossible to find. If the search for the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a futile one, we should choose the option with the least potential for harm.</key>
-		<value>CASSAVA: Opravdu za něj ale stojí? Už dlouho hledáme něco, o čem si já (a ostatní) myslíme, že je nenalezitelné. Pokud je hledání &lt;color=lightblue&gt;Oka&lt;/color&gt; marný, měli bychom vybrat možnost, která má v sobě nejmenší škodlivý potenciál.</value>
+		<value>CASSAVA: Opravdu za něj ale stojí? Už dlouho hledáme něco, o čem si já (a ostatní) myslíme, že je nenalezitelné. Pokud je hledání &lt;color=lightblue&gt;Oka&lt;/color&gt; marné, měli bychom vybrat možnost, která v sobě skrývá nejmenší újmu.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Abandoning the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core and its casing means losing valuable knowledge.</key>
-		<value>SPIRE: Opustit warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; znamená, že ztratíme cenné know-how.</value>
+		<value>SPIRE: Opustit warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; znamená, že ztratíme cenné vědomosti.</value>
 	</entry>
 	<entry>
 		<key>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</key>
@@ -112,7 +112,7 @@
 			POKE: I feel strange, trying to recreate Annona’s warp core without him. At times, it still feels strange to no longer be his (very young) apprentice, and for the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; to be in my care and not his.
 		</key>
 		<value>
-			POKE: Je to zvláštní pocit, vytvářet Annonovy warpové jádro bez něho. Občas je zvláštní nebýt jeho (velmi mladou) učednicí, a spravovat &lt;color=orange&gt;Černoděrou kovárnu&lt;/color&gt; místo něho.
+			POKE: Je to zvláštní pocit, vytvářet Annonovo warpové jádro bez něho. Občas je zvláštní nebýt jeho (velmi mladou) učednicí, a spravovat &lt;color=orange&gt;Černoděrou kovárnu&lt;/color&gt; místo něho.
 		</value>
 	</entry>
 	<entry>
@@ -128,7 +128,7 @@
 			POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I &lt;i&gt;think&lt;/i&gt; I can do this (probably), but what if excitement has clouded my assessment of my own abilities?
 		</key>
 		<value>
-			POKE: Mít možnost zkusit to sama je úžasné, ale... Nechci všechny zklamat. &lt;i&gt;Myslím&lt;/i&gt;, že to zvládnu (pravděpodobně), ale co když mé nadšení zatemnilo můj úsudek ohledně mých vlastních schopností?
+			POKE: Moci to zkusit sama je sice úžasné, ale... Nechci všechny zklamat. &lt;i&gt;Myslím&lt;/i&gt;, že to zvládnu (pravděpodobně), ale co když mé nadšení zatemnilo můj úsudek, co se mých schopností týče?
 		</value>
 	</entry>
 	<entry>
@@ -160,7 +160,7 @@
 			SOLANUM: No one knows how this universe was made, but one thing we do know is everything used to be very hot and very dense (tightly packed together).
 		</key>
 		<value>
-			SOLANUM: Nikdo neví, jak tento vesmír vznikl, ale víme, že všechno bývalo velmi horké a velmi husté (nahňácané dohromady)
+			SOLANUM: Nikdo neví, jak tento vesmír vznikl, ale víme, že všechno bývalo velmi horké a velmi husté (nahňácané dohromady).
 		</value>
 	</entry>
 	<entry>
@@ -192,7 +192,7 @@
 			SOLANUM: That’s scary to think about, even though Conoy tells me it won’t happen in our lifetimes. But it’ll happen in someone else’s, someday!
 		</key>
 		<value>
-			SOLANUM: Toho se bojím, přestože Conoy mi říká, že se to nestane během našich životů. Ale jedno se to stane během životů někoho jiného!
+			SOLANUM: Toho se bojím, přestože Conoy mi řekl, že se to nestane během našich životů. Ale jednou se to stane během životů někoho jiného!
 		</value>
 	</entry>
 	<entry>
@@ -208,7 +208,7 @@
 			LAMI: All the Nomai clans from all over the universe meet in one place to share what they’ve learned in science and art. It’s called the festival!
 		</key>
 		<value>
-			LAMI: Všechny klany Nomai z celého vesmíru se potkávají na jednom místě, aby sdílely, co se naučily ve vědě a umění. Říká se tomu Festival!
+			LAMI: Všechny klany Nomai z celého vesmíru se potkávají na jednom místě, aby sdílely, čeho dosáhly ve vědě a umění. Říká se tomu Festival!
 		</value>
 	</entry>
 	<entry>
@@ -232,7 +232,7 @@
 			LAMI: At some festivals, one clan’s big discovery can mean all the Nomai get to advance, too. Like Annona’s warp core, which made it so everyone can warp long distances and explore more.
 		</key>
 		<value>
-			LAMI: Na některých Festivalech může velký nález jednoho klanu znamenat revoluci pro všechny Nomai. Jako Annonovo warpové jádro, které všem umožnilo teleportovat se přes dlouhé vzdálenosti a více toho prozkoumat.
+			LAMI: Na některých Festivalech může velký objev jednoho klanu znamenat revoluci pro všechny Nomai. Jako Annonovo warpové jádro, které všem umožnilo teleportovat se přes dlouhé vzdálenosti a více toho prozkoumat.
 		</value>
 	</entry>
 	<entry>
@@ -240,7 +240,7 @@
 			LAMI: Each clan has a festival envoy to show their most interesting work. (Our envoy was Thatch!)
 		</key>
 		<value>
-			LAMI: Každý klan má festivalového velvyslance, který předvede jejich nejzajímavější novoty. (Náš velvyslance byl Thatch!)
+			LAMI: Každý klan má festivalového velvyslance, který předvede jejich nejzajímavější novoty. (Náš velvyslanec byl Thatch!)
 		</value>
 	</entry>
 	<entry>
@@ -289,12 +289,12 @@
 			Verdict: HOSPITABLE.
 		</key>
 		<value>
-			Zkoumání externího prostředí... Zkoumání dokončeno. Detekovány menší strukturální nestálosti. Detekovány kapsy dýchatelného vzduchu. Detekována adekvátní solární energie. Verdikt: OBYVATELNÉ.
+			Zkoumání externího prostředí... Zkoumání dokončeno. Detekována menší strukturální nestálost. Detekovány kapsy dýchatelného vzduchu. Detekována adekvátní solární energie. Verdikt: OBYVATELNÉ.
 		</value>
 	</entry>
 	<entry>
 		<key>CONOY: Cassava’s &lt;color=orange&gt;Construction Yard&lt;/color&gt; has been using the cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; to lift &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking.</key>
-		<value>CONOY: Cassavův &lt;color=orange&gt;stavební komplex&lt;/color&gt; používá cyklóny na &lt;color=lightblue&gt;Obří hlubině&lt;/color&gt; k tomu, aby přesunul &lt;color=orange&gt;orbitální sondový kanón&lt;/color&gt; na oběžnou dráhu, ale jedna komponenta byla zatlačeno pod proud, který obvykle všemu zabraňuje v potopení.</value>
+		<value>CONOY: Cassavův &lt;color=orange&gt;stavební komplex&lt;/color&gt; používá cyklóny na &lt;color=lightblue&gt;Obří hlubině&lt;/color&gt; k tomu, aby vyzdvihl &lt;color=orange&gt;orbitální sondový kanón&lt;/color&gt; na oběžnou dráhu, ale jedna komponenta byla zatlačeno pod proud, který obvykle všemu v potopení zabraňuje.</value>
 	</entry>
 	<entry>
 		<key>CONOY: Spire and I are crafting a model to determine why this happened.</key>
@@ -302,15 +302,15 @@
 	</entry>
 	<entry>
 		<key>SPIRE: An update: It’s now clear there are two different types of cyclone.</key>
-		<value>SPIRE: Update: Je nám nyní jasné, že existuje dva různé typy cyklónů.</value>
+		<value>SPIRE: Update: Je nám nyní jasné, že existují dva různé typy cyklónů.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: Most cyclones on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; rotate clockwise. These are the cyclones Cassava typically uses to send components into orbit.</key>
-		<value>SPIRE: Většina cyklónů na &lt;color=lightblue&gt;Obří hlubině&lt;/color&gt; rotují podle hodinových ručiček. Tyto cyklóny Cassava typicky používá k tomu, aby poslal komponenty na oběžnou dráhu.</value>
+		<value>SPIRE: Většina cyklónů na &lt;color=lightblue&gt;Obří hlubině&lt;/color&gt; rotuje podle hodinových ručiček. Tyto cyklóny Cassava typicky používá k tomu, aby poslal komponenty na oběžnou dráhu.</value>
 	</entry>
 	<entry>
 		<key>SPIRE: There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current.</key>
-		<value>SPIRE: Existuje ale také neobvyklý typ cyklónu, který se točí opačným směrem a tlačí věci pod vodu a pod planetární proud.</value>
+		<value>SPIRE: Existuje ale také vzácnější typ cyklónu, který se točí opačným směrem a tlačí věci pod vodu a pod planetární proud.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: My gratitude, Spire. Conoy is showing me your handiwork, and I’m intrigued by this secondary type of cyclone. But was it really necessary to build a model to tell me that?</key>
@@ -346,15 +346,15 @@
 	</entry>
 	<entry>
 		<key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-		<value>PLUME: Pozor: Netoulejte se odsud daleko. Přestože jsme v trošku labilní oblasti, je bezpečnější než všechny, které jsme dosud nalezli.</value>
+		<value>PLUME: Pozor: Nezatoulejte se odsud o moc dál. Přestože jsme v trošku labilní oblasti, je bezpečnější než všechny, které jsme dosud nalezli.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
-		<value>PLUME: Dočasná osada je dostavěno, ale dávejte pozor na padající kameny a na prach z dopadu meteorů.</value>
+		<value>PLUME: Dočasná osada je dostavěna, ale dávejte pozor na padající kameny a na prach z dopadu meteorů.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I can’t understand. Why did the &lt;color=orange&gt;Vessel&lt;/color&gt; crash in that place?</key>
-		<value>THATCH: Já to nechápu. Proč &lt;color=orange&gt;Plavidlo&lt;/color&gt; havarovala v tom hrozném místě?</value>
+		<value>THATCH: Já to nechápu. Proč &lt;color=orange&gt;Plavidlo&lt;/color&gt; havarovalo v tom hrozném místě?</value>
 	</entry>
 	<entry>
 		<key>PLUME: Was the &lt;color=orange&gt;Vessel&lt;/color&gt; unwell in some way?</key>
@@ -366,7 +366,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
-		<value>FILIX: Teleportovali jsme se směrem k onomu nezvyklému signálu z &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Dorazili jsme na špatné místo; chtěli jsme dorazit jinam.</value>
+		<value>FILIX: Teleportovali jsme se směrem k onomu nezvyklému signálu z &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Dorazili jsme na chybné místo; chtěli jsme dorazit jinam.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</key>
@@ -382,15 +382,15 @@
 	</entry>
 	<entry>
 		<key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
-		<value>BELLS: Tato pouť není jen pro nás, ale také pro památku těch členů našeho klanu, kteří přišli před námi: ti, kteří po havárii, která je do tohoto planetárního systému přinesla, uvízli na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; a na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;, aniž by mezi sebou mohli jakkoliv komunikovat.</value>
+		<value>BELLS: Tato pouť není jen pro nás, ale také na památku těch členů našeho klanu, kteří přišli před námi: ti, kteří po havárii, která je do tohoto planetárního systému přinesla, uvízli na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; a na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;, aniž by mezi sebou mohli jakkoliv komunikovat.</value>
 	</entry>
 	<entry>
 		<key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-		<value>BELLS: Tito Nomai vyhlédli ze svých oddělených planet vzhůru a uviděli ten samý toulavý měsíc. Tento měsíc (&lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;) udržel jejich zvídavost naživu během jejich dlouhého strádání.</value>
+		<value>BELLS: Tito Nomai vzhlédli ze svých oddělených planet a spatřili ten samý toulavý měsíc. Tento měsíc (&lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;) udržel jejich zvídavost naživu, navzdory jejich dlouhému strádání.</value>
 	</entry>
 	<entry>
 		<key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-		<value>BELLS: Potom, co se tyto dvě oddělené skupiny znovu sjednotily, se novým cílem našeho klanu stalo nalezení a návštěva &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt;.  To trvalo dlouho, a mnoho Nomai, kteří o návštěvě &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; snili, zahynulo předtím, než jsme přišli na to, jak tuto pouť podniknout.</value>
+		<value>BELLS: Potom, co se tyto dvě oddělené skupiny znovu sjednotily, se novým cílem našeho klanu stalo nalezení a návštěva &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt;. To trvalo dlouho, a mnoho Nomai, kteří o návštěvě &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; snili, zahynulo předtím, než jsme přišli na to, jak tuto pouť podniknout.</value>
 	</entry>
 	<entry>
 		<key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
@@ -401,7 +401,7 @@
 			PLUME: The &lt;i&gt;trees&lt;/i&gt; are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is &lt;i&gt;not normal&lt;/i&gt;, even for this alien planet. And I never see them move! Is that even possible?!
 		</key>
 		<value>
-			PLUME: &lt;i&gt;Stromy&lt;/i&gt; se hýbají! Stromy se v tomto háji toulají (celý strom, včetně kořenů)! Tohle &lt;i&gt;není normální&lt;/i&gt;, dokonce i na téhle cizí planetě. A nikdy je nevidím se pohnout! Je to vůbec možné?
+			PLUME: &lt;i&gt;Stromy&lt;/i&gt; se hýbají! Stromy se v tomto háji toulají (celý strom, včetně kořenů)! Tohle &lt;i&gt;není normální&lt;/i&gt;, dokonce i na téhle zvláštní planetě. A nikdy je nevidím se pohnout! Je to vůbec možné?
 		</value>
 	</entry>
 	<entry>
@@ -433,7 +433,7 @@
 			FILIX: That rock is unusual for another reason, too, Thatch: It possesses color and texture I’ve never seen elsewhere on this planet!
 		</key>
 		<value>
-			FILIX: Ten kámen je nezvyklý také z jiného důvodu, Thatchi: Má barvu a texturu, jakou jsem nikde jinde na této planetě neviděl!
+			FILIX: Ten kámen je nezvyklý také z jiného důvodu, Thatchi: Má barvu a texturu, jakou jsem nikde jinde na této planetě neviděla!
 		</value>
 	</entry>
 	<entry>
@@ -441,7 +441,7 @@
 			FILIX: Hypothesis: This rock shard’s presence is significant. We should study it! (Could it be what is causing other nearby objects to also move about this area?)
 		</key>
 		<value>
-			FILIX: Hypotéza: přítomnost tohoto kamenného úlomku je významná. Měli bychom jej studovat! (Mohl by právě on způsobovat, že všechny ostatní objekty se přemisťují?)
+			FILIX: Hypotéza: Přítomnost tohoto kamenného úlomku je důležitá. Měli bychom jej studovat! (Mohl by právě on způsobovat, že všechny ostatní objekty se přemisťují?)
 		</value>
 	</entry>
 	<entry>
@@ -465,7 +465,7 @@
 			PLUME: In her note from earlier, Filix mentions this strange type of rock isn’t found elsewhere on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;. What if it isn’t originally from this planet?
 		</key>
 		<value>
-			PLUME: V její předchozí nótě Filix zmiňuje, že tento zvláštní typ kamene se nenalézá nikde jinde na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; Co když původně není z této planety?
+			PLUME: Ve své předchozí nótě Filix zmiňuje, že tento zvláštní typ kamene se nenalézá nikde jinde na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt; Co když původně není z této planety?
 		</value>
 	</entry>
 	<entry>
@@ -473,7 +473,7 @@
 			PLUME: Hypothesis: This “quantum shard” is from the &lt;color=lightblue&gt;wandering (quantum) moon&lt;/color&gt;. Perhaps it is even a small piece of the moon itself.
 		</key>
 		<value>
-			PLUME: Hypotéza: tento "kvantový úlomek" je z &lt;color=lightblue&gt;toulavého (kvantového) měsíce&lt;/color&gt;. Možná je to malý kousek onoho měsíce samotného.
+			PLUME: Hypotéza: Tento "kvantový úlomek" je z &lt;color=lightblue&gt;toulavého (kvantového) měsíce&lt;/color&gt;. Možná je to malý kousek onoho měsíce samotného.
 		</value>
 	</entry>
 	<entry>
@@ -513,7 +513,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
 		<value>
-			BELLS: Tvé pouti napomůže svatyně, kterou náš klan na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; vybudoval. Ale nezapomeň na toto poslední pravidlo: abys mohla prozkoumat šestou lokaci, svatyně musí stát na severním pólu měsíce.
+			BELLS: Tvé pouti napomůže svatyně, kterou náš klan na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; vybudoval. Ale nezapomeň na toto poslední pravidlo: abys mohla prozkoumat šestou lokaci, musí svatyně stát na severním pólu měsíce.
 		</value>
 	</entry>
 	<entry>
@@ -530,7 +530,7 @@
 	</entry>
 	<entry>
 		<key>BELLS: If you are making your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, ascend these stairs, and obtain the last of the knowledge you need for your journey.</key>
-		<value>BELLS: Pokud činíš svou první pouť na &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;, vystoupej po těchto schodech, a získej poslední znalosti, které potřebuješ pro svou cestu.</value>
+		<value>BELLS: Pokud podnikáš svou první pouť na &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;, vystoupej po těchto schodech, a získej poslední znalosti, které potřebuješ na cestu.</value>
 	</entry>
 	<entry>
 		<key>
@@ -545,7 +545,7 @@
 			BELLS: If you are preparing to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, descend the steps to the entrance below. The knowledge held within will help you on your journey.
 		</key>
 		<value>
-			BELLS: Pokud se připravuješ na svou první pouť na &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;, sestup po těchto schodech ke vchodu. Znalosti v těchto zdech ti pomohou na tvé cestě.
+			BELLS: Pokud se připravuješ na svou první pouť na &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt;, sestup po těchto schodech ke vchodu. Znalosti zde ukryté ti pomohou na cestě.
 		</value>
 	</entry>
 	<entry>
@@ -561,7 +561,7 @@
 			LAEVI: We’re meeting in the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; to play the game! If you’re too big to climb through the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt; hole:
 		</key>
 		<value>
-			LAEVI: Setkáme se v &lt;color=orange&gt;Jeskyni rybí zkameněliny&lt;/color&gt;, abychom si zahráli hru! Pokud jste příliš velcí, abyste prolezli skrz &lt;color=orange&gt;Ďasí vyhlídku&lt;/color&gt;:
+			LAEVI: Setkáme se v &lt;color=orange&gt;Jeskyni rybí zkameněliny&lt;/color&gt;, abychom si zahráli! Pokud jste příliš velcí na to, abyste prolezli skrz &lt;color=orange&gt;Ďasí vyhlídku&lt;/color&gt;:
 		</value>
 	</entry>
 	<entry>
@@ -602,7 +602,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: I fed the fossil fish a new lantern. If you go to &lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;, the entrance to the &lt;color=orange&gt;Fossil Fish Cave&lt;/color&gt; is easy to see now.</key>
-		<value>SOLANUM: Nakrmil jsem rybu novou svítilnou. Pokud půjdete skrz &lt;color=orange&gt;Kamennou jeskyni&lt;/color&gt;, vstup do &lt;color=orange&gt;Jeskyně rybí zkameněliny&lt;/color&gt; spatříte jednoduše.</value>
+		<value>SOLANUM: Nakrmila jsem rybu novou svítilnou. Pokud půjdete skrz &lt;color=orange&gt;Kamennou jeskyni&lt;/color&gt;, vstup do &lt;color=orange&gt;Jeskyně rybí zkameněliny&lt;/color&gt; spatříte jednoduše.</value>
 	</entry>
 	<entry>
 		<key>LAEVI: Gratitude, Solanum! It’s good you’re small enough to climb in through the hole at the &lt;color=orange&gt;Anglerfish Overlook&lt;/color&gt;.</key>
@@ -610,18 +610,18 @@
 	</entry>
 	<entry>
 		<key>LAMI: I’m still small enough!</key>
-		<value>LAMI: Já jsem pořád dost malý!</value>
+		<value>LAMI: Já jsem pořád ještě dostatečně malý!</value>
 	</entry>
 	<entry>
 		<key>LAEVI: You won’t be for long. Mom and Dad are tall, so you and I will be tall, too.</key>
-		<value>LAEVI: Ne nadlouho. Máma s tátou jsou vysocí, takže já a ty budeme taky vysocí.</value>
+		<value>LAEVI: Ne nadlouho. Máma s tátou jsou vysocí, takže já a ty budeme taky.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: The heat from this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt; is more bearable below the surface.
 		</key>
 		<value>
-			MELORAE: Teplo ze &lt;color=lightblue&gt;slunce&lt;/color&gt; tohoto planetárního systému je snesitelnější pod povrchem planety.
+			MELORAE: Teplo, které &lt;color=lightblue&gt;slunce&lt;/color&gt; v tomto planetárního systému vyzařuje, je snesitelnější pod povrchem planety.
 		</value>
 	</entry>
 	<entry>
@@ -629,7 +629,7 @@
 			MELORAE: When our &lt;color=orange&gt;escape pod&lt;/color&gt; punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I &lt;i&gt;would&lt;/i&gt; recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!
 		</key>
 		<value>
-			MELORAE: Když náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; pronikl povrchem této planety, vlomil se do jeskynního systému s významně chladnějším vzduchem. Byl bych doporučil, abychom tam našli místo na dlouhodobější útočiště, Annono, ale tyhle průchody jsou jako bludiště!
+			MELORAE: Když náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; pronikl povrchem této planety, vlomil se do jeskynního systému s významně chladnějším vzduchem. Byla bych doporučila, abychom tam našli místo na dlouhodobější útočiště, Annono, ale tyhle průchody jsou jako bludiště!
 		</value>
 	</entry>
 	<entry>
@@ -669,7 +669,7 @@
 			COLEUS: To reach the shelter site, walk forward until you meet the sandfall at the pit, then turn left. Continue to the room filled with rock column formations and climb upward through the opening above them.
 		</key>
 		<value>
-			COLEUS: Abyste se dostali k útočišti, pokračujte rovně, dokud se nedostanete k pískopádu u jámy; tam se otočte doleva. Pokračujte do místnosti naplněné kamennými sloupci a šplhejte nahoru skrz otvor nad nimi.
+			COLEUS: Abyste se dostali k útočišti, pokračujte rovně, dokud se nedostanete k pískopádu u jámy; tam se otočte doleva. Pokračujte do místnosti naplněné kamennými sloupci a vyšplhejte se nahoru skrz otvor nad nimi.
 		</value>
 	</entry>
 	<entry>
@@ -717,7 +717,7 @@
 			ANNONA: Of note: This passage leads to breathable air. Refill your supply tank there (we cannot tell how far or deep these tunnels may wind), but do not linger, as the area is exposed to the heat of this alien &lt;color=lightblue&gt;sun&lt;/color&gt;.
 		</key>
 		<value>
-			ANNONA: Důležité: Tato chodba vede k dýchatelnému vzduchu. Doplňte si tam svoji nádrž (nevíme, jak daleké nebo hluboké tyhle tunely jsou), ale nezdržujte se tam, protože celé místo je vystavené horku našeho nového &lt;color=lightblue&gt;slunce&lt;/color&gt;.
+			ANNONA: Důležité: Tato chodba vede k dýchatelnému vzduchu. Doplňte si tam svoji nádrž (nevíme, jak daleké nebo hluboké tyhle tunely jsou), ale nezdržujte se tam, protože se tam vystavíte horku našeho nového &lt;color=lightblue&gt;slunce&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -741,7 +741,7 @@
 			RHUS: And while these rocks are interesting, they can wait until a less urgent time.
 		</key>
 		<value>
-			RHUS: A přestože jsou to zajímavé kameny, můžou počkat na méně urgentní dobu.
+			RHUS: A přestože jsou to zajímavé kameny, můžeme je prozkoumat, až nebudeme tak spěchat.
 		</value>
 	</entry>
 	<entry>
@@ -754,7 +754,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: If you’re inside</key>
-		<value>SOLANUM: Když čas se krátí</value>
+		<value>SOLANUM: Když se čas krátí</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: When turns the tide,</key>
@@ -766,7 +766,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Who was it when we last quit:</key>
-		<value>SOLANUM: Kdo tu byl, když jsme naposledy šli pryč:</value>
+		<value>SOLANUM: Kdo tu byl, když jsme naposledy odešli:</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Me</key>
@@ -822,7 +822,7 @@
 	</entry>
 	<entry>
 		<key>PYE: I’m receiving much stronger energy readings now that we’re beneath the crust. Whatever it is must lie somewhere below, closer to the &lt;color=lightblue&gt;comet&lt;/color&gt;’s center. And I’m starting to think it’s more dangerous than we realized.</key>
-		<value>PYE: Sensory ukazují mnohem silnější energii teď, když jsem pod kůrou. Ať to je, co chce, musí to ležet někdo pod námi, blíže k centru &lt;color=lightblue&gt;komety&lt;/color&gt;. Začínám si myslet, že je to mnohem nebezpečnější, než jsme si uvědomili.</value>
+		<value>PYE: Sensory vykazují mnohem silnější energii teď, když jsem pod kůrou. Ať to je, co chce, musí to ležet někdo pod námi, blíže k centru &lt;color=lightblue&gt;komety&lt;/color&gt;. Začínám si myslet, že je to mnohem nebezpečnější, než jsme si uvědomili.</value>
 	</entry>
 	<entry>
 		<key>PYE: Clary, can you hear us?</key>
@@ -842,11 +842,11 @@
 	</entry>
 	<entry>
 		<key>POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter.</key>
-		<value>POKE: Kulové kamenné zakrytí vypadá jako zdroj detekované energie... Ne: to, co je uvnitř kamene, je zdrojem. Detekuji jakousi exotickou hmotu.</value>
+		<value>POKE: Kulový kamenný plášť vypadá jako zdroj detekované energie... Ne: to, co je uvnitř kamene, je zdrojem. Detekuji jakousi exotickou hmotu.</value>
 	</entry>
 	<entry>
 		<key>PYE: The stone is &lt;i&gt;muting&lt;/i&gt; our energy readings; they should be ten times what we’re seeing, at least.</key>
-		<value>PYE: Kámen &lt;i&gt;zakrývá&lt;/i&gt; naše měření; měla by být alespoň desetkrát větší, než jsou.</value>
+		<value>PYE: Kámen &lt;i&gt;zmírňuje&lt;/i&gt; naše měření; měla by být alespoň desetkrát větší, než jsou.</value>
 	</entry>
 	<entry>
 		<key>POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal.</key>
@@ -854,11 +854,11 @@
 	</entry>
 	<entry>
 		<key>PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile.</key>
-		<value>PYE: Nikdy jsem neviděla nic jako tohle krytí, ale je to jediná věc, která nás chrání před tím, co je uvnitř. Horší je už jen to, že tato hmota je znepokojivě nestálá.</value>
+		<value>PYE: Nikdy jsem neviděla nic jako tenhle kámen, ale je tím jediným, co nás chrání před svým obsahem. Horší je už jen to, že tato hmota je znepokojivě nestálá.</value>
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>POKE: ...Pye. Ať už je ta hmota, co chce, je víc než jen nestálá; je pod obrovským tlakem. Podívej se na tenhle hustotní sken. Nikdy jsem neviděla &lt;i&gt;nic&lt;/i&gt; takhle těsně stlačeného! &lt;i&gt;Co&lt;/i&gt; tohle je?</value>
+		<value>POKE: ...Pye. Ať už je ta hmota, co chce, je víc než jen nestálá; je pod obrovským tlakem. Podívej se na tuhle diagnostiku hustoty. Nikdy jsem neviděla &lt;i&gt;nic&lt;/i&gt; takhle stlačeného! &lt;i&gt;Co&lt;/i&gt; to může být?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
@@ -874,14 +874,14 @@
 	</entry>
 	<entry>
 		<key>PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...&lt;i&gt;Now&lt;/i&gt;, Poke!</key>
-		<value>PYE: Čím víc toho víme o této neznámé hmotě, tím lepší je naše šance na přežití. Zjistím vše, co se zjistit dá. Běž, varuj ostatní; možná mohou nějak postavit útočiště. ...&lt;i&gt;Hned&lt;/i&gt;, Poke!</value>
+		<value>PYE: Čím víc toho víme o této neznámé hmotě, tím lepší je naše šance na přežití. Zjistím vše, co se zjistit dá. Běž, varuj ostatní; možná mohou postavit nějakou bariéru. ...&lt;i&gt;Hned&lt;/i&gt;, Poke!</value>
 	</entry>
 	<entry>
 		<key>
 			CLARY: I fear our situation may be dire:
 		</key>
 		<value>
-			CLARY: Obávám se, že naše situace se stává zoufalou:
+			CLARY: Obávám se, že naše situace se stala zoufalou:
 		</value>
 	</entry>
 	<entry>
@@ -890,7 +890,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Pye and Poke were able to locate a fissure in the ice on the &lt;color=lightblue&gt;comet&lt;/color&gt;’s sunward side, and they descended inside to investigate the source of the readings.</key>
-		<value>CLARY: Pye a Poke našly otvor v ledu na straně &lt;color=lightblue&gt;komety&lt;/color&gt; obrácené ke slunce, a sestoupily dovnitř, aby prozkoumaly zdroj signálu.</value>
+		<value>CLARY: Pye a Poke našly otvor v ledu na straně &lt;color=lightblue&gt;komety&lt;/color&gt; obrácené ke slunci a sestoupily dovnitř, aby prozkoumaly zdroj signálu.</value>
 	</entry>
 	<entry>
 		<key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
@@ -898,7 +898,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
-		<value>CLARY: Měl bych opustit &lt;color=orange&gt;loď&lt;/color&gt; a začít je hledat? Chci se řídit podle protokolů, ale nevím, co bych udělala, kdyby nebyly v pořádku...</value>
+		<value>CLARY: Měla bych opustit &lt;color=orange&gt;loď&lt;/color&gt; a začít je hledat? Chci se řídit podle pravidel, ale nevím, co bych udělala, kdyby nebyly v pořádku...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke... Pye... Come back to me safely, my friends.</key>
@@ -909,20 +909,20 @@
 			CLARY: This is troublesome: It seems the &lt;color=lightblue&gt;comet&lt;/color&gt; wishes to submerge our &lt;color=orange&gt;shuttle&lt;/color&gt; in ice. If we stay on the surface too long, the &lt;color=orange&gt;shuttle&lt;/color&gt; may freeze entirely.
 		</key>
 		<value>
-			CLARY: Tohle je nepříjemné: Zdá se, že &lt;color=lightblue&gt;kometa&lt;/color&gt; si přeje ponořit naši &lt;color=orange&gt;loď&lt;/color&gt; do ledu. Pokud zůstaneme na povrchu příliš dlouho, naše &lt;color=orange&gt;loď&lt;/color&gt; tu může zmrznout natrvalo.
+			CLARY: Tohle je nepříjemné: Zdá se, že &lt;color=lightblue&gt;kometa&lt;/color&gt; si přeje vstřebat naši &lt;color=orange&gt;loď&lt;/color&gt; do ledu. Pokud zůstaneme na povrchu příliš dlouho, naše &lt;color=orange&gt;loď&lt;/color&gt; tu může zamrznout natrvalo.
 		</value>
 	</entry>
 	<entry>
 		<key>POKE: Even if it did, couldn’t someone call it back home to the &lt;color=orange&gt;gravity cannon&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;?</key>
-		<value>POKE: I kdyby zmrzla, nemohl by ji někdo přivolat zpět domů &lt;color=lightblue&gt;gravitačním kanónem&lt;/color&gt; na &lt;color=orange&gt;Doutnáku&lt;/color&gt;?</value>
+		<value>POKE: I kdyby zamrzla, nemohl by ji někdo přivolat zpět domů &lt;color=lightblue&gt;gravitačním kanónem&lt;/color&gt; na &lt;color=orange&gt;Doutnáku&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-		<value>PYE: Ano, ale průzkum &lt;color=lightblue&gt;komety&lt;/color&gt;，by byl bez &lt;color=orange&gt;lodi&lt;/color&gt; složitější. Mořná jsme neměli přistát na odvrácené straně &lt;color=lightblue&gt;komety&lt;/color&gt;...</value>
+		<value>PYE: Ano, ale průzkum &lt;color=lightblue&gt;komety&lt;/color&gt; by byl bez &lt;color=orange&gt;lodi&lt;/color&gt; složitější. Mořná jsme neměli přistát na odvrácené straně &lt;color=lightblue&gt;komety&lt;/color&gt;...</value>
 	</entry>
 	<entry>
 		<key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
-		<value>CLARY: Řekněme, že jedna z nás by zůstala v &lt;color=orange&gt;lodi&lt;/color&gt;, aby ji udržovala připravenou a dále monitorovala povrch.</value>
+		<value>CLARY: Řekněme, že jedna z nás by zůstala v &lt;color=orange&gt;lodi&lt;/color&gt;, aby ji zateplovala a dále monitorovala povrch.</value>
 	</entry>
 	<entry>
 		<key>PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface.</key>
@@ -934,27 +934,27 @@
 	</entry>
 	<entry>
 		<key>ALIGNMENT 1: the &lt;color=lightblue&gt;sun&lt;/color&gt;</key>
-		<value>SMĚRNICE 1: &lt;color=lightblue&gt;slunce&lt;/color&gt;</value>
+		<value>ZAROVNÁNÍ 1: &lt;color=lightblue&gt;slunce&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 2: the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;</key>
-		<value>SMĚRNICE 2: &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt;</value>
+		<value>ZAROVNÁNÍ 2: &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 3: &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;</key>
-		<value>SMĚRNICE 3: &lt;color=lightblue&gt;Domopec&lt;/color&gt;</value>
+		<value>ZAROVNÁNÍ 3: &lt;color=lightblue&gt;Domopec&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 4: &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;</key>
-		<value>SMĚRNICE 4: &lt;color=lightblue&gt;Křehkodutá planeta&lt;/color&gt;</value>
+		<value>ZAROVNÁNÍ 4: &lt;color=lightblue&gt;Křehkodutá planeta&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>ALIGNMENT 5: &lt;color=lightblue&gt;Giant's Deep&lt;/color&gt;</key>
-		<value>SMĚRNICE 5: &lt;color=lightblue&gt;Obří hlubina&lt;/color&gt;</value>
+		<value>ZAROVNÁNÍ 5: &lt;color=lightblue&gt;Obří hlubina&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>Self</key>
-		<value>Já</value>
+		<value>mnou</value>
 	</entry>
 	<entry>
 		<key>Start...Whoa.</key>
@@ -1002,7 +1002,7 @@
 	</entry>
 	<entry>
 		<key>SelfMemories1Me, too. Sounds like our memories diverge at the start of this loop.</key>
-		<value>Já taky. Zní to, jako že se naše vzpomínky rozpojují na začátku této smyčky.</value>
+		<value>Já taky. Zní to, jako že se naše vzpomínky rozcházejí na začátku této smyčky.</value>
 	</entry>
 	<entry>
 		<key>SelfMemories1Same, except I woke up at the campfire, like always.</key>
@@ -1030,7 +1030,7 @@
 	</entry>
 	<entry>
 		<key>Excited2AWhat? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</key>
-		<value>Ne! Ne, mluvím o tom &lt;i&gt;druhém&lt;/i&gt;.</value>
+		<value>Ne! Ne, mluvím o tom &lt;i&gt;druhém&lt;/i&gt; dni.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2AOH. Yep, that makes way more sense.</key>
@@ -1038,7 +1038,7 @@
 	</entry>
 	<entry>
 		<key>Excited2BHaha, I know, right? But today is probably the next greatest day of our life after that one.</key>
-		<value>Haha, žejo? Ale dnešek je pravděpodobně ten druhý nejlepší den našeho života hned po tamtom.</value>
+		<value>Haha, žejo? Ale dnešek je pravděpodobně ten druhý nejlepší den našeho života, hned po tamtom.</value>
 	</entry>
 	<entry>
 		<key>SelfExcited2BWait, can you read my mind?</key>
@@ -5851,7 +5851,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
-		<value>CASSAVA: Řekni Privet a Mallow, že by se měly vrátit z &lt;color=orange&gt;kanónu&lt;/color&gt;. Můj družka a já zůstaneme pro tuto chvíli ve &lt;color=orange&gt;stavebním dvoře&lt;/color&gt;. </value>
+		<value>CASSAVA: Řekni Privet a Mallow, že by se měly vrátit z &lt;color=orange&gt;kanónu&lt;/color&gt;. Můj družka a já zůstaneme pro tuto chvíli ve &lt;color=orange&gt;stavebním komplexu&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>AVENS: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.</key>
@@ -5887,7 +5887,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Cassava tells me he and the &lt;color=orange&gt;Construction Yard&lt;/color&gt; crew have determined a power setting we are not, under any circumstances, to go above.</key>
-		<value>AVENS: Cassava mi sdělil, že s posádkou &lt;color=orange&gt;stavebního dvora&lt;/color&gt; určil odpalovací sílu, kterou za žádných okolností nesmíme překonat.</value>
+		<value>AVENS: Cassava mi sdělil, že s posádkou &lt;color=orange&gt;stavebního komplexu&lt;/color&gt; určil odpalovací sílu, kterou za žádných okolností nesmíme překonat.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: I see! And am I right to think that, consequently, we’ll be ignoring that setting?</key>
@@ -12298,7 +12298,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsThe Nomai on the Construction Yard saw something sink beneath the underwater current, which they'd previously thought was impossible.</key>
-			<value>Nomai na stavebním dvoře byli svědky toho, že se něco ponořilo pod podvodní proud, což předtím považovali za nemožné. </value>
+			<value>Nomai ve stavebním komplexu byli svědky toho, že se něco ponořilo pod podvodní proud, což předtím považovali za nemožné. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean DepthsFeldspar found a way to reach the core of Giant’s Deep.</key>
@@ -12342,11 +12342,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction Yard</key>
-			<value>Stavební dvůr</value>
+			<value>Stavební komplex</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThe Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep.</key>
-			<value>Nomai postavili Orbitální sondový kanón na stavebním dvoře na Obří hlubině. </value>
+			<value>Nomai postavili Orbitální sondový kanón ve stavebním komplexu na Obří hlubině. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Construction YardThis island is where the Nomai built the Orbital Probe Cannon.</key>
