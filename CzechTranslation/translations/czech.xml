@@ -366,7 +366,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: We warped to follow that curious signal from the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. Where we arrived was wrong; it wasn’t where we tried to go.</key>
-		<value>FILIX: Teleportovali jsme se směrem k onomu nezvyklému signálu z 我們是跟著&lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Dorazili jsme na špatné místo; chtěli jsme dorazit jinam.</value>
+		<value>FILIX: Teleportovali jsme se směrem k onomu nezvyklému signálu z &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Dorazili jsme na špatné místo; chtěli jsme dorazit jinam.</value>
 	</entry>
 	<entry>
 		<key>THATCH: Suppose it wasn’t a problem with the &lt;color=orange&gt;Vessel&lt;/color&gt;, but with our destination.</key>
@@ -489,7 +489,7 @@
 			FILIX: I’ve also heard the same signal this shard produces calling out from &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;,&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, and the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;. Suppose there are other shards like this one!
 		</key>
 		<value>
-			FILIX: Slyšel jsem ten samý signál volat z &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;, &lt;color=lightblue&gt;Domopece&lt;/color&gt;, a 還有&lt;color=lightblue&gt;Přesýpacích dvojčat&lt;/color&gt;. Předpokládejme, že tam jsou úlomky podobné tomuto!
+			FILIX: Slyšel jsem ten samý signál volat z &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;, &lt;color=lightblue&gt;Domopece&lt;/color&gt;, a &lt;color=lightblue&gt;Přesýpacích dvojčat&lt;/color&gt;. Předpokládejme, že tam jsou úlomky podobné tomuto!
 		</value>
 	</entry>
 	<entry>
@@ -858,7 +858,7 @@
 	</entry>
 	<entry>
 		<key>POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen &lt;i&gt;anything&lt;/i&gt; this tightly compacted before! What &lt;i&gt;is&lt;/i&gt; this?</key>
-		<value>POKE: ...Pye. Ať už je ta hmota, co chce, je víc než jen nestálá; je pod obrovským tlakem. Podívej se na tenhle hustotní sken. Nikdy jsem neviděla 它&lt;i&gt;nic&lt;/i&gt; takhle těsně stlačeného! &lt;i&gt;Co&lt;/i&gt; tohle je?</value>
+		<value>POKE: ...Pye. Ať už je ta hmota, co chce, je víc než jen nestálá; je pod obrovským tlakem. Podívej se na tenhle hustotní sken. Nikdy jsem neviděla &lt;i&gt;nic&lt;/i&gt; takhle těsně stlačeného! &lt;i&gt;Co&lt;/i&gt; tohle je?</value>
 	</entry>
 	<entry>
 		<key>PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the &lt;color=lightblue&gt;comet&lt;/color&gt; approaches this star system...</key>
@@ -1614,7 +1614,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-		<value>ROOT: Co kdybychom použili warpové věže (jako to, kterou máme na 就像&lt;color=orange&gt;Běloděré stanici&lt;/color&gt;), abychom spojili &lt;color=lightblue&gt;Popelák&lt;/color&gt; přímo s každou kritickou lokací?</value>
+		<value>ROOT: Co kdybychom použili warpové věže (jako to, kterou máme na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;), abychom spojili &lt;color=lightblue&gt;Popelák&lt;/color&gt; přímo s každou kritickou lokací?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
@@ -2646,7 +2646,7 @@
 	</entry>
 	<entry>
 		<key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
-		<value>如果你在Outer Wilds中渡過了愉快的時光, 不妨考慮支持一下我們的博物館擴建計劃. </value>
+		<value>Pokud jste si užili Outer Wilds, zvažte prosím podporu plánovaného rozšíření muzea. </value>
 	</entry>
 	<entry>
 		<key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
@@ -2746,7 +2746,7 @@
 	</entry>
 	<entry>
 		<key>SlateScientist2What’s my mission once I’m in space?</key>
-		<value>等Jaká je moje mise, jakmile vzhlétnu do vesmíru?</value>
+		<value>Jaká je moje mise, jakmile vzhlétnu do vesmíru?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2What else should I do before liftoff?</key>
@@ -3014,10 +3014,10 @@
 	</entry>
 	<entry>
 		<key>
-			VAROVÁNÍ: Detekována zvýšená sopečná aktivita.
+			WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
-			警告: 檢測到火山活動增加. 
+			VAROVÁNÍ: Detekována zvýšená sopečná aktivita.
 		</value>
 	</entry>
 	<entry>
@@ -3690,7 +3690,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Conoy, Daz and I were lifting &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; components into orbit for assembly, and one somehow sank down down &lt;i&gt;beneath&lt;/i&gt; the current.</key>
-		<value>CASSAVA: Conoy, Daz a já jsme zvedali 將&lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; na oběžnou dráhu, abychom je tam sestavili, ale jedna ze součástek se záhadným způsobem ponořila &lt;i&gt;pod&lt;/i&gt; planetární proud.</value>
+		<value>CASSAVA: Conoy, Daz a já jsme zvedali &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; na oběžnou dráhu, abychom je tam sestavili, ale jedna ze součástek se záhadným způsobem ponořila &lt;i&gt;pod&lt;/i&gt; planetární proud.</value>
 	</entry>
 	<entry>
 		<key>DAZ: Cassava convinced me not to try to recreate the phenomenon myself using other cannon parts, but we’re very curious to know what happened! How could something pass through the current?</key>
@@ -3714,7 +3714,7 @@
 	</entry>
 	<entry>
 		<key>COLEUS: I was upstairs testing the &lt;color=orange&gt;Eye signal locator&lt;/color&gt;, and it can hear and follow the signals from the &lt;color=lightblue&gt;sun&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, and &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>COLEUS: Byl jsem nahoře testovat &lt;color=orange&gt;Lokátor signálu oka&lt;/color&gt;, a umí sledovat signály ze &lt;color=lightblue&gt;slunce&lt;/color&gt;, &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;, a 還有&lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;發出的信號.</value>
+		<value>COLEUS: Byl jsem nahoře testovat &lt;color=orange&gt;Lokátor signálu oka&lt;/color&gt;, a umí sledovat signály ze &lt;color=lightblue&gt;slunce&lt;/color&gt;, &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;, a &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: However, something strange is happening when I ask the &lt;color=orange&gt;Eye signal locator&lt;/color&gt; to follow the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal: The device’s indicator rotates wildly and never points to just one direction.</key>
@@ -4086,7 +4086,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: Note: This door will need to remain closed for some &lt;i&gt;time&lt;/i&gt;! Pye and I are running an experiment based on the extraordinary findings from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.</key>
-		<value>RAMIE: Poznámka: tyto dveře budou muset zůstat zavřené na &lt;i&gt;drahnou&lt;/i&gt; dobu! Pye a já podnikáme experiment na základě neskutečných nálezů z 基於在&lt;color=orange&gt;Běloděré stanice&lt;/color&gt;.</value>
+		<value>RAMIE: Poznámka: tyto dveře budou muset zůstat zavřené na &lt;i&gt;drahnou&lt;/i&gt; dobu! Pye a já podnikáme experiment na základě neskutečných nálezů z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the &lt;color=orange&gt;Sunless City&lt;/color&gt;.</key>
@@ -4238,7 +4238,7 @@
 	</entry>
 	<entry>
 		<key>CLEM: I remember hearing that story as a child! One day, Escall’s &lt;color=orange&gt;Vessel&lt;/color&gt; simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence.</key>
-		<value>CLEM: Také si ten příběh pamatuji z dětství! Jednoho dne Escallovo 的&lt;color=orange&gt;plavidlo&lt;/color&gt; prostě přestalo odpovídat. Ostatní klany hledaly a hledaly, ale nenašly ani stopu. Jakoby se jejich zmizelí přátelé teleportovali mimo existenci samotnou.</value>
+		<value>CLEM: Také si ten příběh pamatuji z dětství! Jednoho dne Escallovo &lt;color=orange&gt;plavidlo&lt;/color&gt; prostě přestalo odpovídat. Ostatní klany hledaly a hledaly, ale nenašly ani stopu. Jakoby se jejich zmizelí přátelé teleportovali mimo existenci samotnou.</value>
 	</entry>
 	<entry>
 		<key>HYSSOP: That’s no myth, friends; Escall’s clan existed, and their story was real.</key>
@@ -7571,7 +7571,7 @@
 	</entry>
 	<entry>
 		<key>Arkose</key>
-		<value>阿寇斯</value>
+		<value>Arkose</value>
 	</entry>
 	<entry>
 		<key>Arkose1Hi, astronaut!</key>
@@ -7623,7 +7623,7 @@
 	</entry>
 	<entry>
 		<key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
-		<value>Je fajn, že sondomety dovedou objevit antihmotu, ale co by bylo &lt;i&gt;真的opravdu/i&gt; fajn by byly sondomety, co dokážou, jako, střílet antihmotu. &lt;i&gt;Paf paf paf&lt;/i&gt;! </value>
+		<value>Je fajn, že sondomety dovedou objevit antihmotu, ale co by bylo &lt;i&gt;opravdu&lt;/i&gt; fajn by byly sondomety, co dokážou, jako, střílet antihmotu. &lt;i&gt;Paf paf paf&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
@@ -7911,7 +7911,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistMe? I’m an archeologist, remember?</key>
-		<value>我嗎Já? Já jsem archeolog, vzpomínáš? </value>
+		<value>Já? Já jsem archeolog, vzpomínáš? </value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistOr, um, &lt;i&gt;the&lt;/i&gt; archeologist, I guess. Seeing as I’m all Timber Hearth’s got right now.</key>
@@ -8187,7 +8187,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>ROOT: Chtěl jsem doručit nová rudná data Poke v její 的&lt;color=orange&gt;Černoděré kovárně&lt;/color&gt;中, ale warpová věž na &lt;color=orange&gt;Popeláku&lt;/color&gt; mě poslala na špatnou část &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;.</value>
+		<value>ROOT: Chtěl jsem doručit nová rudná data Poke v její &lt;color=orange&gt;Černoděré kovárně&lt;/color&gt;, ale warpová věž na &lt;color=orange&gt;Popeláku&lt;/color&gt; mě poslala na špatnou část &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Could someone kindly remind me if there’s a way to warp directly to the forge or if I imagined this?</key>
@@ -11526,7 +11526,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Stranger</key>
-			<value>外星站</value>
+			<value>Cizinec</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
