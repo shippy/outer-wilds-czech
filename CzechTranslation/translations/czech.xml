@@ -1082,7 +1082,7 @@
 	</entry>
 	<entry>
 		<key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-		<value>Tak se podívejme... Měli bychom mít všechny vzpomínky před tím celým tím "šli jsme do vesmíru a objevili jsme mimozemskou časovou smyčku".</value>
+		<value>Tak se podívejme... Měli bychom mít všechny vzpomínky před celým tím "šli jsme do vesmíru a objevili jsme mimozemskou časovou smyčku".</value>
 	</entry>
 	<entry>
 		<key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
@@ -1110,7 +1110,7 @@
 	</entry>
 	<entry>
 		<key>Wrong2AWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Nu, mluvíme jeden k druhému a zatím nic nevybuchlo.</value>
+		<value>Nu, mluvíme spolu a zatím nic nevybuchlo.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2AYeah, it's a pretty novel experience.</key>
@@ -1126,7 +1126,7 @@
 	</entry>
 	<entry>
 		<key>Wrong2BWell, we're talking to each other and nothing's exploded yet.</key>
-		<value>Nu, mluvíme jeden k druhému a zatím nic nevybuchlo.</value>
+		<value>Nu, mluvíme spolu a zatím nic nevybuchlo.</value>
 	</entry>
 	<entry>
 		<key>SelfWrong2BThat seems positive.</key>
@@ -1330,7 +1330,7 @@
 	</entry>
 	<entry>
 		<key>IntroEndAt any rate, it's been good talking to you, me. &lt;Pause/&gt; ...Incredibly strange, but good.</key>
-		<value>Každopádně bylo hezké si s tebou promluvit, mé drahé já. &lt;Pauza/&gt; ...Neskutečně zvláštní, ale hezké.</value>
+		<value>Každopádně bylo hezké si s tebou promluvit, mé drahé já. &lt;Pause/&gt; ...Neskutečně zvláštní, ale hezké.</value>
 	</entry>
 	<entry>
 		<key>IntroEndSee you around!</key>
@@ -1410,7 +1410,7 @@
 	</entry>
 	<entry>
 		<key>Panic5AAAAAAAHHHhhh... (pant, pant)&lt;Pause/&gt;...</key>
-		<value>AAAAAAAHHHhhh... (výdech, nádech)&lt;Pauza/&gt;...</value>
+		<value>AAAAAAAHHHhhh... (výdech, nádech)&lt;Pause/&gt;...</value>
 	</entry>
 	<entry>
 		<key>SelfPanic5You good?</key>
@@ -1486,7 +1486,7 @@
 	</entry>
 	<entry>
 		<key>sun station 2That’s true. &lt;pause&gt; I’m not sure how to factor that in.</key>
-		<value>To je pravda. &lt;pauza&gt; Nejsem si jist, jak to pro tyto účely uvážit.</value>
+		<value>To je pravda. &lt;Pause&gt; Nejsem si jist, jak to pro tyto účely uvážit.</value>
 	</entry>
 	<entry>
 		<key>sun station 3Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</key>
@@ -1510,7 +1510,7 @@
 	</entry>
 	<entry>
 		<key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
-		<value>Haha, mě také ne. &lt;pauza&gt; ...Evidentně.</value>
+		<value>Haha, mě také ne. &lt;Pause&gt; ...Evidentně.</value>
 	</entry>
 	<entry>
 		<key>sun station 5bThe worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</key>
@@ -2270,7 +2270,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pauza&gt; ...Chápeš?</value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_3TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -2390,7 +2390,7 @@
 	</entry>
 	<entry>
 		<key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
-		<value>Čau, časokámo! Hezký počasí, co? &lt;Pauza/&gt; ...Moment. Použil jsem už tohleto uvítání?</value>
+		<value>Čau, časokámo! Hezký počasí, co? &lt;Pause/&gt; ...Moment. Použil jsem už tohleto uvítání?</value>
 	</entry>
 	<entry>
 		<key>GabbroMainIf it isn’t my time buddy! How’s space treating you this loop?</key>
@@ -2466,7 +2466,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pauza&gt; ...Chápeš?</value>
+		<value>Co dál, co dál... Byl jsi na Ostrovu soch? Říkám mu tak, protože je to &lt;i&gt;ostrov&lt;/i&gt;, kde jsem našel zářící &lt;i&gt;sochu&lt;/i&gt; Nomai. &lt;Pause&gt; ...Chápeš?</value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -3074,7 +3074,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar2Yeah, that’s right, I’m alive. Been camping out here since my ship, uh, y’know. Crashed.&lt;Pause&gt; Violently.</key>
-		<value>Ano, jsem naživu. Tábořím tu od té doby, co moje loď, um, víš. Nabourala. &lt;Pauza&gt; Zuřivě.</value>
+		<value>Ano, jsem naživu. Tábořím tu od té doby, co moje loď, um, víš. Nabourala. &lt;Pause&gt; Zuřivě.</value>
 	</entry>
 	<entry>
 		<key>FeldsparFeldspar2Wait, what?</key>
@@ -3118,7 +3118,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar4aHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, ty mi lichotíš! &lt;Pauza&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
+		<value>Haha, ty mi lichotíš! &lt;Pause&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>Feldspar4b&lt;i&gt;Obviously&lt;/i&gt;, yes. No need to be rude.</key>
@@ -3182,7 +3182,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar5cHaha, you flatter me!&lt;Pause&gt; ...I &lt;i&gt;like&lt;/i&gt; it!</key>
-		<value>Haha, ty mi lichotíš! &lt;Pauza&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
+		<value>Haha, ty mi lichotíš! &lt;Pause&gt; To se mi &lt;i&gt;líbí&lt;/i&gt;!</value>
 	</entry>
 	<entry>
 		<key>Feldspar5cI came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try.</key>
@@ -3334,7 +3334,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-		<value>...&lt;i&gt;úplně nesouvisející&lt;/i&gt; poznámka, narazil jsem do velké, duté větvě. &lt;Pauza=3&gt; Jo.</value>
+		<value>...&lt;i&gt;úplně nesouvisející&lt;/i&gt; poznámka, narazil jsem do velké, duté větvě. &lt;Pause=3&gt; Jo.</value>
 	</entry>
 	<entry>
 		<key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
@@ -3398,7 +3398,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparShipwreckFollow that, and you’ll find my old ship.&lt;Pause&gt; What’s left of it, anyway.</key>
-		<value>Následuj jej, a nalezneš mou starou loď. &lt;Pauza&gt; Nebo alespoň to, co z ní zbylo.</value>
+		<value>Následuj jej, a nalezneš mou starou loď. &lt;Pause&gt; Nebo alespoň to, co z ní zbylo.</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingMenuLay it on me, hatchling!</key>
@@ -3750,7 +3750,7 @@
 	</entry>
 	<entry>
 		<key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
-		<value>Jen považ - budeš moci přeložit kterýkoli text, který kdy Nomai napsali, ať už budeš kdekoliv. My dva jsme do vynálezu tohohle přístroje investovali spoustu hodin, takže ho nerozbij, oukej? Haha! &lt;Pauza&gt; ...A jéje. &lt;i&gt;Nerozbij ho.&lt;/i&gt;</value>
+		<value>Jen považ - budeš moci přeložit kterýkoli text, který kdy Nomai napsali, ať už budeš kdekoliv. My dva jsme do vynálezu tohohle přístroje investovali spoustu hodin, takže ho nerozbij, oukej? Haha! &lt;Pause&gt; ...A jéje. &lt;i&gt;Nerozbij ho.&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>Friend1a...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are &lt;i&gt;you&lt;/i&gt; feeling?</key>
@@ -6511,7 +6511,7 @@
 	</entry>
 	<entry>
 		<key>Friend3So its eyes opened, and then you saw images from your own memories and glowing lights flying around? You mean like &lt;Pause/&gt; a hallucination?</key>
-		<value>Takže její oči se otevřely, a pak jsi uviděl obrázky svých vlastních vzpomínek a zářivé záblesky koelm sebe? Myslíš jako &lt;Pauza/&gt; halucinace?</value>
+		<value>Takže její oči se otevřely, a pak jsi uviděl obrázky svých vlastních vzpomínek a zářivé záblesky koelm sebe? Myslíš jako &lt;Pause/&gt; halucinace?</value>
 	</entry>
 	<entry>
 		<key>Friend3Listen, no offense, but... are you sure you’re okay to launch? Like, medically speaking?</key>
@@ -6531,7 +6531,7 @@
 	</entry>
 	<entry>
 		<key>Friend4But hey, when you &lt;i&gt;are&lt;/i&gt; ready, then you can make the most of our translator tool! &lt;color=grey&gt;Sniff...&lt;/color&gt;&lt;Pause/&gt; I can’t believe it’s all grown up and leaving for space already.</key>
-		<value>Ale hej, až &lt;i&gt;budeš&lt;/i&gt; připravený, tak konečně budeš moci použít náš překladač! &lt;color=grey&gt;Fňuk...&lt;/color&gt;&lt;Pauza/&gt; Nemůžu uvěřit, že už je tak velký a letí do vesmíru.</value>
+		<value>Ale hej, až &lt;i&gt;budeš&lt;/i&gt; připravený, tak konečně budeš moci použít náš překladač! &lt;color=grey&gt;Fňuk...&lt;/color&gt;&lt;Pause/&gt; Nemůžu uvěřit, že už je tak velký a letí do vesmíru.</value>
 	</entry>
 	<entry>
 		<key>Friend4For real, though, I’m glad you’re the one carrying it and not, like, Riebeck. They’d fall on it for sure.</key>
@@ -6679,7 +6679,7 @@
 	</entry>
 	<entry>
 		<key>FineWell, maybe someone needs a new porch or something. &lt;Pause/&gt;A big one.</key>
-		<value>Mno, možná někdo potřebuje novou verandu. &lt;Pauza /&gt; Velkou verandu.. </value>
+		<value>Mno, možná někdo potřebuje novou verandu. &lt;Pause/&gt; Velkou verandu.. </value>
 	</entry>
 	<entry>
 		<key>OutWhat? No, I just think it’s in the way and someone ought to chop it down, you know? Specifically, me.</key>
@@ -6791,7 +6791,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingIt’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</key>
-		<value>Jsou &lt;Pauza=1&gt; &lt;i&gt;vážně&lt;/i&gt; staré, že? </value>
+		<value>Jsou &lt;Pause=1&gt; &lt;i&gt;vážně&lt;/i&gt; staré, že? </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingBut wow, this is the coolest day of my life. ...Okay, um, time for some official notes!</key>
