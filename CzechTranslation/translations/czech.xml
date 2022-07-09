@@ -2918,7 +2918,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
-		<value>Já jsem tu hlavně pro raketovou vědu a marshmallowsy.</value>
+		<value>Já jsem tu hlavně přes raketovou vědu a maršmelouny.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer40Yeah, I’d stick to exploring our solar system, if I were you. As much as I hate to admit it, our ships aren’t deep-space-worthy.</key>
@@ -3270,7 +3270,7 @@
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryHey, hatchling, pull up a marshmallow stick!</key>
-		<value>Ahoj mládě, tumáš proutek na marshmellow!</value>
+		<value>Ahoj mládě, tumáš proutek na maršmeloun!</value>
 	</entry>
 	<entry>
 		<key>FeldsparSecondaryCome to hear tales of my heroic exploits, have you?</key>
@@ -3530,7 +3530,7 @@
 	</entry>
 	<entry>
 		<key>Sign(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</key>
-		<value>(Kdyby Gabbro věděl, že jsem si dělal poznámky, asi by si myslel, že jsem konečně zešílel, ale já odmítám drzost od astronauta, který úmyslně pálí svůj marshmallow.)</value>
+		<value>(Kdyby Gabbro věděl, že jsem si dělal poznámky, asi by si myslel, že jsem konečně zešílel, ale já odmítám drzost od astronauta, který úmyslně připaluje maršmelouny.)</value>
 	</entry>
 	<entry>
 		<key>SignCharting stars again out by the radio tower — they’re so bright out here! I only wish I were able to record them faster. Admittedly, I could use more patience. I get so engrossed in my work that sunrise becomes an unwelcome deadline, and daylight a grating slog.</key>
@@ -6215,7 +6215,7 @@
 	</entry>
 	<entry>
 		<key>SignI checked with my Little Scout — I do &lt;i&gt;too&lt;/i&gt; use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.</key>
-		<value>Zkontroloval jsem to s Malou sondou - taky ji &lt;i&gt;používám&lt;/i&gt;, Hornfelsi, ty jedna spálená marshmallow - a pozemní integrita je tu na poměry Křehkoduté planety dobrá, ale kdoví.</value>
+		<value>Zkontroloval jsem to s Malou sondou - taky ji &lt;i&gt;používám&lt;/i&gt;, Hornfelsi, ty jeden připálený maršmeloune - a pozemní integrita je tu na poměry Křehkoduté planety dobrá, ale kdoví.</value>
 	</entry>
 	<entry>
 		<key>SignIf the fuel’s still around, feel free to use it. If not, well, wherever you’re reading this note, I’m sure you’ve got bigger problems.</key>
@@ -7399,7 +7399,7 @@
 	</entry>
 	<entry>
 		<key>MallowTalkAre you bringing lots of mallows with you to roast on your trip? Mallows are my favorite!</key>
-		<value>Plánuješ si s sebou vzít hodně marshmallow, aby sis je mohl na výletě opékat? Marshmallows jsou moje oblíbené jídlo! </value>
+		<value>Plánuješ si s sebou vzít hodně maršmelounů, aby sis je mohl na výletě opékat? Maršmelouny jsou moje oblíbené jídlo! </value>
 	</entry>
 	<entry>
 		<key>Tuff</key>
@@ -9983,7 +9983,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro2T_saidhiHey again. If you feel like roasting a mallow, feel free to use my campfire. It’s just up the path a little ways.</key>
-		<value>Znovu ahoj. Jestli si chceš opéct marshmallow, klidně použij můj táborák. Je dál nahoru po téhle stezce.</value>
+		<value>Znovu ahoj. Jestli si chceš opéct maršmeloun, klidně použij můj táborák. Je dál nahoru po téhle stezce.</value>
 	</entry>
 	<entry>
 		<key>GabbroMenuSo what’s up?</key>
@@ -12748,7 +12748,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>103</key>
-			<value>PLAYER PROFILE</value>
+			<value>HRÁČSKÝ PROFIL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>104</key>
@@ -12792,7 +12792,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>114</key>
-			<value>RESET GAME</value>
+			<value>RESTARTOVAT HRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
@@ -12808,11 +12808,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>118</key>
-			<value>Enabled</value>
+			<value>Povoleno</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>119</key>
-			<value>Disabled</value>
+			<value>Zakázáno</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>120</key>
@@ -12840,11 +12840,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>126</key>
-			<value>Show</value>
+			<value>Zobrazit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>127</key>
-			<value>Hide</value>
+			<value>Skrýt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>128</key>
@@ -12924,7 +12924,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>147</key>
-			<value>DO YOU WISH TO APPLY YOUR CHANGES?</value>
+			<value>CHCETE POUŽÍT ZMĚNY?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>150</key>
@@ -12960,11 +12960,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>160</key>
-			<value>Jetpack Boost Mode</value>
+			<value>Režim používání trysek ke skokům</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>161</key>
-			<value>Translator Equip Mode</value>
+			<value>Režim používání překladače</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>162</key>
@@ -12992,7 +12992,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>Translator</value>
+			<value>Překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
@@ -13036,7 +13036,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>186</key>
-			<value>VYTVOŘIT NOVÝ PROFILE</value>
+			<value>VYTVOŘIT NOVÝ PROFIL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>187</key>
@@ -13072,11 +13072,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>196</key>
-			<value>Inverted</value>
+			<value>Invertované</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>197</key>
-			<value>Normal</value>
+			<value>Normální</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>198</key>
@@ -13116,7 +13116,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>208</key>
-			<value>Free Look</value>
+			<value>Volný rozhled</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>209</key>
@@ -13128,7 +13128,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Nasadit překladač</value>
+			<value>Nasadit překladač</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
@@ -13136,7 +13136,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
-			<value>Roll</value>
+			<value>Rotovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>214</key>
@@ -13152,7 +13152,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
-			<value>Look Around</value>
+			<value>Rozhlédnout se kolem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>218</key>
@@ -13204,11 +13204,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>234</key>
-			<value>Photo Mode</value>
+			<value>Fotografický režim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>235</key>
-			<value>Launch Mode</value>
+			<value>Startovací režim</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
@@ -13232,7 +13232,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
-			<value>Remove Snapshot</value>
+			<value>Odstranit fotografii</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>250</key>
@@ -13292,15 +13292,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>271</key>
-			<value>Roast Marshmallow</value>
+			<value>Péct maršmeloun</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>272</key>
-			<value>Talk</value>
+			<value>Mluvit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>273</key>
-			<value>Mluv s</value>
+			<value>Mluvit s</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>274</key>
@@ -13348,11 +13348,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
-			<value>Play Recording</value>
+			<value>Spustit nahrávku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>286</key>
-			<value>Repair</value>
+			<value>Opravit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>287</key>
@@ -13364,23 +13364,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>289</key>
-			<value>Patch Suit Puncture</value>
+			<value>Zalepit trhlinu ve skafandru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>Use Medkit and Refuel Jetpack</value>
+			<value>Použít lékárničku a doplnit palivo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>Use Medkit, Refuel Jetpack, and Clean Visor</value>
+			<value>Použít lekárničku, doplnit palivo a vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
-			<value>Use Medkit</value>
+			<value>Použít lekárničku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>Use Medkit and Clean Visor</value>
+			<value>Použít lekárničku a vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
@@ -13388,11 +13388,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>295</key>
-			<value>Refuel Jetpack and Clean Visor</value>
+			<value>Doplnit palivo a vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>296</key>
-			<value>Clean Visor</value>
+			<value>Vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>297</key>
@@ -13432,15 +13432,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>311</key>
-			<value>Drop </value>
+			<value>Odhodit </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>312</key>
-			<value>Remove </value>
+			<value>Odstranit </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>313</key>
-			<value>Insert </value>
+			<value>Vložit </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
@@ -13476,7 +13476,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
-			<value>Scroll</value>
+			<value>Svitek</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
@@ -13488,7 +13488,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
-			<value>Move Stick</value>
+			<value>Pohybovat klackem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>331</key>
@@ -13496,31 +13496,31 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>332</key>
-			<value>Extend Stick</value>
+			<value>Dát klacek nad plameny</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>333</key>
-			<value>Eat</value>
+			<value>Sníst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>334</key>
-			<value>Toss</value>
+			<value>Zahodit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>Odložit</value>
+			<value>Dost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
-			<value>Extinguish</value>
+			<value>Uhasit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>337</key>
-			<value>Replace</value>
+			<value>Nový</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Zacílit překladač</value>
+			<value>Zacílit překladač</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
@@ -13528,7 +13528,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Přeložit</value>
+			<value>Přeložit</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
@@ -13540,15 +13540,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>345</key>
-			<value>&lt;!&gt; Too close to target text &lt;!&gt;</value>
+			<value>&lt;!&gt; Příliš blízko k zaměření textu &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>346</key>
-			<value>&lt;!&gt; Untranslated Nomai recording &lt;!&gt;</value>
+			<value>&lt;!&gt; Nepřeložená Nomai nahrávka &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>347</key>
-			<value>&lt;!&gt; Untranslated Nomai writing &lt;!&gt;</value>
+			<value>&lt;!&gt; Nepřeložený Nomai nápis &lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
@@ -13588,7 +13588,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>365</key>
-			<value>Skip</value>
+			<value>Zrychlit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>366</key>
@@ -13652,7 +13652,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>400</key>
-			<value>SURFACE INTEGRITY: </value>
+			<value>INTEGRITA POVRCHU: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>401</key>
@@ -13664,11 +13664,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>403</key>
-			<value>VITALS CRITICAL</value>
+			<value>PODPORA ŽIVOTA: KRITICKÁ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>404</key>
-			<value>VITALS LOW</value>
+			<value>PODPORA ŽIVOTA: NÍZKÁ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>405</key>
@@ -13692,7 +13692,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>413</key>
-			<value>ERROR: DUPLICATE SIGNAL</value>
+			<value>CHYBA: DUPLICITNÍ SIGNÁL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>414</key>
@@ -13700,11 +13700,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>415</key>
-			<value>SHIP LOG UPDATED</value>
+			<value>LODNÍ DENÍK AKTUALIZOVÁN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>416</key>
-			<value> (NEW)</value>
+			<value> (NOVÝ)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
@@ -13716,19 +13716,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
-			<value>WARNING: FUEL DEPLETED\\nUSING OXYGEN AS PROPELLANT</value>
+			<value>VAROVÁNÍ: PALIVO VYČERPÁNO\\nPOUŽÍVÁM KYSLÍK JAKO HNACÍ PROSTŘEDEK</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>431</key>
-			<value>REFUELING</value>
+			<value>ČERPÁNÍ PALIVA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>432</key>
-			<value>HEALING</value>
+			<value>LÉČENÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>433</key>
-			<value>HEALING AND REFUELING</value>
+			<value>LÉČENÍ A ČERPÁNÍ PALIVA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>434</key>
@@ -13744,11 +13744,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>440</key>
-			<value>FREQUENCY DISCOVERED:</value>
+			<value>OBJEVENA FREKVENCE:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>441</key>
-			<value>SIGNAL IDENTIFIED:</value>
+			<value>SIGNÁL IDENTIFIKOVÁN:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>442</key>
@@ -13780,7 +13780,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>451</key>
-			<value>UPPER HULL</value>
+			<value>VRCHNÍ TRUP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>452</key>
@@ -13824,7 +13824,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>462</key>
-			<value>ELECTRICAL SYSTEMS</value>
+			<value>ELEKTRONIKA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>463</key>
@@ -13864,7 +13864,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>485</key>
-			<value>AUTOPILOT ABORTED</value>
+			<value>AUTOPILOT VYPNUT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>486</key>
@@ -13872,15 +13872,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>487</key>
-			<value>AUTOPILOT ABORTED: TOO CLOSE TO TARGET</value>
+			<value>AUTOPILOT VYPNUT: PŘÍLIŠ BLÍZKO K CÍLI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>488</key>
-			<value>AUTOPILOT COMPLETE: UNDERSHOT TARGET</value>
+			<value>AUTOPILOT DOKONČEN: CÍL PODSTŘELEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>489</key>
-			<value>AUTOPILOT COMPLETE</value>
+			<value>AUTOPILOT DOKONČEN</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>500</key>
@@ -13896,7 +13896,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>UKONČIT SMYČKU A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
+			<value>UKONČIT CYKLUS A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
@@ -13928,11 +13928,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
-			<value>Enter text...</value>
+			<value>Vložit text...</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>523</key>
-			<value>USER:</value>
+			<value>UŽIVATEL:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>524</key>
@@ -13968,7 +13968,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>556</key>
-			<value>Ship Log Mode</value>
+			<value>Režim lodního deníku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>557</key>
@@ -13980,7 +13980,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>559</key>
-			<value>Roll</value>
+			<value>Rotovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>560</key>
@@ -14044,11 +14044,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>575</key>
-			<value>Thrust Up</value>
+			<value>Tah nahoru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>576</key>
-			<value>Thrust Down</value>
+			<value>Tah dolu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>577</key>
@@ -14064,11 +14064,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>580</key>
-			<value>Map Zoom</value>
+			<value>Přiblížit mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>581</key>
-			<value>Ship Log Zoom</value>
+			<value>Přiblížit lodní deník</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>582</key>
@@ -14204,27 +14204,27 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>656</key>
-			<value>GROVE SHARD</value>
+			<value>ÚLOMEK V HÁJI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>657</key>
-			<value>MUSEUM SHARD</value>
+			<value>ÚLOMEK V MUZEU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>658</key>
-			<value>TOWER SHARD</value>
+			<value>ÚLOMEK VE VĚŽI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>659</key>
-			<value>CAVE SHARD</value>
+			<value>ÚLOMEK V JESKYNI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>660</key>
-			<value>ISLAND SHARD</value>
+			<value>ÚLOMEK NA OSTROVĚ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>661</key>
-			<value>QUANTUM MOON</value>
+			<value>KVANTOVÝ MĚSÍC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>662</key>
@@ -14256,7 +14256,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
-			<value>WHITE HOLE CORE</value>
+			<value>BĚLODĚRNÉ JÁDRO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
@@ -14264,19 +14264,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>681</key>
-			<value>OUTER WILDS VENTURES</value>
+			<value>DIVOČINNÉ VÝPRAVY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>682</key>
-			<value>QUANTUM FLUCTUATIONS</value>
+			<value>KVANTOVÉ FLUKTUACE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>683</key>
-			<value>DISTRESS BEACON</value>
+			<value>NOUZOVÝ SIGNÁL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>684</key>
-			<value>WHITE HOLE</value>
+			<value>BÍLÁ DÍRA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>685</key>
@@ -14368,11 +14368,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>730</key>
-			<value>PLANETARY CHART of the OUTER WILDS</value>
+			<value>PLANETÁRNÍ MAPA OUTER WILDS</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
-			<value>OUTER WILDS VENTURES</value>
+			<value>DIVOČINNÉ VÝPRAVY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
@@ -14688,11 +14688,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
-			<value>Loading... </value>
+			<value>Nahrávám... </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>961</key>
-			<value>UNIDENTIFIED SIGNAL NEARBY</value>
+			<value>NEIDENTIFIKOVANÝ SIGNÁL POBLÍŽ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>962</key>
@@ -14700,15 +14700,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>963</key>
-			<value>DANGER: GHOST MATTER DETECTED NEARBY</value>
+			<value>NEBEZPEČÍ: POBLÍŽ BYLA DETEKOVÁNA ANTIHMOTA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
-			<value>LOAD PREVIOUS SAVE</value>
+			<value>NAČÍST PŘEDCHOZÍ ULOŽENOU POZICI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>965</key>
-			<value> signed out.\\nPlease sign in again to continue.</value>
+			<value> odhlášen.\\nProsím znovu se přihlaš, abys mohl pokračovat.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>966</key>
@@ -14716,7 +14716,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>967</key>
-			<value>SHIP HULL BREACH DETECTED</value>
+			<value>DETEKOVÁNA TRHLINA V TRUPU LODI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>968</key>
@@ -14728,7 +14728,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>970</key>
-			<value> POŠKOZEN</value>
+			<value> POROUCHANÝ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>971</key>
@@ -14740,7 +14740,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>973</key>
-			<value>&lt;color=orange&gt;There's more to explore here.&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;Tady se toho dá prozkoumat více.&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>
@@ -14844,7 +14844,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1010</key>
-			<value>Please ensure that \\n- Outer Wilds has permissions to write to the disk \\n- The hard drive is not full</value>
+			<value>Prosím ujisti se, že \\n- Outer Wilds mají právo k zápisu na disk \\n- disk není plný</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1011</key>
@@ -14864,11 +14864,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1015</key>
-			<value>Discard and Exit</value>
+			<value>Zrušit a ukončit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1016</key>
-			<value>Save and Exit</value>
+			<value>Uložit a ukončit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1017</key>
@@ -14880,11 +14880,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1019</key>
-			<value>Map Zoom In</value>
+			<value>Přiblížit mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1020</key>
-			<value>Map Zoom Out</value>
+			<value>Oddálit mapu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1021</key>
@@ -14936,11 +14936,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1033</key>
-			<value>Change Ship Log Mode</value>
+			<value>Změnit režim lodního deníku</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1034</key>
-			<value>Mark Entry on HUD</value>
+			<value>Zvýraznit záznam na displeji</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1035</key>
@@ -14948,11 +14948,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1036</key>
-			<value>Doze Off</value>
+			<value>Schrupnout si</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1037</key>
-			<value>Fall Asleep</value>
+			<value>Usnout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1038</key>
@@ -14972,7 +14972,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1042</key>
-			<value>File Save Error</value>
+			<value>Chyba uložené pozice</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1043</key>
@@ -15008,11 +15008,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
-			<value>Found recovered data for profile name &lt;Profile Name&gt;. Restore? </value>
+			<value>Nalezena obnovená data pro prifil &lt;Profile Name&gt;. Obnovit? </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1052</key>
-			<value>Overwrite existing data for profile name &lt;Profile Name&gt;?</value>
+			<value>Přepsat existující data pro profil name &lt;Profile Name&gt;?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1100</key>
@@ -15200,7 +15200,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1150</key>
-			<value>Throw Marshmallow</value>
+			<value>Zahodit maršmeloun</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1151</key>
@@ -15560,11 +15560,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1330</key>
-			<value>Continue</value>
+			<value>Pokračovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1331</key>
-			<value>Save Changes?</value>
+			<value>Uložit změny?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1332</key>
@@ -15584,15 +15584,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1336</key>
-			<value>Convert Keys from </value>
+			<value>Změnit tlačítko z </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1337</key>
-			<value> to </value>
+			<value> na </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1338</key>
-			<value> Layout</value>
+			<value> Rozložení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1339</key>
@@ -15624,7 +15624,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1406</key>
-			<value>Active Controller</value>
+			<value>Aktivní ovladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1407</key>
@@ -15656,11 +15656,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
-			<value>Jetpack Auto Boost</value>
+			<value>Automatické použití trysek ke skokům</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Translator Auto Equip</value>
+			<value>Automatické použití překladače</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
@@ -15716,11 +15716,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1450</key>
-			<value>SHIP FUEL DEPLETED</value>
+			<value>PALIVO LODI VYČERPÁNO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1451</key>
-			<value>New Exhibit</value>
+			<value>Nový exponát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
@@ -15728,19 +15728,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
-			<value>Adjust the slider until the image on the left is barely visible.</value>
+			<value>Nastav posuvník tak, aby byl obrázek vlevo sotva viditelný.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1500</key>
-			<value>- NEW EXHIBIT -</value>
+			<value>- NOVÝ EXPONÁT -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1501</key>
-			<value>- COMING SOON -</value>
+			<value>- JIŽ BRZY -</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1502</key>
-			<value>Translator Auto Equip</value>
+			<value>Automatické použití překladače</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1503</key>
@@ -15756,7 +15756,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
-			<value>Amount of detail in waves and lighting quality of the water.\\nRendering cost: High</value>
+			<value>Množsví detaiů vln a kvalita osvětlení vody.\\nNáročnost vykreslování: Vysoká</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
@@ -15764,7 +15764,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
-			<value>Resolution of reflections and darkened interiors in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>Rozlišení odlesků a tmavých interiérů v určitých lokacích napříč herním světem.\\nNáročnost vykreslování: Střední</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1509</key>
@@ -15772,7 +15772,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1510</key>
-			<value>Resolution of reflections in certain locations through the game world.\\nRendering cost: Medium</value>
+			<value>Rozlišení odlesků v určitých lokacích napříč herním světem.\\nNáročnost vykreslování: Střední</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1511</key>
