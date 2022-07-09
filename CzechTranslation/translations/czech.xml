@@ -346,7 +346,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-		<value>PLUME: Pozor: Nezatoulejte se odsud o moc dál. Přestože jsme v trošku labilní oblasti, je bezpečnější než všechny, které jsme dosud nalezli.</value>
+		<value>PLUME: Důležité: Nezatoulejte se odsud o moc dál. Přestože jsme v trošku labilní oblasti, je bezpečnější než všechny, které jsme dosud nalezli.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
@@ -481,7 +481,7 @@
 			FILIX: Of note: A unique signal is coming from this shard! Curiously, our friend the &lt;color=lightblue&gt;wandering moon&lt;/color&gt; sounds the same.
 		</key>
 		<value>
-			FILIX: Za zmínku stojí, že tento úlomek emituje unikátní signál! Zajímavě, náš kamarád &lt;color=lightblue&gt;toulavý měsíc&lt;/color&gt; zní stejně.
+			FILIX: Důležité: Tento úlomek emituje unikátní signál! Zajímavě, náš kamarád &lt;color=lightblue&gt;toulavý měsíc&lt;/color&gt; zní stejně.
 		</value>
 	</entry>
 	<entry>
@@ -1214,11 +1214,11 @@
 	</entry>
 	<entry>
 		<key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
-		<value>Tedy jiné téma, víš, jak já - er, vlastně &lt;i&gt;my&lt;/i&gt; - skočili do černé díry, která se otevřela na konci poslední časové smyčky?</value>
+		<value>Tedy jiné téma, víš, jak já - er, vlastně &lt;i&gt;my&lt;/i&gt; - skočili do černé díry, která se otevřela na konci předchozí časové smyčky?</value>
 	</entry>
 	<entry>
 		<key>Segue2AWhat do you think would happen if you don't jump in this time?</key>
-		<value>Co si myslíš, že se stane, když do ní neskočíme na konci této smyčky?</value>
+		<value>Co si myslíš, že se stane, když do ní neskočíme na konci téhle smyčky?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2AHuh. That's a good question.</key>
@@ -1234,7 +1234,7 @@
 	</entry>
 	<entry>
 		<key>Segue2BSo hey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Hele, co si myslíš, že se stane, když do na konci této smyčky neskočíme do černé díry znovu?</value>
+		<value>Hele, co si myslíš, že se stane, když do na konci téhle smyčky neskočíme do černé díry znovu?</value>
 	</entry>
 	<entry>
 		<key>SelfSegue2BHuh. That's a good question.</key>
@@ -1250,7 +1250,7 @@
 	</entry>
 	<entry>
 		<key>Merge1BI think so, at least. Although here's a question for you — what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>To si také myslím, alespoň. Ale tumáš otázku - co si myslíš, že se stane, když do černé díry neskočíš na konci této smyčky?</value>
+		<value>To si taky myslím, alespoň. Ale tumáš otázku - co si myslíš, že se stane, když do černé díry neskočíš na konci téhle smyčky?</value>
 	</entry>
 	<entry>
 		<key>SelfMerge1BHuh. That's a good question.</key>
@@ -1266,7 +1266,7 @@
 	</entry>
 	<entry>
 		<key>MergeHey, what do you think happens if you don't jump into the black hole again at the end of this loop?</key>
-		<value>Hej, co si myslíš, že se stane, když do černé díry neskočíš na konci této smyčky?</value>
+		<value>Hej, co si myslíš, že se stane, když do černé díry neskočíš na konci téhle smyčky?</value>
 	</entry>
 	<entry>
 		<key>SelfMergeHuh. That's a good question.</key>
@@ -1286,7 +1286,7 @@
 	</entry>
 	<entry>
 		<key>SelfMerge2AUnlike all the other time manipulation we've experienced.</key>
-		<value>Narozdíl od veškeré manipulace s časem, s níž zkušenost máme.</value>
+		<value>Narozdíl od veškeré manipulace s časem, s níž už zkušenost máme.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2ATruly, we are the Feldspar of weird time stuff.</key>
@@ -1298,7 +1298,7 @@
 	</entry>
 	<entry>
 		<key>Merge2BI mean, I &lt;i&gt;feel&lt;/i&gt; as real as ever, so I don't think I'm a figment of your imagination or anything like that.</key>
-		<value>Rozhodně si &lt;i&gt;připadám&lt;/i&gt; stejně reálný jako obvykle, takže si nemyslím, že jsem jen výplod tvé představivost nebo tak něco.</value>
+		<value>Rozhodně si &lt;i&gt;připadám&lt;/i&gt; stejně reálný jako obvykle, takže si nemyslím, že jsem jen výplod tvé představivosti nebo tak něco.</value>
 	</entry>
 	<entry>
 		<key>SelfMerge2BThat's just what a figment of my imagination would say!</key>
@@ -1306,7 +1306,7 @@
 	</entry>
 	<entry>
 		<key>SelfMerge2BI'm no expert, but you seem pretty real to me.</key>
-		<value>Nejsem expert, ale připadáš mi dost skutečně.</value>
+		<value>Nejsem expert, ale připadáš mi dost skutečný.</value>
 	</entry>
 	<entry>
 		<key>Merge2CI guess so!</key>
@@ -1430,7 +1430,7 @@
 	</entry>
 	<entry>
 		<key>post intro menuHey, me.</key>
-		<value>Čau, já.</value>
+		<value>Čauky, já.</value>
 	</entry>
 	<entry>
 		<key>Selfpost intro menuRemember leaving on our first solo trip?</key>
@@ -1490,11 +1490,11 @@
 	</entry>
 	<entry>
 		<key>sun station 3Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</key>
-		<value>I tak je hezké to říci nahlas. Přestože jen sám sobě.</value>
+		<value>I tak je hezké to říct nahlas. Přestože jen sám sobě.</value>
 	</entry>
 	<entry>
 		<key>sun station 4That’s fine. It’s kind of nice to hear it said out loud.</key>
-		<value>V pořádku. Je pěkné to slyšet od někoho nahlas.</value>
+		<value>V pořádku. Je pěkné to od někoho nahlas slyšet.</value>
 	</entry>
 	<entry>
 		<key>sun station 5What? ...Oh, come on, don’t take that away from us!</key>
@@ -1510,7 +1510,7 @@
 	</entry>
 	<entry>
 		<key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
-		<value>Haha, mě také ne. &lt;Pause&gt; ...Evidentně.</value>
+		<value>Haha, mě taky ne. &lt;Pause&gt; ...Evidentně.</value>
 	</entry>
 	<entry>
 		<key>sun station 5bThe worst part is we’re the same person, and you know I’m going to agree with you. (Sigh...)</key>
@@ -1522,7 +1522,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-		<value>CLARY: Mám rád přesnost stejně jako každý další Nomai, ale pokud by se - například - posunul základ věže jen o trošku, tato věž by už nebyla srovnaná se svým hvězdným tělesem.</value>
+		<value>CLARY: Mám ráda přesnost stejně jako každý další Nomai, ale pokud by se - například - jen o trošku posunul základ věže, tak by tato věž už nebyla srovnaná se svým hvězdným tělesem.</value>
 	</entry>
 	<entry>
 		<key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
@@ -1530,7 +1530,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
-		<value>POKE: Stojí za poznámku: To nám dá trošku delší teleportační okno. Myslím, že toto okno bude trvat zhruba několik sekund.</value>
+		<value>POKE: Důležité: To nám dá trošku delší teleportační okno. Myslím, že toto okno bude trvat zhruba několik sekund.</value>
 	</entry>
 	<entry>
 		<key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
@@ -1538,7 +1538,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
-		<value>CLARY: Přesněji řečeno, mám rád přesnost stejně jako každý další Nomai, není-li tím dalším Nomai Poke.</value>
+		<value>CLARY: Přesněji řečeno, mám ráda přesnost stejně jako každý další Nomai, není-li tím dalším Nomai Poke.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Where am I taking this first black hole core? (And where am I taking the remaining cores once they’re ready?)</key>
@@ -1566,7 +1566,7 @@
 	</entry>
 	<entry>
 		<key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
-		<value>POKE: Náčrty každé přijímačové věže najdeš ve &lt;color=lightblue&gt;Vysokoenergetické laboratoři&lt;/color&gt; na &lt;color=orange&gt;Doutnáku&lt;/color&gt;; ukazují jejich polohu. Zeptej se Yarrowa; je s nimi obeznámen.</value>
+		<value>POKE: Náčrty každé věže najdeš ve &lt;color=lightblue&gt;Vysokoenergetické laboratoři&lt;/color&gt; na &lt;color=orange&gt;Doutnáku&lt;/color&gt;; ukazují polohu jejich přijímače. Zeptej se Yarrowa; je s nimi obeznámen.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Be cautious near the boarding area while the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is in operation.</key>
@@ -1574,23 +1574,23 @@
 	</entry>
 	<entry>
 		<key>POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will never activate, because its warp receiver will never align overhead.</key>
-		<value>POKE: Poznámka: Yarrow si myslí, že našel chybu v návrhu warpových věží: jmenovitě, že jedna z warpových věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; se nikdy neaktivuje, protože její warpový příjemce se nikdy nesrovná přímo nad ní.</value>
+		<value>POKE: Důležité: Yarrow si myslí, že našel chybu v návrhu warpových věží: jmenovitě, že jedna z warpových věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; se nikdy neaktivuje, protože její warpový příjemce se nikdy nesrovná přímo nad ní.</value>
 	</entry>
 	<entry>
 		<key>POKE: Does your romantic interest think a warp tower’s alignment point is its &lt;i&gt;receiver&lt;/i&gt;? Does he not know that a warp tower always aligns with the center of its corresponding astral body?</key>
-		<value>POKE: Myslí si tvůj drahý, že zarovnávací bod warpové věže je její &lt;i&gt;přijímač&lt;/i&gt;? To neví, že warpová věž se vždy srovnává se středem jejího korespondujícího hvězdného tělesa?</value>
+		<value>POKE: Myslí si tvůj drahý, že zarovnávací bod warpové věže je její &lt;i&gt;přijímač&lt;/i&gt;? To neví, že warpová věž se vždy srovnává se středem svého cílového hvězdného tělesa?</value>
 	</entry>
 	<entry>
 		<key>CLARY: That isn’t an unreasonable belief, given the receiver &lt;i&gt;does&lt;/i&gt; have to be located on (or in close orbit around) the relevant astral body.</key>
-		<value>CLARY: To není úplně nesmyslná domněnka, vzhledem k tomu, že přijímač &lt;i&gt;musí&lt;/i&gt; být umístěn na daném hvězdněm tělesa (nebo blízce obíhat kolem tohoto tělesa)</value>
+		<value>CLARY: To není úplně nesmyslná domněnka, vzhledem k tomu, že přijímač &lt;i&gt;musí&lt;/i&gt; být umístěn na daném hvězdněm tělesa (nebo blízce obíhat kolem tohoto tělesa).</value>
 	</entry>
 	<entry>
 		<key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
-		<value>CLARY: Vzpomínám si, že tak jsi nejprve chápala warpovou technologii i &lt;i&gt;ty&lt;/i&gt;</value>
+		<value>CLARY: Vzpomínám si také, že tak jsi nejprve chápala warpovou technologii i &lt;i&gt;ty&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
-		<value>CLARY: Ne, Yarrow tenhle rozdíl chápe. To, co si patrně neuvědomuje, je to, že &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt; jsou tak blízko u sebe, že fungují jako jediné hvědzné těleso.</value>
+		<value>CLARY: Ne, Yarrow tenhle rozdíl chápe. To, co si patrně neuvědomuje, je to, že &lt;color=lightblue&gt;Přesýpací dvojčata&lt;/color&gt; jsou tak blízko u sebe, že fungují jako jediné hvězdné těleso.</value>
 	</entry>
 	<entry>
 		<key>
@@ -1610,11 +1610,11 @@
 	</entry>
 	<entry>
 		<key>PYE: The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; will be one of our biggest undertakings (metaphorically &lt;i&gt;and&lt;/i&gt; physically). To build it, we need a way to travel quickly between &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; and each location that holds crucial project materials.</key>
-		<value>PYE: &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; bude jedním z našich největších plánů (metaforicky &lt;i&gt;i&lt;/i&gt; fyzicky) Abychom jej postavili, musíme mít způsob, jak rychle cestovat mezi &lt;color=lightblue&gt;Popelákem&lt;/color&gt; a každým z míst, na kterém jsou kritické projektové materiály.</value>
+		<value>PYE: &lt;color=orange&gt;Projekt na Popeláku&lt;/color&gt; bude jedním z našich největších (metaforicky &lt;i&gt;i&lt;/i&gt; fyzicky). Abychom jej postavili, musíme najít způsob, jak rychle cestovat mezi &lt;color=lightblue&gt;Popelákem&lt;/color&gt; a každým z míst, na kterém jsou kritické projektové materiály.</value>
 	</entry>
 	<entry>
 		<key>ROOT: What if we used warp towers (like the one we have on the &lt;color=orange&gt;White Hole Station&lt;/color&gt;) to connect &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; directly to each critical location?</key>
-		<value>ROOT: Co kdybychom použili warpové věže (jako to, kterou máme na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;), abychom spojili &lt;color=lightblue&gt;Popelák&lt;/color&gt; přímo s každou kritickou lokací?</value>
+		<value>ROOT: Co kdybychom použili warpové věže (jako ta, kterou máme na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;), abychom spojili &lt;color=lightblue&gt;Popelák&lt;/color&gt; přímo s každou kritickou lokací?</value>
 	</entry>
 	<entry>
 		<key>CLARY: Poke, Root, and I can begin work on this immediately in the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; (this will keep us busy!).</key>
@@ -1622,7 +1622,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Of note: Each tower on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; will warp to a different planet.</key>
-		<value>YARROW: Poznámka: Každá z věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; bude teleportovat na jinou planetu.</value>
+		<value>YARROW: Důležité: Každá z věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; bude teleportovat na jinou planetu.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
@@ -1630,7 +1630,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-		<value>PHLOX: &lt;color=orange&gt;Věž pro Obří hlubinu&lt;/color&gt; může například vypadat jako cyklón. A můžeme modelovat &lt;color=orange&gt;věž pro Domopec&lt;/color&gt; jako gejzírovou hůrku!</value>
+		<value>PHLOX: &lt;color=orange&gt;Věž pro Obří hlubinu&lt;/color&gt; může například vypadat jako cyklón. A můžeme vymodelovat &lt;color=orange&gt;věž pro Domopec&lt;/color&gt; jako gejzírovou hůrku!</value>
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
@@ -1690,7 +1690,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
-		<value>YARROW:  Děkuji za poslední dodávku, Oeno! Tato ruda by měla být tou poslední, kterou potřebujeme pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
+		<value>YARROW: Děkuji za poslední dodávku, Oeno! Tato ruda by měla být tou poslední, kterou potřebujeme pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Once we’ve finished the shell that seals off the central chamber, we’ll check to ensure there are no longer any physical entrances. Ramie and I will be checking the interior and then the exterior for cracks (our final safety check).</key>
@@ -1706,19 +1706,19 @@
 	</entry>
 	<entry>
 		<key>OENO: I’m still amazed by how much ore the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires!</key>
-		<value>OENO: Stále mě překvapuje, kolik rudy , &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; spotřeboval!</value>
+		<value>OENO: Stále mě překvapuje, kolik rudy &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; spotřebuje!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: Isn’t this the ore for the remaining towers being built on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;? The completed towers I’ve seen are quite large!</key>
-		<value>CYCAD: Není určený pro ostatní věže na &lt;color=lightblue&gt;Popeláku&lt;/color&gt;? Hotové věže, které jsem viděl, jsou dost velké!</value>
+		<value>CYCAD: Není tahle ruda určena pro ostatní věže na &lt;color=lightblue&gt;Popeláku&lt;/color&gt;? Hotové věže, které jsem viděl, jsou dost velké!</value>
 	</entry>
 	<entry>
 		<key>OENO: No, the material for those towers is all being taken from &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. The ore we’re mining here will be used to craft an immensely thick protective shell that will physically seal off the chamber inside &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;’s core.</key>
-		<value>OENO: Ne, všechen materiál pro ty věže pochází z &lt;color=lightblue&gt;Popeláku&lt;/color&gt;. Ruda, kterou tady těžíme, bude použita k vytvoření nesmírně tlusté protektivní skořápky, která fyzicky zapečetí komoru uvnitř jádra &lt;color=lightblue&gt;Popeláku&lt;/color&gt;.</value>
+		<value>OENO: Ne, všechen materiál pro ty věže pochází z &lt;color=lightblue&gt;Popeláku&lt;/color&gt;. Ruda, kterou tady těžíme, bude použita k vytvoření nesmírně tlusté ochranné skořápky, která fyzicky zapečetí komoru uvnitř jádra &lt;color=lightblue&gt;Popeláku&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: I’m relieved by our clan’s decision to use &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!</key>
-		<value>COLEUS: Mám radost, že se náš klan rozhodl použít rudu z Domopece jen na tuto skořápku. Pokud by se život na této planetě vyvinul do bodu pokročilého hutnictví, jsem si jist, že jsme nezničili jejich tvůrčí možnosti!</value>
+		<value>COLEUS: Mám radost, že se náš klan rozhodl použít rudu z Domopece jen na tuto skořápku. Pokud se život na této planetě kdy vyvine do bodu pokročilého hutnictví, jsem si jist, že jsme nezničili jejich tvůrčí možnosti!</value>
 	</entry>
 	<entry>
 		<key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
@@ -1726,7 +1726,7 @@
 	</entry>
 	<entry>
 		<key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
-		<value>OENO: Myslel jsem, žes svému učedníkovi zakázal slovní hříčky, Coleusi?</value>
+		<value>OENO: Myslel jsem, žes svému učedníkovi zakázal slovní hříčky, Colee?</value>
 	</entry>
 	<entry>
 		<key>COLEUS: How else would he improve?</key>
@@ -1746,7 +1746,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Welcome to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-		<value>POKE: Vítejte na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;! Pokud jste spadli černou dírou omylem (nebojte, nejste první), tato warpová věž vás může navrátit na &lt;color=lightblue&gt;Křehkodutou planetu&lt;/color&gt;.</value>
+		<value>POKE: Vítejte na &lt;color=orange&gt;Běloděré stanici&lt;/color&gt;! Pokud jste omylem spadli do černé díry (nebojte, nejste první ani poslední), tato warpová věž vás může navrátit na &lt;color=lightblue&gt;Křehkodutou planetu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
@@ -1754,15 +1754,15 @@
 	</entry>
 	<entry>
 		<key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
-		<value>Abyste byli teleportováni, musíte během tohoto srovnání stát na warpové plošině v přízemí.</value>
+		<value>Abyste byli teleportováni, musíte během tohoto srovnání stát na warpové plošině na podlaze.</value>
 	</entry>
 	<entry>
 		<key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-		<value>POKE: Pokud vzhlédnete, zatímco stanice rotuje, můžete si všimnout, že srovnání se stane přesně v momentě, kdy je cílové těleso přesně nad vámi.</value>
+		<value>POKE: Pokud vzhlédnete, zatímco stanice rotuje, můžete si všimnout, že ke srovnání dojde přesně v momentě, kdy je cílové těleso přesně nad vámi.</value>
 	</entry>
 	<entry>
 		<key>Gabbro</key>
-		<value>Gabbro</value>
+		<value>Gabbrem</value>
 	</entry>
 	<entry>
 		<key>MeetGabbro3FNice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?</key>
@@ -1790,7 +1790,7 @@
 	</entry>
 	<entry>
 		<key>GabbroGabbro3F_2What did you think it was?</key>
-		<value>Co sis myslel ty, že to je?</value>
+		<value>Čím sis myslel ty, že to je?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_3Heh, right back at you.</key>
@@ -1806,15 +1806,15 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
-		<value>Vypadá to, že ty a já jsme jediní, kteří si všimli, že čas se zacyklil. Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřeli, ale myslel si, že se ptám metaforicky.</value>
+		<value>Vypadá to, že ty a já jsme jediní, kteří si všimli, že čas se zacyklil. Zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřel, ale myslel si, že se ptám metaforicky.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
-		<value>Dokonce i když Hornfelsovi o časové smyčce řeknu, nikdy si to nepamatují v té příští. Neuvědomují si, že je něco jinak.</value>
+		<value>Dokonce i když Hornfelsovi o časové smyčce řeknu, nikdy si to nepamatuje v té příští. Neuvědomuje si, že je něco jinak.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5And here’s another weird one for you - every time I die, all of my memories from that loop replay back to me. I’m pretty sure that’s related to this big stone Nomai statue I found on one of the other islands.</key>
-		<value>A ještě jedna divná věc - pokaždé, když umřu, tak se mi všechny vzpomínky z poslední smyčky přehrají. Myslím, že to souvisí s tou velkou sochou Nomai, kterou jsem našel na jednom z dalších ostrovů.</value>
+		<value>A ještě jedna divná věc - pokaždé, když umřu, tak se mi všechny vzpomínky z poslední smyčky přehrají před očima. Myslím, že to souvisí s tou velkou sochou Nomai, kterou jsem našel na jednom z dalších ostrovů.</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
@@ -1834,7 +1834,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3F_6Anyway, that’s what’s new with me. But hey, this is your first solo voyage! ...Kind of! Let’s talk about you, you know?</key>
-		<value>Takže to se mi v poslední době událo. Ale hej, tohle je tvoje první sólová výprava! ...V zásadě! Pojďme si pohovořit o tobě, co říkáš?</value>
+		<value>Takže to se událo v poslední době mně. Ale hej, tohle je tvoje první sólová výprava! ...V zásadě! Pojďme si pohovořit o tobě, co říkáš?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3F_SecondaryHave you ever watched a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you stare at ’em long enough.</key>
