@@ -4517,7 +4517,7 @@
 		    COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
 		</key>
 		<value>
-			COLEUS: Připomínají mi podzemní druh o kterém mi moje mentorka, Melorae, kdysi povídala (z doby, kdy náš klan cestoval po vesmíru). Představuji si, že by jí tato forma života moc potěšila.
+			COLEUS: Připomínají mi podzemní druh, o kterém mi moje mentorka, Melorae, kdysi povídala (z doby, kdy náš klan cestoval po vesmíru). Představuji si, že by jí tato forma života moc potěšila.
 		</value>
 	</entry>
 	<entry>
@@ -12792,7 +12792,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>114</key>
-			<value>RESTARTOVAT HRU</value>
+			<value>RESETOVAT HRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>115</key>
@@ -12820,7 +12820,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>121</key>
-			<value>INPUT</value>
+			<value>VSTUP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>122</key>
@@ -12836,7 +12836,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>125</key>
-			<value>Manual</value>
+			<value>Manuální</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>126</key>
@@ -12992,7 +12992,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>Překladač</value>
+			<value>Translátor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
@@ -13128,7 +13128,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Nasadit překladač</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
+			<value>Nasadit translátor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
@@ -13252,7 +13252,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>254</key>
-			<value>Parkovací režim</value>
+			<value>Parkování</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>255</key>
@@ -13268,7 +13268,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>258</key>
-			<value>Raise Eject Cover</value>
+			<value>Odstranit prevenci katapultu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>259</key>
@@ -13280,7 +13280,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>261</key>
-			<value>Eject</value>
+			<value>Katapultovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>269</key>
@@ -13424,7 +13424,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
-			<value>Observe</value>
+			<value>Pozorovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>310</key>
@@ -13444,35 +13444,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
-			<value> Does Not Fit</value>
+			<value> nepasuje</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>Already Holding </value>
+			<value>Už držíš </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
-			<value>'Explain' Stone</value>
+			<value>Kámen 'Vysvětli'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>317</key>
-			<value>'Eye of the universe' Stone</value>
+			<value>Kámen 'Oko vesmíru'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>318</key>
-			<value>'Identify' Stone</value>
+			<value>Kámen 'Identifikuj'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>319</key>
-			<value>'Me' Stone</value>
+			<value>Kámen 'Já'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>320</key>
-			<value>'Quantum Moon' Stone</value>
+			<value>Kámen 'Kvantový měsíc'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>321</key>
-			<value>'You' Stone</value>
+			<value>Kámen 'Ty'</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
@@ -13480,11 +13480,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
-			<value>Projection Stone</value>
+			<value>Kámen projekce</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>324</key>
-			<value>Warp Core</value>
+			<value>Warpové jádro</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>330</key>
@@ -13520,7 +13520,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Zacílit překladač</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
+			<value>Zacílit translátor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
@@ -13528,15 +13528,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Přeložit</value><!-- Nefunguje ř a č. Vymyslet jiný překlad, nebo napsat bez diakritiky. -->
+			<value>Použít translátor</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
-			<value>Scroll Text</value>
+			<value>Posunout text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>344</key>
-			<value>Page Text</value>
+			<value>Další stránka textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>345</key>
@@ -13544,11 +13544,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>346</key>
-			<value>&lt;!&gt; Nepřeložená Nomai nahrávka &lt;!&gt;</value>
+			<value>&lt;!&gt; Nepřeložená nahrávka Nomai&lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>347</key>
-			<value>&lt;!&gt; Nepřeložený Nomai nápis &lt;!&gt;</value>
+			<value>&lt;!&gt; Nepřeložený nápis Nomai&lt;!&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
@@ -13624,11 +13624,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>374</key>
-			<value>No discoveries yet.</value>
+			<value>Zatím jsi nic neobjevil.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>375</key>
-			<value>Scroll Text</value>
+			<value>Posunout text</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>380</key>
@@ -13708,7 +13708,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>420</key>
-			<value>Spouštěcí kódy: --|-..|-.</value>
+			<value>Letové kódy: --|-..|-.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
@@ -13752,7 +13752,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>442</key>
-			<value>UNABLE TO PINPOINT LOCATION</value>
+			<value>NELZE NAJÍT LOKACI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>443</key>
@@ -13760,7 +13760,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
-			<value>RETURNING TO SOLAR SYSTEM</value>
+			<value>VRACÍME SE DO SLUNEČNÍHO SYSTÉMU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
@@ -13788,7 +13788,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>453</key>
-			<value>PORT HULL</value>
+			<value>LEVÝ TRUP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>454</key>
@@ -13796,7 +13796,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>455</key>
-			<value>STARBOARD HULL</value>
+			<value>PRAVÝ TRUP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>456</key>
@@ -13820,7 +13820,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>461</key>
-			<value>PORT THRUSTER BANK</value>
+			<value>LEVÝ TRYSKOVÝ KOMPLEX</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>462</key>
@@ -13836,7 +13836,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>465</key>
-			<value>STARBOARD THRUSTER BANK</value>
+			<value>PRAVÝ TRYSKOVÝ KOMPLEX</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>466</key>
@@ -13900,7 +13900,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>MEDITOVAT DO ZAČÁTKU DALŠÍ SMYČKY</value>
+			<value>MEDITOVAT DO DALŠÍHO CYKLU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
@@ -14376,23 +14376,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
-			<value>LITTLE SCOUT</value>
+			<value>SONDOMET</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>733</key>
-			<value>DETECT HAZARDS</value>
+			<value>DETEKUJ RIZIKA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>ILLUMINATE DARK AREAS</value>
+			<value>NASVIŤ TEMNÁ MÍSTA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
-			<value>SEE BEYOND THE HORIZON</value>
+			<value>PODÍVEJ SE ZA HORIZONT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>736</key>
-			<value>TEST THE ENVIRONMENT</value>
+			<value>OTESTUJ OKOLÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>737</key>
@@ -14412,11 +14412,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>800</key>
-			<value>Departure Time: </value>
+			<value>Čas odletu: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>801</key>
-			<value>Arrival Time: </value>
+			<value>Čas příletu: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>802</key>
@@ -14596,19 +14596,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>937</key>
-			<value>The quiet shade</value>
+			<value>Klidný, stinný</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>938</key>
-			<value>Across old bark</value>
+			<value>Přes kůru starou</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>939</key>
-			<value>In the ancient glade</value>
+			<value>Háj pohostinný</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>940</key>
-			<value>It's always dark</value>
+			<value>Tmy tu nastanou</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>941</key>
@@ -14628,11 +14628,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>945</key>
-			<value>MASTER\\nALARM</value>
+			<value>HLAVNÍ\\nALARM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>946</key>
-			<value>EJECT</value>
+			<value>KATAPULTOVAT SE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>947</key>
@@ -14744,11 +14744,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>974</key>
-			<value>UNTRANSLATED TEXT REMAINING</value>
+			<value>ZBÝVÁ NEPŘELOŽENÝ TEXT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>975</key>
-			<value>AFT HULL</value>
+			<value>ZADNÍ TRUP</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>980</key>
@@ -14784,7 +14784,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>988</key>
-			<value>Invalid</value>
+			<value>Neplatný</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>989</key>
@@ -15008,7 +15008,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1051</key>
-			<value>Nalezena obnovená data pro prifil &lt;Profile Name&gt;. Obnovit? </value>
+			<value>Nalezena obnovená data pro profil &lt;Profile Name&gt;. Obnovit? </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1052</key>
@@ -15356,39 +15356,39 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1200</key>
-			<value>The Stranger</value>
+			<value>Cizinec</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
-			<value>THE PRISONER</value>
+			<value>VĚZEŇ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
-			<value>Artifact</value>
+			<value>Artefakt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1212</key>
-			<value>Lantern</value>
+			<value>Lampa</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1213</key>
-			<value>Slide Reel</value>
+			<value>Diapozitiv</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1220</key>
-			<value>Push Raft</value>
+			<value>Zatlačit na raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1221</key>
-			<value>Rotate</value>
+			<value>Rotovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1222</key>
-			<value>Use Interface</value>
+			<value>Použít rozhraní</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1223</key>
-			<value>Release Raft</value>
+			<value>Uvolnit raft</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1224</key>
@@ -15412,23 +15412,23 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1229</key>
-			<value>Open</value>
+			<value>Otevřít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1230</key>
-			<value>Close</value>
+			<value>Zavřít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1231</key>
-			<value>Give</value>
+			<value>Dát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1232</key>
-			<value>Take</value>
+			<value>Vzít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1233</key>
-			<value>Vision Torch</value>
+			<value>Hůl vizí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1234</key>
@@ -15436,35 +15436,35 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1235</key>
-			<value>Project</value>
+			<value>Promítnout</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1236</key>
-			<value>Project Vision</value>
+			<value>Promítnout vizi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1237</key>
-			<value>Rewatch Vision</value>
+			<value>Zopakovat vizi</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1238</key>
-			<value>Scan</value>
+			<value>Skenovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1250</key>
-			<value>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</value>
+			<value>&lt;color=red&gt;CHYBA: Neznámý jazyk&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1251</key>
-			<value>ERROR:\\nMAP OFFLINE</value>
+			<value>CHYBA:\\nMAPA OFFLINE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1260</key>
-			<value>Focus</value>
+			<value>Koncentrovat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1261</key>
-			<value>Conceal</value>
+			<value>Zakrýt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1265</key>
@@ -15476,7 +15476,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1300</key>
-			<value>Return warp status: CHARGED. Step onto warp receiver platform to activate return warp.</value>
+			<value>Status teleportace nazpět: NABITA. Vstupte na warpovou plošinu, abyste se teleportovali nazpět.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1310</key>
@@ -15636,19 +15636,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1410</key>
-			<value>Reduced Frights</value>
+			<value>Zmírnit děsivost</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1411</key>
-			<value>Reduced Frights (Echoes of the Eye)</value>
+			<value>Zmírnit děsivost (Ozvěny oka)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1412</key>
-			<value>Makes certain frightening sequences easier to navigate</value>
+			<value>Zmírní některé děsivé zážitky</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1413</key>
-			<value>The frightening aspects of Echoes of the Eye are part of the intended experience. If they become an obstacle to your enjoyment of Outer Wilds, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Děsivost Ozvěn oka je součástí zážitku. Pokud vám budou vadit, tato možnost některé z nich zmírní.\\nJste si jisti?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
@@ -15676,7 +15676,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
-			<value>Music-only Volume</value>
+			<value>Hlasitost hudby</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1431</key>
@@ -15724,7 +15724,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1452</key>
-			<value>Certain parts of Echoes of the Eye can be intense for some players. If they become an obstacle to your enjoyment of Outer Wilds, a "Reduced Frights" option is available in the gameplay menu.</value>
+			<value>Některé části Ozvěn oka mohou se mohou zdát intenzivní. Pokud vám budou vadit, lze je zmírnit v nastavení. </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1453</key>
@@ -15796,7 +15796,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
-			<value>Děkujeme za podporu Divočinných výprav (Outer Wilds Ventures)! A new museum exhibit is now available in the village observatory.</value>
+			<value>Děkujeme za podporu Divočinných výprav (Outer Wilds Ventures)! V observatoři naleznete nový muzejní exponát.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1521</key>
