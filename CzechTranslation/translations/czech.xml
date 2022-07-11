@@ -8260,7 +8260,7 @@
 		<value>&lt;color=orange&gt;Okres Černoděré kovárny&lt;/color&gt;</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(west 350m)
 		</key>
 		<value>
@@ -8268,7 +8268,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Southern Observatory&lt;/color&gt;\\n(south 550m)
 		</key>
 		<value>
@@ -8276,23 +8276,21 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Crystal Workshop&lt;/color&gt;\\n(above 140m)
+    <key>&lt;color=orange&gt;Gravity Crystal Workshop&lt;/color&gt;\\n(above 140m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Dílna gravitačních krystalů&lt;/color&gt;\\n (nahoru 140m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(east 400m)
+    <key>&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(east 400m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Gravitační kanón&lt;/color&gt;\\n (východně 400m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(north 250m)
 		</key>
 		<value>
@@ -8300,7 +8298,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(west 190m)
 		</key>
 		<value>
@@ -8308,15 +8306,14 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Lower Crossroads&lt;/color&gt;\\n(below 56m)
+    <key>&lt;color=orange&gt;Lower Crossroads&lt;/color&gt;\\n(below 56m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Spodní rozcestí&lt;/color&gt;\\n (dolů 56m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(below 50m)
 		</key>
 		<value>
@@ -8332,15 +8329,14 @@
 		<value>&lt;color=orange&gt;Okres tající vody&lt;/color&gt;</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(left 30m)
+    <key>&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(left 30m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt;\\n (doleva 30m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Crossroads&lt;/color&gt;\\n(east 190m)
 		</key>
 		<value>
@@ -8358,7 +8354,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Entrance to the &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(below 90m)
 		</key>
 		<value>
@@ -8683,7 +8679,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: This is the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, where we both are standing.</key>
-		<value>SOLANUM: Oba stojíme na &lt;color=lightblue&gt;Kvantovén měsícu&lt;/color&gt;. </value>
+		<value>SOLANUM: Oba teď stojíme na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Despite also orbiting other celestial bodies, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;’s moon.</key>
