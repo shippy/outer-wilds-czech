@@ -2046,7 +2046,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
+		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky z každé časové smyčky, kterou jsme absolvovali.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
@@ -2058,11 +2058,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3FMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
+		<value>Což znamená, že dostáváme vzpomínky na věci, co se nám nikdy nestanou. Hustý, co?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bRight, you told me earlier that the point of the statues is to send memories back in time. Which I guess makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Jo, dřív jsi mi řekl, že účelem soch bylo posílat vzpomínky zpětně časem. Což asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
+		<value>Jo, dřív jsi mi řekl, že účelem soch bylo posílat vzpomínky nazpět časem. Což asi dává smysl, vzhledem k tomu, že oba máme vzpomínky z každé časové smyčky, kterou jsme absolvovali.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3bI thought about it some more, and I think that means our minds have gone through all these loops, but we haven’t actually gone through them ourselves.</key>
@@ -2070,7 +2070,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3bMeaning we’re receiving memories of things that technically will never happen to us. Cool, huh?</key>
-		<value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
+		<value>Což znamená, že dostáváme vzpomínky na věci, co se nám nikdy nestanou. Hustý, co?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3FWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2094,7 +2094,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething4FollowUp_3FCome to think of it, though, “broke” might be the wrong word. Because it looks like the Orbital Probe Cannon is still firing successfully at the beginning of each time loop.</key>
-		<value>Když se nad tím ale zamyslím, "rozbilo" možná není správné slovo. Protože Orbitální sondový kanón úspěšně vypálí sondu na začátku každé časové smyčky.</value>
+		<value>Když se nad tím ale zamyslím, "rozbilo" možná není to správné slovo. Protože Orbitální sondový kanón úspěšně vypálí sondu na začátku každé časové smyčky.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4b_3FSo the cannon breaks apart right after it launches, huh. Explains what I’m seeing fall from the sky every loop.</key>
@@ -2114,7 +2114,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5_3FWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
+		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějakou socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6AgainYeah, you mentioned that before. Did I look busy in it? I hope I looked busy.</key>
@@ -2126,7 +2126,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
-		<value>To musí být z doby, když mě Hornfels poslal, abych zkontroloval náš hlubokovesmírný satelit. Mysleli si, že Starý 'smířan možná selhává, ale nenašel jsem jedinou věc, která by na něm byla špatně.</value>
+		<value>To musí být z doby, když mě Hornfels poslal, abych zkontroloval náš hlubokovesmírný satelit. Myslel si, že Starý 'smířan možná selhává, ale nenašel jsem jedinou věc, která by na něm byla špatně.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6Which is probably how it got a shot of my beautiful be-helmeted face, come to think of it.</key>
@@ -2138,7 +2138,7 @@
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Why’d Hornfels think it was broken?</key>
-		<value>Proč si Hornfels mysleli, že je rozbitý?</value>
+		<value>Proč si Hornfels myslel, že je rozbitý?</value>
 	</entry>
 	<entry>
 		<key>GabbroFoundSomething6Um. “Ol’ Spacey”?</key>
@@ -2158,15 +2158,15 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-		<value>Každopádně, pokud chceš někdy navštívit Starého 'smířana, nejrychlejší způsob je skočit do lodi a použít mapu slunečního systému tak, že se navěsíš na satelit stejným způsobem, jakým by ses navěsil na jiné hvězdné těleso.</value>
+		<value>Každopádně, pokud budeš někdy chtít navštívit Starého 'smířana, nejrychlejší způsob je skočit do lodi a použít mapu slunečního systému tak, že se zaměříš na satelit stejným způsobem, jakým by ses zaměřil na jiné hvězdné těleso.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
-		<value>No, ten satelit nění &lt;i&gt;super&lt;/i&gt; starý, ale rozhodně není nový. "Starý" je spíš výraz náklonnosti. ...Bereš to hodně doslova.</value>
+		<value>No, ten satelit není &lt;i&gt;super&lt;/i&gt; starý, ale rozhodně není nový. "Starý" je spíš výraz náklonnosti. ...Bereš to hodně doslova.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-		<value>Starý 'smířan má rád návštěvníky! Nejrychlejší způsob, jak ho najít, je skočit do lodi a použít mapu slunečního systému tak, že se navěsíš na našeho věrného satelitního kamaráda stejným způsobem, jakým by ses navěsil na jiné hvězdné těleso. </value>
+		<value>Starý 'smířan má rád návštěvníky! Nejrychlejší způsob, jak ho najít, je skočit do lodi a použít mapu slunečního systému tak, že se zaměříš na našeho věrného satelitního kamaráda stejným způsobem, jakým by ses zaměřil na jiné hvězdné těleso. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
@@ -2178,7 +2178,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething6cIn case you were hit especially hard, don’t forget that you can jump into your ship and use your solar system map to lock on to any astral body. It’s the easiest way to visit Ol’ Spacey, too.</key>
-		<value>Pokud tě něco praštilo zvlášť silně, nezapomeň, že můžeš skočit do své lodi a použít mapu slunečního systému k tomu, aby ses navěsil na libovolné hvězdné těleso. Je to také nejjednodušší způsob, jak se dostat ke Starému 'smířanovi.</value>
+		<value>Pokud tě něco praštilo zvlášť silně, nezapomeň, že můžeš skočit do své lodi a použít mapu slunečního systému k tomu, aby ses zaměřil na libovolné hvězdné těleso. Je to také nejjednodušší způsob, jak se dostat ke Starému 'smířanovi.</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingExitNo worries. Feel free to let me know when you do find something cool, though. You know where to find me.</key>
@@ -2186,7 +2186,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_1I was hoping you’d be back - something &lt;i&gt;really&lt;/i&gt; weird is going on.</key>
-		<value>Doufal jsem, že se vrátíš - děje se něco &lt;i&gt;opravdu&lt;/i&gt; divného.</value>
+		<value>Doufal jsem, že se vrátíš - děje se něco &lt;i&gt;opravdu&lt;/i&gt; divnýho.</value>
 	</entry>
 	<entry>
 		<key>GabbroGabbro3T_1Do you think we’re in a time loop?</key>
@@ -2222,7 +2222,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_5I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now.</key>
-		<value>Říkal jsem si, že to budě nějaká zpropadená časová záležitost, ale nepřemýšlel jsem o tom, co se děje tvaru času, víš? Ale smyčka dává za těchto okolností smysl. Říkejme tomu pro tuto chvíli "smyčka".</value>
+		<value>Říkal jsem si, že to bude nějaká zpropadená časová záležitost, ale nepřemýšlel jsem o tom, co se děje tvaru času, víš? Ale smyčka dává za těchto okolností smysl. Říkejme tomu pro tuto chvíli "smyčka".</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6So it looks like you and I are the only ones who know we’re in a time loop. And even if you tell them about it, no one remembers by the next loop. What’s with that?</key>
@@ -2230,7 +2230,7 @@
 	</entry>
 	<entry>
 		<key>Gabbro3T_6Maybe it’s because we both made some seriously intense eye contact with a Nomai statue?</key>
-		<value>Možná je to tím, že jsme se oba intenzivně zakoukali do sochy Nomai?</value>
+		<value>Možná je to tím, že jsme si oba intenzivně zakoukali na sochy Nomai?</value>
 	</entry>
 	<entry>
 		<key>Gabbro3T_6I’m seeing my memories replay each time I die, just like I did when the Nomai statue on the beach opened its eyes and looked at me. So maybe... no glowing statue, no time loop awareness?</key>
@@ -2294,11 +2294,11 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_3TYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip - if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_3TSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
@@ -2330,11 +2330,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
+		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky z každé časové smyčky, kterou jsme absolvovali.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Moment, takže nám akorát posílají zpátky časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
+		<value>Moment, takže nám akorát posílají nazpět časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
@@ -2342,7 +2342,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_3TMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
+		<value>Což znamená, že dostáváme vzpomínky na věci, co se nám nikdy nestanou. Hustý, co?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_3TWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2386,7 +2386,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5_3TWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up and scares the daylights out of you.</key>
-		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
+		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějakou sochu zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
 	</entry>
 	<entry>
 		<key>GabbroMainHey, time pal! Nice weather we’re having, huh? &lt;Pause/&gt;...Wait. Have I used that one before?</key>
@@ -2446,7 +2446,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_mergeWell, what are any of us doing here, really?</key>
-		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
+		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_merge...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
@@ -2490,11 +2490,11 @@
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-		<value>Co se země týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
+		<value>Co se souše týče, napočítal jsem čtyři ostrovy, včetně tohoto. Jeden z nich má na pláži tu sochu Nomai.</value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_mergeYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
-		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnou do vody. Mnohem větší šance na přežití.</value>
+		<value>Viděl jsi cyklóny? Jo, je těžké je přehlédnout. Vyhodí všechno po své cestě nahoru, včetně ostrovů. Malá rada - pokud tě popadnou, snaž se dopadnout do vody. Mnohem větší šance na přežití.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething1_mergeSo the Nomai created those head statues to record memories, huh? ...Yeah, I could see the Nomai doing that. Not sure what for, but it seems like their sort of thing.</key>
@@ -2526,11 +2526,11 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeYou’re saying the statues were made so memories could be sent back in time? I guess that makes sense, considering we both have our memories of every loop we’ve gone through.</key>
-		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky zpátky v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky každé časové smyčky, kterou jsme absolvovali.</value>
+		<value>Takže říkáš, že sochy byly vyrobeny proto, aby mohly posílat vzpomínky nazpět v čase? To asi dává smysl, vzhledem k tomu, že oba máme vzpomínky z každé časové smyčky, kterou jsme absolvovali.</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeWait, then it’s just our memories being sent back in time to us, right? Then... are we really experiencing multiple time loops, or not?</key>
-		<value>Moment, takže nám akorát posílají zpátky časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
+		<value>Moment, takže nám akorát posílají nazpět časem vzpomínky, jo? V tom případě... zažíváme skutečně mnoho časových smyček, nebo ne?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeThat’s pretty deep... Like, maybe our consciousnesses have been through all these loops, but maybe our bodies haven’t, because technically the loops never happened.</key>
@@ -2538,7 +2538,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething3_mergeMeaning we’re receiving memories of things that will never happen to us. Cool, huh?</key>
-		<value>Což znamená, že dostáváme vzpomínky věcí, co se nám nikdy nestanou. Hustý, co?</value>
+		<value>Což znamená, že dostáváme vzpomínky na věci, co se nám nikdy nestanou. Hustý, co?</value>
 	</entry>
 	<entry>
 		<key>FoundSomething4_mergeWhoa, that’s the cannon breaking apart at the start of each time loop? For real?</key>
@@ -2570,7 +2570,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5_mergeWhen I’m done exploring, I want to make some more quantum art. Maybe some kind of creature sculpture that just, like, shows up while your back is turned and scares the daylights out of you.</key>
-		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějaká socha zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
+		<value>Až dokončím svou výzkumnou výpravu, chci vytvořit víc kvantového umění. Možná nějakou sochu zvířete, která se najednou ukáže a hrozně tě vyděsí.</value>
 	</entry>
 	<entry>
 		<key>RECORDING</key>
@@ -2614,11 +2614,11 @@
 	</entry>
 	<entry>
 		<key>SignThe old radio tower, while an important landmark, is unfortunately closed thanks to the unsanctioned flight testing of an extremely powerful model rocket.</key>
-		<value>Stará rádiová věž, ač důležitou památkou, je bohužel uzavřena kvůli neautorizovanému letovému testu extrémně ničivé modelové rakety.</value>
+		<value>Stará rádiová věž, ač důležitou památkou, je bohužel uzavřena kvůli neautorizovanému letovému testu extrémně ničivého modelu rakety.</value>
 	</entry>
 	<entry>
 		<key>SignWhile we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory.</key>
-		<value>Přestože doufáme, že rádiovou věž v budoucnosti opravíme, veškerá stavební síla je v tuto chvíli upřena k plánovanému rozšíření muzea v Observatoři.</value>
+		<value>Přestože doufáme, že rádiovou věž v budoucnosti opravíme, veškeré stavební dispozice jsou v tuto chvíli upřeny k plánovanému rozšíření muzea v Observatoři.</value>
 	</entry>
 	<entry>
 		<key>SignSincerest apologies, except to Slate and Mica,\\n\\nHornfels (museum curator)</key>
@@ -2630,7 +2630,7 @@
 	</entry>
 	<entry>
 		<key>SignThese photos were made possible by the deep space satellite’s unusual vertical orbit that carries it high above (and below) the plane of the solar system.</key>
-		<value>Tyto fotky jsou možné díky nezvyklé vertikální oběžné dráze našeho hlubokovesmírného satelitu, která jej nese vysoko nad (a pod) rovinu slunečního systému.</value>
+		<value>Tyto fotky jsou možné díky nezvyklé vertikální oběžné dráze našeho hlubokovesmírného satelitu, která jej nese vysoko nad (a pod) rovinu sluneční soustavy.</value>
 	</entry>
 	<entry>
 		<key>SignThanks to a recent upgrade, the deep space satellite is now responsible for generating the real-time solar system map used by our newest astronauts.</key>
@@ -2654,7 +2654,7 @@
 	</entry>
 	<entry>
 		<key>Slate</key>
-		<value>Slate</value>
+		<value>Slatem</value>
 	</entry>
 	<entry>
 		<key>Scientist1AThere’s our pilot! Back from your pre-launch campout under the stars, I see.</key>
@@ -2674,11 +2674,11 @@
 	</entry>
 	<entry>
 		<key>SlateScientist1AI’m ready if you are.</key>
-		<value>Pokud jste připravení, tak já také.</value>
+		<value>Pokud jsi připravený, tak já také.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>Jsi si &lt;i&gt;jist&lt;/i&gt;, že jste spravili retro-rakety?</value>
+		<value>Jsi si &lt;i&gt;jistý&lt;/i&gt;, že jsi spravil ty retro-rakety?</value>
 	</entry>
 	<entry>
 		<key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
@@ -2694,11 +2694,11 @@
 	</entry>
 	<entry>
 		<key>SlateScientist1BI’m ready if you are.</key>
-		<value>Pokud jste připravení, tak já také.</value>
+		<value>Pokud jsi připravený, tak já také.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-		<value>Jsi si &lt;i&gt;jist&lt;/i&gt;, že jste spravili retro-rakety?</value>
+		<value>Jsi si &lt;i&gt;jistý&lt;/i&gt;, že jsi spravil ty retro-rakety?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
@@ -2714,7 +2714,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
-		<value>Děláš si legraci? Samozřejmě, že jsem připraven - je čas konečně vyzkoušet novou přistávací hydrauliku s pilotem namísto automatu!</value>
+		<value>Děláš si legraci? Samozřejmě, že jsem připravený - je čas konečně vyzkoušet novou přistávací hydrauliku s pilotem namísto automatu!</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13...Speaking of pilots, make sure you don’t crash the ship the first time you put it down, you hear?</key>
@@ -2726,7 +2726,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer15Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</key>
-		<value>Každopádně budeš potřebovat &lt;color=orange&gt;spouštěcí kódy od Hornfelse v observatoři&lt;/color&gt; předtím, než budeš moci vzlétnout. Přines je sem, jakmile se se všemi rozloučíš nebo tak něco.</value>
+		<value>Každopádně budeš potřebovat &lt;color=orange&gt;letové kódy od Hornfelse v observatoři&lt;/color&gt; předtím, než budeš moci vzlétnout. Přines je sem, jakmile se se všemi rozloučíš nebo tak něco.</value>
 	</entry>
 	<entry>
 		<key>Scientist2Not having second thoughts, are you?</key>
@@ -2734,7 +2734,7 @@
 	</entry>
 	<entry>
 		<key>SlateScientist2Where are the launch codes again?</key>
-		<value>Kde jsou tvé spouštěcí kódy?</value>
+		<value>Kde jsou ty letové kódy?</value>
 	</entry>
 	<entry>
 		<key>SlateScientist2How’s the ship looking?</key>
@@ -2762,7 +2762,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Just don’t hurt the ship, that’s all I ask.</key>
-		<value>Jen nezraň svou loď. Jen na tom mi záleží.</value>
+		<value>Jen nerozbit svou loď, o to se tě prosím.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</key>
@@ -2770,11 +2770,11 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-		<value>A Gossan říká, že mají připravenou nulkovou komoru, pokud si chceš vyzkoušet opravy lodi ve vesmíru. Neříkám, že &lt;i&gt;musíš&lt;/i&gt;, ale aspoň by mě Gossan přestal otravovat.</value>
+		<value>A Gossan říká, že má připravenou nulkovou komoru, pokud si chceš vyzkoušet opravy lodi ve vesmíru. Neříkám, že &lt;i&gt;musíš&lt;/i&gt;, ale aspoň by mě Gossan přestal otravovat.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
-		<value>Hornfels má spouštěcí kódy. Měl by být v observatoři, jako obvykle. Začínám si myslet, že tam žije.</value>
+		<value>Letové kódy má Hornfels. Měl by být v observatoři, jako obvykle. Začínám si myslet, že tam žije.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer22Great! Hey, you might get a kick out of this - I’ve repurposed the spare oxygen tank to be used as an extra combustion chamber!</key>
@@ -2802,7 +2802,7 @@
 	</entry>
 	<entry>
 		<key>Scientist3Oh, hold up, you’re going to want to get the launch codes from the observatory first.</key>
-		<value>Počkej, budeš nejdřív potřebovat spouštěcí kódy z observatoře.</value>
+		<value>Počkej, budeš nejdřív potřebovat letové kódy z observatoře.</value>
 	</entry>
 	<entry>
 		<key>SlateScientist3I already got them from the observatory, remember?</key>
@@ -2830,7 +2830,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer32I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>Nebudu se ptát, jak jsi získal spouštěcí kódy, ale jelikož je máš, tak s tím pohněme! Chci vidět, zda nový kokpit při vzletu zůstane spojený se zbytkem lodi.</value>
+		<value>Nebudu se ptát, jak jsi získal letové kódy, ale jelikož je máš, tak s tím pohněme! Chci vidět, zda nový kokpit při vzletu zůstane napojený na zbytek lodi.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer33Uh, &lt;i&gt;no&lt;/i&gt;...? You have a bad dream or something?</key>
@@ -2838,11 +2838,11 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer33I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff.</key>
-		<value>Nebudu se ptát, jak jsi získal ty kódy, takže si pospěšme, než Hornfelse napadne, že by tě měl ze zdravotních důvodů stáhnout. Chci vidět, zda nový kokpit při vzletu zůstane spojený se zbytkem lodi.</value>
+		<value>Nebudu se ptát, jak jsi získal ty kódy, takže si pospěšme, než Hornfelse napadne, že by tě měl ze zdravotních důvodů stáhnout. Chci vidět, zda nový kokpit při vzletu zůstane napojený na zbytek lodi.</value>
 	</entry>
 	<entry>
 		<key>Scientist4Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.\\nWe’re working on fixing the autopilot’s avoidance system for this one!</key>
-		<value>Vypadá to, že jsi připravený na start! Vzletové vzrušení je sice zábavné, ale už se těším, až se budu moci vrátit k práci na nové lodi.\\nPro tu loď snad implementujeme i vyhýbací systém pro autopilota!</value>
+		<value>Vypadá to, že jsi připravený na start! Předletové vzrušení je sice švanda, ale už se těším, až se budu moci vrátit k práci na nové lodi.\\nPro tu loď snad implementujeme i vyhýbací systém pro autopilota!</value>
 	</entry>
 	<entry>
 		<key>Scientist4...Uh, sorry.</key>
@@ -2914,7 +2914,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Between you and me, I glossed over some of the finer details. Astrophysics is really more Hornfels’s domain.</key>
-		<value>Jen tak mezi námi, přeskočil jsem přes většinu detailů. Astrofyzika je spíš Hornfelsova záliba.</value>
+		<value>Jen tak mezi námi, přeskočil jsem většinu detailů. Astrofyzika je spíš Hornfelsova záliba.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer39Me, I’m here for the rocket science and the marshmallows.</key>
@@ -2930,7 +2930,7 @@
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_IntroYeah yeah yeah, I already know about the launch codes.</key>
-		<value>Jo jo jo, už mám spouštěcí kódy.</value>
+		<value>Jo jo jo, už mám letové kódy.</value>
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</key>
@@ -2938,7 +2938,7 @@
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
-		<value>Je to brilantní funkce, nemůžu si ji vynachválit. Extrémně užitečná. A riziko, že vyzkratuje regulátor pohonu a vznítí celou loď je tak minimální, že jen Gossan by se o něj staral.</value>
+		<value>Je to brilantní funkce, nemůžu si ji vynachválit. Extrémně užitečná. A riziko, že vyzkratuje regulátor pohonu a vznítí celou loď je tak minimální, že by se o něj staral jen Gossan.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_1Wait, so how do I use it?</key>
@@ -2974,7 +2974,7 @@
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_2“Wow, Slate! How do you come up with these incredible ideas?” Oh, I do the best I can with what I’ve got. Really, you’re too kind.</key>
-		<value>"Wow, Slate! Kde na všechny tyhle neskutečné nápady přicházíš?" Jen se snažím o to nejlepší, co s sebou mohu udělat. Jsi moc laskav.</value>
+		<value>"Wow, Slate! Kde na všechny tyhle neskutečné nápady přicházíš?" Jen se snažím o to nejlepší, co se sebou mohu udělat. Jsi moc laskav.</value>
 	</entry>
 	<entry>
 		<key>SlateSlate_ShipLog_2Slate, you are a technological marvel.</key>
@@ -3002,35 +3002,35 @@
 	</entry>
 	<entry>
 		<key>Slate_ShipLog_3Anyway, I’ve got a fire to enjoy, and you’ve got launch codes to grab. Go wild with the marking feature while you're out there. Just, uh, try not to follow it so directly you fly into the sun, okay?</key>
-		<value>Každopádně, já tu mám oheň, kterého si chci řádně užít, a ty musíš dojít pro spouštěcí kódy. Pořádně protřep označování lokací, až budeš tam nahoře. Jen, um, nevleť přímo do slunce, až budeš označenou lokaci následovat, oukej?</value>
+		<value>Každopádně, já tu mám oheň, kterého si chci řádně užít, a ty musíš dojít pro letové kódy. Pořádně protřep označování lokací, až budeš tam nahoře. Jen, um, nevleť přímo do slunce, až budeš označenou lokaci následovat, oukej?</value>
 	</entry>
 	<entry>
-		<key>
-			WARNING: Increased solar activity detected.
+    <key>
+		    WARNING: Increased solar activity detected.
 		</key>
 		<value>
 			VAROVÁNÍ: Detekována zvýšená sluneční aktivita.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			WARNING: Increased volcanic activity detected.
+    <key>
+		    WARNING: Increased volcanic activity detected.
 		</key>
 		<value>
 			VAROVÁNÍ: Detekována zvýšená sopečná aktivita.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			VERDICT: Location is now inhospitable. Evacuation recommended.
+    <key>
+		    VERDICT: Location is now inhospitable. Evacuation recommended.
 		</key>
 		<value>
 			VERDIKT: Lokace je nyní nehostinná. Evakuace doporučena.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
+    <key>
+		    ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe.
 		</key>
 		<value>
 			CHYBA: Není možné určit oběžnou dráhu. Nedetekujeme žádný signál, který by vyhovoval jakýmkoliv známým kritériím pro Oko vesmíru.
@@ -3038,7 +3038,7 @@
 	</entry>
 	<entry>
 		<key>Feldspar</key>
-		<value>Feldspar</value>
+		<value>Feldsparem</value>
 	</entry>
 	<entry>
 		<key>Feldspar1Whoa!</key>
@@ -3786,7 +3786,7 @@
 	</entry>
 	<entry>
 		<key>HalFriend1bJust here for the launch codes.</key>
-		<value>Jsem tu jen pro spouštěcí kódy.</value>
+		<value>Jsem tu jen pro letové kódy.</value>
 	</entry>
 	<entry>
 		<key>Friend2Heh, I knew you’d want to see it before you headed off! Hornfels just finished prepping it for display today. Amazing, isn’t it?</key>
@@ -6475,7 +6475,7 @@
 	</entry>
 	<entry>
 		<key>PostZeroGI can see you’re itching to get off this rock, so go get the &lt;color=orange&gt;launch codes from the observatory&lt;/color&gt; and get out of here already.</key>
-		<value>Vidím, že už máš roupy, takže si běž pro &lt;color=orange&gt;spouštěcí kódy do observatoře&lt;/color&gt; a konečně se odsud dostaň. </value>
+		<value>Vidím, že už máš roupy, takže si běž pro &lt;color=orange&gt;letové kódy do observatoře&lt;/color&gt; a konečně se odsud dostaň. </value>
 	</entry>
 	<entry>
 		<key>PostZeroGBest of luck out there! And hey, try to avoid getting yourself killed now that I’ve put so much time into training you, got it?</key>
@@ -10211,7 +10211,7 @@
 	</entry>
 	<entry>
 		<key>Curator9Excellent! You’ll be needing the &lt;color=orange&gt;launch codes&lt;/color&gt;, then.</key>
-		<value>Skvěle! Budeš potřebovat &lt;color=orange&gt;spouštěcí kódy&lt;/color&gt;. </value>
+		<value>Skvěle! Budeš potřebovat &lt;color=orange&gt;letové kódy&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>Curator9Here they are. Best get off the ground before Slate makes any more modifications to your ship, eh?</key>
@@ -10227,7 +10227,7 @@
 	</entry>
 	<entry>
 		<key>Curator10At any rate, here are the &lt;color=orange&gt;launch codes&lt;/color&gt;. Try not to worry too much - our ships are every bit as safe as Slate could be persuaded to make them.</key>
-		<value>Na každý pád, tumáš &lt;color=orange&gt;spouštěcí kódy&lt;/color&gt;. Neboj se - naše lodě jsou od té doby, co Slata nenecháme dělat všechna rozhodnutí, mnohem bezpečnější. </value>
+		<value>Na každý pád, tumáš &lt;color=orange&gt;letové kódy&lt;/color&gt;. Neboj se - naše lodě jsou od té doby, co Slata nenecháme dělat všechna rozhodnutí, mnohem bezpečnější. </value>
 	</entry>
 	<entry>
 		<key>Curator10Best of luck out there! Let me know if I can help you with anything.</key>
@@ -13324,11 +13324,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>280</key>
-			<value>Zadat spouštěcí kódy</value>
+			<value>Zadat letové kódy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Vyžaduje spouštěcí kódy</value>
+			<value>Vyžaduje letové kódy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
