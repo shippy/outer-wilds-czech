@@ -3726,7 +3726,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: I see! I most likely calibrated the locator incorrectly. Privet (my apprentice) and I will make adjustments and try again.</key>
-		<value>FILIX: Ach tak! Pravděpodobně jsem lokátor nastavil chybně. Privet (můj učedník) a já jej upravíme a zkusíme to znovu.</value>
+		<value>FILIX: Ach tak! Pravděpodobně jsem lokátor nastavila chybně. Privet (moje učednice) a já jej upravíme a zkusíme to znovu.</value>
 	</entry>
 	<entry>
 		<key>FILIX: An update: Disappointingly, everything is correctly calibrated after all.</key>
@@ -4285,7 +4285,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: I’m recording now — I’ve never encountered anything like this! The signal the &lt;color=orange&gt;Vessel&lt;/color&gt; is receiving appears to be &lt;i&gt;older than the universe itself&lt;/i&gt;!</key>
-		<value>FILIX: Nyní nahrávám - nikdy jsem neviděl nic jako tohle! Signál, který naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; zachytilo, se zdá být &lt;i&gt;starším než vesmír samotný!&lt;/i&gt;</value>
+		<value>FILIX: Nyní nahrávám - nikdy jsem neviděla nic jako tohle! Signál, který naše &lt;color=orange&gt;Plavidlo&lt;/color&gt; zachytilo, se zdá být &lt;i&gt;starším než vesmír samotný!&lt;/i&gt;</value>
 	</entry>
 	<entry>
 		<key>ESCALL: This is our first contact with anything of this nature. Everyone, prepare to warp immediately!</key>
@@ -4293,7 +4293,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Escall, wait, I need more time to send an outgoing message! Shouldn’t we tell another clan where we’re going?</key>
-		<value>FILIX: Escalle, počkej, potřebuji více času na to, abych odeslal zprávu! Neměli bychom říci jinému klanu, kam jdeme?</value>
+		<value>FILIX: Escalle, počkej, potřebuji více času na to, abych odeslala zprávu! Neměli bychom říci jinému klanu, kam jdeme?</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We can send the message upon our arrival. This extraordinary signal appeared suddenly; it may disappear just as quickly, and we can’t lose a discovery this incredible! Focus on preparing for the warp, instead.</key>
@@ -4476,7 +4476,7 @@
 		    COLEUS: On the opposite hand, new life! This species is semi-aquatic, and very hardy. The ecosystem here is quite robust, so I believe they’ll thrive in the long run. Be cautious near the pools if you visit 2a to meet them.
 		</key>
 		<value>
-			COLEUS: Na druhou stranu, nový život! Tento druh je polo-vodní, a velmi odolný. Ekosystém je to vcelku robustní, takže věřím, že dlouhodobě se jim bude dařit. Pokud chcete navštívit 2a a setkat se s nimi, buďte opatrní kolem jezírek.
+			COLEUS: Na druhou stranu, nový život! Tento druh je polo-vodní, a velmi odolný. Ekosystém je tu vcelku robustní, takže věřím, že dlouhodobě se jim bude dařit. Pokud chcete navštívit 2a a setkat se s nimi, buďte opatrní kolem jezírek.
 		</value>
 	</entry>
 	<entry>
@@ -4492,7 +4492,7 @@
 		    OENO: This sounds promising! Will you and your mentor investigate? If mining site 2b proves safe for this native species, we’ll move our work there.
 		</key>
 		<value>
-			OENO: To zní slibně! Mohli byste se na něj ty a tvůj mentor podívat? Pokud je důl 2b bezpečný pro tento domorodý druh, přesuneme svou práci tam.
+			OENO: To zní slibně! Mohli byste se jej ty a tvůj mentor prozkoumat? Pokud je důl 2b bezpečný pro tento domorodý druh, přesuneme svou práci tam.
 		</value>
 	</entry>
 	<entry>
@@ -4516,7 +4516,7 @@
 		    COLEUS: They remind me of a subterranean species that my mentor, Melorae, once told me about (from when our clan used to travel across this universe). I imagine she would have enjoyed these lifeforms greatly.
 		</key>
 		<value>
-			COLEUS: Připomínají mi podzemní druh, o kterém mi moje mentorka, Melorae, kdysi povídala (z doby, kdy náš klan cestoval po vesmíru). Představuji si, že by jí tato forma života moc potěšila.
+			COLEUS: Připomínají mi podzemní druh, o kterém mi moje mentorka, Melorae, kdysi povídala (z doby, kdy náš klan cestoval po vesmíru). Myslím, že by jí tato forma života moc potěšila.
 		</value>
 	</entry>
 	<entry>
@@ -5065,7 +5065,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
-		<value>THATCH: Musíme zůstat blízko k &lt;color=orange&gt;záchrannému člunu&lt;/color&gt;, aby Filix mohl monitorovat příchozí zprávy. Nemůžeme být zachráněni, pokud neodpovíme.</value>
+		<value>THATCH: Musíme zůstat blízko k &lt;color=orange&gt;záchrannému člunu&lt;/color&gt;, aby Filix mohla monitorovat příchozí zprávy. Nemůžeme být zachráněni, pokud neodpovíme.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
@@ -5093,7 +5093,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</key>
-		<value>FILIX: Spatřili jste někdo &lt;color=lightblue&gt;fantomový měsíc&lt;/color&gt;, který nás občas vítá na noční obloze? Zajímaly by mne vaše myšlenky.. </value>
+		<value>FILIX: Spatřili jste někdo &lt;color=lightblue&gt;fantomový měsíc&lt;/color&gt;, který nás občas vítá na noční obloze? Zajímaly by mne vaše myšlenky.</value>
 	</entry>
 	<entry>
 		<key>THATCH: I compliment your eyes! How do you imagine it disappears? Hypothesis: Could it be a shift in the light spectrum?</key>
@@ -6046,7 +6046,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
-		<value>FILIX: To je skvělé! Nemůžu se dočkat, až uvidím warpovou věž (ačkoliv už je to drahnou dobu, co jsem skočil černou dírou!). </value>
+		<value>FILIX: To je skvělé! Nemůžu se dočkat, až uvidím warpovou věž (ačkoliv už je to drahnou dobu, co jsem skočila černou dírou!). </value>
 	</entry>
 	<entry>
 		<key>POKE: I don’t know how close it is to Annona’s original design, but as long as what we’ve built works, then I’m delighted! I knew we could do it (Cassava, I hope you’re reading this)!</key>
