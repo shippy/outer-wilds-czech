@@ -4748,7 +4748,7 @@
 	</entry>
 	<entry>
 		<key>Be welcomed in this place. This shrine is a space to reflect on what brought us to this star system: the signal from the &lt;color=lightblue&gt;Eye&lt;/color&gt;. </key>
-		<value>Vítejte na tomto místě. Tato svatyně poskytuje prostor, v němž můžeme přemýšlet o tom, co nás do tohoto planetárního systému přivedlo: signál &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
+		<value>Vítejte na tomto místě. Tato svatyně nám poskytuje prostor, v němž můžeme přemýšlet o tom, co nás do tohoto planetárního systému přivedlo: signál &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. </key>
@@ -4756,7 +4756,7 @@
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn.</key>
-		<value>Co víme: Zdroj tohoto signálu, (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme ještě zjistit.</value>
+		<value>Co víme: Zdroj tohoto signálu (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme ještě zjistit.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities.</key>
@@ -4768,7 +4768,7 @@
 	</entry>
 	<entry>
 		<key>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</key>
-		<value>RAMIE: Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; je přinejlepším rozbité (vzpomeňte si,že když &lt;color=orange&gt;Plavidlo&lt;/color&gt; havarovalo, řeklo nám, že prodělalo smrtelné zranění.) Toto riziko nemá zaručenou odměnu.</value>
+		<value>RAMIE: Warpové jádro &lt;color=orange&gt;Plavidla&lt;/color&gt; je přinejlepším rozbité (vzpomeňte si,že když &lt;color=orange&gt;Plavidlo&lt;/color&gt; havarovalo, řeklo nám, že prodělalo smrtelné zranění.) Podstoupit toto riziko nezaručuje odměnu.</value>
 	</entry>
 	<entry>
 		<key>CONOY: Perhaps we could still repair it. My grandmother told me there was little time to assess the nature or extent of the damage.</key>
@@ -4784,7 +4784,7 @@
 	</entry>
 	<entry>
 		<key>CYCAD: My mentor (Coleus) and his old mentor once discovered and studied an anglerfish fossil on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;. Using that knowledge, we could avoid the anglerfish entirely!</key>
-		<value>CYCAD: Můj mentor (Coleus) a jeho mentor jednou objevili a studovali fosílii ďase na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;. Za pomoci těchto znalostí bychom se mohli ďasům zcela vyhnout!</value>
+		<value>CYCAD: Můj mentor (Coleus) a jeho mentorka jednou objevili a studovali fosílii ďase na &lt;color=lightblue&gt;Doutnáku&lt;/color&gt;. Za pomoci těchto znalostí bychom se mohli ďasům zcela vyhnout!</value>
 	</entry>
 	<entry>
 		<key>COLEUS: What Melorae and I learned from that fossil would theoretically help us evade the anglerfish, but our hypothesis was never tested on a live specimen.</key>
@@ -4795,7 +4795,7 @@
 		<value>RAMIE: Na tu zkamenělinu ďase si pamatuji! Hrávali jsme si v &lt;color=orange&gt;Jeskyni rybí zkameněliny&lt;/color&gt;, když jsme byli děti.</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: I no longer believe, as I did as a child on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, that the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; (the source of the signal) wishes to harm us. But it may not want to be found, either.
 		</key>
 		<value>
@@ -4803,7 +4803,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: The terrible circumstances of our arrival here were almost certainly exactly that: circumstance.
 		</key>
 		<value>
@@ -4811,7 +4811,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: I suspect imagining we are special to the &lt;color=lightblue&gt;Eye&lt;/color&gt; in some way is wishful thinking. The &lt;color=lightblue&gt;Eye&lt;/color&gt; might have called out to any sentient species.
 		</key>
 		<value>
@@ -4819,7 +4819,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: Or it might not have been calling out at all, and that my ancestors heard the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal holds no great, deep meaning.
 		</key>
 		<value>
@@ -4827,7 +4827,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: This wouldn’t be so bad, I think.
 		</key>
 		<value>
@@ -4835,7 +4835,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			SOLANUM: In fact, the &lt;color=lightblue&gt;Eye&lt;/color&gt; may not have wishes at all. We have no evidence supporting this.
 		</key>
 		<value>
@@ -4843,7 +4843,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: Why We Should Build A New Vessel
 		</key>
 		<value>
@@ -4851,7 +4851,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: Each Nomai clan explores the universe in its own Vessel. The Vessel is the heart of every clan.
 		</key>
 		<value>
@@ -4859,7 +4859,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: It’s unusual for Nomai to remain in one place for so long. Nomai are wanderers and have no permanent home.
 		</key>
 		<value>
@@ -4867,7 +4867,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: If we built a new Vessel, we could return to our adventurous way of life. Imagine all the new places we could go! Our clan wouldn’t be stuck here in this star system.
 		</key>
 		<value>
@@ -4875,7 +4875,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: We could even meet with other Nomai, and learn from them, like Coleus says we used to do.
 		</key>
 		<value>
@@ -4883,31 +4883,31 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: It probably wouldn’t be hard to get parts if we stopped building other new things, and if we broke down other structures (like the towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;) for parts.
 		</key>
 		<value>
-			ILEX: Nebylo by složité vyrobit součástky, kdybychom přestali vyrávět jiné nové věci, a kdybychom rozebrali ostatní struktury (jako třeba věže na &lt;color=lightblue&gt;Popeláku&lt;/color&gt;).
+			ILEX: Nebylo by složité vyrobit součástky, kdybychom přestali vyrábět jiné nové věci, a kdybychom rozebrali ostatní struktury (jako třeba věže na &lt;color=lightblue&gt;Popeláku&lt;/color&gt;).
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
 		<value>
-			ILEX: Možná bychom pro tuto chvíli museli vybudovat menší Plavidlo, přestože Plavidla jsou normálně velká. Ale mohli bychom ji zvětšit později, až bychom dorazili k planetám s více zdroji.
+			ILEX: Možná bychom pro tuto chvíli museli vybudovat menší Plavidlo, přestože Plavidla jsou normálně velká. Ale mohli bychom jej zvětšit později, až bychom dorazili k planetám s více zdroji.
 		</value>
 	</entry>
 	<entry>
-		<key>
-			ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
+    <key>
+			 ILEX: It would also help if we stopped building so many things to search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;. I asked Yarrow, and he says we use lots of resources on the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.
 		</key>
 		<value>
-			ILEX: Taky by pomohlo, kdybychom přestali budovat tolik pomůcek pro hledání &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Zeptal jsem se Yarrowa, a ten říká, že používáme mnoho zdrojů na &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.
+			ILEX: Taky by pomohlo, kdybychom přestali budovat tolik pomůcek pro hledání &lt;color=lightblue&gt;Oka vesmíru&lt;/color&gt;. Zeptal jsem se Yarrowa, a ten říká, že vyžíváme mnoho prostředků na &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			ILEX: We could even have a warp core for jumping long distances like Vessels have. Poke tells me she plans to make a very advanced warp core for a different project. I’m sure she could connect it to the Vessel for travel (because Poke is smart).
 		</key>
 		<value>
@@ -4928,7 +4928,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: No, I... I’m unable to make contact. My equipment can hear the other two escape pods’ distress signals, however. If it’s any comfort, both pods must be structurally intact.</key>
-		<value>FILIX: Ne, nedokážu... nelze se s nimi spojit. Moje přístroje ale slyší tísňové signály obou záchrannách člunů. Je-li to nějakou útěchou, znamená to alespoň, že oba čluny musí být strukturálně v pořádku.</value>
+		<value>FILIX: Ne, nedokážu... nelze se s nimi spojit. Moje přístroje ale slyší tísňové signály obou záchranných člunů. Je-li to nějakou útěchou, znamená to alespoň, že oba čluny musí být strukturálně v pořádku.</value>
 	</entry>
 	<entry>
 		<key>FILIX: I’ll continue calling for them.</key>
@@ -4976,7 +4976,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</key>
-		<value>PRIVET: Ani lokátor, který jsem vybudovali na &lt;color=lightblue&gt;Vytěženci&lt;/color&gt;, ani nový a citlivější lokátor, který jsme vybudovali tady, nedokázal detekovat byť jen stopu signálu &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
+		<value>PRIVET: Ani lokátor, který jsme vybudovali na &lt;color=lightblue&gt;Vytěženci&lt;/color&gt;, ani nový a citlivější lokátor, který jsme vybudovali tady, nedokázal detekovat byť jen stopu signálu &lt;color=lightblue&gt;Oka&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</key>
@@ -4996,7 +4996,7 @@
 	</entry>
 	<entry>
 		<key>MALLOW: Based on our knowledge of the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, we believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in orbit around this star system’s &lt;color=lightblue&gt;sun&lt;/color&gt;. This would mean the &lt;color=lightblue&gt;Eye&lt;/color&gt; is located within a finite (albeit enormous) range.</key>
-		<value>MALLOW: Na základě našeho pochopení &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; věříme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; obíhá kolem &lt;color=lightblue&gt;slunce&lt;/color&gt; tohoto planetárního systému. To by znamenalo, že &lt;color=lightblue&gt;Oko&lt;/color&gt; se nalézá v konečné (ač obrovské) vzdálenosti od nás.</value>
+		<value>MALLOW: Na základě našeho chápání &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; věříme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; obíhá kolem &lt;color=lightblue&gt;slunce&lt;/color&gt; tohoto planetárního systému. To by znamenalo, že &lt;color=lightblue&gt;Oko&lt;/color&gt; se nalézá v konečné (ač obrovské) vzdálenosti od nás.</value>
 	</entry>
 	<entry>
 		<key>CONOY: How should our methods change as we continue our search for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?</key>
@@ -5004,7 +5004,7 @@
 	</entry>
 	<entry>
 		<key>PRIVET: As we couldn’t find the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal using two different devices built for this exact purpose, we should discontinue this search method.</key>
-		<value>PRIVET: Vzhledem k tomu, že jsme nenašli signál &lt;color=lightblue&gt;Oka&lt;/color&gt; za pomocí dvou různých lokátorů vyrobených pro tento specifický cíl, bychom měli přestat budovat lokátory.</value>
+		<value>PRIVET: Vzhledem k tomu, že jsme nenašli signál &lt;color=lightblue&gt;Oka&lt;/color&gt; za pomocí dvou různých lokátorů vyrobených pro tento specifický cíl, bychom patrně měli přestat budovat lokátory.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: We know what the &lt;color=lightblue&gt;Eye&lt;/color&gt; looks like thanks to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, so what if we try to find the &lt;color=lightblue&gt;Eye&lt;/color&gt; visually, instead? Let’s send out a probe!</key>
@@ -5012,7 +5012,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Mallow’s idea is clever, but we have no idea where the &lt;color=lightblue&gt;Eye&lt;/color&gt; is in relation to here. The probability of launching a probe in the correct direction would be absurdly small.</key>
-		<value>CASSAVA: Mallowova myšlenka je chytrá, ale nemáme sebemenší potuchy, kde &lt;color=lightblue&gt;Oko&lt;/color&gt; může být. Pravděpodobnost, že bychom vystřelili sondu správným směrem, je absurdně malá.</value>
+		<value>CASSAVA: Myšlenka Mallow je chytrá, ale nemáme sebemenší potuchy, kde &lt;color=lightblue&gt;Oko&lt;/color&gt; může být. Pravděpodobnost, že bychom vystřelili sondu správným směrem, je absurdně malá.</value>
 	</entry>
 	<entry>
 		<key>CONOY: I believe I have a solution for that problem! Have you spoken with Ramie and Pye about the technology they’re developing?</key>
@@ -5028,7 +5028,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Yes, let’s build the cannon in orbit around &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;!</key>
-		<value>AVENS: Ano, postavme kanón na oběžné dráze kolem &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;</value>
+		<value>AVENS: Ano, postavme kanón na oběžné dráze kolem &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;!</value>
 	</entry>
 	<entry>
 		<key>PLUME: The pain of your absence is sharp and haunting, and I would give anything not to know it; anything but never knowing you at all (which would be worse).</key>
@@ -5056,7 +5056,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)</key>
-		<value>THATCH: Je nejtěžší součástí této tragédie to, že nevíme, o koho jsme přišli? Nebo přijde nejtěžší součást později, až se to dozvíme? (Nechť se ti dobře daří, teto Melorae...)</value>
+		<value>THATCH: Je nejtěžší částí této tragédie to, že nevíme, o koho jsme přišli? Nebo přijde nejtěžší část později, až se to dozvíme? (Nechť se ti dobře daří, teto Melorae...)</value>
 	</entry>
 	<entry>
 		<key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
