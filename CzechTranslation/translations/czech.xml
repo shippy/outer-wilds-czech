@@ -877,9 +877,8 @@
 		<value>PYE: Čím víc toho víme o této neznámé hmotě, tím lepší je naše šance na přežití. Zjistím vše, co se zjistit dá. Běž, varuj ostatní; možná mohou postavit nějakou bariéru. ...&lt;i&gt;Hned&lt;/i&gt;, Poke!</value>
 	</entry>
 	<entry>
-		<key>
-			CLARY: I fear our situation may be dire:
-		</key>
+    <key>
+			CLARY: I fear our situation may be dire:</key>
 		<value>
 			CLARY: Obávám se, že naše situace se stala zoufalou:
 		</value>
@@ -4529,14 +4528,14 @@
 	</entry>
 	<entry>
 		<key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
-		<value>Pozor: Plánujete přístup k jádru během doby, kdy je &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; aktivní.</value>
+		<value>Pozor: Přistupujete k jádru během doby, kdy je &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; aktivní.</value>
 	</entry>
 	<entry>
 		<key>WARNING: Removing the core will disable the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
 		<value>VAROVÁNÍ: Odstranění tohoto jádra vypne &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;.</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Artificial gravity control
 		</key>
 		<value>
@@ -4545,11 +4544,11 @@
 	</entry>
 	<entry>
 		<key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-		<value>YARROW: Dnes jsme dokončili exkavaci &lt;color=lightblue&gt;Popeláku&lt;/color&gt;. Zde, v tomto prostoru, který jsme vydlabali, vytvoříme náš dosud nejambicióznější projekt: &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;, který bude dostatečně mocný na to, aby poslal informace zpět v čase.</value>
+		<value>YARROW: Dnes jsme dokončili exkavaci &lt;color=lightblue&gt;Popeláku&lt;/color&gt;. Zde, v tomto prostoru, který jsme vydlabali, vytvoříme naše dosud nejambicióznější dílo: &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;, který dokáže poslat informace nazpět časem.</value>
 	</entry>
 	<entry>
 		<key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
-		<value>COLEUS: Také jsme přesunuli všechny podzemní rostliny, které jsme potkali během vrtání.</value>
+		<value>COLEUS: Také jsme přesunuli všechny podzemní rostliny, se kterými jsme se během vrtání setkali.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: We’ll need to keep our eyes on how significantly we’ve altered the environment here.</key>
@@ -4557,7 +4556,7 @@
 	</entry>
 	<entry>
 		<key>PYE: How far we’ve come since our experiments at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt;! I still can hardly believe Ramie’s hypothesis was true.</key>
-		<value>PYE: Jak daleko jsme došli od našich experimentů ve &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt;! Pořád se mi těžko věří, že Ramieho hypotéza byla pravdivá.</value>
+		<value>PYE: Jak daleko jsme došli od našich experimentů ve &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt;! Pořád se mi těžko věří, že hypotéza Ramie byla pravdivá.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
@@ -4569,7 +4568,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Hypothesis: The cores could have been forged faster if Cassava had interrupted my work less frequently to ask for updates.</key>
-		<value>POKE: Hypotéza: Všechna jádra by byla hotova dříve, kdyby mě Cassava méně často přerušoval, aby se zeptal, co je nového.</value>
+		<value>POKE: Hypotéza: Všechna jádra by byla hotova dříve, kdyby mě Cassava méně často přerušoval, aby se zeptal na novinky.</value>
 	</entry>
 	<entry>
 		<key>YARROW: The important point is we are all connected through &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; now, and also that I’m no longer needed for mediating your disagreements.</key>
@@ -4581,7 +4580,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: But then, if anyone can goad a device into exploding, that, too, is likely Avens. Perhaps I should check in with the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; crew in the interest of safety.</key>
-		<value>YARROW: Na druhou stranu, pokud někdo dokáže podnítit přístroj do vznícení, je to (také) Avens. Možná bych měl zkontrolovat posádku &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt; ve jménu bezpečnosti.</value>
+		<value>YARROW: Na druhou stranu, pokud někdo dokáže podnítit přístroj ke vznícení, je to (také) Avens. Možná bych měl ve jménu bezpečnosti dohlédnout na posádku &lt;color=orange&gt;Orbitálního sondového kanónu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>YARROW: Would it help to remind Avens that Mallow (his love) will be one of the Nomai aboard the cannon, or is Mallow part of the problem?</key>
@@ -4589,7 +4588,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Pye and Idaea have worked hard on the &lt;color=orange&gt;Sun Station&lt;/color&gt;, and it at last is complete. If everything goes as planned, this structure will prompt the &lt;color=lightblue&gt;sun&lt;/color&gt;’s explosion, which will in turn supply the power the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires.</key>
-		<value>YARROW: Pye a Idaea tvrdě pracovaly na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;, která je nyní konečně hotová. Pokud všechno půjde podle plánu, tato struktura vznítí &lt;color=lightblue&gt;slunce&lt;/color&gt;, které tím dodá dostatečné množství energie &lt;color=orange&gt;Popelákovému projektu&lt;/color&gt;.</value>
+		<value>YARROW: Pye a Idaea tvrdě pracovali na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;, která je nyní konečně hotová. Pokud všechno půjde podle plánu, tato struktura vznítí &lt;color=lightblue&gt;slunce&lt;/color&gt;, které tím dodá dostatečné množství energie &lt;color=orange&gt;Popelákovému projektu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I’m impressed by their mental fortitude. This was the project’s most difficult task, in more ways than one.</key>
@@ -4617,7 +4616,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: However, this is the closest we have ever been. The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is theoretically sound; we were only unable to power it. Perhaps there is another way.</key>
-		<value>YARROW: Toto je nejblíže, co jsme kdy byli. &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; je teoreticky validní; jen jsme neměli dost energie pro jeho napájení. Možná najdeme jiný způsob.</value>
+		<value>YARROW: Toto je nejblíže, co jsme kdy byli. &lt;color=orange&gt;Popelákový projekt&lt;/color&gt; je teoreticky validní; jen jsme neměli dost energie pro jeho napájení. Možná existuje jiný způsob.</value>
 	</entry>
 	<entry>
 		<key>PYE: Suppose we redesign the &lt;color=orange&gt;Sun Station&lt;/color&gt;. To generate power of that magnitude, a supernova is still our only viable option.</key>
@@ -4660,7 +4659,7 @@
 		<value>&lt;color=orange&gt;Loď&lt;/color&gt; nyní odpočívá na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt;.</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			What is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;?
 		</key>
 		<value>
@@ -4668,7 +4667,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is the source of the signal that brought us here.
 		</key>
 		<value>
@@ -4676,23 +4675,23 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; is a more advanced being.
 		</key>
 		<value>
-			Řekněme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je pokročilá bytost.
+			Řekněme, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je pokročilejší bytost než my.
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than this universe, so imagine how much it could teach us.
 		</key>
 		<value>
-			&lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než náš vesmír, takže si představte, co vše by nás mohlo naučit.
+			&lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než náš vesmír, takže si jen představte, co vše by nás mohlo naučit.
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Perhaps it is a cosmic library!
 		</key>
 		<value>
@@ -4700,7 +4699,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			What is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal?
 		</key>
 		<value>
@@ -4708,7 +4707,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Suppose the &lt;color=lightblue&gt;Eye&lt;/color&gt; wishes to communicate.
 		</key>
 		<value>
@@ -4716,15 +4715,15 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The signal is a call. Were we the intended audience?
 		</key>
 		<value>
-			Signál je volání. Byli jsme zamýšleným publikem?
+			Signál je volání. Byli jsme jeho zamýšleným publikem?
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s voice. It speaks a language we don’t yet know.
 		</key>
 		<value>
@@ -4732,7 +4731,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Or maybe the signal is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s attempt at expressing itself.
 		</key>
 		<value>
@@ -4740,11 +4739,11 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			Of note: From the signal, we were able to determine the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s approximate age (or perhaps its lack of age?).
 		</key>
 		<value>
-			Stojí za zmínku: Ze signálu jsme byli schopni určit přibližný věk &lt;color=lightblue&gt;Oka&lt;/color&gt; (nebo snad jeho nevěk?).
+			Důležité: Ze signálu jsme byli schopni určit přibližný věk &lt;color=lightblue&gt;Oka&lt;/color&gt; (nebo snad jeho nevěk?).
 		</value>
 	</entry>
 	<entry>
@@ -5296,29 +5295,26 @@
 			1: &lt;color=orange&gt;High Energy Lab&lt;/color&gt; Trailhead
 		</key>
 		<value>
-			1: Stezka k Vysokoenergetické laboratoři
+			1: Stezka k &lt;color=orange&gt;Vysokoenergetické laboratoři&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
-		<key>
-			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;
-		</key>
+    <key>
+			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;</key>
 		<value>
 			2: Čtvrť skákacích kamenů
 		</value>
 	</entry>
 	<entry>
-		<key>
-			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;
-		</key>
+    <key>
+			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;</key>
 		<value>
 			3: Čtvrť ďasího výhledu
 		</value>
 	</entry>
 	<entry>
-		<key>
-			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;
-		</key>
+    <key>
+			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
 		<value>
 			4: Čtvrť svatyně Oka
 		</value>
