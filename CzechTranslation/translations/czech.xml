@@ -5060,7 +5060,7 @@
 	</entry>
 	<entry>
 		<key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
-		<value>PLUME: Kde bychom, vzhledem ke starostem ohledně stability naší osady, měli postavit nové, stálejší útočiště? </value>
+		<value>PLUME: Kde bychom, vzhledem k obavám ohledně stability naší osady, měli postavit nové, stálejší útočiště? </value>
 	</entry>
 	<entry>
 		<key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
@@ -5068,7 +5068,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: I don’t believe anyone is coming to save us, Thatch. Now we must save ourselves.</key>
-		<value>FILIX: Nevěřím, že nás někdo přichází zachránit, Thatchi. Teď se musíme zachránit sami.</value>
+		<value>FILIX: Nevěřím, že nás někdo přijde zachránit, Thatchi. Teď se musíme zachránit sami.</value>
 	</entry>
 	<entry>
 		<key>PLUME: I agree. We’re here because the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal called to us and we followed. If we’re to find it, we need to not merely survive, but thrive.</key>
@@ -5088,7 +5088,7 @@
 	</entry>
 	<entry>
 		<key>THATCH: This is a wise point, Plume, and eloquently made. If moving to the northern glacier will keep us safer, then that is what we should do.</key>
-		<value>THATCH: To je moudrá poznámka, Plume, a jasně vyjádřená. Pokud budeme u severního ledovce ve větším bezpečí, potom bychom se se tam měli přesunout.</value>
+		<value>THATCH: To je moudrá poznámka, Plume, a krásně vyjádřená. Pokud budeme u severního ledovce ve větším bezpečí, potom bychom se se tam měli přesunout.</value>
 	</entry>
 	<entry>
 		<key>FILIX: Has anyone observed the &lt;color=lightblue&gt;phantom moon&lt;/color&gt; that sometimes greets us in the night sky? Your thoughts interest me.</key>
@@ -5124,7 +5124,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: This moon isn’t volcanic (to my unaided eyes). Sometimes it leaves its friend &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; for nights at a time.</key>
-		<value>FILIX: Tento měsíc není sopečný (alespoň ne očividně) . Občas opustí svého přítele &lt;color=lightblue&gt;Křehkodutého měsíce&lt;/color&gt; na mnoho nocí po sobě.</value>
+		<value>FILIX: Tento měsíc není sopečný (alespoň ne očividně). Občas opustí svého přítele &lt;color=lightblue&gt;Křehkodutého měsíce&lt;/color&gt; na mnoho nocí za sebou.</value>
 	</entry>
 	<entry>
 		<key>PLUME: The nights the moon circles this planet appear random. It seems to travel as it likes.</key>
@@ -5167,7 +5167,7 @@
 			Did the &lt;color=lightblue&gt;Eye&lt;/color&gt; deliberately call out to us by sending the signal, or did we hear the signal by coincidence?
 		</key>
 		<value>
-			Zavolalo nás &lt;color=lightblue&gt;Oko&lt;/color&gt; úmyslně tím, že poslalo svůj signál, nebo jsme uslyšeli jeho signál náhodou? 
+			Zavolalo nás &lt;color=lightblue&gt;Oko&lt;/color&gt; úmyslně tím, že poslalo svůj signál, nebo jsme jeho signál uslyšeli náhodou? 
 		</value>
 	</entry>
 	<entry>
@@ -5252,7 +5252,7 @@
 	</entry>
 	<entry>
 		<key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
-		<value>Co víme: Zdroj tohoto signálu, (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme ještě zjistit.</value>
+		<value>Co víme: Zdroj tohoto signálu (kterému říkáme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;) je starší než vesmír samotný. Zbytek musíme teprve zjistit.</value>
 	</entry>
 	<entry>
 		<key>Enter, and open your mind to its possibilities. test</key>
@@ -5287,7 +5287,7 @@
 			SOLANUM: What if the &lt;color=lightblue&gt;Eye&lt;/color&gt; isn’t something good?
 		</key>
 		<value>
-			SOLANUM: Co když &lt;color=lightblue&gt;Oko&lt;/color&gt; není něco dobrého? 
+			SOLANUM: Co když &lt;color=lightblue&gt;Oko&lt;/color&gt; není dobré? 
 		</value>
 	</entry>
 	<entry>
@@ -5302,7 +5302,7 @@
     <key>
 			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;</key>
 		<value>
-			2: Čtvrť skákacích kamenů
+			2: Kamenná čtvrť
 		</value>
 	</entry>
 	<entry>
@@ -5333,7 +5333,7 @@
 	</entry>
 	<entry>
 		<key>BUR: I can hear both signals somewhere in this star system, but I don’t believe either escape pod crashed on the same planet as us.</key>
-		<value>BUR: Slyším oba signály někde v tomto planetárním systému, ale nemyslím si, že ani jeden ze člunů ztroskotal na té samé planetě, co my.</value>
+		<value>BUR: Slyším oba signály někde v tomto planetárním systému, ale myslím si, že oba čluny ztroskotaly na jiné planetě než my.</value>
 	</entry>
 	<entry>
 		<key>
@@ -5382,7 +5382,7 @@
 			COLEUS: An update: We need to find a way inside quickly, Melorae, because when I returned here to search for an entrance to the cave, there were children playing on the specimen!
 		</key>
 		<value>
-			COLEUS: Update: Měli bychom najít cestu dovnitř rychle, Melorae, protože když jsem se sem vrátil, tak už si s exemplářem hrály děti! 
+			COLEUS: Update: Měli bychom rychle najít cestu dovnitř, Melorae, protože když jsem se sem vrátil, tak už si s exemplářem hrály děti! 
 		</value>
 	</entry>
 	<entry>
@@ -5398,7 +5398,7 @@
 			MELORAE: Clearly this hole is too small for it to have fit through. Hypothesis: There is another entrance to this cave. If there is, Coleus and I will find it! We can’t leave valuable information undiscovered!
 		</key>
 		<value>
-			MELORAE: Tato díra je evidentně příliš malá na to, aby se skrz ni exemplář dostal. Hypotéza: Existuje další vstup do této jeskyně. Pokud ano, Coleus a já jej najdeme! Nemůžeme nechat hodnotné informace nevyzkoumané! 
+			MELORAE: Tato díra je evidentně příliš malá na to, aby se skrz ni exemplář dostal. Hypotéza: Existuje další vstup do této jeskyně. Pokud ano, Coleus a já jej najdeme! Nemůžeme nechat hodnotné informace neprobádané! 
 		</value>
 	</entry>
 	<entry>
@@ -5414,7 +5414,7 @@
 			ANNONA: The cavern Melorae found is a wise choice for shelter. Could one of you mark directions for the others to follow?
 		</key>
 		<value>
-			ANNONA: Sluj, kterou Melorae nalezla, je pro útočiště moudrou volbou? Mohl by jeden z vás sepsat instrukce pro ostatní?
+			ANNONA: Sluj, kterou Melorae nalezla, je pro útočiště moudrou volbou. Mohl by jeden z vás sepsat instrukce pro ostatní?
 		</value>
 	</entry>
 	<entry>
@@ -5430,7 +5430,7 @@
 			MELORAE: Of note: We must hurry, as the pathway there is filling with sand. Do not allow yourself to be buried by sand, and make sure no one is lost!
 		</key>
 		<value>
-			MELORAE: Za zmínku stojí: Musíme si pospíšit, protože stezka se naplňuje pískem. Nenechte se pohřbít pískem, a ujistěte se, že se nikdo neztratil! 
+			MELORAE: Důležité: Musíme si pospíšit, protože stezka se naplňuje pískem. Nenechte se pohřbít pískem, a ujistěte se, že se nikdo neztratil! 
 		</value>
 	</entry>
 	<entry>
@@ -5495,7 +5495,7 @@
 	</entry>
 	<entry>
 		<key>BUR: I found your note, Melorae; kindly count me among this &lt;color=lightblue&gt;moon&lt;/color&gt;’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?</key>
-		<value>BUR: Našel jsem tvou poznámku, Melorae; započítej mě, prosím, mezi obdivovatele tohoto &lt;color=lightblue&gt;měsíčku&lt;/color&gt;! Co si myslíš, že se děje, když zmizí (pochybuji, že přestane existovat)? Přesune se na jiné místo?</value>
+		<value>BUR: Našel jsem tvou poznámku, Melorae; započítej mne, prosím, mezi obdivovatele tohoto &lt;color=lightblue&gt;měsíčku&lt;/color&gt;! Co si myslíš, že se děje, když zmizí (pochybuji, že přestane existovat)? Přesune se na jiné místo?</value>
 	</entry>
 	<entry>
 		<key>ANNONA: I believe so. Not only does the moon appear around &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;, I can confirm it sometimes orbits &lt;color=lightblue&gt;Timber Hearth&lt;/color&gt;, as well.</key>
@@ -5574,7 +5574,7 @@
 			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
 		<value>
-			MELORAE: Coleus se pohřešuje! Zmizel z &lt;color=orange&gt;jeskyně u jezerního dna&lt;/color&gt; (té u severního pólu) před několika dny, a nenašli jsme po něm ani stopu. Nevím, kolik vzduchu s sebou nesl, když zmizel. Prosím všechny přátele, kteří toto čtou, pomožte nám najít Colea! 
+			MELORAE: Coleus se pohřešuje! Zmizel z &lt;color=orange&gt;jeskyně u jezerního dna&lt;/color&gt; (té u severního pólu) před několika dny, a nenašli jsme po něm ani stopu. Nevím, kolik vzduchu s sebou nesl, když zmizel. Prosím všechny přátele, kteří toto čtou, pomozte nám najít Colea! 
 		</value>
 	</entry>
 	<entry>
@@ -5621,7 +5621,7 @@
 			SECCA: It’s almost too faint to hear now, but the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is still faintly emitting from within this thorny seed. Yet the opening is too small for even a single Nomai to fit through it, so our &lt;color=orange&gt;escape pod&lt;/color&gt; couldn’t have flown through here.
 		</key>
 		<value>
-			SECCA: Téměř jej už neslyšíme, ale signál &lt;color=orange&gt;Plavidla&lt;/color&gt; stále jemně vysílá z tohoto trnitého semínka. Ale otvor v něm je příliš malý, než aby se do něj vešel byť jen jediný Nomai, takže náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; nemohl proletět tudy.
+			SECCA: Téměř jej už neslyšíme, ale signál &lt;color=orange&gt;Plavidla&lt;/color&gt; stále jemně vysílá z tohoto trnitého semínka. Ale otvor v něm je příliš malý, než aby se do něj vešel byť jen jediný Nomai, takže náš &lt;color=orange&gt;záchranný člun&lt;/color&gt; tudy nemohl proletět.
 		</value>
 	</entry>
 	<entry>
@@ -5629,7 +5629,7 @@
 			SECCA: I don’t understand how this could be possible, but this gruesome place seems able to manipulate space itself; maybe this was our undoing.
 		</key>
 		<value>
-			SECCA: Nechápu, jak je to možné, ale toto hrozné místo nějakým způsobem manipuluje samotný prostor; možná právě proto nás potkala zkáza. 
+			SECCA: Nechápu, jak je to možné, ale toto hrozné místo nějakým způsobem manipuluje prostorem samotným; možná právě proto nás zde potkala zkáza. 
 		</value>
 	</entry>
 	<entry>
@@ -5637,7 +5637,7 @@
 			SECCA: To be so close to the location of the &lt;color=orange&gt;Vessel&lt;/color&gt; and still so far is... difficult. Worse, the &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is dying; soon, we will be unable to hear it.
 		</key>
 		<value>
-			SECCA: Být tak blízko &lt;color=orange&gt;Plavidlu&lt;/color&gt; a přitom tak daleko je... náročné. Co je horší, signál &lt;color=orange&gt;Plavidla&lt;/color&gt; umírá; brzy jej nebudeme schopni slyšet vůbec. 
+			SECCA: Být tak blízko &lt;color=orange&gt;Plavidlu&lt;/color&gt; a přitom tak daleko je... obtížné. Co je horší, signál &lt;color=orange&gt;Plavidla&lt;/color&gt; umírá; brzy jej nebudeme schopni slyšet vůbec. 
 		</value>
 	</entry>
 	<entry>
@@ -5645,7 +5645,7 @@
 			SECCA: There is nothing we can do now but try to perhaps find a way inside, or at least attempt to comprehend why this happened.
 		</key>
 		<value>
-			SECCA: Nemáme žádnou alternativu krom toho, že se snad můžeme pokusit dostat dovnitř, nebo alespoň pochopit, proč se toto stalo. 
+			SECCA: Nemáme žádnou alternativu krom toho, že se snad můžeme pokusit dostat dovnitř, nebo se alespoň pokusit pochopit, proč se toto stalo. 
 		</value>
 	</entry>
 	<entry>
@@ -5678,7 +5678,7 @@
 	</entry>
 	<entry>
 		<key>DIN: But suppose that beacon is false!</key>
-		<value>DIN: Ale co když je ten signál falešný!</value>
+		<value>DIN: Ale co když je ten signál chybný!</value>
 	</entry>
 	<entry>
 		<key>ESCALL: We likely don’t have enough air to reach the farther of the two beacons, Din. The decision is made for us.</key>
@@ -5738,7 +5738,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: Welcome to Giant’s Deep, friends! I’m excited for you to meet the statues!</key>
-		<value>PHLOX: Vítejte na Obří hlubinu, přátelé! Těším se, až potkáte moje sochy!</value>
+		<value>PHLOX: Vítejte na Obří hlubině, přátelé! Těším se, až potkáte moje sochy!</value>
 	</entry>
 	<entry>
 		<key>PHLOX: If I’m not in my dwelling, I’m likely in my &lt;color=orange&gt;workshop&lt;/color&gt; below (inside the island).</key>
@@ -5842,15 +5842,15 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: I wish I were, my friend, but no. They aren’t certain they can fix the problem, so the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; is on indefinite hiatus.</key>
-		<value>CASSAVA: Přál bych si, aby tomu tak bylo, můj příteli, ale no. Nejsou si jisti, jestli můžou problém spravit, takže &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; je odstaven na dobu neurčitou.</value>
+		<value>CASSAVA: Přál bych si, aby tomu tak bylo, můj příteli, ale ne. Nejsou si jisti, zda mohou problém spravit, takže &lt;color=orange&gt;Orbitální sondový kanón&lt;/color&gt; je odstaven na dobu neurčitou.</value>
 	</entry>
 	<entry>
 		<key>CASSAVA: Tell Privet and Mallow they should return from the &lt;color=orange&gt;cannon&lt;/color&gt;. My spouse and I will remain at the &lt;color=orange&gt;Construction Yard&lt;/color&gt;, for now.</key>
-		<value>CASSAVA: Řekni Privet a Mallow, že by se měly vrátit z &lt;color=orange&gt;kanónu&lt;/color&gt;. Můj družka a já zůstaneme pro tuto chvíli ve &lt;color=orange&gt;stavebním komplexu&lt;/color&gt;. </value>
+		<value>CASSAVA: Řekni Privet a Mallow, že by se měly vrátit z &lt;color=orange&gt;kanónu&lt;/color&gt;. Moje družka a já zůstaneme pro tuto chvíli ve &lt;color=orange&gt;stavebním komplexu&lt;/color&gt;. </value>
 	</entry>
 	<entry>
 		<key>AVENS: An update: Mallow and I will join you and Daz. Privet left to visit her brother. She fears Idaea may feel responsible.</key>
-		<value>AVENS: Update: Mallow a já navštívíme tebe a Daz. Privet odešla za svým bratrem. Bojí se, že Idaea se cítí být zodpovědným.</value>
+		<value>AVENS: Update: Mallow a já navštívíme tebe a Daz. Privet odešla za svým bratrem. Bojí se, že Idaea cítí vinu za toto selhání.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: Imagine, Privet: the &lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; will be the first to know the coordinates of the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;! You’ll be the first to see them!</key>
@@ -5882,7 +5882,7 @@
 	</entry>
 	<entry>
 		<key>AVENS: Cassava tells me he and the &lt;color=orange&gt;Construction Yard&lt;/color&gt; crew have determined a power setting we are not, under any circumstances, to go above.</key>
-		<value>AVENS: Cassava mi sdělil, že s posádkou &lt;color=orange&gt;stavebního komplexu&lt;/color&gt; určil odpalovací sílu, kterou za žádných okolností nesmíme překonat.</value>
+		<value>AVENS: Cassava mi sdělil, že s posádkou &lt;color=orange&gt;stavebního komplexu&lt;/color&gt; určil odpalovací sílu, kterou za žádných okolností nesmíme přesáhnout.</value>
 	</entry>
 	<entry>
 		<key>MALLOW: I see! And am I right to think that, consequently, we’ll be ignoring that setting?</key>
@@ -5949,16 +5949,16 @@
 		<value>IDAEA: Jsme v pořádku, Yarrowe (nebo tak v pořádku, jak se dá za daných okolností očekávat), ale jsme zklamaní. Sice jsem nesouhlasil s tím, abychom odpálili &lt;color=lightblue&gt;slunce&lt;/color&gt;, ale nikdy jsem si nepřál, aby naše zařízení selhalo. Doufal jsem, že naše hrozná práce je u konce.</value>
 	</entry>
 	<entry>
-		<key>
-			Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
+    <key>
+		    Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate &lt;color=orange&gt;Sun Station&lt;/color&gt;.
 		</key>
 		<value>
 			Hvězda dosáhla konce svého přírodního cyklu. Nyní se blíží fázi červeného obra. VAROVÁNÍ: Evakuujte &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;. 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
+    <key>
+		    Approximate time until &lt;color=orange&gt;Sun Station&lt;/color&gt; is destroyed by expanding star: &lt;RemainingMinutes&gt; MINUTES, &lt;RemainingSeconds&gt; SECONDS\\nApproximate time until star’s death: &lt;MinutesToRedGiant&gt; MINUTES, &lt;SecondsToRedGiant&gt; SECONDS
 		</key>
 		<value>
 			Přibližný čas do doby, kdy bude &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; zničena rozpínající se hvězdou: &lt;RemainingMinutes&gt; MINUT, &lt;RemainingSeconds&gt; SEKUND.\\nPřibližný čas do smrti hvězdy: &lt;MinutesToRedGiant&gt; MINUT, &lt;SecondsToRedGiant&gt; SEKUND
@@ -6038,7 +6038,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-		<value>CLARY: Našim přátelům na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;: Právě jsem se úspěšně teleportoval z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt; (z druhé strany černé díry uvnitř &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;)! Náš design fungoval; úspěšně jsem znovuvytvořili warpové cestování! </value>
+		<value>CLARY: Našim přátelům na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;: Právě jsem se úspěšně teleportoval z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt; (z druhé strany černé díry uvnitř &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;)! Náš design fungoval; úspěšně jsem znovuvynalezli warpové cestování! </value>
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
