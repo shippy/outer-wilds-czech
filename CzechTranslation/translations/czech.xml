@@ -5302,21 +5302,21 @@
     <key>
 			2: &lt;color=orange&gt;Stepping Stone District&lt;/color&gt;</key>
 		<value>
-			2: Kamenná čtvrť
+			2: &lt;color=orange&gt;Kamenná čtvrť&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
     <key>
 			3: &lt;color=orange&gt;Anglerfish Overlook District&lt;/color&gt;</key>
 		<value>
-			3: Čtvrť ďasího výhledu
+			3: &lt;color=orange&gt;Čtvrť ďasího výhledu&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
     <key>
 			4: &lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
 		<value>
-			4: Čtvrť svatyně Oka
+			4: &lt;color=orange&gt;Čtvrť svatyně Oka&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
