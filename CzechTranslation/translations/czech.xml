@@ -6158,7 +6158,7 @@
 	</entry>
 	<entry>
 		<key>SignI’ve detected a strange signal coming from somewhere within the grove in this crater.</key>
-		<value>Objevil jsem zvláštní signál, přicházející odněkud z háje v tomto kráteru. </value>
+		<value>Objevil jsem zvláštní signál, pocházející odněkud z háje v tomto kráteru. </value>
 	</entry>
 	<entry>
 		<key>SignIt’s very similar to the signal emitted by the Quantum Moon, so it stands to reason the two signals are probably related.</key>
@@ -6166,7 +6166,7 @@
 	</entry>
 	<entry>
 		<key>SignWe don’t know much about the Quantum Moon, seeing as no one’s ever been able to land on it, but hopefully studying the signal in the grove will reveal more about it.</key>
-		<value>Mnoho toho o &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; nevíme, protože na něm nikdo nikdy nedokázal přistát, ale snad se o něm dozvíme více studium signálu v tomto háji. </value>
+		<value>Mnoho toho o &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; nevíme, protože na něm nikdo nikdy nedokázal přistát, ale snad se o něm dozvíme více studiem signálu v tomto háji. </value>
 	</entry>
 	<entry>
 		<key>SignEsker’s Signalscope Log</key>
@@ -6178,7 +6178,7 @@
 	</entry>
 	<entry>
 		<key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
-		<value>Den 51: Poslouchal jsem chvíli Cherta hrát. Nesouvisející: někdo by měl říci Porphymu a Gossanovi, že jejich flirtování lze vidět i z ptačí perspektivy.</value>
+		<value>Den 51: Poslouchal jsem chvíli Cherta hrát. Nesouvisející: někdo by měl říci Porphy a Gossanovi, že jejich flirtování lze vidět až z oběžné dráhy.</value>
 	</entry>
 	<entry>
 		<key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
@@ -6206,15 +6206,15 @@
 	</entry>
 	<entry>
 		<key>SignIt’s annoying to schlep across the planet to the ship if I can’t use my jetpack, so I’m leaving this here.</key>
-		<value>Je k ničemu se plazit napříč planetou k lodi, když mi dojde palivo v jetpacku, takže si tady tohleto odložím. </value>
+		<value>Je k ničemu se plazit napříč planetou k lodi, když mi dojde palivo ve skafandru, takže si tady tohleto odložím. </value>
 	</entry>
 	<entry>
 		<key>SignI checked with my Little Scout — I do &lt;i&gt;too&lt;/i&gt; use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.</key>
-		<value>Zkontroloval jsem to s Malou sondou - taky ji &lt;i&gt;používám&lt;/i&gt;, Hornfelsi, ty jeden připálený maršmeloune - a pozemní integrita je tu na poměry Křehkoduté planety dobrá, ale kdoví.</value>
+		<value>Zkontroloval jsem to za pomocí sondometu - taky ho &lt;i&gt;používám&lt;/i&gt;, Hornfelsi, ty jeden připálenej maršmeloune - a pozemní integrita je tu na poměry Křehkoduté planety dobrá, ale kdoví.</value>
 	</entry>
 	<entry>
 		<key>SignIf the fuel’s still around, feel free to use it. If not, well, wherever you’re reading this note, I’m sure you’ve got bigger problems.</key>
-		<value>Pokud je v lahvi pořád palivo, klidně ho použij. Pokud ne, nu, jsem si jist, že ať už čtete tuto nótu, kde chcete, máte větší problémy.</value>
+		<value>Pokud je v lahvi pořád palivo, klidně ho použij. Pokud ne, nu, jsem si jist, že ať už čteš tuto nótu, kde chceš, máš větší problémy.</value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1Trip 4, entry # whatever \\n Crashes: 2 \\n Boring crashes: 0 (remember to see Slate when I get back)</key>
@@ -6226,19 +6226,19 @@
 	</entry>
 	<entry>
 		<key>FeldsparJournal1That was one of my more dramatic feats, if I do say so myself. Can’t believe I wasn’t electrocuted! Ahhh, can’t wait to tell Hornfels and Gossan about this one — I guess brute force isn’t always the answer.</key>
-		<value>To byl rozhodně jeden z mých dramatičtějších kousků, co si budeme povídat. Stěží uvěřit, že jsem nebyl uškvařen! Á, už se nemůžu dočkat, až o tomhle řeknu Hornfelsovi a Gossanovi - hrubá síla není vždycky odpovědí.</value>
+		<value>To byl rozhodně jeden z mých dramatičtějších kousků, co si budeme povídat. Stěží uvěřit, že jsem nebyl uškvařen! Á, už se nemůžu dočkat, až o tomhle řeknu Hornfelsovi a Gossanovi - hrubá síla asi není vždycky řešení.</value>
 	</entry>
 	<entry>
 		<key>FeldsparJournal1Right, so that’s one more off the list. Seems all that’s left is the big one now. Dark Bramble, here I come!</key>
-		<value>Jo, takže to je další bod ze seznamu. Zdá se, že už zbývá jen ta největší věc. Temnotrne, už se těš.</value>
+		<value>Jo, takže to je další bod ze seznamu. Zdá se, že už zbývá jen ta největší věc. Temnotrne, jen se těš.</value>
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</key>
-		<value>Zakladatelé Outer Wilds Ventures: \\nHornfels、Gossan、Slate, a Feldspar. </value>
+		<value>Zakladatelé Divočinných výprav: \\nHornfels、Gossan、Slate, a Feldspar. </value>
 	</entry>
 	<entry>
 		<key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-		<value>NEBEZPEČÍ! Uvnitř tohoto plotu je kapsa &lt;color=orange&gt;antihmoty&lt;/color&gt; - zvláštní a nebezpečná substance, která je holému oku neviditelná. Naštěstí můžete &lt;color=orange&gt;antihmotu&lt;/color&gt; detekovat tak, že ji vyfotíte.</value>
+		<value>NEBEZPEČÍ! Uvnitř tohoto plotu je kapsa &lt;color=orange&gt;antihmoty&lt;/color&gt; - zvláštní a nebezpečné substance, která je holému oku neviditelná. Naštěstí můžete &lt;color=orange&gt;antihmotu&lt;/color&gt; detekovat tak, že ji vyfotíte.</value>
 	</entry>
 	<entry>
 		<key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
@@ -6246,7 +6246,7 @@
 	</entry>
 	<entry>
 		<key>Gneiss</key>
-		<value>Gneiss</value>
+		<value>Gneissem</value>
 	</entry>
 	<entry>
 		<key>Gneiss1Hello there, space cadet! I hear you’re leaving the crater today.</key>
@@ -6282,11 +6282,11 @@
 	</entry>
 	<entry>
 		<key>Gneiss3Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</key>
-		<value>Jasná páka! Vytvořil jsem všechny jejich nástroje, víš? Chertovy bubny, Riebeckovo banjo, a Gabbrova flétna.</value>
+		<value>Jasná páka! Vytvořil jsem všechny jejich nástroje, víš? Chertovy bubny, Riebeckovo banjo, a Gabbrovu flétnu.</value>
 	</entry>
 	<entry>
 		<key>Gneiss3And Feldspar’s harmonica, of course, though Feldspar’s been missing for a long time. Sometimes it feels like just yesterday they were playing their harmonica around the campfire...</key>
-		<value>A Feldsparovat harmonika, samozřejmě, přestože Feldspara pohřešujeme už nějakou dobu. Občas mi to přijde jako včera, když hrával na svou harmoniku u táboráku...</value>
+		<value>A Feldsparovu harmoniku, samozřejmě, přestože Feldspara pohřešujeme už nějakou dobu. Občas mi to přijde jako včera, kdy hrával na svou harmoniku u táboráku...</value>
 	</entry>
 	<entry>
 		<key>Gneiss3Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</key>
@@ -6334,19 +6334,19 @@
 	</entry>
 	<entry>
 		<key>Gossan</key>
-		<value>Gossan</value>
+		<value>Gossanem</value>
 	</entry>
 	<entry>
 		<key>Coach1Hey, I thought I might see you before the big launch.</key>
-		<value>Čau, říkal jsems si, že bych tě mohl vidět před velkým odletem.</value>
+		<value>Čau, říkal jsem si, že bych tě mohl před tvým velkým odletem vidět.</value>
 	</entry>
 	<entry>
 		<key>Coach1Nerves getting the better of you?</key>
-		<value>Máš nervy? </value>
+		<value>Máš nervy, co? </value>
 	</entry>
 	<entry>
 		<key>GossanCoach1Right, like you weren’t nervous for your first flight.</key>
-		<value>Jasně, jako bys ty neměl nervy před svým prvním letem. </value>
+		<value>Jasně, jako bys ty nebyl před svým prvním letem nervák. </value>
 	</entry>
 	<entry>
 		<key>GossanCoach1I’m a little nervous, yeah.</key>
@@ -6366,7 +6366,7 @@
 	</entry>
 	<entry>
 		<key>Coach3Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</key>
-		<value>To je dobře. Každý by měl být z vesmíru trošku nervózní. Já jsem byl před svým prvním letem trošku nafoukaný a skoro jsem udělal nový kráter na měsíci.</value>
+		<value>To je dobře. Každý by měl být z vesmíru trošku nervózní. Já jsem byl před svým prvním letem nafoukaný a skoro ze mě byl nový kráter na měsíci.</value>
 	</entry>
 	<entry>
 		<key>Coach3Still, I was never as green as you.</key>
@@ -6390,7 +6390,7 @@
 	</entry>
 	<entry>
 		<key>Coach5They’re still sore I made them install a safety harness in the cockpit. Claimed it would “throw off the thrust-to-weight ratio.”</key>
-		<value>Pořád mu ještě vadí, že jsem je donutil nainstalovat bezpečnostní postroj v kokpitu. Tvrdil, že to "narušuje poměr tahu na váhu."</value>
+		<value>Pořád mu ještě vadí, že jsem ho donutil nainstalovat bezpečnostní postroj v kokpitu. Tvrdil, že to "narušuje poměr tahu na váhu."</value>
 	</entry>
 	<entry>
 		<key>Coach5Honestly. One of these days I’m gonna throw off &lt;i&gt;Slate’s&lt;/i&gt; thrust-to-weight ratio.</key>
@@ -6406,7 +6406,7 @@
 	</entry>
 	<entry>
 		<key>Coach7If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jsi jistý, že dokážeš opravit loď ve vesmíru.</value>
+		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jseš jistej, že dokážeš opravit loď ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>GossanCoach7One repaired “satellite,” coming up!</key>
@@ -6422,7 +6422,7 @@
 	</entry>
 	<entry>
 		<key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jsi jistý, že dokážeš opravit loď ve vesmíru.</value>
+		<value>Pokud chceš na poslední chvíli trošku nácviku v nulové gravitaci, svez se výtahem dolů a do jeskyně. Nebo taky ne, pokud si jseš jistej, že dokážeš opravit loď ve vesmíru.</value>
 	</entry>
 	<entry>
 		<key>GossanCoach8One repaired “satellite”, coming up!</key>
@@ -6446,7 +6446,7 @@
 	</entry>
 	<entry>
 		<key>Coach10...Haha, go on, go make Outer Wilds Ventures proud.</key>
-		<value>...Haha, běž, ať jsme na tebe hrdí.</value>
+		<value>...Haha, běž, a ať jsme na tebe hrdí.</value>
 	</entry>
 	<entry>
 		<key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
@@ -6474,11 +6474,11 @@
 	</entry>
 	<entry>
 		<key>PostZeroGBest of luck out there! And hey, try to avoid getting yourself killed now that I’ve put so much time into training you, got it?</key>
-		<value>Hodně štěstí! A pokud se nezabít, slyšíš mě? Ne potom, co jsem do tebe investoval takového úsilí!</value>
+		<value>Hodně štěstí! A pokus se nezabít, slyšíš mě? Ne potom, co jsem do tebe investoval takového úsilí!</value>
 	</entry>
 	<entry>
 		<key>CoachSpaceYou’re back awfully soon. Everything alright? Slate didn’t do anything dumb like install a self-destruct button, did they?</key>
-		<value>Vracíš se dost brzy. Všechno v pořádku? Slate nenainstaloval tlačítko na sebe-zničení, že ne?</value>
+		<value>Vracíš se dost brzy. Všechno v pořádku? Slate nenainstaloval tlačítko na sebezničení, že ne?</value>
 	</entry>
 	<entry>
 		<key>NoSuitOi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again.</key>
@@ -6574,7 +6574,7 @@
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWhere’s the Nomai statue in the museum from?</key>
-		<value>Odkud je to socha Nomai z muzea? </value>
+		<value>Odkud je ta socha Nomai z muzea? </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWhy did the Nomai make that statue?</key>
@@ -6582,7 +6582,7 @@
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuWonder if I’ll discover anything cool in space.</key>
-		<value>Jsem zvědavý, jestli ve vesmíru najdu něco kůlovatýho. </value>
+		<value>Jsem zvědavý, jestli ve vesmíru najdu něco libovýho. </value>
 	</entry>
 	<entry>
 		<key>HalPostConvoMenuSee you later.</key>
@@ -6606,11 +6606,11 @@
 	</entry>
 	<entry>
 		<key>PostConvo2Hornfels doesn’t know much about it yet, just that it’s &lt;i&gt;crazy&lt;/i&gt; old and super tough. I wonder why the Nomai carved it?</key>
-		<value>Hornfels o ní zatím mnoho neví, jen že je &lt;i&gt;šílená&lt;/i&gt;, stará a hodně tuhá. Zajímalo by mě, proč ji Nomai vytesali?</value>
+		<value>Hornfels o ní zatím mnoho neví, jen že je &lt;i&gt;šíleně&lt;/i&gt; stará a hodně odolná. Zajímalo by mě, proč ji Nomai vytesali?</value>
 	</entry>
 	<entry>
 		<key>PostConvo2Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there.</key>
-		<value>Gabbro podle všeho šel zpátky do Obří hlubiny, aby objevil víc ohledně té sochy. Možná nějaké odpovědi najdeš tam.</value>
+		<value>Gabbro podle všeho šel zpátky do Obří hlubiny, aby toho objevil víc ohledně té sochy. Možná nějaké odpovědi najdeš tam.</value>
 	</entry>
 	<entry>
 		<key>PostConvo3Good question! You know how Gabbro knocked a fragment off the statue while they were hauling it back from Giant's Deep?</key>
@@ -6638,11 +6638,11 @@
 	</entry>
 	<entry>
 		<key>PostConvoEndBe careful out there in space!</key>
-		<value>Buď ve vesmíru opatrný! </value>
+		<value>Buď ve vesmíru opatrnej! </value>
 	</entry>
 	<entry>
 		<key>Marl</key>
-		<value>Marl</value>
+		<value>Marlem</value>
 	</entry>
 	<entry>
 		<key>Marl1So it’s launch day, huh? Hal’s going to miss you.</key>
@@ -6662,7 +6662,7 @@
 	</entry>
 	<entry>
 		<key>MarlMarl1Nice try. We all know you have it out for that tree.</key>
-		<value>Hezký pokus. Všichni víme, že se to snažíš tomu stromu vrátit.</value>
+		<value>Hezkej pokus. Všichni víme, že se to snažíš tomu stromu vrátit.</value>
 	</entry>
 	<entry>
 		<key>MarlMarl1The launch pad is FLAMMABLE?!</key>
@@ -6678,7 +6678,7 @@
 	</entry>
 	<entry>
 		<key>OutWhat? No, I just think it’s in the way and someone ought to chop it down, you know? Specifically, me.</key>
-		<value>Cože? Ne, já si jen myslím, že překáží a někdo by ho měl rozštípat, víš? Specificky, já bych ho měl rozštípat. </value>
+		<value>Cože? Ne, já si jen myslím, že překáží a někdo by ho měl rozštípat, víš? Specificky, &lt;i&gt;já&lt;/i&gt; bych ho měl rozštípat. </value>
 	</entry>
 	<entry>
 		<key>Out...Haha, you think this has to do with the time I fell out of it and broke my arm? That was when we were hatchlings! Who would hold a grudge for that long?</key>
@@ -6698,7 +6698,7 @@
 	</entry>
 	<entry>
 		<key>Tree...That tree has got it coming.</key>
-		<value>...Ten strom si to zaslouží. </value>
+		<value>Ten strom... Ten strom si to zaslouží. </value>
 	</entry>
 	<entry>
 		<key>SpaceWhat are you doing back? Did you forget your spacesuit or something?</key>
@@ -6722,7 +6722,7 @@
 	</entry>
 	<entry>
 		<key>PorphySapWineMaker1The Good Stuff is less “delicious sap wine” and more “daunting digestive challenge.”</key>
-		<value>Jedna láhev je spíš než "dobré mízové víno" "mocná digestivní výzva".</value>
+		<value>Jedna láhev je spíš "mocná digestivní výzva" než "dobré mízové víno".</value>
 	</entry>
 	<entry>
 		<key>SolarSystemAnother metaphor ruined in the name of scientific accuracy.</key>
@@ -6762,11 +6762,11 @@
 	</entry>
 	<entry>
 		<key>NewDirtI’m hoping to teach Esker to tap trees next time they return from the Attlerock. If they’ll bring me lunar sap, I can attempt moon wine!</key>
-		<value>Doufám, že naučím Eskera, jak točit mízu ze stromů, až se vrátí z Vytěžence! Pokud mi přinesou lunární mízu, můžu zkusit měsíční víno!</value>
+		<value>Doufám, že naučím Eskera, jak točit mízu ze stromů, až se vrátí z Vytěžence! Pokud mi přinese lunární mízu, můžu zkusit měsíční víno!</value>
 	</entry>
 	<entry>
 		<key>WhatsUpI’ve just finished sealing up another batch of sap wine for aging. I like to begin aging a batch on the day of a significant occasion, you know!</key>
-		<value>Právě jsem dolil další dávku mízového vína do sudů, aby zestárlo! Rád začínám proces stárnutí dávky ve speciální dny, víš?</value>
+		<value>Právě jsem dolila další dávku mízového vína do sudů, aby zestárlo! Ráda začínám proces stárnutí dávky ve speciální dny, víš?</value>
 	</entry>
 	<entry>
 		<key>WhatsUpThat’s why there are so many bottles labeled “structural collapse” and “house fire.”</key>
@@ -6778,11 +6778,11 @@
 	</entry>
 	<entry>
 		<key>SapWineMaker3Oh my, and here I thought I’d heard your ship take off. Was your adventure only a short one?</key>
-		<value>Myslel jsem, že jsem slyšel tvou loď vzlétnout. Bylo tvé dobrodružství tak krátké?</value>
+		<value>Myslel jsem, že jsem slyšela tvou loď vzlétnout. Bylo tvé dobrodružství tak krátké?</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingOkay, wow. &lt;i&gt;Wow.&lt;/i&gt; I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...</key>
-		<value>Okay, wow. &lt;i&gt;Wow.&lt;/i&gt; Viděl jsem tyhle ruiny ve fotografiích ostatních cestovatelů, ale vidět ji na vlastní oči...</value>
+		<value>Okay, wow. &lt;i&gt;Wow.&lt;/i&gt; Viděl jsem tyhle ruiny ve fotografiích ostatních cestovatelů, ale vidět je na vlastní oči...</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingIt’s &lt;Pause=1&gt;&lt;i&gt;really&lt;/i&gt; old, isn’t it?</key>
@@ -6794,11 +6794,11 @@
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
-		<value>Toto je nějaký "lokátor" Nomai. Dokáže poukázat na specifické planety - což je neskutečně kůlovaté, mimochodem - ale z toho, co zvládám přečíst, to zní, jako že hledali  něco specifického? </value>
+		<value>Toto je nějaký "lokátor" Nomai. Dokáže poukázat na specifické planety - což je neskutečně libové, mimochodem - ale z toho, co zvládám přečíst, to zní, jako že hledali něco specifického? </value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingI’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</key>
-		<value>Nejsem si jistý. Přeložil jsem také něco o severním pólu Křehkoduté planety, takže se pokusím více zjistit tam.</value>
+		<value>Nejsem si jistý. Přeložil jsem také něco o severním pólu Křehkoduté planety, takže se pokusím víc zjistit tam.</value>
 	</entry>
 	<entry>
 		<key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
@@ -6810,7 +6810,7 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
-		<value>Oukej, tak se podívejme... Trošku jsem se podíval kolem, a v jednom z domů začíná stará cesta Nomai - naproti méme tábořišti, uvnitř rozedrané budovy, ze které rostou stromy. </value>
+		<value>Oukej, tak se podívejme... Trošku jsem se kolem poohlédl, a v jednom z domů začíná stará stezka Nomai - naproti mému tábořišti, uvnitř rozedrané budovy, ze které rostou stromy. </value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalDoesn’t look like anything horrible - just stairs leading down. I can handle stairs! After I get my supplies together, I’ll follow the path and see where it leads.</key>
@@ -6838,15 +6838,15 @@
 	</entry>
 	<entry>
 		<key>RiebecksJournalMy best guess? This could be where the Nomai made gravity crystals. We know they mined raw from material from below the crust on Brittle Hollow, then refined that material to produce the crystals.</key>
-		<value>Co bych si tipnul? Myslím, že tady Nomai vyráběli gravitační krystaly. Víme, že kutali nezpracovaný materiál z pode krusty na Křehkoduté planetě, a potom jej rafinovali tak, aby vytvořili krystaly.</value>
+		<value>Co bych si tipnul? Myslím, že tady Nomai vyráběli gravitační krystaly. Víme, že kutali nezpracovaný materiál z pode krusty na Křehkoduté planetě, a potom jej přetvářeli do krystalů.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalGravity crystals produce a local gravity distortion that affects the area around them, up to a certain radius. They’re very clever! Nomai used them to anchor themselves to surfaces they might want to traverse down.</key>
-		<value>Gravitační krystaly zkreslují místní gravitaci, která ovlivňuje zem kolem nich, až do jistého poloměru. Je to velmi chytrý vynález! Nomai je použávali, aby mohli přejít přes různé povrchy.</value>
+		<value>Gravitační krystaly zkreslují místní gravitační pole, které ovlivňuje oblast kolem nich, až do jistého poloměru. Je to velmi chytrý vynález! Nomai je použávali, aby se mohli upevnit k různým povrchům, které chtěli přejít.</value>
 	</entry>
 	<entry>
 		<key>RiebecksJournalWe Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</key>
-		<value>My Domopecané jsme si jejich technologii vypůjčili pro naše lodě, kde gravitační krystaly upevňují astronauty ke spodní rovině (díky hvězdám!).</value>
+		<value>My Domopecané jsme si jejich technologii vypůjčili pro naše lodě, kde gravitační krystaly upevňují astronauty k podlaze (díky hvězdám!).</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingI’m here! I did it! I put the ship down safely!</key>
@@ -6862,15 +6862,15 @@
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingThat’s the good news. The bad news... I, uh, haven’t found a way inside this structure yet. The door is broken, and I know I’m not great at exploring, but I think I would have found a different entrance by now if there were one. P... probably.</key>
-		<value>Toliko k dobrým zprávám. Špatné zprávy... zatím jsem nepřišel na to, jak se dostat do této struktury. Dveře jsou rozbité, a já vím, že nejsem dobrý průzkumník, ale myslím, že bych našel jiný vstup, kdyby existoval. P... pravděpodobně.</value>
+		<value>Toliko k dobrým zprávám. Špatné zprávy... zatím jsem nepřišel na to, jak se dostat do této budovy. Dveře jsou rozbité, a já vím, že nejsem dobrý průzkumník, ale myslím, že bych našel jiný vstup, kdyby existoval. P... pravděpodobně.</value>
 	</entry>
 	<entry>
 		<key>Riebeck_SouthPoleRecordingI can’t get inside from &lt;i&gt;here&lt;/i&gt;, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.</key>
-		<value>Nedokážu se dostat dovnitř &lt;i&gt;odsud&lt;/i&gt;, ale vím, že tu jsou stezky pod povrch. Půjdu na sever k ruinám na rovníku, abych se pokusil najít stezku dolů.</value>
+		<value>Nedokážu se dostat dovnitř &lt;i&gt;odsud&lt;/i&gt;, ale vím, že tu jsou stezky pod povrchem. Půjdu na sever k ruinám na rovníku, abych se pokusil najít stezku dolů.</value>
 	</entry>
 	<entry>
 		<key>Rutile</key>
-		<value>Rutil</value>
+		<value>Rutilem</value>
 	</entry>
 	<entry>
 		<key>Mayor1You’re actually blasting off in that thing, huh?</key>
@@ -6886,7 +6886,7 @@
 	</entry>
 	<entry>
 		<key>SkepticAnswer1All I know is between the space program and Mica’s model rockets, things seem to burn to the ground around here more than they used to.</key>
-		<value>Vše, co vím, je to, že mezi vesmírným programem a Micovými modelovými raketkami, věci tady kolem hoří mnohem častěji, než hořívaly. </value>
+		<value>Já jen vím, že od té doby, co máme vesmírný program a Miciny modelové raketky, tu věci kolem hoří mnohem častěji, než hořívaly. </value>
 	</entry>
 	<entry>
 		<key>SkepticAnswer2Yeah, the space program’s certainly come a long way. I should probably thank you for causing fewer flash fires than your predecessors.</key>
@@ -6918,7 +6918,7 @@
 	</entry>
 	<entry>
 		<key>Marl&lt;Color=#808080ff&gt;Sigh...&lt;/Color&gt; I suppose it’s my duty as mayor to stop them. Again.</key>
-		<value>Marl... &lt;Color=#808080ff&gt;Vzdech...&lt;/Color&gt; Asi je má povinnost coby starosty ho zastavit. Znovu.</value>
+		<value>Marl... &lt;Color=#808080ff&gt;Vzdech...&lt;/Color&gt; Asi je má povinnost coby starosty ho zastavit. Už zase.</value>
 	</entry>
 	<entry>
 		<key>MarlWhen Marl fell out of that tree and broke their arm, I suspect they might have also hit their head on the way down.</key>
@@ -6930,7 +6930,7 @@
 	</entry>
 	<entry>
 		<key>FiresYou also learn to sleep with a bucket of water next to your bed, just in case.</key>
-		<value>Taky se naučíš spát s kyblíkem vody vedle postele, jak tak pro strýčka Příhodu.</value>
+		<value>Taky si zvykneš spát s kyblíkem vody vedle postele, jak tak pro strýčka Příhodu.</value>
 	</entry>
 	<entry>
 		<key>LaunchOf course!</key>
@@ -6938,11 +6938,11 @@
 	</entry>
 	<entry>
 		<key>LaunchI’ll be watching from a safe distance, obviously, and mostly to make sure nothing catches fire. But watching nonetheless.</key>
-		<value>Budu jej sledovat z bezpečné vzdálenosti, samozřejmě, a hlavně abych se ujistil, že nic nezačalo hořet. Ale budu ho sledovat.</value>
+		<value>Budu ho sledovat z bezpečné vzdálenosti, samozřejmě, a hlavně abych se ujistil, že nic nezačalo hořet. Ale budu ho sledovat.</value>
 	</entry>
 	<entry>
 		<key>GoodGlad to hear it.</key>
-		<value>To rád slyším.. </value>
+		<value>To rád slyším. </value>
 	</entry>
 	<entry>
 		<key>MayorSpaceYou’re back already? Is everything OK?</key>
@@ -6966,7 +6966,7 @@
 	</entry>
 	<entry>
 		<key>Spinel</key>
-		<value>Spinel</value>
+		<value>Spinelem</value>
 	</entry>
 	<entry>
 		<key>Spinel1Fishing rhyme, fishing rhyme... Singing helps me pass the time.</key>
@@ -6994,7 +6994,7 @@
 	</entry>
 	<entry>
 		<key>Spinel3One time, after the rest of the village had left to sleep and it was just the two of us sitting around the campfire, Gabbro told me about their first trip to Giant’s Deep.</key>
-		<value>Jednou, potom, co šel zbytek vesnice spát a jen já a Gabbro jsme zůstali vzhůru, mi Gabbro řekl o jeho prvním výletě na Obří hlubinu. </value>
+		<value>Jednou, potom, co šel zbytek vesnice spát a jen já a Gabbro jsme zůstali vzhůru, mi Gabbro řekl o svém prvním výletě na Obří hlubinu. </value>
 	</entry>
 	<entry>
 		<key>Spinel3They landed their ship easily enough in the waves, but couldn’t see too far down, on account of how murky the water was, I guess. Too dark.</key>
@@ -7034,7 +7034,7 @@
 	</entry>
 	<entry>
 		<key>Spinel7As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</key>
-		<value>Jako by měla vlastní vůli, ta voda odmítala pustit Gabbra hlouběji. Zabránila Gabbrovi jít dál. ...Téměř jakoby ho před něčím chránila.</value>
+		<value>Jako by měla vlastní vůli, ta voda odmítala pustit Gabbra hlouběji. Zabraňovala Gabbrovi jít dál. ...Téměř jakoby ho před něčím chránila.</value>
 	</entry>
 	<entry>
 		<key>Spinel7And then, in the terrible darkness, Gabbro saw it...!</key>
@@ -7118,7 +7118,7 @@
 	</entry>
 	<entry>
 		<key>Tektite</key>
-		<value>Tektit</value>
+		<value>Tektitem</value>
 	</entry>
 	<entry>
 		<key>Intro1Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?</key>
@@ -7194,7 +7194,7 @@
 	</entry>
 	<entry>
 		<key>Tektite3Tuff can help me haul the old &lt;color=orange&gt;scout launcher&lt;/color&gt; over here. Obviously the opening is too small for someone to fit inside, and anyway, I’m not gonna blindly stick my hands into anything that looks as unpleasant as that seed does.</key>
-		<value>Tuff mi pomůže sem vzít starý &lt;color=orange&gt;sondomet&lt;/color&gt;. Evidentně se neproplazím tímhle otvorem, a neplánuji strat ruce do něčeho, co vypadá tak nehostinně, jako tohle semínko.</value>
+		<value>Tuff mi sem pomůže vzít starý &lt;color=orange&gt;sondomet&lt;/color&gt;. Evidentně se neproplazím tímhle otvorem, a neplánuji strkat ruce do něčeho, co vypadá tak nehostinně, jako tohle semínko.</value>
 	</entry>
 	<entry>
 		<key>Tektite3That’s a good way to lose an arm or two.</key>
@@ -7258,7 +7258,7 @@
 	</entry>
 	<entry>
 		<key>Tephra</key>
-		<value>Tephra</value>
+		<value>Tephrou</value>
 	</entry>
 	<entry>
 		<key>HideAndSeek1Hullo, astronaut!</key>
@@ -7266,7 +7266,7 @@
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek1If it isn’t my favorite troublemaker.</key>
-		<value>To musí být můj oblíbený výtržník. </value>
+		<value>To musí být moje oblíbená výtržnice. </value>
 	</entry>
 	<entry>
 		<key>TephraHideAndSeek1What’s with the radio?</key>
@@ -7290,7 +7290,7 @@
 	</entry>
 	<entry>
 		<key>AgreeToPlayWoohoo! Okay, here are the rules. Galena and me will hide with these radios, and you’ll use your signalscope to find us.</key>
-		<value>Woohoo! Oukej, tady jsou pravidla. Galena a já se schováme s těmito rádiy, a ty použiješ svůj signáloskop, abys nás našel.</value>
+		<value>Woohoo! Oukej, tady jsou pravidla. Galena a já se schováme s těmito rádii, a ty použiješ svůj signáloskop, abys nás našel.</value>
 	</entry>
 	<entry>
 		<key>AgreeToPlayLast one to be found wins! Okay, close your eyes and start counting!</key>
@@ -7302,15 +7302,15 @@
 	</entry>
 	<entry>
 		<key>FoundYouAwww, you found me? But my hiding spot was super good!</key>
-		<value>Né, tys mě našel? Ale já měl tak dobrý schovávací místo! </value>
+		<value>Né, tys mě našel? Ale já měla tak dobrý schovávací místo! </value>
 	</entry>
 	<entry>
 		<key>FoundYouDon’t forget, you have to find both of us, okay?</key>
-		<value>Nezapomeň, že nás musíš najít oba, oukej? </value>
+		<value>Nezapomeň, že nás musíš najít obě, oukej? </value>
 	</entry>
 	<entry>
 		<key>LastKidFoundYou got me, but I’m the last one. I win!</key>
-		<value>Chytnul jsi mě, ale já jsem poslední! Vyhrál jsem!</value>
+		<value>Chytnul jsi mě, ale já jsem poslední! Vyhrála jsem!</value>
 	</entry>
 	<entry>
 		<key>LastKidFoundPromise you’ll play again when you get back from space, okay? You gotta!</key>
@@ -7318,7 +7318,7 @@
 	</entry>
 	<entry>
 		<key>AlreadyFoundYouI wanted to hide in the observatory, but Hornfels said I was “making a nuisance of myself.”</key>
-		<value>Chtěl jsem se schovat v observatoři, ale Hornfels řekl, že jsem "otravný".</value>
+		<value>Chtěla jsem se schovat v observatoři, ale Hornfels řekl, že jsem "otravná".</value>
 	</entry>
 	<entry>
 		<key>PlayedTheGameHullo, astronaut!</key>
@@ -7398,7 +7398,7 @@
 	</entry>
 	<entry>
 		<key>Tuff</key>
-		<value>Tuff</value>
+		<value>Tuffem</value>
 	</entry>
 	<entry>
 		<key>ScaredMiner1Hey, hey. Nice of you to drop down.</key>
@@ -7478,7 +7478,7 @@
 	</entry>
 	<entry>
 		<key>TuffSick2Just, y’know, ricochet off the walls. Spin around a lot. That kind of thing.</key>
-		<value>Jen se, však víš, odrážej od stěn. Hodně se toč. A tak podobně.</value>
+		<value>Jen se, však víš, bude odrážet od stěn. Hodně se zatočím. A tak podobně.</value>
 	</entry>
 	<entry>
 		<key>TuffSick2That was too far, wasn’t it.</key>
@@ -7534,7 +7534,7 @@
 	</entry>
 	<entry>
 		<key>Probe1Yeah, they were on firewatch with the old scout launcher and saw smoke, so they went to check it out. “Safety first,” right?</key>
-		<value>Jo, zrovna byl na požární hlídce se starým sondometem a uviděl dým, takže se na něj šel podívat. "Nejdřív bezpečí," správně? </value>
+		<value>Jo, zrovna byl na požární hlídce se starým sondometem a uviděl dým, takže se na něj šel podívat. "Bezpečnost na prvním místě," správně? </value>
 	</entry>
 	<entry>
 		<key>Probe1...No, I’m kidding. I said that to Tektite once. Pretty rude how long they laughed for, if you ask me.</key>
@@ -7566,7 +7566,7 @@
 	</entry>
 	<entry>
 		<key>Arkose</key>
-		<value>Arkose</value>
+		<value>Arkosou</value>
 	</entry>
 	<entry>
 		<key>Arkose1Hi, astronaut!</key>
@@ -7644,7 +7644,7 @@
 	</entry>
 	<entry>
 		<key>Galena</key>
-		<value>Galena</value>
+		<value>Galenou</value>
 	</entry>
 	<entry>
 		<key>ShyKid1&lt;size=20&gt;...&lt;/size&gt;</key>
@@ -7692,7 +7692,7 @@
 	</entry>
 	<entry>
 		<key>Mica</key>
-		<value>Mica</value>
+		<value>Micou</value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Hey, it’s you!</key>
@@ -7764,7 +7764,7 @@
 	</entry>
 	<entry>
 		<key>SignThis remarkably intact statue was carved by the Nomai, an ancient species who dwelled in our solar system thousands of years ago.</key>
-		<value>Tato nezvykle zachovalá socha byla vytesána Nomai, prastarým druhem, který v našem slunečním systému žil před mnoha tisíci lety. </value>
+		<value>Tato nezvykle zachovalá socha byla vytesána Nomai, prastarou rasou bytostí, které v našem slunečním systému žily před mnoha tisíci lety. </value>
 	</entry>
 	<entry>
 		<key>SignThe statue provides us with our most detailed look yet at the Nomai, who appear to have been covered with a layer of fur. Note the decorative jewelry that has been carved as part of the antlers.</key>
@@ -7772,7 +7772,7 @@
 	</entry>
 	<entry>
 		<key>SignAlthough their artifacts and structures have been found on almost every planet in this solar system, we still have no idea where this species came from or what happened to them.</key>
-		<value>Přestože jejich artefakty a budovy byly nalezeny na téměř každé planetě v této sluneční soustavě, stále netušíme, odkud tento druh přišel nebo co se jim stalo.</value>
+		<value>Přestože jejich artefakty a budovy byly nalezeny na téměř každé planetě v této sluneční soustavě, stále netušíme, odkud tato rasa přišla nebo co se jim stalo.</value>
 	</entry>
 	<entry>
 		<key>SignThis pilot seat, used by pioneering astronaut Feldspar, is all that remains of our inaugural flight into space.</key>
@@ -7780,7 +7780,7 @@
 	</entry>
 	<entry>
 		<key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
-		<value>Ačkoliv zlé jazyky tvrdí, že taková pocta vyžaduje extrémně liberální definici "letu", ten den zůstane v domopecské historii navždy jako významný mezník. </value>
+		<value>Ačkoliv zlé jazyky tvrdí, že taková pocta vyžaduje extrémně promíjivou definici "letu", ten den zůstane v domopecské historii navždy jako významný mezník. </value>
 	</entry>
 	<entry>
 		<key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
@@ -7801,7 +7801,7 @@
 	<entry>
 		<key>SignThe Nomai technology brought back from space by our astronauts has been a great boon to Outer Wilds Ventures, allowing us to modify expedition gear in exciting and useful ways.</key>
 		<value>
-			Technologie Nomai, kterou nám přinesli naši astronauti, byla Divočinným výpravám (Outer Wilds Ventures) velmi užitečnou. Umožnila nám upravit a inovovat naši expediční výbavu.
+			Technologie Nomai, kterou nám přinesli naši astronauti, byla pro Divočinné výpravy (Outer Wilds Ventures) velmi užitečná. Umožnila nám upravit a inovovat naši expediční výbavu.
 		</value>
 	</entry>
 	<entry>
@@ -7826,7 +7826,7 @@
 	</entry>
 	<entry>
 		<key>Riebeck</key>
-		<value>Riebeck</value>
+		<value>Riebeckem</value>
 	</entry>
 	<entry>
 		<key>Riebeck0Oh, you launched! That’s great. Great job, you.</key>
@@ -7862,7 +7862,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckIntroYou’ve... probably heard the others say it, right? I’m afraid of space. Seriously, I’m more surprised than anybody that I’m out here.</key>
-		<value>Pravděpodobně jsi slyšel, jak si o mně ostatní povídají, co? Mám strach z vesmíru. Zcela vážně, jsem překvapenější, že tu jsem, než všichni dohromady.</value>
+		<value>Pravděpodobně jsi slyšel, jak si o mně ostatní povídají, co? Mám strach z vesmíru. Zcela vážně, jsem překvapenější, že tu jsem, než všichni ostatní dohromady.</value>
 	</entry>
 	<entry>
 		<key>RiebeckIntroDo you want to know how I even got this far? I fell. Tripped over a gravity crystal. It’s dumb luck I landed somewhere my Little Scout says is halfway stable, instead of being sucked into... &lt;i&gt;what’s below&lt;/i&gt;.</key>
@@ -7890,7 +7890,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsI learned something!</key>
-		<value>Něco jsem se naučil! </value>
+		<value>Něco jsem se přiučil! </value>
 	</entry>
 	<entry>
 		<key>RiebeckQuestionsWhere should I explore here?</key>
@@ -7914,7 +7914,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistBrittle Hollow is rich with Nomai history. That’s why I’m here. This planet is an absolute treasure trove of culture, history, and science.</key>
-		<value>Křehkodutá planeta je plná historie Nomai. Proto jsem tady. Tato planeta je naprostý poklad pro kulturu, dějepis a vědu.</value>
+		<value>Křehkodutá planeta je plná historie Nomai. Proto jsem tady. Tato planeta je naprostý poklad plný kultury, dějepisu a vědy.</value>
 	</entry>
 	<entry>
 		<key>RiebeckArcheologistIf you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. &lt;size=20&gt;Maybe I can help?&lt;/size&gt;</key>
@@ -7926,11 +7926,11 @@
 	</entry>
 	<entry>
 		<key>RiebeckExploreWhich is unfortunate, because uh, the most exciting stuff is all below the crust. Including the &lt;color=orange&gt;Hanging City&lt;/color&gt; — that’s just to the north. You can kinda see it from here.</key>
-		<value>Což je nešťastné, protože většina zajímavých věcí je pod povrchem. Včetně &lt;color=orange&gt;Visacího města&lt;/color&gt; - to je odsud na sever. Je ho trošku vidět.</value>
+		<value>Což je nešťastné, protože většina zajímavých věcí je pod povrchem. Včetně &lt;color=orange&gt;Visacího města&lt;/color&gt; - to je odsud na sever. Je ho odsud trošku vidět.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreThere’s also this big dome on the south pole called the &lt;color=orange&gt;Southern Observatory&lt;/color&gt;. You can’t get inside from the surface — trust me, I tried — but if it’s like the rest of the Nomai structures here, there’s probably a path to it beneath the crust somewhere.</key>
-		<value>Je tu taky velká kupole na jižním pólu, která se jmenuje &lt;color=orange&gt;Jižní observatoř&lt;/color&gt;. Nedá se tam dostat zvenčí - věř mi, zkusil jsem to - ale jako většina ostatních struktur, které tu Nomai zanechali, se k ní pravděpodobně dá dostat zevnitř.</value>
+		<value>Je tu taky velká kupole na jižním pólu, která se jmenuje &lt;color=orange&gt;Jižní observatoř&lt;/color&gt;. Nedá se tam dostat zvenčí - věř mi, zkusil jsem to - ale jako většina ostatních budov, které tu Nomai zanechali, se k ní pravděpodobně dá dostat zevnitř.</value>
 	</entry>
 	<entry>
 		<key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
@@ -7938,7 +7938,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
-		<value>Kůlovatý!  &lt;Pause /&gt; A cos objevil? </value>
+		<value>Libový! &lt;Pause /&gt; A cos objevil? </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found the Nomai escape pod on Brittle Hollow.</key>
@@ -7962,7 +7962,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI found Nomai writing about a quantum pilgrimage.</key>
-		<value>Našel jsem písmo Nomai ohledně kvantové poutě. </value>
+		<value>Našel jsem spisky Nomai o kvantové pouti. </value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI went to the comet, and...</key>
@@ -7970,7 +7970,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI TALKED TO A LIVING NOMAI!</key>
-		<value>MLUVIL JSEM S ŽIVÝM NOMAI!</value>
+		<value>MLUVIL JSEM SE ŽIVÝM NOMAI!</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedActually, nevermind.</key>
