@@ -8417,23 +8417,22 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(110m)
 		</key>
 		<value>
-			&lt;color=orange&gt;Neslunné město&lt;/color&gt;\\n (120m) 
+			&lt;color=orange&gt;Neslunné město&lt;/color&gt;\\n (110m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(120m)
+    <key>&lt;color=orange&gt;Gravity Cannon&lt;/color&gt;\\n(120m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Gravitační kanón&lt;/color&gt;\\n (120m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;High Energy Lab&lt;/color&gt;\\n(400m)
 		</key>
 		<value>
@@ -8441,23 +8440,21 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
+    <key>&lt;color=orange&gt;Anglerfish Fossil Overlook&lt;/color&gt;\\n(40m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Ďasí vyhlídka&lt;/color&gt;\\n (40m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;\\n(20m)
+    <key>&lt;color=orange&gt;Stepping Stone Cave&lt;/color&gt;\\n(20m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Kamenná jeskyně&lt;/color&gt;\\n (20m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(120m)
 		</key>
 		<value>
@@ -8465,15 +8462,14 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Crash Site Caves&lt;/color&gt;\\n(60m)
+    <key>&lt;color=orange&gt;Crash Site Caves&lt;/color&gt;\\n(60m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Havarijní jeskyně&lt;/color&gt;\\n (60m) 
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;High Energy Lab&lt;/color&gt;\\n(300m)
 		</key>
 		<value>
@@ -8481,7 +8477,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
+    <key>
 			The &lt;color=orange&gt;Sunless City&lt;/color&gt;\\n(300m)
 		</key>
 		<value>
@@ -8758,7 +8754,7 @@
 	</entry>
 	<entry>
 		<key>Solanum</key>
-		<value>SOLANUM</value>
+		<value>Solanou</value>
 	</entry>
 	<entry>
 		<key>SolanumNomai1Who are you?</key>
@@ -13123,7 +13119,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
-			<value>Fire Jetpack Booster</value>
+			<value>Vypálit pomocnou raketu skafandru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>213</key>
@@ -13167,7 +13163,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>224</key>
-			<value>Use Jetpack Booster	 </value>
+			<value>Vypálit pomocnou raketu skafandru	 </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>225</key>
@@ -13351,7 +13347,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>288</key>
-			<value>Gather</value>
+			<value>Sebrat</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>289</key>
@@ -14695,7 +14691,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>964</key>
-			<value>NAČÍST PŘEDCHOZÍ ULOŽENOU POZICI</value>
+			<value>NAHRÁT MINULOU HRU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>965</key>
