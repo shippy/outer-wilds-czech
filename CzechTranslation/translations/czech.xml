@@ -3565,7 +3565,7 @@
 	</entry>
 	<entry>
 		<key>the Prisoner</key>
-		<value>Vězeň</value>
+		<value>Trestancem</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersThis fire… what a warm and beautiful light it makes.</key>
@@ -15347,7 +15347,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1201</key>
-			<value>VĚZEŇ</value>
+			<value>TRESTANEC</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
