@@ -6234,7 +6234,7 @@
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</key>
-		<value>Zakladatelé Divočinných výprav: \\nHornfels、Gossan、Slate, a Feldspar. </value>
+		<value>Zakladatelé Divočinných výprav: \\nHornfels, Gossan, Slate, a Feldspar. </value>
 	</entry>
 	<entry>
 		<key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
@@ -7970,7 +7970,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedI TALKED TO A LIVING NOMAI!</key>
-		<value>MLUVIL JSEM SE ŽIVÝM NOMAI!</value>
+		<value>MLUVIL JSEM SE ŽIVOU NOMAI!</value>
 	</entry>
 	<entry>
 		<key>RiebeckRiebeckLearnedActually, nevermind.</key>
@@ -8002,7 +8002,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2But that creates so many new questions! If they didn’t come from our solar system, where did they come from? Are they from our galaxy, or somewhere even farther? What were their lives like before they came here? And &lt;i&gt;why&lt;/i&gt; did they come here?</key>
-		<value>Ale to vytváří tolik nových otázek! Pokud nebyli z naší sluneční soustavy, odkud přišli? Jsou z naší galaxie, nebo odněkud dál? Jaké byly jejich životy předtím, než sem přišli? A &lt;i&gt;proč&lt;/i&gt; sem přišli?</value>
+		<value>Ale to nám klade tolik nových otázek! Pokud nebyli z naší sluneční soustavy, odkud přišli? Jsou z naší galaxie, nebo odněkud dál? Jaké byly jejich životy předtím, než sem přišli? A &lt;i&gt;proč&lt;/i&gt; sem přišli?</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_2Hey, I... I might not be much of an astronaut, but I’m really glad I came out here to see the Nomai’s artifacts for myself. And, um, thanks for telling me. &lt;Pause/&gt;About the Vessel, I mean.</key>
@@ -8010,11 +8010,11 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3Isn’t it amazing? Hard to believe the settlement is still standing, but there it is.</key>
-		<value>Není úžasné? Stěží uvěřit, že tahle osada stále stojí, ale je tu. </value>
+		<value>Není úžasná? Stěží uvěřit, že ta osada stále stojí, ale je tu. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_3It really makes you appreciate living somewhere like Timber Hearth. You know, somewhere that isn’t being constantly bombarded with meteors and rocks and stuff.</key>
-		<value>Jeden si opravdu začne vážit života na Domopeci. Víš, kde se nemusíš pořád vyhýbat meteorům a kamení a tak.</value>
+		<value>Jeden si opravdu začne vážit života na Domopeci. Víš, kde se nemusíš pořád vyhýbat meteorům a kamenům a tak.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
@@ -8034,11 +8034,11 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5How did they keep the sand out? If it were me, I’d be nervous about getting buried in the caves by that awful river of sand. Gosh, the Nomai sure were ingenius, building an entire settlement underground. The Sunless City! ...Wow!</key>
-		<value>Jak vypudili písek? Kdybych já byl jimi, byl bych nervózní z toho, že mě v jeskyni pohřbí ta hrozná řeka písku. Šmankote, Nomai byli zcela brilantní, takhle vybudovat podzemní městovc. Neslunné město! ...Wow!</value>
+		<value>Jak odtamtud vypudili písek? Kdybych já byl jimi, byl bych nervózní z toho, že mě v jeskyni pohřbí ta hrozná řeka písku. Šmankote, Nomai byli zcela brilantní, takhle vybudovat podzemní město. Neslunné město! ...Wow!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-		<value>To znamená, že tu byly dvě skupiny Nomai - jedna, která žila na Doutnáku, a jedna tady na Křehkoduté planetě. Ale museli cestovat napříč sluneční soustavu, protože psaní Nomai lze nalézt i na ostatních planetách.</value>
+		<value>To znamená, že tu byly dvě skupiny Nomai - jedna, která žila na Doutnáku, a jedna tady na Křehkoduté planetě. Ale museli cestovat napříč sluneční soustavu, protože spisky Nomai lze nalézt i na ostatních planetách.</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
@@ -8074,7 +8074,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7I guess if I hadn’t wanted to learn why the Nomai disappeared, I’d never have left Timber Hearth and come out here, or had any of these adventures.</key>
-		<value>Kdybych nechtěl vědět, proč Nomai zmizeli, asi bych nikdy neopustil Domopec a nepodnikl žádné z mých dobrodružství. </value>
+		<value>Kdybych nechtěl vědět, proč Nomai zmizeli, asi bych nikdy neopustil Domopec, nepřišel sem a nepodnikl žádné ze svých dobrodružství. </value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_7...Don’t get me wrong, space is terrifying! But, you know, it has its moments.</key>
@@ -8086,7 +8086,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8...What? On the Quantum Moon, you said?&lt;Pause&gt; There’s a sort of-living Nomai on the Quantum Moon?!</key>
-		<value>...Cože? Na Kvantovém měsíci, říkáš? &lt;Pause&gt; Skoro-živý Nomai na Kvantovém měsíci?!</value>
+		<value>...Cože? Na Kvantovém měsíci, říkáš? &lt;Pause&gt; Skoro-živá Nomai na Kvantovém měsíci?!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8WELL, WHY DIDN’T YOU SAY SO?!</key>
@@ -8094,7 +8094,7 @@
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Oh wow! &lt;i&gt;Wow&lt;/i&gt;! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!</key>
-		<value>Wow! &lt;i&gt;Wow&lt;/i&gt;! Tohle je nejlepší věc, co se kdy stala v dějinách Divočinných výprav! Nemůžu uvěřit tomu, žes mluvil se skutečným Nomai!</value>
+		<value>Wow! &lt;i&gt;Wow&lt;/i&gt;! Tohle je nejlepší věc, co se kdy stala v dějinách Divočinných výprav! Nemůžu uvěřit tomu, žes mluvil se skutečnou Nomai!</value>
 	</entry>
 	<entry>
 		<key>RiebeckLearned_8Great! So I just have to go back into space, fly to the Quantum Moon with zero visibility, find a spooky ruin, and travel through a few different types of dangerous terrain to get there.</key>
