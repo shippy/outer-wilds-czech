@@ -14,7 +14,7 @@ Based on [Outer Wilds Korean Translation](https://outerwildsmods.com/mods/outerw
 
 ### Released version
 
-**When we have one,** it should be as easy as:
+This should be as easy as:
 
 1. Download and install the [Outer Wilds Mod Manager](https://outerwildsmods.com/mod-manager/)
 2. Select "Czech Localization" from the list of mods
@@ -28,7 +28,7 @@ Based on [Outer Wilds Korean Translation](https://outerwildsmods.com/mods/outerw
 4. Clone this repository,
 5. Open the folder in Visual Studio,
 6. Check that `CzechTranslation.csproj.user` is pointing at the right location for your OWMM installation,
-7. Build the project (per `CzechTranslation.sln`),
+7. Build the project (per `CzechTranslation.sln` by navigating to "Build" top menu and selecting "Build Solution"),
 8. Launch the Mod Manager, ensure "Czech Localization" is selected, and launch the game.
 
 ## Contributors / Thanks
