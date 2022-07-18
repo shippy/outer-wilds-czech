@@ -8146,7 +8146,7 @@
 	</entry>
 	<entry>
 		<key>SignAs the star’s core contracts, it gets hotter, causing the outer layers to expand. The star has become a red giant.</key>
-		<value>Tím, že se jádro hvězdy zmenšuje, se stane horčejším, což vypuzuje další vrstvy. Hvězda se stala rudým obrem.</value>
+		<value>Tím, že se jádro hvězdy zmenšuje, se stane horčejším, což vypuzuje další vrstvy. Hvězda se tak stane rudým obrem.</value>
 	</entry>
 	<entry>
 		<key>SignWhen the core is hot enough, it starts to fuse helium into carbon.</key>
@@ -8166,7 +8166,7 @@
 	</entry>
 	<entry>
 		<key>SignAt the end of its lifespan, our sun collapsed under its own gravity and then exploded in a violent supernova.</key>
-		<value>Na konci svého života se naše slunce zhroutilo pod svou vlastní váhou a vybuchlo jako prudká supernova. </value>
+		<value>Na konci svého života se naše slunce zhroutilo pod svou vlastní váhou a prudce vybuchlo coby supernova. </value>
 	</entry>
 	<entry>
 		<key>SignWatch closely... these balls move on their own!</key>
@@ -8190,17 +8190,17 @@
 	</entry>
 	<entry>
 		<key>CLARY: There is! The &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; warp tower that stands on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; will take you to two different places, including the forge. Just make sure you start at the correct place within the tower.</key>
-		<value>CLARY: Existuje! Warpová věž &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;, která stojí na &lt;color=orange&gt;Popeláku&lt;/color&gt;, tě vezme na dvě různá místa, jedním z nicž je kovárna. Jen se ujisti, že začneš na správném patře věže.</value>
+		<value>CLARY: Existuje! Warpová věž &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;, která stojí na &lt;color=orange&gt;Popeláku&lt;/color&gt;, tě vezme na dvě různá místa, jedním z nichž je kovárna. Jen se ujisti, že začneš na správném patře věže.</value>
 	</entry>
 	<entry>
 		<key>ROOT: Of personal note: Remember to give Clary my gratitude when next I visit the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;.</key>
-		<value>ROOT: Osobní poznámka: Nezapomeň vzdát Clary hold, až příště navštívím &lt;color=orange&gt;Černoděrou kovárnu&lt;/color&gt;.</value>
+		<value>ROOT: Osobní poznámka: Nesmím zapomenout vzdát Clary hold, až příště navštívím &lt;color=orange&gt;Černoděrou kovárnu&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			Black Hole Forge controls
 		</key>
-		<value>&lt;color=orange&gt;Řízení Černoděré kovárny&lt;/color&gt;</value>
+		<value>Řízení &lt;color=orange&gt;Černoděré kovárny&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>POKE: Clary and Root, kindly tune the alignments on each black hole core as I finish them. The schematic on the floor shows which warp tower aligns with which astral body.</key>
@@ -8216,7 +8216,7 @@
 	</entry>
 	<entry>
 		<key>ROOT: The schematic shows the six towers on &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; are being tuned to only five alignments. Is that a mistake?</key>
-		<value>ROOT: Schématika ukazuje, že šest věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; nastavujeme pro pět těles. Je to chyba?</value>
+		<value>ROOT: Schématika ukazuje, že šest věží na &lt;color=lightblue&gt;Popeláku&lt;/color&gt; nastavujeme jen pro pět těles. Je to chyba?</value>
 	</entry>
 	<entry>
 		<key>POKE: No, that’s correct. For these alignments we've decided to treat the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; as a single astral body.</key>
@@ -8236,7 +8236,7 @@
 	</entry>
 	<entry>
 		<key>FILIX: The signal looked like an eye: round, with a circle at the center much like a pupil. (Suppose the signal was looking for something.)</key>
-		<value>FILIX: Signál vypadal jako oko: kulatý, s kruhem uvnitř jako zřítelnicí. (Řekněme, že ten signál se po něčem díval.) </value>
+		<value>FILIX: Signál vypadal jako oko: kulatý, s kruhem uvnitř podobnému zřítelnici. (Řekněme, že ten signál se po něčem díval.) </value>
 	</entry>
 	<entry>
 		<key>FILIX: The signal was older than the universe itself! This is the most significant detail.</key>
@@ -8374,14 +8374,14 @@
 	</entry>
 	<entry>
 		<key>IDAEA: Pye, I look forward to working with you, but I’m also relieved it will be easy to return to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; regularly.</key>
-		<value>IDAEA: Pye, těším se na naši spolupráci, ale mám také radost, že bude jednoduché vrátit se na &lt;color=lightblue&gt;Popelák&lt;/color&gt;.</value>
+		<value>IDAEA: Pye, těším se na naši spolupráci, ale mám také radost, že bude jednoduché se pravidelně vracet na &lt;color=lightblue&gt;Popelák&lt;/color&gt;.</value>
 	</entry>
 	<entry>
 		<key>
 			MELORAE: This rock is very familiar! Did you travel here, my sedimentary friend? Because your unique color and texture appears identical to a rock I met earlier.
 		</key>
 		<value>
-			MELORAE: Tento kámen je velmi povědomý. Cestoval jsi sem, můj sedlinový příteli? Protože barvou i texturou jako bys z oka vypadl kameni, který jsem potkala už dříve.
+			MELORAE: Tento kámen je mi velmi povědomý. Cestoval jsi sem, můj sedlinový příteli? Protože barvou i texturou jako bys z oka vypadl kameni, který jsem potkala už dříve.
 		</value>
 	</entry>
 	<entry>
@@ -8502,7 +8502,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: Yarrow, would you kindly step back so Daz is closest to the statue? When pairing, the statue will choose whoever is in closest proximity.</key>
-		<value>PHLOX: Yarrowe, ustoupil bys prosím, aby Daz byla nejblíže k soše. Během párování si socha vybere toho, kdo je k ní nejblíž.</value>
+		<value>PHLOX: Yarrowe, ustoupil bys prosím, aby Daz byla nejblíže k soše? Během párování si socha vybere toho, kdo je k ní nejblíž.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: ...See how its eyes have opened? That tells us the statue has paired with Daz. Now, no matter where he is in this star system, Daz’s statue will record his memories and send them to the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
@@ -8510,7 +8510,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: This is extraordinary sculpting work, Phlox!</key>
-		<value>YARROW: Phloxi, to je fenomenální sochařský úspěch!</value>
+		<value>YARROW: Fenomenálně vysocháno, Phloxi!</value>
 	</entry>
 	<entry>
 		<key>DAZ: He has outdone himself again, hasn’t he? And now that we have our first successful pairing, we can test my memory storage prototype.</key>
@@ -8522,7 +8522,7 @@
 	</entry>
 	<entry>
 		<key>PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai.</key>
-		<value>PHLOX: Každé paměťové zařízení je označeno maskou, tedy doplňkem sochy, a maska pošle tyto vzpomínky zpátky každému spárovanému Nomai. </value>
+		<value>PHLOX: Každé paměťové zařízení je označeno maskou, která je doplňkem sochy, a tato maska pošle tyto vzpomínky zpátky každému spárovanému Nomai. </value>
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Request to launch probe received from &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
@@ -8530,7 +8530,7 @@
 	</entry>
 	<entry>
 		<key>Cannon aligned with randomly selected probe trajectory. Gravity field activated.</key>
-		<value>Kanón namířen pro náhodně zvolenou trajektorii sondy. Gravitační pole aktivováno.</value>
+		<value>Kanón srovnán s náhodně zvolenou trajektorií sondy. Gravitační pole aktivováno.</value>
 	</entry>
 	<entry>
 		<key>Control Module</key>
@@ -8586,7 +8586,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can reasonably infer the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s natural state is as we see it now, and that the Eye is its primary location.</key>
-		<value>SOLANUM: Z tohoto můžeme usoudit, že přírodní stav &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; je takový, jak ho vidíme teď, a že Oko je jeho primární lokací. </value>
+		<value>SOLANUM: Z tohoto lze usoudit, že normální stav &lt;color=lightblue&gt;Kvantového měsíce&lt;/color&gt; je takový, jak ho vidíme teď, a že Oko je jeho primární lokací. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Given the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s moon, it’s likely that any characteristics the moon exhibits are also exhibited by the Eye itself. The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; and its shards, for instance, are quantum; thus, the &lt;color=lightblue&gt;Eye&lt;/color&gt; is likely also quantum.</key>
@@ -8602,7 +8602,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Even though the &lt;color=lightblue&gt;Eye&lt;/color&gt; cannot be reached from here, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; remains special to us, as it carries us nearer to the &lt;color=lightblue&gt;Eye&lt;/color&gt; than any other place we know.</key>
-		<value>SOLANUM: Přestože odsud nemůžeme dosáhnout na &lt;color=lightblue&gt;Oko&lt;/color&gt;, &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; je pro nás význačný, protože nás donáší blíže k &lt;color=lightblue&gt;Oku&lt;/color&gt;, než jakékoliv jiné místo, které známe.</value>
+		<value>SOLANUM: Přestože odsud nemůžeme dosáhnout na &lt;color=lightblue&gt;Oko&lt;/color&gt;, &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; je pro nás význačný, protože je odsud k &lt;color=lightblue&gt;Oku&lt;/color&gt; blíže než odkudkoliv odjinud.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve journeyed here to be close to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. While the &lt;color=lightblue&gt;Eye&lt;/color&gt; is obscured from our sight, we can see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt; in the sky above us.</key>
@@ -8614,7 +8614,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: What do you imagine the effects of a conscious observer might be?</key>
-		<value>SOLANUM: Jaké si myslíš, že by byly dopady vědomého pozorovatele?</value>
+		<value>SOLANUM: Jaké si myslíš, že by byly dopady přítomnosti vědomého pozorovatele?</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I imagine you’ve noticed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; changes in appearance depending on which location it is currently orbiting (for instance, the moon looks quite different when orbiting &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; than it does when orbiting the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt;).</key>
@@ -8622,11 +8622,11 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Because the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; clearly changes in its different forms, the &lt;color=lightblue&gt;Eye&lt;/color&gt; (being this moon’s primary location) must be similarly malleable.</key>
-		<value>SOLANUM: Protože &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; jasně mění svou formu, &lt;color=lightblue&gt;Oko&lt;/color&gt; (coby hlavní planeta pro tento měsíc) musí být obdobně tvárné.</value>
+		<value>SOLANUM: Protože &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; evidentně mění svou podobu, &lt;color=lightblue&gt;Oko&lt;/color&gt; (coby hlavní planeta pro oběh tohoto měsíce) musí být obdobně tvárné.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: From this, we can hypothesize that &lt;i&gt;the Eye represents extreme changeability&lt;/i&gt;.</key>
-		<value>SOLANUM: Na základě tohoto můžeme postulovat, že &lt;i&gt;Oko představuje extrémní změnitelnost&lt;/i&gt;.</value>
+		<value>SOLANUM: Na základě tohoto můžeme postulovat, že &lt;i&gt;Oko je symbol extrémní změnitelnosti&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: That said, despite its malleable nature, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; becomes locked to one specific version of itself when it is consciously observed.</key>
@@ -8642,7 +8642,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: When I was a child, I used to believe the &lt;color=lightblue&gt;Eye&lt;/color&gt; was malevolent, to have lured my clan to this star system only to then vanish from them so completely.</key>
-		<value>SOLANUM: Jako dítě jsem věřívala, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je zlomyslné - nalákalo jsem můj klan, jen aby následně kompletně zmizelo.</value>
+		<value>SOLANUM: Jako dítě jsem věřívala, že &lt;color=lightblue&gt;Oko&lt;/color&gt; je zlomyslné - nalákalo sem můj klan, jen aby následně kompletně zmizelo.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: But I don’t fear the &lt;color=lightblue&gt;Eye&lt;/color&gt;, anymore. In fact, it became my fondest hope to see the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself, someday, but I fear this may be beyond my reach.</key>
@@ -8650,7 +8650,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: You may think I’m strange, but I have a hypothesis that I may not be entirely alive. Perhaps my journey has reached its end.</key>
-		<value>SOLANUM: Možná si myslíš, že jsem zvláštní, ale mám hypotézu, že nejsem zcela naživu. Možná je má cesta u konce.</value>
+		<value>SOLANUM: Možná si budeš myslet, že jsem podivínka, ale mám hypotézu, že nejsem zcela naživu. Možná je má cesta u konce.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: These are the two tenets of Nomai philosophy; to seek out and to understand is our way of living.</key>
@@ -8658,7 +8658,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: We are orbiting the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; now, although we cannot see it (only the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of it). The &lt;color=lightblue&gt;Eye&lt;/color&gt; is older than the universe itself, and my clan believes it dwells in an extremely distant orbit around this star system.</key>
-		<value>SOLANUM: Nyní obíháme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;, přestože ho nemůžeme vidět (jen to, jak se na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; odráží). &lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než vesmír samotný, a můj klan věří, že obíhá kolem tohoto slunce na extrémně vzdálené oběžné dráze.</value>
+		<value>SOLANUM: Nyní obíháme &lt;color=lightblue&gt;Oko vesmíru&lt;/color&gt;, přestože ho nemůžeme vidět (jen to, jak se na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt; odráží). &lt;color=lightblue&gt;Oko&lt;/color&gt; je starší než vesmír samotný, a můj klan věří, že obíhá kolem tohoto slunce po extrémně vzdálené oběžné dráze.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: I’ve never met one of your kind before. It’s an honor to speak with you! I particularly admire your four eyes.</key>
@@ -8666,7 +8666,7 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: There are many questions I would ask, if I could comprehend your language. You have my gratitude for understanding mine.</key>
-		<value>SOLANUM: Mám mnoho otázek, na které bych se zeptala, pokud bych dokázala rozumět tvému jazyku. Máš mé díky za to, že rozumíš tomu mému.</value>
+		<value>SOLANUM: Mám mnoho otázek, na které bych se zeptala, pokud bych dokázala porozumět tvému jazyku. Máš mé díky za to, že rozumíš tomu mému.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: This is the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, where we both are standing.</key>
@@ -8690,23 +8690,23 @@
 	</entry>
 	<entry>
 		<key>SOLANUM: Like many of my clan before me, I journeyed here to see the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s reflection of the &lt;color=lightblue&gt;Eye&lt;/color&gt;. This is the closest any of us have come to seeing the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself.</key>
-		<value>SOLANUM: Jako mnozí v mém klanu přede mnou, i já jsem sem cestovala, abych uviděla, jak &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; odráží &lt;color=lightblue&gt;Oko&lt;/color&gt;. Toto je nejblíže, co jsme kdy došli k obrazy &lt;color=lightblue&gt;Oka&lt;/color&gt; samotného.</value>
+		<value>SOLANUM: Jako mnozí v mém klanu přede mnou, i já jsem sem cestovala, abych spatřila odraz &lt;color=lightblue&gt;Oka&lt;/color&gt; na &lt;color=lightblue&gt;Kvantovém měsíci&lt;/color&gt;. Toto je nejblíže, co jsme kdy došli k obrazu &lt;color=lightblue&gt;Oka&lt;/color&gt; samotného.</value>
 	</entry>
 	<entry>
 		<key>SOLANUM: We do not have much connection, you and I.</key>
-		<value>SOLANUM: My dva toho nemáme moc společného. </value>
+		<value>SOLANUM: My dva toho nemáme mnoho společného, ty a já. </value>
 	</entry>
 	<entry>
 		<key>SOLANUM: Still, this encounter feels special. I hope you won’t mind if I think of you as a friend.</key>
-		<value>SOLANUM: Ale naše setkání mi přijde neobyčejné. Doufám, že ti nebude vadit, pokud o tobě budu smýšlet jako o příteli.</value>
+		<value>SOLANUM: Ale naše setkání mi i tak přijde neobyčejné. Doufám, že ti nebude vadit, pokud o tobě budu smýšlet jako o příteli.</value>
 	</entry>
 	<entry>
 		<key>RAMIE: I’ve installed the masks inside the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, Phlox. They look beautiful (although I do feel as though I’m being observed!).</key>
-		<value>RAMIE: Phloxi, naaranžoval jsem masky uvnitř &lt;color=orange&gt;Popelákového projektu&lt;/color&gt;. Vypadají nádherně (přestože si připadám, jako by mne pozorovaly!).</value>
+		<value>RAMIE: Phloxi, naaranžovala jsem masky uvnitř &lt;color=orange&gt;Popelákového projektu&lt;/color&gt;. Vypadají nádherně (přestože si připadám, jako by mne pozorovaly!).</value>
 	</entry>
 	<entry>
 		<key>RAMIE: It’s comforting to know the statues will not pair until the project succeeds. Otherwise, I imagine the experience would be hard to endure!</key>
-		<value>RAMIE: Uklidňuje mě, že sochy se nespárují, dokud projekt neuspěje. Jinak si dovedu představit, že by takovou zkušenost mohlo být těžké zvládnout! </value>
+		<value>RAMIE: Uklidňuje mě, že sochy se nespárují, dokud projekt neuspěje. Jinak si dovedu představit, že by takovou zkušenost mohlo být těžké unést! </value>
 	</entry>
 	<entry>
 		<key>PHLOX: Ideally, they’ll only need to activate once the project succeeds; as a safety measure, however, the statues will also activate in the event of equipment failure.</key>
@@ -8734,11 +8734,11 @@
 	</entry>
 	<entry>
 		<key>OENO: We’ll deliver more ore to &lt;color=lightblue&gt;Hollow’s Lantern&lt;/color&gt; immediately. You must be fired up about crafting the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;’s protective shell!</key>
-		<value>OENO: Okamžitě doručíme víc rudy na &lt;color=lightblue&gt;Křehkodutý měsíc&lt;/color&gt;. Určitě jsi zapálený pro tvorbu ochranné skořápku pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! </value>
+		<value>OENO: Okamžitě doručíme víc rudy na &lt;color=lightblue&gt;Křehkodutý měsíc&lt;/color&gt;. Určitě jsi zapálený pro tvorbu ochranné skořápky pro &lt;color=orange&gt;Popelákový projekt&lt;/color&gt;! </value>
 	</entry>
 	<entry>
 		<key>ROOT: Yes, the idea of an encasement that’s supernova-proof, however briefly, has kindled my curiosity!</key>
-		<value>ROOT: Ano, myšlenka zapouzdření, které překoná supernovu, jakkoli krátce, mne velmi zaujala! </value>
+		<value>ROOT: Ano, myšlenka zapouzdření, které překoná supernovu, jakkoliv krátce, mne velmi zaujala! </value>
 	</entry>
 	<entry>
 		<key>ROOT: My gratitude! I imagine we’ll also have an updated estimate soon of how much ore is needed to seal off the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;.</key>
@@ -8782,14 +8782,14 @@
 	</entry>
 	<entry>
 		<key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Received data from previous cycles.</key>
-		<value>PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Přijímáme data z předchozích smyček.</value>
+		<value>PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Přijímáme data z předchozích cyklů.</value>
 	</entry>
 	<entry>
 		<key>
 			MASKS RECEIVING DATA FROM:\\n&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;\\n&lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; memory statue\\n&lt;color=lightblue&gt;Timber Hearth&lt;/color&gt; memory statue
 		</key>
 		<value>
-			MASKY PŘIJÍMAJÍ DATA Z: \\n&lt;color=orange&gt;Sledovací modul&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Domopece&lt;/color&gt;
+			MASKY PŘIJÍMAJÍ DATA Z NÁSLEDUJÍCÍCH ZDROJŮ: \\n&lt;color=orange&gt;Sledovací modul&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Obří hlubiny&lt;/color&gt;\\nSocha z &lt;color=lightblue&gt;Domopece&lt;/color&gt;
 		</value>
 	</entry>
 	<entry>
@@ -8798,7 +8798,7 @@
 	</entry>
 	<entry>
 		<key>YARROW: Some time has passed since I checked in with you, Pye. How are you and Idaea progressing with the &lt;color=orange&gt;Sun Station&lt;/color&gt; plans?</key>
-		<value>YARROW: Už je to nějakou chvilku, co jsem na vás naposledy hodil okem, Pye. Jak s Idaeou postupujete na plánech na &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;?</value>
+		<value>YARROW: Už je to nějakou chvilku, co jsem na vás naposledy hodil okem, Pye. Jak s Idaeou postupujete na plánech pro &lt;color=orange&gt;Sluneční stanici&lt;/color&gt;?</value>
 	</entry>
 	<entry>
 		<key>PYE: Presently, my assessment is that our plan will either fail explosively or succeed explosively.</key>
@@ -8830,7 +8830,7 @@
 	</entry>
 	<entry>
 		<key>Chert</key>
-		<value>Chert</value>
+		<value>Chertem</value>
 	</entry>
 	<entry>
 		<key>ChertIntro1Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. &lt;Pause=2&gt;Mind the sand, now.</key>
