@@ -8846,7 +8846,7 @@
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationHornfels asked me to update our star charts, so I’m out here observing. This is one of the best places in the solar system to spot astronomical events, you know.</key>
-		<value>Hornfels mě požádal, abych aktualizoval naše hvězdné mapy, takže jsem tady a pozoruju. Tohle je jedno z nejlepších míst ve sluneční soustavě pro pozorování astronomický událostí, víš?</value>
+		<value>Hornfels mě požádal, abych aktualizoval naše hvězdné mapy, takže jsem tady a pozoruju. Tohle je jedno z nejlepších míst ve sluneční soustavě pro pozorování astronomických událostí, víš?</value>
 	</entry>
 	<entry>
 		<key>ChertIntroExplanationWhat’s weird is I’ve actually seen a couple of supernovae today. Usually, I’d be fortunate to see just one. Keep an eye or four on the stars, and maybe you’ll spot one yourself!</key>
@@ -8886,7 +8886,7 @@
 	</entry>
 	<entry>
 		<key>Chert1Please don’t tell the others I said this, but sometimes I think I’m the only traveler out here interested in doing any science at all.</key>
-		<value>Neříkej to ostatním, ale občas mám pocit, že jsem jediný cestovatel, který má zájem dělat jakoukoliv vědu. </value>
+		<value>Neříkej to ostatním, ale občas mám pocit, že jsem jediný cestovatel, který má zájem o vědeckou práci. </value>
 	</entry>
 	<entry>
 		<key>Chert1...Er, maybe don’t tell Hornfels, either. I think they’re pretty deep in denial.</key>
@@ -8894,7 +8894,7 @@
 	</entry>
 	<entry>
 		<key>Chert2To be honest, I haven’t left this lakebed. I don’t mean to brag, but I’m really quite good with the Little Scout, so I’ve been taking pictures of everything from right here in my campsite.</key>
-		<value>Abych byl upřímný, neopustil jsem dno tohoto jezera. Nechci se vychloubat, ale sondomet mám opravdu v ruce, takže fotím všechno odsud, ze svého tábora.</value>
+		<value>Abych byl upřímný, neopustil jsem dno tohoto jezera. Nechci se vychloubat, ale sondomet mám opravdu v ruce, takže všechno fotím odsud, ze svého tábora.</value>
 	</entry>
 	<entry>
 		<key>Chert2Have you seen the old shipwreck site on Ember Twin’s southern hemisphere, the one shooting a bright beam of light into the sky? It’s not one of our own crashes, surprisingly enough - this one’s a Nomai ship.</key>
@@ -9038,7 +9038,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5I wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími Dvojčaty, když sebemenší problém s přistáním znamenal ohnivou smrt. </value>
+		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími dvojčaty, když by sebemenší problém s přistáním znamenal ohnivou smrt. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6You - what? I don’t... um. What?</key>
@@ -9058,7 +9058,7 @@
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaiB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>A-a-ale určitě bych viděl nějaké jiné znamená než jen supernovy, takže m-možná...? </value>
+		<value>A-a-ale určitě bych viděl nějaké jiné znamení než jen supernovy, takže m-možná...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7Nothing you’d like to discuss at the moment? That’s no trouble! If you do discover anything you want to talk about, I’d be happy to help!</key>
@@ -9222,7 +9222,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomething5bI wonder how were they able to travel back and forth from the Sun Station and the Hourglass Twins, when the slightest slip up would have meant a fiery death.</key>
-		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími Dvojčaty, když sebemenší problém s přistáním znamenal ohnivou smrt. </value>
+		<value>Zajímalo by mě, jak cestovali tam a zpět mezi Sluneční stanicí a Přesýpacími dvojčaty, když by sebemenší problém s přistáním znamenal ohnivou smrt. </value>
 	</entry>
 	<entry>
 		<key>FoundSomething6bYou - what? I don’t... um. What?</key>
@@ -9242,7 +9242,7 @@
 	</entry>
 	<entry>
 		<key>ChertBreakdownNomaibB-b-but surely, I would have seen some kind of other sign than the supernovae, so p-perhaps...?</key>
-		<value>A-a-ale určitě bych viděl nějaké jiné znamená než jen supernovy, takže m-možná...? </value>
+		<value>A-a-ale určitě bych viděl nějaké jiné znamení než jen supernovy, takže m-možná...? </value>
 	</entry>
 	<entry>
 		<key>FoundSomething7bNothing you’d like to discuss at the moment? That’s no trouble! If you do find something you wish to discuss, please, come find me! I’ll be here studying the stars for a while yet.</key>
@@ -9282,7 +9282,7 @@
 	</entry>
 	<entry>
 		<key>FoundSomethingWhy, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</key>
-		<value>No, to je super! A víš ty co, já jsem taky leccos našel! Většina věcí, co jsem našel, mají co do činění s explodujícími hvězdami!</value>
+		<value>No, to je super! A víš ty co, já jsem taky leccos vynašel! Většina věcí, co jsem našel, mají co do činění s explodujícími hvězdami!</value>
 	</entry>
 	<entry>
 		<key>FoundSomethingOh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!</key>
@@ -9314,7 +9314,7 @@
 	</entry>
 	<entry>
 		<key>Chert3Not as dangerous as what’s about to happen to our entire solar system!</key>
-		<value>Ne tak nebezpečný jako to, co se za chvíli stane celé naší sluneční soustavě! </value>
+		<value>Ne tak nebezpečný jako to, co se za chvíli stane celý naší sluneční soustavě! </value>
 	</entry>
 	<entry>
 		<key>Chert3I... I don’t feel well. I’d like to be alone, please. I can’t believe this...</key>
@@ -9342,7 +9342,7 @@
 	</entry>
 	<entry>
 		<key>QuestionsCome, sit with me, my fellow traveler. Let’s sit together and watch the stars die.</key>
-		<value>Pojď, sedni si se mnou, můj spolucestovateli. Pojďme spolu sedět a sledovat, jak hvězdy umírají.</value>
+		<value>Pojď, sedni si se mnou, můj spolucestovateli. Dej si žužu. Pojďme spolu sedět a sledovat, jak hvězdy umírají.</value>
 	</entry>
 	<entry>
 		<key>ChertQuestionsSure, why not.</key>
@@ -9366,7 +9366,7 @@
 	</entry>
 	<entry>
 		<key>Chert2Ah, that’s a lovely thought. Is that how you’re coping with this?</key>
-		<value>Ach, to je krásná myšlenka. Takže ty se s tím potýkáš takhkle? </value>
+		<value>Ach, to je krásná myšlenka. Takže ty se s tím potýkáš takhle? </value>
 	</entry>
 	<entry>
 		<key>Chert2Does it help?</key>
