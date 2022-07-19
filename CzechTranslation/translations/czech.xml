@@ -1585,7 +1585,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: I seem to recall that was &lt;i&gt;your&lt;/i&gt; understanding of warp technology, at first.</key>
-		<value>CLARY: Vzpomínám si také, že tak jsi nejprve chápala warpovou technologii i &lt;i&gt;ty&lt;/i&gt;</value>
+		<value>CLARY: Vzpomínám si také, že tak jsi nejprve chápala warpovou technologii i &lt;i&gt;ty&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the &lt;color=lightblue&gt;Hourglass Twins&lt;/color&gt; are so close together they function as a single astral body, with a shared alignment point in between them.</key>
@@ -6250,7 +6250,7 @@
 	</entry>
 	<entry>
 		<key>Gneiss1Hello there, space cadet! I hear you’re leaving the crater today.</key>
-		<value>Čauky, kadate! Slyšel jsem, že dnes opouštíš svůj rodný kráter. </value>
+		<value>Čauky, kadete! Slyšel jsem, že dnes opouštíš svůj rodný kráter. </value>
 	</entry>
 	<entry>
 		<key>Gneiss1If you meet any of the other travelers up there, remind them to take proper care of their instruments, won’t you?</key>
@@ -7098,7 +7098,7 @@
 	</entry>
 	<entry>
 		<key>Spinel12Not that I’ve caught anything yet, but if I had, I’d definitely bet it. Hornfels is pretty much &lt;i&gt;always&lt;/i&gt; in the observatory.</key>
-		<value>Ne že bych zatím něco chytil, ale kdyby ano, tak bych to rozhodně vsadil. nHornfels je v observatoři prakticky &lt;i&gt;vždycky&lt;/i&gt;.</value>
+		<value>Ne že bych zatím něco chytil, ale kdyby ano, tak bych to rozhodně vsadil. Hornfels je v observatoři prakticky &lt;i&gt;vždycky&lt;/i&gt;.</value>
 	</entry>
 	<entry>
 		<key>Spinel13That’s nice. I’m planning to do a lot of that later.</key>
@@ -8765,16 +8765,15 @@
 		<value>Kde jsme?</value>
 	</entry>
 	<entry>
-		<key>
-			281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
+    <key>
+		    281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep.
 		</key>
 		<value>
 			PŘED 281,042 LETY: Žádné uživatelské příkazy v posledních 10 minutách. Všechny systémy nyní spí. 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Increased solar activity detected. &lt;color=orange&gt;Sun Station&lt;/color&gt; hull integrity approaching critical levels. Closing emergency doors.
+    <key>&lt;TimeMinutes&gt; MINUTES, &lt;TimeSeconds&gt; SECONDS AGO: Increased solar activity detected. &lt;color=orange&gt;Sun Station&lt;/color&gt; hull integrity approaching critical levels. Closing emergency doors.
 		</key>
 		<value>
 			PŘED &lt;TimeMinutes&gt; MINUTAMI A &lt;TimeSeconds&gt; SEKUNDAMI: Zvýšená sluneční aktivita detekována. Integrita pláště &lt;color=orange&gt;Sluneční stanice&lt;/color&gt; dostupuje kritické úrovně. Uzavírám nouzové dveře. 
@@ -13423,11 +13422,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>312</key>
-			<value>Odstranit </value>
+			<value>Vysunout </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>313</key>
-			<value>Vložit </value>
+			<value>Zasunout </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>314</key>
@@ -13435,7 +13434,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>315</key>
-			<value>Už držíš </value>
+			<value>Máš v ruce </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
@@ -13463,7 +13462,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>322</key>
-			<value>Svitek</value>
+			<value>svitek</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>323</key>
@@ -13479,7 +13478,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>331</key>
-			<value>Rotate Stick</value>
+			<value>Rotovat klackem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>332</key>
@@ -14359,7 +14358,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>731</key>
-			<value>DIVOČINNÉ VÝPRAVY</value>
+			<value>OUTER WILDS VENTURES</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>732</key>
@@ -14371,7 +14370,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>NASVIŤ TEMNÁ MÍSTA</value>
+			<value>ILUMINUJ TEMNÁ MÍSTA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
@@ -15351,11 +15350,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1210</key>
-			<value>Artefakt</value>
+			<value>artefakt</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1212</key>
-			<value>Lampa</value>
+			<value>lampu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1213</key>
@@ -15363,7 +15362,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1220</key>
-			<value>Zatlačit na raft</value>
+			<value>Strkej do raftu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1221</key>
@@ -15371,7 +15370,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1222</key>
-			<value>Použít rozhraní</value>
+			<value>Otočit rozhraním</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1223</key>
