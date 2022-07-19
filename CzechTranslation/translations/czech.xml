@@ -2709,7 +2709,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-		<value>Jsem rád, že jsi nadšený, ale pamatuj: pokud tuhle loď zničíš, nepostavím ti druhou. Neumím jen tak vykouzlit lehkovážní hliníkové slitiny pro atmosférický návrat, víš?</value>
+		<value>Jsem rád, že jsi nadšený, ale pamatuj: pokud tuhle loď zničíš, nepostavím ti druhou. Neumím jen tak vykouzlit odlehčené hliníkové slitiny pro atmosférický návrat, víš?</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
@@ -2725,7 +2725,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer15Anyway, you’ll need to get the &lt;color=orange&gt;launch codes from Hornfels at the observatory&lt;/color&gt; before you can lift off. Just bring those here once you’ve said your goodbyes or whatever.</key>
-		<value>Každopádně budeš potřebovat &lt;color=orange&gt;letové kódy od Hornfelse v observatoři&lt;/color&gt; předtím, než budeš moci vzlétnout. Přines je sem, jakmile se se všemi rozloučíš nebo tak něco.</value>
+		<value>Každopádně budeš potřebovat &lt;color=orange&gt;letové kódy od Hornfelse v observatoři&lt;/color&gt; předtím, než budeš moci vzlétnout. Jakmile se se všemi rozloučíš - nebo tak něco - přines je sem.</value>
 	</entry>
 	<entry>
 		<key>Scientist2Not having second thoughts, are you?</key>
@@ -6254,7 +6254,7 @@
 	</entry>
 	<entry>
 		<key>Gneiss1If you meet any of the other travelers up there, remind them to take proper care of their instruments, won’t you?</key>
-		<value>Pokud potkáš další cestovatele, připomeň jim, ať se žádně starají o své hudební nástroje, jo?</value>
+		<value>Pokud potkáš další cestovatele, připomeň jim, ať se řádně starají o své hudební nástroje, jo?</value>
 	</entry>
 	<entry>
 		<key>GneissGneiss1Tell me about the travelers’ instruments.</key>
@@ -6290,7 +6290,7 @@
 	</entry>
 	<entry>
 		<key>Gneiss3Anyway, you hear music in space, that’ll be one of the space program’s other travelers. If you feel like company, you can always pull out your signalscope and track them down.</key>
-		<value>Na každý pád, pokud uslyšíš ve vesmíru hudbu, to buden jeden z našich dalších vesmírných cestovatelů. Pokud máš rád společnost, můžeš vždycky vytáhnout svůj signáloskop a najít je.</value>
+		<value>Na každý pád, pokud uslyšíš ve vesmíru hudbu, to bude jeden z našich dalších vesmírných cestovatelů. Pokud máš rád společnost, můžeš vždycky vytáhnout svůj signáloskop a najít je.</value>
 	</entry>
 	<entry>
 		<key>GneissSecondaryTrouble is, every time a Hearthian leaves for outer space, that’s one less musician in our orchestra.</key>
@@ -6714,7 +6714,7 @@
 	</entry>
 	<entry>
 		<key>SapWineMaker1I hear you’re leaving us to seek adventure amongst the stars. When you return, let’s you, me, and Gossan open up a bottle of the Good Stuff.</key>
-		<value>Slyšel jsem, že se s námi loučíš, abys našel dobrodružství mezi hvězdami. Až se vrátíš, pojďme ty, já a Gossan otevřít jednu láhev.</value>
+		<value>Slyšela jsem, že se s námi loučíš, abys našel dobrodružství mezi hvězdami. Až se vrátíš, pojďme ty, já a Gossan otevřít jednu láhev.</value>
 	</entry>
 	<entry>
 		<key>PorphySapWineMaker1I’m only seeking adventure amongst one star, actually. Other stars are too far away.</key>
@@ -6738,7 +6738,7 @@
 	</entry>
 	<entry>
 		<key>GoodStuffOur hardy hunter-gatherer lifestyle stems from trial and error. By which I mean our ancestors survived eating a lot of bad things.</key>
-		<value>Naši předci lovci-sběrači žili pokusem a omylem. Čímž chci říci, že naše předci přežili jedení hodně špatných věcí.</value>
+		<value>Naši předci lovci-sběrači žili pokusem a omylem. Čímž chci říci, že naši předci přežili jezení hodně špatných věcí.</value>
 	</entry>
 	<entry>
 		<key>SapWineMaker2Ho, the astronaut returns!</key>
@@ -7574,7 +7574,7 @@
 	</entry>
 	<entry>
 		<key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-		<value>Víš o tom kousku antihmoty uvnitř tohohle plotu? Gossan říkal, že býval větší, kdy byl mládě. Protože antihmota se odpařuje.</value>
+		<value>Víš o tom kousku antihmoty uvnitř tohohle plotu? Gossan říkal, že býval větší, když byl mládě. Protože antihmota se odpařuje.</value>
 	</entry>
 	<entry>
 		<key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
@@ -7640,7 +7640,7 @@
 	</entry>
 	<entry>
 		<key>SignOuter Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe.</key>
-		<value>Divočinné výpravy (Outer Wilds Ventures) založili Feldspar、Gossan、Slate, a Hornfels, aby prozkoumali sluneční soustavu na konci vesmíru. </value>
+		<value>Divočinné výpravy (Outer Wilds Ventures) založili Feldspar, Gossan, Slate, a Hornfels, aby prozkoumali sluneční soustavu na konci vesmíru. </value>
 	</entry>
 	<entry>
 		<key>Galena</key>
@@ -7700,7 +7700,7 @@
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Slate said you’re blasting off in your ship today. I’m really excited to see the launch!</key>
-		<value>Slate říkál, že dnes odlétáš se svou lodí. Jsem vážně nadšená z toho, že uvidím tvůj vzlet! </value>
+		<value>Slate říkal, že dnes odlétáš se svou lodí. Jsem vážně nadšená z toho, že uvidím tvůj vzlet! </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid1Aren’t you gonna go into space? Aren’t you? You better not have changed your mind!</key>
@@ -7716,7 +7716,7 @@
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1I hear you and Slate beefed up the model ship. Can I see it?</key>
-		<value>Slyšel jsem, že jsi se Slatem posílila pokusnou loďku. Můžu se na ní podívat? </value>
+		<value>Slyšel jsem, že jsi se Slatem vylepšila pokusnou loďku. Můžu se na ní podívat? </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid5You better be! It’s been forever since anyone launched into space. I really, &lt;i&gt;really&lt;/i&gt; want to see it.</key>
@@ -13318,7 +13318,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Vyžaduje letové kódy</value>
+			<value>Letové kódy nutné</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
