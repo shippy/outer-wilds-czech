@@ -1,4 +1,4 @@
-# Outer Wilds Czech Localization
+﻿# Outer Wilds Czech Localization
 
 Replaces the English text in the game with Czech. No configuration necessary.
 
@@ -33,7 +33,8 @@ This should be as easy as:
 
 ## Contributors / Thanks
 
-- V�clav Soukup for brainstorming the names of planetary bodies with me + translating the UI
-- Agnieszka Buchtov� for Ilex's rhymes
+- Václav Soukup for brainstorming the names of planetary bodies with me + translating the UI
+- Agnieszka Buchtová for Ilex's rhymes
 - @xen-42 for creating the mod to sub in the Czech text in English's stead
 - @MegaPiggy for selflessly contributing a fix we didn't realize we'd needed
+- Zbyněk Piech for test-flying and otherwise beta-testing
