@@ -9501,7 +9501,7 @@
 	</entry>
 	<entry>
 		<key>OtherTravelersSometimes Chert comes by to say hi, but Gabbro is Gabbro, and you know how Riebeck feels about “unnecessary spaceflight.”</key>
-		<value>Občas sem Chert přijde pozdravit, ale Gabbro je Gabbro, a však víš, jak se Riebeck tváří na "nepotřebné průlet vesmírem." </value>
+		<value>Občas sem Chert přijde pozdravit, ale Gabbro je Gabbro, a však víš, jak se Riebeck tváří na "nepotřebné průlety vesmírem." </value>
 	</entry>
 	<entry>
 		<key>LonelyA little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</key>
@@ -9529,7 +9529,7 @@
 	</entry>
 	<entry>
 		<key>ForgetLet alone in our village.</key>
-		<value>Co teprve v naší vesnici. </value>
+		<value>Natož v naší vesnici. </value>
 	</entry>
 	<entry>
 		<key>SpyWhat? No! It’s not spying, it’s...</key>
@@ -9541,7 +9541,7 @@
 	</entry>
 	<entry>
 		<key>MusicProbably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</key>
-		<value>Pravděpodobně. Nebo vlastně, určitě. Ostatní cestovatelé mají nástroje, takže neobtěžují pískat. </value>
+		<value>Pravděpodobně. Nebo vlastně, určitě. Ostatní cestovatelé mají nástroje, takže se neobtěžují pískat. </value>
 	</entry>
 	<entry>
 		<key>MusicYou can pick up their music with a signalscope, you know. Best spot for that is the &lt;color=orange&gt;north pole&lt;/color&gt;. Great reception.</key>
@@ -9741,7 +9741,7 @@
 	</entry>
 	<entry>
 		<key>ExplanationMergeSo that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
-		<value>Takže to se stalo mně. Ale hey, tohle je tvoje první sólo výprava! Pojďme mluvit o tobě, co myslíš? </value>
+		<value>Takže to se stalo mně. Ale hej, tohle je tvoje první sólo výprava! Pojďme mluvit o tobě, co myslíš? </value>
 	</entry>
 	<entry>
 		<key>Gabbro1_saidhiHave you ever stared at a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll pull you into a trance if you look at ’em long enough.</key>
@@ -9753,7 +9753,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoingWell, what are any of us doing here, really?</key>
-		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
+		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
@@ -9781,7 +9781,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExploreIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
+		<value>Pokud chceš prozkoumat Ostrov soch, je to ten se dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanetHaha, I know, right?</key>
@@ -9833,7 +9833,7 @@
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_3Yeah, I tried radioing Hornfels and asking them if they had died, too, but they thought I was being metaphorical or something.</key>
-		<value>Jo, zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřeli, ale myslel si, že se ptám metaforicky. </value>
+		<value>Jo, zkusil jsem se přes rádio zeptat Hornfelse, jestli taky umřel, ale myslel si, že se ptám metaforicky. </value>
 	</entry>
 	<entry>
 		<key>MeetGabbro2F_4Well, if you remember dying, then I guess I didn’t just fall asleep and have a bad dream or something. I dunno what’s going on, though. Today’s been weird.</key>
@@ -9869,7 +9869,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2FWell, what are any of us doing here, really?</key>
-		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
+		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2F...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
@@ -9977,7 +9977,7 @@
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2TWell, what are any of us doing here, really?</key>
-		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš</value>
+		<value>Mno, co tu kdokoliv z nás vlastně dělá, když se nad tím zamyslíš?</value>
 	</entry>
 	<entry>
 		<key>WhatAreYouDoing_2T...Nah, I’m just kidding. I’m out here exploring our solar system, same as you.</key>
@@ -9993,7 +9993,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TWell actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet.</key>
-		<value>No vlastně, potom co jsem se probral ze - um - smrti, viděl jsem ten samý jasný záblesk na obloze. Něco se musí dít na oběžné dráze kolem planety. </value>
+		<value>No vlastně, potom, co jsem se probral ze - um - smrti, viděl jsem ten samý jasný záblesk na obloze. Něco se musí dít na oběžné dráze kolem planety. </value>
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
@@ -10005,7 +10005,7 @@
 	</entry>
 	<entry>
 		<key>WhereToExplore_2TIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
-		<value>Pokud chceš prozkoumat Ostrov soch, je to ten s dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
+		<value>Pokud chceš prozkoumat Ostrov soch, je to ten se dvěma ostrovy propojenými přírodním kamenným mostem. Nu... z větší části propojenými. Uvidíš. </value>
 	</entry>
 	<entry>
 		<key>ThisPlanet_2THaha, I know, right?</key>
@@ -10029,7 +10029,7 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersHey, time pal. So you’re getting the band back together, huh?</key>
-		<value>Čágo, časokámo. Takže dáváš zase naši kapelu dohromady, co? </value>
+		<value>Čágo, časokámo. Takže dáváš naši kapelu zase dohromady, co? </value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersGo on, go find the others. I’ll be here. You don’t need me yet, but you will.</key>
@@ -10049,7 +10049,7 @@
 	</entry>
 	<entry>
 		<key>StartPlayingHeh, this should be cool.</key>
-		<value>Ha, tohle by mělo být kůlovatý. </value>
+		<value>Ha, tohle by mělo být libový. </value>
 	</entry>
 	<entry>
 		<key>NotYetNo rush, I’m not going anywhere.</key>
@@ -10057,7 +10057,7 @@
 	</entry>
 	<entry>
 		<key>FarewellI tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</key>
-		<value>Musím říct, že tohle byla opravdu sranda. A přičinil jsem se o něco vážně suprovýho, takže nemám sebemenší stížnost.</value>
+		<value>Musím říct, že tohle byla opravdu švanda. A přičinil jsem se o něco vážně suprovýho, takže nemám sebemenší stížnost.</value>
 	</entry>
 	<entry>
 		<key>FarewellI mean, not me, exactly, but close enough.</key>
