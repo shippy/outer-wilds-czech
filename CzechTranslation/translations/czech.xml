@@ -11776,207 +11776,207 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean Lake</key>
-			<value>地下湖</value>
+			<value>Podzemní jezero</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Fire Chamber</key>
-			<value>燃燒間</value>
+			<value>Ohenní komora</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</key>
-			<value>我通過一個小孔看向一個由鐵鏈懸掛的巨大金屬構築物的內部, 看到了其中燃燒著的綠色火焰. </value>
+			<value>Podíval jsem se skrz skulinu ve straně velké kovové struktury pověšené na řetězech, a spatřil jsem uvnitř hořící zelený oheň. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
-			<value>失蹤的儲藏庫</value>
+			<value>Scházející krypta</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase and out of sight.</key>
-			<value>我看到了一段幻象般的記錄, 有兩個人拿著文物走進了一個由鐵鏈懸掛起來的巨大金屬構築物, \\n並在密封儲藏庫前的綠色火焰旁睡下. 他們醒來時, 文物正在閃閃發光. 於是這兩個人搬起儲藏庫, \\n下了樓梯, 最終消失在了視野外. </value>
+			<value>Viděl jsem nahrávku, která vypadala jako něčí vize, dvou postav beroucích artefakty do velké struktury zavěšené na řetězech. Obě postavy vstoupily a usly u zeleného ohně před zapečetěnou kryptou. Potom, co se vzbudily s rozsvícenými artefakty, obě pastavy zvedly kryptu a snesly ji po schodech, dokud jsem ji neztratil z očí.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI discovered a vast subterranean lake beneath the submerged structure. The sealed vault is resting on the shore of the lake. There are three interfaces, each marked with one of the three symbols from the vault.</key>
-			<value>我在一座沈沒的構築物下方發現了一個巨大的地下湖. 密封儲藏庫就放置在湖岸上, \\n這里還有三部控制界面, 每一個上都標記著儲藏庫上的三個符號之一. </value>
+			<value>Našel jsem obrovské podzemní jezero pod ponořenou strukturou. Zapečetěná krypta čeká na břehu jezera. Jsou zde tři ovládací panely, a na každém z nich je jeden ze symbolů z krypty.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault.</key>
-			<value>我轉動了儲藏庫前的機械裝置, 使它與鎖著它的鏈條相抵. 過了一會兒, 綠色的光線從儲藏庫中溢出. </value>
+			<value>Otočil jsem mechanismem před kryptou, což jej navzdory řetězům kolem ní malinko otevřelo. O chvíli později z krypty vysvitly paprsky zeleného světla. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed Vault</key>
-			<value>密封儲藏庫</value>
+			<value>Zapečetěná krypta</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI found a strange vault wrapped in chains and marked with three glowing symbols.</key>
-			<value>我找到了一個被鐵鏈捆住的奇異儲藏庫, 上面還標記著三個發光的符號. </value>
+			<value>Našel jsem zvláštní kryptu obvázanou řetězy a označenou třemi zářícími symboly. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the River Lowlands showed a strange vault being closed and sealed with chains and a glowing symbol.</key>
-			<value>這卷在河流窪地找到的幻燈片顯示了一個被鐵鏈捆住的奇異儲藏庫, 上面還標記著一個發光的符號. </value>
+			<value>Kinofilm z Říčních nížin zobrazuje zavření a zapečetění zvláštní krypty pomocí řetězů a zářícího symbolu.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Cinder Isles showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>這卷在余燼群島找到的幻燈片顯示了一個發光的符號, 和一個被鐵鏈捆住的奇異儲藏庫. </value>
+			<value>Kinofilm ze Spálených ostrovů zobrazuje zavření a zapečetění zvláštní krypty pomocí řetězů a zářícího symbolu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultA slide reel from the Hidden Gorge showed a glowing symbol and chains appear around a strange vault.</key>
-			<value>這卷在隱藏峽谷找到的幻燈片顯示了一個發光的符號, 和一個被鐵鏈捆住的奇異儲藏庫. </value>
+			<value>Kinofilm ze Skryté rokle zobrazuje zavření a zapečetění zvláštní krypty pomocí řetězů a zářícího symbolu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI met one of the Stranger's inhabitants who was imprisoned within the vault!</key>
-			<value>我遇到了一名被囚禁在儲藏庫中的外星站居民! </value>
+			<value>Setkal jsem se s jedním z obyvatel Cizince, který byl uvězněn uvnitř krypty! </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultThe Prisoner showed me a vision revealing the actions they took that resulted in their eternal confinement.</key>
-			<value>幽禁者向我顯示了一個幻象, 揭露了他們導致自己遭到永久囚禁的所作所為. </value>
+			<value>Trestanec mi ve své vizi ukázal, jakými činy si vysloužil své uvěznění navěky. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sealed VaultI used the vision torch to share my knowledge of the solar system's history with the Prisoner.</key>
-			<value>我使用火把視野將我對太陽系歷史的知識分享給了幽禁者. </value>
+			<value>Použil jsem hůl vizí, abych s Trestancem sdílel své vědomosti o historii sluneční soustavy. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded Woodlands</key>
-			<value>覆蓋林地</value>
+			<value>Zahalený les</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</key>
-			<value>我乘著一艘木筏穿過密林中的河段. 我可以看到河岸兩旁分布著許多建築物. </value>
+			<value>Plavil jsem se na raftu skrz hustě zarostlý kus řeky. Podél břehů řeky vidím vudovy.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsA dense forest along the banks of a river.</key>
-			<value>河岸兩旁的一片濃密森林. </value>
+			<value>Hustý les podél břehů řeky. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI heard music coming from a candlelit building across the water.</key>
-			<value>我聽到音樂從水對面的一座點燃蠟燭的建築物中傳來. </value>
+			<value>Zaslechl jsem hudbu z budovy osvícené svíčkami na druhé straně řeky. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI found a covered bridge leading into the darkest part of the forest.</key>
-			<value>我找到了一座通向密林深處的廊橋. </value>
+			<value>Našel jsem most se střechou, který mě převedl do temné části lesa. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden Archive</key>
-			<value>禁忌檔案室</value>
+			<value>Zakázaný archiv</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Fireplace</key>
-			<value>秘密壁爐</value>
+			<value>Tajný krb</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace.</key>
-			<value>我找到了一卷藏起來的幻燈片, 其中顯示一個鬼鬼祟祟的身影接過了一個標記有發光符號的容器. \\n這個身影沿著一串燈光穿過一片森林, 來到了一座點滿蠟燭的建築物內, \\n然後他帶著這個容器走入了一個熊熊燃燒的壁爐後的秘密通道里. </value>
+			<value>Našel jsem ukrytý kinofilm, který ukazuje převzetí bedny se zářivým symbolem tajemnou postavou. Postava následuje procesí světel skrz les do budovy osvětlené svíčkami a pronese bednu do tajného průchodu za rozpáleným krbem.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveA library full of intact slide reels hidden deep underground.</key>
-			<value>這座隱藏在地下深處的圖書館中裝滿了完好的幻燈片卷盤. </value>
+			<value>Knihovna plná netknutých kinofilmů, skrytá hluboko pod zemí. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThere is a container marked with one of the vault seals, but its contents have been destroyed.</key>
-			<value>那里是一個標有儲藏庫封印的容器, 但里面的東西已經被銷毀了. </value>
+			<value>Je tu skříň označená jednou z pečetí na kryptě, ale její obsah byl zničen. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the origin of the Stranger and its inhabitants.</key>
-			<value>我找到了一卷幻燈片, 其中顯示了外星站及其居民的來源. </value>
+			<value>Našel jsem kinofilm, který ukazuje původ Cizince a jeho obyvatel. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the sacrifice that was made to build the Stranger.</key>
-			<value>這些完好的幻燈片顯示了他們為了修建外星站而付出的犧牲. </value>
+			<value>Nepoškozená políčka odhalují oběť, kterou jeho obyvatelé podstoupili, aby vybudovali Cizince. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</key>
-			<value>我找到了一卷幻燈片, 似乎是某種錯誤報告. 其中顯示了一名外星站居民在區域間移動時跳下一艘木筏, \\n然後掉到了星球下方. </value>
+			<value>Našel jsem kinofilm, který se zdá být nahlášením chyby. Ukazuje, že jeden z obyvatelů Cizince seskočil z raftu během přesunu mezi územími a spadl dolů do světa</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit Cove</key>
-			<value>星光海灣</value>
+			<value>Hvězdnatá zátoka</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Candlelit Tower</key>
-			<value>點滿蠟燭的高塔</value>
+			<value>Věž svíček</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI rode a raft past an island with a tall candlelit tower.</key>
-			<value>我乘著一艘木筏駛過了一座小島, 島上修建了一座點滿蠟燭的高塔. </value>
+			<value>Jel jsem na raftu kolem ostrova s vysokou věží osvícenou svíčkami. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveA secluded village nestled within a cove. A candlelit tower sits atop a nearby island.</key>
-			<value>這是一座隱藏在一個海灣中的偏遠村莊. 附近的一座島嶼上修建著一座點滿蠟燭的高塔. </value>
+			<value>Odloučená vesnice v zátoce. Na blízkém ostrově je věž zalitá světlem svíček. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveThe well at the bottom of the village is guarded by a statue that activates an alarm bell when it sees me.</key>
-			<value>村莊底部的水井旁守著一座雕像, 當它看到我時立刻敲響了警報鐘. </value>
+			<value>Studna na dně vesnice je chráněna sochou, která aktivuje poplašný zvonek, jakmile mě uvidí. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI found the remains of a burned-out building on the outskirts of the village.</key>
-			<value>我在村莊外圍找到了一座被燒毀的建築物殘骸. </value>
+			<value>Našel jsem pozůstatky vypálené budovy na periferii vesnice. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit CoveI reached the tower's upper floors by projecting a path to a second entrance at the back of the tower.</key>
-			<value>我投射出了一條道路, 抵達了位於高塔背部的另一個入口處, 來到了高塔的上層. </value>
+			<value>Dosáhl jsem vyšších pater věže tím, že jsem nasvítil cestu k druhému vstupu ze zadní strany věže. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Well</key>
-			<value>秘密水井</value>
+			<value>Tajná studna</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well.</key>
-			<value>我在幻燈片焚燒室中找到了一卷幻燈片, 其中顯示一個鬼鬼祟祟的身影接過了一個標記有發光符號的容器. \\n燈光熄滅了, 然後這個身影帶著這個容器走入了一個黑暗的水井里. </value>
+			<value>Kinofilm, který jsem našel v místnosti pro pálení filmů, ukazuje převzetí bedny se zářivým symbolem tajemnou postavou. Po zhasnutí světel postava snese bednu do temné studně.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing an anomaly that closely resembles the Nomai symbol for the Eye of the universe.</key>
-			<value>我找到了一卷幻燈片, 顯示了外星站的居民們正在分析一件異物, 此物和挪麥的宇宙之眼符號高度相似. </value>
+			<value>Našel jsem kinofilm, který ukazuje, jak obyvatelé Cizince analyzovali anomálii, která vypadá přesně jako symbol Nomai pro Oko vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants analyzing the Eye of the universe.</key>
-			<value>我找到了一卷幻燈片, 顯示了外星站的居民們正在分析宇宙之眼. </value>
+			<value>Našel jsem kinofilm, který ukazuje, jak obyvatelé Cizince analyzovali Oko vesmíru. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the construction and launch of a spacecraft designed to block the Eye's signal.</key>
-			<value>這些完好的幻燈片顯示了一艘太空船的建造和發射過程, 它的用處是阻擋宇宙之眼的信號. </value>
+			<value>Nepoškozená políčka ukazují stavbu a spuštění vesmírného tělesa určeného k zablokování signálu Oka. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows two artifacts being lit near a green fire. The first artifact lights after its bearer falls asleep, and the second artifact lights after its bearer dies.</key>
-			<value>我找到了一卷幻燈片, 里面提到有兩種方法可以點亮文物. </value>
+			<value>Našel jsem kinofilm, který ukazuje rozsvícení dvou artefaktů poblíž zelenému ohni. Jeden artefakt se rozsvítil potom, co jeho nositel usnul, a druhý artefakt potom, co jeho nositel zemřel.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants.</key>
-			<value>我找到了一卷幻燈片, 似乎是某種錯誤報告. 其中包含警報未能喚醒外星站居民的情況. </value>
+			<value>Našel jsem kinofilm, který se zdá být nahlášením chyby. Ukazuje, že poplašný zvon nemohl vzbudit jednoho z obyvatel Cizince.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless Canyon</key>
-			<value>無盡峽谷</value>
+			<value>Nekonečný kaňon</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above.</key>
-			<value>我乘一艘木筏駛過一個巨大峽谷的底部. 兩側的懸崖峭壁高處似乎修建有許多建築物. </value>
+			<value>Jel jsem na raftu skrz dno obrovského kaňonu. Vypadá to, že do útesu nade mnou byly vtesány budovy. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonA massive canyon that stretches into the distance. A candlelit lodge is built into the far cliff face.</key>
-			<value>這道巨大峽谷一直延伸到遠處. 一座亮著燭光的小屋修建在懸崖峭壁之中. </value>
+			<value>Obrovský kaňon, který se rozpíná do dálky. Do útesu na druhé straně je vtesaná lóže nasvícená svíčkami.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Endless CanyonI found a mural of a large tree on the bottom floor of the lodge.</key>
-			<value>我在小屋一層找到了一副壁畫, 其中畫著一棵大樹. </value>
+			<value>Našel jsem nástěnnou malbu velkého stromu ve spodním patře lóže. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Secret Mural</key>
-			<value>秘密壁畫</value>
+			<value>Tajná nástěnná malba</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveThe reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree.</key>
-			<value>我在幻燈片焚燒室中找到了一卷幻燈片, 其中顯示一個鬼鬼祟祟的身影接過了一個標記有發光符號的容器. \\n燈光熄滅了, 然後這個身影帶著這個容器走入了一幅畫著大樹的壁畫後的秘密通道里. </value>
+			<value>Kinofilm, který jsem našel v místnosti pro pálení filmů, ukazuje převzetí bedny se zářivým symbolem tajemnou postavou. Po zhasnutí světel postava pronese bednu skrz skrytý průchod za nástěnnou malbou velkého stromu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>我找到了一卷幻燈片, 顯示外星站的居民聚集在一團奇異的綠色火焰旁. </value>
+			<value>Našel jsem kinofilm, který vyobrazuje obyvatele Cizince shromážněné kolem zvláštního zeleného ohně. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the creation of a simulated reality modeled after their home moon.</key>
-			<value>這些完好的幻燈片顯示了他們按照母星的樣子打造虛擬現實的過程. </value>
+			<value>Nepoškozená políčka ukazují, kterak vytvořili simulovanou realitu na základě svého rodného měsíce. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius.</key>
-			<value>我找到了一卷幻燈片, 似乎是某種錯誤報告. 其中顯示了一名外星站居民扔下了他的文物, \\n然後走出了投影的範圍. </value>
+			<value>Našel jsem kinofilm, který se zdá být nahlášením chyby. Ukazuje, že jeden z obyvatelů Cizince upustil svůj artefakt a vyšel mimo jeho projekční poloměr.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Chert’s Camp</key>
