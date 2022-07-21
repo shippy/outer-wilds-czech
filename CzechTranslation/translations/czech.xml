@@ -10081,7 +10081,7 @@
 	</entry>
 	<entry>
 		<key>Curator1We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!</key>
-		<value>Jsme v lepší pozici na to, abychom odhalili záhady Nomai, než kdy předtím! Ty a Hal byste na sebe měli být velmi pyšní!</value>
+		<value>Jsme v lepší pozici k tomu, abychom odhalili záhady Nomai, než kdy předtím! Ty a Hal byste na sebe měli být velmi pyšní!</value>
 	</entry>
 	<entry>
 		<key>Curator1Tell me, what’s your plan once you’re in space?</key>
@@ -10161,7 +10161,7 @@
 	</entry>
 	<entry>
 		<key>Curator5Do you think you’ll go to the Attlerock, then? Our moon would be a safe place to travel to and get your bearings in space, and I’m sure Esker would appreciate the visit.</key>
-		<value>Myslíš, že navštívíš Vytěženec? Náš měsíc je bezpečné místo pro cestování a pro rozkoukání se ve vesmíru, a jsem si jist, že Esker uvítá tvou návštěvu. </value>
+		<value>Myslíš, že navštívíš Vytěženec? Náš měsíc je bezpečné místo pro cestování a pro rozkoukání se po vesmíru, a jsem si jist, že Esker uvítá tvou návštěvu. </value>
 	</entry>
 	<entry>
 		<key>Curator5Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
@@ -10205,7 +10205,7 @@
 	</entry>
 	<entry>
 		<key>Curator9Here they are. Best get off the ground before Slate makes any more modifications to your ship, eh?</key>
-		<value>Tady je máš. Odstartuj, než ti Slate znovu poupraví loď, eh? </value>
+		<value>Tady je máš. Odstartuj, než ti Slate znovu poupraví loď, hm? </value>
 	</entry>
 	<entry>
 		<key>Curator9Good luck out there! Let me know if I can help you with anything.</key>
@@ -10273,7 +10273,7 @@
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
-		<value>Jako centrála a později kurátor muzea jsem s Feldsparem nepracoval tak blízce, jako Gossan a Slare. Ale &lt;i&gt;můžu&lt;/i&gt; ti říci, že Feldspar byl naprosto nebojácný. Nic ho nevystrašilo.</value>
+		<value>Jako centrála a později kurátor muzea jsem s Feldsparem nepracoval tak blízce, jako Gossan a Slate. Ale &lt;i&gt;můžu&lt;/i&gt; ti říci, že Feldspar byl naprosto nebojácný. Nic ho nevystrašilo.</value>
 	</entry>
 	<entry>
 		<key>CuratorMoreAboutFeldsparTest-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find.</key>
@@ -10313,7 +10313,7 @@
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundThat Feldspar didn’t immediately join you on your ship and return here is incredibly Feldspar of them. We were never entirely sure what Feldspar was thinking back then, either.</key>
-		<value>To, že se k tobě Feldspar okamžitě nepřidal a nepřiletěl sem tvou lodí, je pro něj typické. Nikdy jsme nevěděli úplně přesně, co si Feldspar myslel, ani tehdy.</value>
+		<value>To, že se k tobě Feldspar okamžitě nepřidal a nepřiletěl sem tvou lodí, je pro něj typické. Nikdy jsme nevěděli úplně přesně, co se Feldsparovi honí hlavou, ani tehdy.</value>
 	</entry>
 	<entry>
 		<key>CuratorFeldsparFoundStill, we ought to fish them out of that dreadful place with all haste! I’ll radio Gossan and have them prepare a ship. It really should be Gossan who brings Feldspar home.</key>
@@ -10421,7 +10421,7 @@
 	</entry>
 	<entry>
 		<key>SignalscopeKid4Signalscopes are cool.</key>
-		<value>Signáloskopy jsou kůlovatý. </value>
+		<value>Signáloskopy jsou hustý. </value>
 	</entry>
 	<entry>
 		<key>SignalscopeKid6I’m concerned Marl will cut down this tree if there’s no one in it, so I don’t want to leave it for too long.</key>
@@ -10457,11 +10457,11 @@
 	</entry>
 	<entry>
 		<key>WaitingForOthersI’m pretty sure we’ll need the others for this next part. We’ll need, you know... everyone.</key>
-		<value>Jsem si dost jistý, že budeme potřebovat ostatní pro tu další část. Budeme potřebovat, víš... všechny.</value>
+		<value>Jsem si dost jistý, že pro tu další část budeme potřebovat ostatní. Budeme potřebovat, víš... všechny.</value>
 	</entry>
 	<entry>
 		<key>WaitingForOthersNo rush! Take your time. &lt;size=20&gt;It might not even exist here...&lt;/size&gt;</key>
-		<value>Žádný spěch! Dej si načaas. &lt;size=20&gt;Čas tu možná ani neexistuje...&lt;/size&gt;</value>
+		<value>Žádný spěch! Dej si načas. &lt;size=20&gt;Čas tu možná ani neexistuje...&lt;/size&gt;</value>
 	</entry>
 	<entry>
 		<key>ReadyToPlayShould I begin?</key>
@@ -10557,7 +10557,7 @@
 	</entry>
 	<entry>
 		<key>Farewell3It’s tempting to linger in this moment, while every possibility still exists.</key>
-		<value>Je lákavé orodlévat v této chvíli, kdy každá možnost stále ještě existuje. </value>
+		<value>Je lákavé prodlévat v této chvíli, kdy každá možnost stále ještě existuje. </value>
 	</entry>
 	<entry>
 		<key>Farewell3But unless they are collapsed by an observer, they will never be more than possibilities.</key>
@@ -10565,7 +10565,7 @@
 	</entry>
 	<entry>
 		<key>SignI saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone – Tektite</key>
-		<value>Viděl jsem kouř z Mladolesého kráteru na severu a řekl jsem si, že bych ho měl jít zkontrolovat. Můžeš použít sondomet, jen ho prosím nerozbij -Tektite</value>
+		<value>Viděl jsem kouř z Mladolesého kráteru na severu a řekl jsem si, že bych ho měl jít zkontrolovat. Můžeš použít sondomet, jen ho prosím nerozbij - Tektit</value>
 	</entry>
 	<entry>
 		<key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
@@ -10876,7 +10876,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai were mining ore somewhere on Timber Hearth.</key>
-			<value>Nomai kutali rudu na Domopeci. </value>
+			<value>Nomai kutali rudu někde na Domopeci. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai MinesThe Nomai mined ore from this site to craft a protective shell designed to physically seal off the central chamber inside Ash Twin.</key>
@@ -10932,7 +10932,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole.</key>
-			<value>Riebeck odletěl na Křehkodutou planetu, aby vyzvěděl, co Nomai dělali na jižním pólu. </value>
+			<value>Riebeck odletěl na Křehkodutou planetu, aby vyzvěděl, co Nomai dělali na jejím jižním pólu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Riebeck’s CampRiebeck landed their ship near the big dome at the south pole. The door leading inside was broken, so they decided to head north to the ruins on the equator in search of a way beneath the surface.</key>
@@ -10980,7 +10980,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location. "Remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole."</key>
-			<value>Nomai vybudovali na Kvantovém měsíci svatyni, aby pomohli poutníkům se dostat do jeho šestého umístění. "Pamatujte si toto poslední pravidlo: Abyste mohli prozkoumat šesté umístění, svatyně musí být na měsíčním severním pólu."</value>
+			<value>Nomai vybudovali na Kvantovém měsíci svatyni, aby pomohli poutníkům se dostat do jeho šestého umístění. "Pamatujte si toto poslední pravidlo: Abyste mohli prozkoumat šesté umístění, svatyně musí ležet na měsíčním severním pólu."</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Tower of Quantum KnowledgeThe pilgrimage to the Quantum Moon was a deeply significant journey for the Nomai.</key>
