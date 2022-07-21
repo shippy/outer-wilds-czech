@@ -45,7 +45,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: No, but Poke was apprenticed to Annona, who created the original design, and our &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; is adept at crafting simpler cores.</key>
-		<value>CLARY: Ano, ale Poke byla učedníkem Annony, který vytvořil původní design, a naše &lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt; vyniká v tvorbě jednodušších jader.</value>
+		<value>CLARY: Ano, ale Poke byla učednicí Annony, který vytvořil původní design, a naše &lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt; vyniká v tvorbě jednodušších jader.</value>
 	</entry>
 	<entry>
 		<key>POKE: I believe I can be of use here! The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core was created before my time, but Annona explained many of his designs to me.</key>
@@ -6038,7 +6038,7 @@
 	</entry>
 	<entry>
 		<key>CLARY: To our friends on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;: I just warped here from the &lt;color=orange&gt;White Hole Station&lt;/color&gt; (on the other side of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s black hole)! Our design worked; we’ve successfully recreated warp travel!</key>
-		<value>CLARY: Našim přátelům na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;: Právě jsem se úspěšně teleportoval z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt; (z druhé strany černé díry uvnitř &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;)! Náš design fungoval; úspěšně jsem znovuvynalezli warpové cestování! </value>
+		<value>CLARY: Našim přátelům na &lt;color=lightblue&gt;Křehkoduté planetě&lt;/color&gt;: Právě jsem se úspěšně teleportovala z &lt;color=orange&gt;Běloděré stanice&lt;/color&gt; (z druhé strany černé díry uvnitř &lt;color=lightblue&gt;Křehkoduté planety&lt;/color&gt;)! Náš design fungoval; úspěšně jsem znovuvynalezli warpové cestování! </value>
 	</entry>
 	<entry>
 		<key>FILIX: This is wonderful news! I can’t wait to see the warp tower (although it’s been a long time since I’ve jumped through a black hole!).</key>
@@ -6050,7 +6050,7 @@
 	</entry>
 	<entry>
 		<key>POKE: Wait, this can’t be correct. Clary, have you seen these readings? If they were accurate, they would violate causality. There must be an equipment error somewhere.</key>
-		<value>POKE: Moment, tohle nemůže být správně. Clary, viděl jsi tato data? Pokud jsou přesná, porušovaly by kauzalitu. Někde se nám musel porouchat nějaký přístroj.</value>
+		<value>POKE: Moment, tohle nemůže být správně. Clary, viděla jsi tato data? Pokud jsou přesná, porušovaly by kauzalitu. Někde se nám musel porouchat nějaký přístroj.</value>
 	</entry>
 	<entry>
 		<key>POKE: I’m returning to the &lt;color=orange&gt;White Hole Station&lt;/color&gt;. If you and Root meet me there, we can run a full diagnostic and hopefully locate the problem.</key>
@@ -11016,7 +11016,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface.</key>
-			<value>Severní pól Křehkoduté planety je pokrytý sněhem a ledem. Na povrchu je unikátně tvarovaná zřícenina Nomai. </value>
+			<value>Severní pól Křehkoduté planety je pokrytý sněhem a ledem. Na povrchu je unikátně vytvarovaná zřícenina Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
@@ -11060,11 +11060,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe signal was somehow older than the universe itself. The Nomai decided to call it the "Eye of the universe."</key>
-			<value>Signál byl nějakým způsobem starší než vesmír samotný. Nomai se rozhodli jej nazvat "Okem vesmíru".</value>
+			<value>Signál byl jakýmsi způsobem starší než vesmír samotný. Nomai se rozhodli jej nazvat "Okem vesmíru".</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Old SettlementThe Nomai abandoned this settlement over growing concerns about its stability.</key>
-			<value>Nomai tuto osadu opustili kvůli rostoucí obavě ohledně její stability. </value>
+			<value>Nomai tuto osadu opustili kvůli rostoucí obavě ohledně její lability. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Mural (Panel 3)</key>
@@ -11156,7 +11156,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-			<value>Všechny warpové věže byly postaveny na Popeláku, zatímco šest warpových přijímačů byly postaveny na různých místech. </value>
+			<value>Všechny warpové věže byly postaveny na Popeláku, zatímco šest warpových přijímačů bylo postaveno na různých místech. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
@@ -11172,7 +11172,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramWarp tower alignment angles are not exact. They only need to be within five degrees of the astral body's center.</key>
-			<value>Úhly zarovnání nemusí být přesné. Mohou mít odchylku nejvýše pěti stupňů od středu hvězdného tělesa.</value>
+			<value>Úhly zarovnání nemusí být přesné. Mohou mít odchylku až pěti stupňů od středu hvězdného tělesa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
@@ -12240,7 +12240,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-			<value>Clary - Nomai, který zůstal na lodi - ztratil kontakt s ostatními Nomai potom, co sestoupili pod Tulákův povrch. </value>
+			<value>Clary - Nomai, která zůstala na lodi - ztratila kontakt s ostatními Nomai potom, co sestoupili pod Tulákův povrch. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured Core</key>
