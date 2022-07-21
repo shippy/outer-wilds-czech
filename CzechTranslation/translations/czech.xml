@@ -5745,32 +5745,28 @@
 		<value>PHLOX: Pokud nejsem ve svém obydlí, jsem patrně v &lt;color=orange&gt;dílně&lt;/color&gt; pod vámi (uvnitř ostrova).</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
+    <key>&lt;color=orange&gt;ORBITAL PROBE CANNON&lt;/color&gt; DAMAGE REPORT: Severe structural stress detected. Assessing damage to modules...
 		</key>
 		<value>
 			HLÁŠENÍ O ŠKODÁCH NA &lt;color=orange&gt;ORBITÁLNÍM SONDOVÉM KANÓNU&lt;/color&gt;: Detekován náročný strukturální tlak. Posuzuji škody na modulech...
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
+    <key>&lt;color=orange&gt;Control Module&lt;/color&gt;: Intact. No structural damage.
 		</key>
 		<value>
 			&lt;color=orange&gt;Kontrolní modul&lt;/color&gt;: Nedotčený. Žádné strukturální poškození. 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
+    <key>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
 		<value>
 			&lt;color=orange&gt;Spouštěcí modul&lt;/color&gt;: Okno poškozeno. Modul vystaven vakuu. 
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
+    <key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt;: MISSING.
 		</key>
 		<value>
 			&lt;color=orange&gt;Sledovací modul&lt;/color&gt;: NEZVĚSTNÝ. 
