@@ -11352,7 +11352,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe.</key>
-			<value>Nomai se teleportovali do této sluneční soustavy ve vesmírné lodi, které říkali Plavidlo. Snažili ses následovat signál z Oka vesmíru.</value>
+			<value>Nomai se teleportovali do této sluneční soustavy ve vesmírné lodi, které říkali Plavidlo. Snažili se následovat signál z Oka vesmíru.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselThe Vessel crashed somewhere in Dark Bramble.</key>
@@ -11364,7 +11364,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI launched my scout into the seed at the Nomai Grave and took photos of an enormous derelict Nomai ship.</key>
-			<value>Vypustil jsem svou sondu do semínka o hrobu Nomai a vyfotil jsem obrovskou opuštěnou loď Nomai. </value>
+			<value>Vypustil jsem svou sondu do semínka u hrobu Nomai a vyfotil jsem obrovskou opuštěnou loď Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The VesselI found the derelict Nomai Vessel deep within Dark Bramble.</key>
@@ -11528,7 +11528,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-			<value>Našel jsem několik vyšperkovaných železnách artefaktů uvnitř dílny obklopené antihmotou. </value>
+			<value>Našel jsem několik vyšperkovaných železných artefaktů uvnitř dílny obklopené antihmotou. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Burned Slide Reel</key>
@@ -11552,7 +11552,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger.</key>
-			<value>Mapa, kterou jsem našel v Opuštěném chrámu, odkryla skryté místo kdesi uvnitř Cizince. </value>
+			<value>Mapa, kterou jsem našel v Opuštěném chrámu, indikuje skryté místo kdesi uvnitř Cizince. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Slide Burning RoomA room full of burned slide reels piled next to a strange device.</key>
@@ -11620,11 +11620,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, several lamps in the mural room turned on while others turned off, plunging the mural into darkness and revealing a secret passage.</key>
-			<value>Světlo vycházející z krypty mi způsobilo vizi toho, jak jsem se vyšplhal po spirálovitém schodišti do místnosti poblíž vrcholku věže. Jeden z obyvatelů Cizince poukázal na nástěnnou malbu té samé věže pod planetou s prstenci, sebral artefakt, a snesl jej dolů do místnosti se zeleným ohněm. O něco později se některé lampy v místnosti s malbou zapnuly zatímco jiné se vypnuly, což zastínilo nástěnnou malbu a objevilo skrytý průchod.</value>
+			<value>Světlo vycházející z krypty mi způsobilo vizi toho, jak se někdo vyšplhal po spirálovitém schodišti do místnosti poblíž vrcholku věže. Jeden z obyvatelů Cizince ukázal na nástěnnou malbu té samé věže pod planetou s prstenci, sebral artefakt, a snesl jej dolů do místnosti se zeleným ohněm. O něco později se některé lampy v místnosti s malbou zapnuly, zatímco jiné se vypnuly, což zastínilo nástěnnou malbu a objevilo skrytý průchod.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomA secret room filled with wooden containers marked with different symbols.</key>
-			<value>Skrytá místnost naplněná skříněmi označenými různými symboly. </value>
+			<value>Tajná místnost naplněná skříněmi označenými různými symboly. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Symbol RoomThree of the containers are marked with glowing vault seals, but their contents have been burned away.</key>
@@ -11692,7 +11692,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleThere is an interface upstairs that can be used to line up symbols in a vertical sequence.</key>
-			<value>V horním patře je interface, na kterém lze ve vertikální sekvence zadat symboly. </value>
+			<value>V horním patře je ovládací panel, na kterém lze ve vertikální sekvenci zadat symboly. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Abandoned TempleEntering the correct sequence opens the path to a secret room beneath the temple.</key>
@@ -11768,7 +11768,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureA large metal structure suspended by chains. It can be entered by swimming from below.</key>
-			<value>Velká kovová struktura pověšená na řetězech. Lze do ní vplavat zespodu.</value>
+			<value>Velká kovová struktura pověšená na řetězech. Lze do ní zespodu vplavat.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Submerged StructureThere is a sealed vault illuminated by a green fire inside the structure.</key>
@@ -11784,7 +11784,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains and saw a green fire burning inside.</key>
-			<value>Podíval jsem se skrz skulinu ve straně velké kovové struktury pověšené na řetězech, a spatřil jsem uvnitř hořící zelený oheň. </value>
+			<value>Podíval jsem se skrz skulinu ve stěně velké kovové struktury pověšené na řetězech, a spatřil jsem uvnitř hořící zelený oheň. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Missing Vault</key>
@@ -11840,7 +11840,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsI rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river.</key>
-			<value>Plavil jsem se na raftu skrz hustě zarostlý kus řeky. Podél břehů řeky vidím vudovy.</value>
+			<value>Plavil jsem se na raftu skrz hustě zarostlý kus řeky. Podél břehů řeky vidím budovy.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Shrouded WoodlandsA dense forest along the banks of a river.</key>
@@ -11884,7 +11884,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world.</key>
-			<value>Našel jsem kinofilm, který se zdá být nahlášením chyby. Ukazuje, že jeden z obyvatelů Cizince seskočil z raftu během přesunu mezi územími a spadl dolů do světa</value>
+			<value>Našel jsem kinofilm, který se zdá být nahlášením chyby. Ukazuje, že jeden z obyvatelů Cizince seskočil z raftu během přesunu mezi územími a spadl dolů do světa.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Starlit Cove</key>
@@ -11968,7 +11968,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveI found a slide reel that shows the Stranger's inhabitants congregating around a strange green fire.</key>
-			<value>Našel jsem kinofilm, který vyobrazuje obyvatele Cizince shromážněné kolem zvláštního zeleného ohně. </value>
+			<value>Našel jsem kinofilm, který vyobrazuje obyvatele Cizince shromážděné kolem zvláštního zeleného ohně. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Forbidden ArchiveIntact slides reveal the creation of a simulated reality modeled after their home moon.</key>
