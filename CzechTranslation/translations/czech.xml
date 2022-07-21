@@ -13342,7 +13342,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>287</key>
-			<value>Begin Inflation</value>
+			<value>Začít nafukování</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>288</key>
@@ -13352,21 +13352,22 @@
 			<key>289</key>
 			<value>Zalepit trhlinu ve skafandru</value>
 		</TranslationTableEntryUI>
+		<!-- Lékárnička je lepší, ale font teď neumí č -->
 		<TranslationTableEntryUI>
 			<key>290</key>
-			<value>Použít lékárničku a doplnit palivo</value>
+			<value>Použít medkit a doplnit palivo</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>291</key>
-			<value>Použít lekárničku, doplnit palivo a vyčistit hledí</value>
+			<value>Použít medkit, doplnit palivo a vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>292</key>
-			<value>Použít lekárničku</value>
+			<value>Použít medkit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>293</key>
-			<value>Použít lekárničku a vyčistit hledí</value>
+			<value>Použít medkit a vyčistit hledí</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>294</key>
@@ -13438,7 +13439,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>316</key>
-			<value>Kámen 'Vysvětli'</value>
+			<value>Kámen 'Explikuj'</value> <!-- FIXME: "Vysvětli" je lepší -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>317</key>
@@ -13454,7 +13455,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>320</key>
-			<value>Kámen 'Kvantový měsíc'</value>
+			<value>Kámen 'Kvantový mesíc'</value> <!-- FIXME: "měsíc" je lepší -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>321</key>
@@ -13626,15 +13627,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>382</key>
-			<value>PRESS A TO START</value>
+			<value>STISKNI A PRO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>383</key>
-			<value>PRESS </value>
+			<value>STISKNI </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>384</key>
-			<value> TO START</value>
+			<value> PRO START</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>400</key>
@@ -13698,7 +13699,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Souřadnice Oka: </value>
+			<value>Koordináty Oka: </value><!-- FIXME: Souřadnice jsou lepší -->
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
@@ -13746,7 +13747,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>444</key>
-			<value>VRACÍME SE DO SLUNEČNÍHO SYSTÉMU</value>
+			<value>VRACÍME SE DO SLUNEČNÍ SOUSTAVY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>445</key>
@@ -13826,7 +13827,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>466</key>
-			<value>UNKNOWN</value>
+			<value>NEZNÁMO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>480</key>
@@ -13894,7 +13895,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>506</key>
-			<value>RESET TO VESSEL AND QUIT TO MAIN MENU</value>
+			<value>RESETOVAT K PLAVIDLU A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>510</key>
@@ -13970,7 +13971,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>560</key>
-			<value>Walk</value>
+			<value>Jít</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>561</key>
@@ -14198,7 +14199,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>658</key>
-			<value>ÚLOMEK VE VĚŽI</value>
+			<value>ÚLOMEK U VĚŽE</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>659</key>
@@ -14242,7 +14243,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>669</key>
-			<value>BĚLODĚRNÉ JÁDRO</value>
+			<value>BĚLODĚRÉ JÁDRO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>680</key>
@@ -14413,16 +14414,16 @@
 			<value>JSTE MRTVÍ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
-			<key>811</key>
-			<value>ZNIČILI JSTE TKANINU ČASOPROSTORU</value>
+			<key>811</key> <!-- FIXME: Vrátit č -->
+			<value>ZNICILI JSTE TKANINU CASOPROSTORU</value> 
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>812</key>
-			<value>NYNÍ MIMO DOSAH SUPERNOVY,\\nPLAVÍŠ SE PRÁZDNÝM VESMÍREM, DOKUD NEVYČERPÁŠ ZÁSOBY SVÉ LODI</value>
+			<value>NYNÍ MIMO DOSAH SUPERNOVY,\\nPLAVÍŠ SE PRÁZDNÝM VESMÍREM, DOKUD NEDOJDOU ZÁSOBY TVÉ LODI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>813</key>
-			<value>JAK DLOUHO UŽ TU JSI? MINUTY? ROKY?\\nNEJSI SI JISTÝ, ALE ZDÁ SE, ŽE TVÁ CESTA JE U KONCE.</value>
+			<value>JAK DLOUHO TU JSI? MINUTY? ROKY?\\nNEJSI SI JISTÝ, ALE TVÁ CESTA SE ZDÁ BÝT U KONCE.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>814</key>
@@ -14622,7 +14623,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>947</key>
-			<value>WARNING:\\nUSE ONLY IN\\nEMERGENCY</value>
+			<value>VAROVÁNÍ:\\nJEN PRO\\nNOUZI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>948</key>
@@ -14662,15 +14663,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>957</key>
-			<value>SPOT A TREE</value>
+			<value>ZMERKUJ STROM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>958</key>
-			<value>WALK TOWARDS IT</value>
+			<value>JDI KE STROMU</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>959</key>
-			<value>ENJOY!</value>
+			<value>PARÁDA!</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>960</key>
@@ -15638,7 +15639,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1414</key>
-			<value>The frightening aspects of Outer Wilds are part of the intended experience. If they become an obstacle to your enjoyment of the game, enabling this option will reduce some of those aspects.\\nAre you sure?</value>
+			<value>Děsivost Ozvěn oka je součástí zážitku. Pokud vám budou vadit, tato možnost některé z nich zmírní.\\nJste si jisti?</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1420</key>
@@ -15646,7 +15647,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Automatické použití překladače</value>
+			<value>Automatické použití translátoru</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
@@ -15742,11 +15743,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1506</key>
-			<value>Množsví detaiů vln a kvalita osvětlení vody.\\nNáročnost vykreslování: Vysoká</value>
+			<value>Množství detaiů vln a kvalita osvětlení vody.\\nNáročnost vykreslování: Vysoká</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1507</key>
-			<value>Kvylita nasvícení</value>
+			<value>Kvalita nasvícení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1508</key>
@@ -15798,15 +15799,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1530</key>
-			<value>DEEP SPACE RADIO</value>
+			<value>HLUBOKOVESMÍRNÉ RÁDIO</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1531</key>
-			<value>RADIO TOWER</value>
+			<value>RÁDIOVÁ VĚŽ</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1532</key>
-			<value>DEEP SPACE SATELLITE</value>
+			<value>HLUBOKOVESMÍRNÝ SATELIT</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1540</key>
