@@ -12036,7 +12036,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Escape Pod 2One of the three Nomai escape pods landed somewhere on the Hourglass Twins.</key>
-			<value>Jeden ze tří záchranných člunů Nomai přistál někde na Doutnáku. </value>
+			<value>Jeden ze tří záchranných člunů Nomai přistál někde na jednom z Přesýpacích dvojčat. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Nomai Shipwreck</key>
@@ -12060,7 +12060,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator).</key>
-			<value>Negativní časový interval naměřená na Běloděré stanici byl dále zkoumán ve Vysokoenergetické laboratoři (v kaňonu na rovníku Doutnáku). </value>
+			<value>Negativní časový interval naměřený na Běloděré stanici byl dále zkoumán ve Vysokoenergetické laboratoři (v kaňonu na rovníku Doutnáku). </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>High Energy LabThe Ash Twin Project was planned at the High Energy Lab, a building with large solar panels on Ember Twin’s equator.</key>
@@ -12116,7 +12116,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod.</key>
-			<value>Nomai objevili slibné dlouhodobé místo pro osadu na konci jedné z jeskynních průchodů pod jejich záchranným člunem. </value>
+			<value>Nomai objevili slibné dlouhodobé místo pro osadu na konci jednoho z jeskynních průchodů pod jejich záchranným člunem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Underground Settlement</key>
@@ -12140,7 +12140,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai debated building a Sun Station in order to power the Ash Twin Project. Several Nomai opposed its construction, arguing that failure could result in the destruction of the solar system.</key>
-			<value>Nomai debatovali o výstavně Sluneční stanice, která by napájela Popelákový projekt. Několik Nomai její výstavbě oponovalo s tvrzením, že selhání by mohlo vyústit ve zničení celého slunečního systému.</value>
+			<value>Nomai debatovali o výstavbě Sluneční stanice, která by napájela Popelákový projekt. Několik Nomai její výstavbě oponovalo s tvrzením, že selhání by mohlo vyústit ve zničení celého slunečního systému.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>The Sunless CityThe Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the "Eye of the universe."</key>
@@ -12236,11 +12236,11 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleThere were three Nomai aboard the shuttle. One of them stayed behind to keep the shuttle warm while the other two explored the Interloper.</key>
-			<value>Na lodi byli tři Nomai. Jeden z nich zůstal na lodi, aby zůstala připravená k odletu, zatímco ostatní dva šli prozkoumat Tuláka.</value>
+			<value>Na lodi byly tři Nomai. Jedna z nich zůstal na lodi, aby zůstala připravená k odletu, zatímco ostatní dvě šly prozkoumat Tuláka.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Frozen Nomai ShuttleClary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface.</key>
-			<value>Clary - Nomai, která zůstala na lodi - ztratila kontakt s ostatními Nomai potom, co sestoupili pod Tulákův povrch. </value>
+			<value>Clary - Nomai, která zůstala na lodi - ztratila kontakt s ostatními Nomai potom, co sestoupily pod Tulákův povrch. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured Core</key>
@@ -12256,7 +12256,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreTwo of the Nomai located a fissure in the ice on the Interloper’s sunward side. They descended inside to investigate.</key>
-			<value>Dva Nomai našli prasklinu v ledu na straně komety obrácené ke slunci. Sestoupili dovnitř.</value>
+			<value>Dvě Nomai našly prasklinu v ledu na straně komety obrácené ke slunci. Sestoupily dovnitř.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreI found the two missing members of the Nomai shuttle crew near a large ruptured stone that looks like it exploded from the inside.</key>
@@ -12264,15 +12264,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThe Nomai traced the strange energy readings to a spherical stone casing filled with some form of exotic matter.</key>
-			<value>Nomai vysledovali zvláštní energetický signál ke kulovému kamennému plášti, zaplněného jakousi zvláštní hmotou. </value>
+			<value>Tyto Nomai vysledovaly zvláštní energetický signál ke kulovému kamennému plášti, zaplněného jakousi zvláštní hmotou. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreThey determined the exotic matter was both lethal and under extreme pressure. If the stone were to rupture, the exotic matter within would rapidly expand, completely blanketing the solar system almost instantaneously.</key>
-			<value>Určili, že tato zvláštní hmota byla smrtelná a pod obrovským tlakem. Pokud by kámen vybuchnul, zvláštní hmota uvnitř by se okamžitě rozprostřela po celé sluneční soustavě.</value>
+			<value>Určily, že tato zvláštní hmota byla smrtelná a pod obrovským tlakem. Pokud by kámen vybuchnul, zvláštní hmota uvnitř by se okamžitě rozprostřela po celé sluneční soustavě.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ruptured CoreOne of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai.</key>
-			<value>Jedna z Nomai zůstal u kamene, aby dále zkoumala antihmotu, zatímco druhá spěchala zpět k povrchu, aby varovala zbytek Nomai. </value>
+			<value>Jedna z Nomai zůstala u kamene, aby dále zkoumala antihmotu, zatímco druhá spěchala zpět k povrchu, aby varovala zbytek Nomai. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Ocean Depths</key>
@@ -12320,7 +12320,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro remembers dying. They saw their memories flash before their eyes, just like the time with the statue.</key>
-			<value>Gabbro si pamatuje, jak zemřel. Uviděl své vzpomínky prolétnou před očima, stejně jako předtím se sochou Nomai.</value>
+			<value>Gabbro si pamatuje, jak zemřel. Uviděl své vzpomínky prolétnout před očima, stejně jako předtím se sochou Nomai.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Gabbro’s IslandGabbro and I seem to be the only ones aware that we're in a time loop.</key>
@@ -12364,7 +12364,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandStatue Island (as Gabbro calls it) is the one with two islands connected by a natural rock arch.</key>
-			<value>Ostrov soch (jak mu Gabbru říká) je ten se dvěma ostrovy propojenými přírodním kamenným můstkem. </value>
+			<value>Ostrov soch (jak mu Gabbro říká) je ten se dvěma ostrovy propojenými přírodním kamenným můstkem. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue IslandThis island must be where the Nomai created statues like the one in our observatory.</key>
@@ -12400,7 +12400,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopEach storage unit inside the Ash Twin Project was equipped with a mask (the statue’s counterpart), which could then send those stored memories back to the corresponding user.</key>
-			<value>Každá paměťová banka uvnitř Popelákového projektu byla vybavená maskou (což byl protějšek každé sochy), která potom mohla vyslat tyto uložené vzpomínka zpět ke svému uživateli. </value>
+			<value>Každá paměťová banka uvnitř Popelákového projektu byla vybavená maskou (což byl protějšek každé sochy), která potom mohla vyslat tyto uložené vzpomínky zpět ke svému uživateli. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Statue WorkshopThe statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed.</key>
@@ -12448,7 +12448,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonChert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</key>
-			<value>Chert výzkumné poznámky zmiňují, že existuje Kvantový měsíc, na kterém žádný Domopecan nikdy nepřistál. </value>
+			<value>Chertovy výzkumné poznámky zmiňují, že existuje Kvantový měsíc, na kterém žádný Domopecan nikdy nepřistál. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Quantum MoonI was able to land on the surface of the Quantum Moon.</key>
@@ -12512,7 +12512,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationI met a living Nomai named Solanum at the south pole!</key>
-			<value>Potkal jsem žijícího Nomai - Solanum - na jižním pólu! </value>
+			<value>Potkal jsem žijící Nomai - Solanum - na jižním pólu! </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Sixth LocationThe Quantum Moon is the Eye of the universe's moon.</key>
@@ -12680,7 +12680,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Volcanic Testing SiteEven the smallest crack or opening in the protective shell would destroy everything.</key>
-			<value>I ta nejmenší prasklinka či otvor v ochranné skořápce by zničil všechno. </value>
+			<value>I ta nejmenší prasklinka či otvor v ochranné skořápce by všechno zničil. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole Station</key>
@@ -12692,7 +12692,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationSeveral Nomai returned to the station to investigate an equipment reading that appeared to violate causality.</key>
-			<value>Několik Nomai se vrátilo na stanici, aby vyšetřili data, která zdánlivě narušovala zákon kauzality. </value>
+			<value>Několik Nomai se vrátilo na stanici, aby prošetřili data, která zdánlivě narušovala zákon kauzality. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>White Hole StationThe experiments at the High Energy Lab were based on extraordinary findings from the White Hole Station.</key>
