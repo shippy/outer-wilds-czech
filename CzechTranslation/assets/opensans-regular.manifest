@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3546423955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4152a7142998c5cd1b543b3d509146f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cea17de082da1dfd38b5ed053fc34ca1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OpenSans-Regular.ttf
+Dependencies: []
