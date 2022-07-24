@@ -2761,7 +2761,7 @@
 	</entry>
 	<entry>
 		<key>ScientistAnswer24Just don’t hurt the ship, that’s all I ask.</key>
-		<value>Jen nerozbit svou loď, o to se tě prosím.</value>
+		<value>Jen nerozbij svou loď, o to jediný tě prosím.</value>
 	</entry>
 	<entry>
 		<key>ScientistAnswer25If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off.</key>
@@ -3960,7 +3960,7 @@
 			MELORAE: Annona, Bur, I just observed the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; in orbit around &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;.
 		</key>
 		<value>
-			MELORAE: Annono, Bure, právě jsem viděl &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; obíhat &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;.
+			MELORAE: Annono, Bure, právě jsem viděla &lt;color=lightblue&gt;Kvantový měsíc&lt;/color&gt; obíhat &lt;color=lightblue&gt;Temnotrn&lt;/color&gt;.
 		</value>
 	</entry>
 	<entry>
@@ -6502,7 +6502,7 @@
 	</entry>
 	<entry>
 		<key>Friend3So its eyes opened, and then you saw images from your own memories and glowing lights flying around? You mean like &lt;Pause/&gt; a hallucination?</key>
-		<value>Takže její oči se otevřely, a pak jsi uviděl obrázky svých vlastních vzpomínek a zářivé záblesky koelm sebe? Myslíš jako &lt;Pause/&gt; halucinace?</value>
+		<value>Takže její oči se otevřely, a pak jsi uviděl obrázky svých vlastních vzpomínek a zářivé záblesky kolem sebe? Myslíš jako &lt;Pause/&gt; halucinace?</value>
 	</entry>
 	<entry>
 		<key>Friend3Listen, no offense, but... are you sure you’re okay to launch? Like, medically speaking?</key>
@@ -6550,7 +6550,7 @@
 	</entry>
 	<entry>
 		<key>Friend5...Geez, now I’m &lt;i&gt;really&lt;/i&gt; jealous you’re going into space! Hey, see if you can use our translator tool to find out more about the statue, okay?</key>
-		<value>...Ježkovy zraky, teď &lt;i&gt;opravdu&lt;/i&gt; žárlím na to, že letíš do vesmíru! Hej, zkus použít náš překladač k tomu, abys vynašel víc o té soše, oukej?</value>
+		<value>...Ježkovy zraky, teď &lt;i&gt;opravdu&lt;/i&gt; žárlím na to, že letíš do vesmíru! Hej, zkus použít náš překladač k tomu, abys vyzjistil víc o té soše, oukej?</value>
 	</entry>
 	<entry>
 		<key>Friend6Good luck, and safe flying!</key>
@@ -6686,7 +6686,7 @@
 	</entry>
 	<entry>
 		<key>FlammableDon’t worry, it’s held up for all the launches so far. It’ll definitely be fine for yours. Probably.</key>
-		<value>Neboj, zatím vydržel všechny ostatní vzlety. Rozhodně bude v pořádku na ten tvůj. Pravděpodobně. </value>
+		<value>Neboj, zatím vydržela všechny ostatní vzlety. Rozhodně bude v pořádku pro ten tvůj. Pravděpodobně. </value>
 	</entry>
 	<entry>
 		<key>Esker1If you swing by the moon, say hi to Esker for me.</key>
@@ -6998,7 +6998,7 @@
 	</entry>
 	<entry>
 		<key>Spinel3Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</key>
-		<value>Gabbro chtěl vědět, co leží pod povrchem, takže se rozhodl se ponořit hlouběji. A hlouběji, a hlouběji...</value>
+		<value>Gabbro chtěl vědět, co leží pod povrchem, takže se rozhodl ponořit se hlouběji. A hlouběji, a hlouběji...</value>
 	</entry>
 	<entry>
 		<key>Spinel3But suddenly, Gabbro couldn’t go any further.</key>
@@ -7610,7 +7610,7 @@
 	</entry>
 	<entry>
 		<key>Arkose4Whoa, really?! &lt;Pause=2&gt;...That is &lt;i&gt;so cool&lt;/i&gt;!</key>
-		<value>Wow vážne?! &lt;Pause=2&gt;...To je &lt;i&gt;tak kůlovatý&lt;/i&gt;! </value>
+		<value>Wow, vážně?! &lt;Pause=2&gt;...To je &lt;i&gt;tak kůlovatý&lt;/i&gt;! </value>
 	</entry>
 	<entry>
 		<key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
@@ -7776,7 +7776,7 @@
 	</entry>
 	<entry>
 		<key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
-		<value>Ačkoliv zlé jazyky tvrdí, že taková pocta vyžaduje extrémně promíjivou definici "letu", ten den zůstane v domopecké historii navždy jako významný mezník. </value>
+		<value>Ačkoliv zlé jazyky tvrdí, že taková pocta vyžaduje extrémně volnou definici "letu", ten den zůstane v domopecké historii navždy jako významný mezník. </value>
 	</entry>
 	<entry>
 		<key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
@@ -10069,7 +10069,7 @@
 	</entry>
 	<entry>
 		<key>Curator1There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!</key>
-		<value>Tady jsi! Právě jsem dokončil předletová pozorování, a místní podmínky jsou dobré. Čas na to, poslat našeho nejnovějšího kosmonauta do vesmíru!</value>
+		<value>Tady jsi! Právě jsem dokončil předletová pozorování a místní podmínky jsou dobré. Čas na to, poslat našeho nejnovějšího kosmonauta do vesmíru!</value>
 	</entry>
 	<entry>
 		<key>Curator1And you’ll be our &lt;i&gt;first&lt;/i&gt; astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it.</key>
@@ -10205,7 +10205,7 @@
 	</entry>
 	<entry>
 		<key>Curator9Good luck out there! Let me know if I can help you with anything.</key>
-		<value>Hodně štěstí tam venku! Dej mi vědět, jestli ti můžu s čimkoliv pomoci. </value>
+		<value>Hodně štěstí tam venku! Dej mi vědět, jestli ti můžu s čímkoliv pomoci. </value>
 	</entry>
 	<entry>
 		<key>Curator10I’m not one for superstition, but isn’t that kind of unlucky to say before a launch?</key>
@@ -10816,7 +10816,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe one and only Hearthian village, as well as the main source of explosions on this planet.</key>
-			<value>Jediná domopecká vesnice, a hlavní zdroj výbuchů na této planetě. </value>
+			<value>Jediná domopecká vesnice a hlavní zdroj výbuchů na této planetě. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
