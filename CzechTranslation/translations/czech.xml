@@ -5762,7 +5762,7 @@
     <key>&lt;color=orange&gt;Launch Module&lt;/color&gt;: Viewport window fractured. Module exposed to vacuum of space.
 		</key>
 		<value>
-			&lt;color=orange&gt;Spouštěcí modul&lt;/color&gt;: Okno poškozeno. Modul vystaven vakuu. 
+			&lt;color=orange&gt;Odpalovací modul&lt;/color&gt;: Okno poškozeno. Modul vystaven vakuu. 
 		</value>
 	</entry>
 	<entry>
@@ -8534,7 +8534,7 @@
 	</entry>
 	<entry>
 		<key>Launch Module</key>
-		<value>&lt;color=orange&gt;Spouštěcí modul&lt;/color&gt;</value>
+		<value>&lt;color=orange&gt;Odpalovací modul&lt;/color&gt;</value>
 	</entry>
 	<entry>
 		<key>
@@ -11464,7 +11464,7 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch Module</key>
-			<value>Spouštěcí modul</value>
+			<value>Odpalovací modul</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleOne of the Orbital Probe Cannon’s three modules.</key>
@@ -11472,15 +11472,15 @@
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module looks heavily damaged. There’s a huge breach in the glass viewport.</key>
-			<value>Spouštěcí modul vypadá těžce poškozeně. Ve skleněném průhledu je obrovská trhlina.</value>
+			<value>Odpalovací modul vypadá těžce poškozeně. Ve skleněném průhledu je obrovská trhlina.</value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module's viewport window is fractured, exposing it to the vacuum of space.</key>
-			<value>Skleněný průhled ve Spouštěcím modulu je popraskaný a vystavuje jej vesmírnému vakuu. </value>
+			<value>Skleněný průhled ve Odpalovacím modulu je popraskaný a vystavuje jej vesmírnému vakuu. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleThe Launch Module is badly damaged, but its projection pool is still intact.</key>
-			<value>Spouštěcí modul je těžce poškozený, ale jeho projekční jezírko je stále nedotčené. </value>
+			<value>Odpalovací modul je těžce poškozený, ale jeho projekční jezírko je stále nedotčené. </value>
 		</TranslationTableEntry>
 		<TranslationTableEntry>
 			<key>Launch ModuleA Nomai named Mallow argued that it wouldn't matter if the cannon's structural integrity was compromised, since they only needed to fire the probe once.</key>
@@ -14127,7 +14127,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>610</key>
-			<value>Spouštěcí modul</value>
+			<value>Odpalovací modul</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>611</key>
@@ -14303,7 +14303,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>709</key>
-			<value>SPOUŠTĚCÍ MODUL</value>
+			<value>ODPALOVACÍ MODUL</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>710</key>
