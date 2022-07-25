@@ -52,23 +52,38 @@ Učinili jsme následující volby - pokud s nimi nesouhlasíte, prosím otevře
 
 2. Používáme následující překlady míst a věcí:
 
-	| English              | Czech                     |
-	|----------------------|---------------------------|
-	| Sunless City         | Neslunné město            |
-	| Hanging City         | Visací město              |
-	| Ash Twin Project     | Popelákový projekt        |
-	| Orbital Probe Cannon | _Orbitální sondový kanón_ |
-	| Vessel               | Plavidlo                  |
-	| Escape Pod           | Záchranný člun            |
-	| Anglerfish           | Ďas                       |
-	| Black Hole Forge     | Černoděrá kovárna         |
-	| White Hole Station   | Běloděrá stanice          |
-	| Ghost Matter         | Antihmota                 |
+	| English               | Czech                     |
+	|-----------------------|---------------------------|
+	| Sunless City          | Neslunné město            |
+	| Hanging City          | Visací město              |
+	| Ash Twin Project      | Popelákový projekt        |
+	| Orbital Probe Cannon  | _Orbitální sondový kanón_ |
+	| Vessel                | Plavidlo                  |
+	| Escape Pod            | Záchranný člun            |
+	| Anglerfish            | Ďas                       |
+	| Black Hole Forge      | Černoděrá kovárna         |
+	| White Hole Station    | Běloděrá stanice          |
+	| Ghost Matter          | Antihmota                 |
+	| Control Module        | Kontrolní modul           |
+	| Launch Module         | Odpalovací modul          |
+	| Probe Tracking Module | Sledovací modul           |
 
 3. _Nepřekládáme jména postav._
 4. Slovo "Nomai" zůstává nepřeloženo, je nesklonné a vyskytuje se pouze jako podstatné jméno (v případě nutnosti přídavného jména používáme genitiv, např. "Nomai Shuttle" = "loď Nomai").
 5. Domopecané říkají "sluneční soustava", Nomai říkají "planetární systém".
 6. _Pohlaví je Domopecanům přiřazeno podle jména._
+7. Pohlaví je Nomai přiděleno dle kontextu ([viz #9](https://github.com/shippy/outer-wilds-czech/issues/9)); tam, kde kontext chybí, se rozhodujeme podle jména (a většinou používáme mužský default).
+8. Postavy hovoří odlišnými dialekty na základě věku:
+	- Starší Domopecané mluví mírně pražsky, ale většinou spisovně.
+	- Domopecká mláďata mluví velmi pražsky, s trochou Gen-Z.
+	- Lodní deník mluví spisovně, ale hovorově.
+	- Nomai mluví spisovně a akademicky.
+	- Cizinci mluví spisovně a archaicky.
+9. _Prozatím_ se potýkáme s tím, že části UI neumí část české diakritiky, dvěma způsoby:
+	1. Použitím synonym, která nejsou zcela přesná, ale pokrývají smysl instrukce (např. "tiskni" místo "drž")
+	2. Vynecháním diakritiky tam, kde synonymum neexistuje (např. "časoprostor" -> "casoprostor")
+
+	Tohoto omezení se zbavíme, jakmile přijdeme na to, jak vpašovat do hry jiné fonty, aniž bychom rozbili ty současné. ([Viz #27.](https://github.com/shippy/outer-wilds-czech/pull/27))
 
 ### Jak začít překládat
 
