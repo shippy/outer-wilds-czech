@@ -1600,8 +1600,7 @@
 		</value>
 	</entry>
 	<entry>
-		<key>
-			&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
+    <key>&lt;color=orange&gt;Black Hole Forge&lt;/color&gt;\\n(north 40m)
 		</key>
 		<value>
 			&lt;color=orange&gt;Černoděrá kovárna&lt;/color&gt;\\n (40m severně)
@@ -4776,7 +4775,7 @@
 	</entry>
 	<entry>
 		<key>CASSAVA: Even if it no longer functions, the old core could be a valuable blueprint, provided we’re able to transport it back here.</key>
-		<value>CASSAVA: I kdyby nebylo nadále funkční, staré jádro by bylo cenným náčrtem, pokud bychom jej zvládli dopravit zpět sem.</value>
+		<value>CASSAVA: I kdyby nebylo nadále funkční, staré jádro by bylo cennou předlohou, pokud bychom jej zvládli dopravit zpět sem.</value>
 	</entry>
 	<entry>
 		<key>PHLOX: This would require a return to &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt;. Plume (my father) said many good Nomai perished there.</key>
@@ -7712,7 +7711,7 @@
 	</entry>
 	<entry>
 		<key>MicaModelRocketKid1I hear you and Slate beefed up the model ship. Can I see it?</key>
-		<value>Slyšel jsem, že jsi se Slatem vylepšila pokusnou loďku. Můžu se na ní podívat? </value>
+		<value>Slyšel jsem, že jsi se Slatem vylepšila pokusnou loďku. Můžu se na ni podívat? </value>
 	</entry>
 	<entry>
 		<key>ModelRocketKid5You better be! It’s been forever since anyone launched into space. I really, &lt;i&gt;really&lt;/i&gt; want to see it.</key>
@@ -14407,7 +14406,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>810</key>
-			<value>JSTE MRTVÍ</value>
+			<value>JSTE MRTVI</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>811</key> <!-- FIXME: Vrátit č -->
