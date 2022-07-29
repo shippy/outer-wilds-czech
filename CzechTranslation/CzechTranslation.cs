@@ -15,6 +15,7 @@ namespace CzechTranslation
         {
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "Czech", translationFile);
+            api.AddLanguageFont(this, "Czech", "assets/opensans-regular", "Assets/OpenSans-Regular.ttf");
         }
     }
 }
