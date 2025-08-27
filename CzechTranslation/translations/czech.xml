@@ -3744,7 +3744,7 @@
 	</entry>
 	<entry>
 		<key>Friend1aHey, hey, it’s my favorite astronaut! Launch day at last, huh, buddy? It’s the translator tool’s inaugural flight, too! I’m so excited it’s making me nauseous.</key>
-		<value>Ahoj ahoj, vždyť je to můj oblíbený astronaut! Konečně den vzletu, co, kámo? Je to taky první den pro náš překladač (translátor)! Jsem tak nadšený, až je mi trošku nevolno.</value>
+		<value>Ahoj ahoj, vždyť je to můj oblíbený astronaut! Konečně den vzletu, co, kámo? Je to taky první den pro náš překladač! Jsem tak nadšený, až je mi trošku nevolno.</value>
 	</entry>
 	<entry>
 		<key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
@@ -12873,7 +12873,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>139</key>
-			<value>Kvalita stínu</value>
+			<value>Kvalita stínů</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>140</key>
@@ -12973,7 +12973,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>172</key>
-			<value>Translátor</value>
+			<value>Překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>173</key>
@@ -13065,11 +13065,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>200</key>
-			<value>&lt;color=orange&gt;(Tiskni)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Drž)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>201</key>
-			<value>&lt;color=orange&gt;(Stiskni)&lt;/color&gt;</value>
+			<value>&lt;color=orange&gt;(Zmáčkni)&lt;/color&gt;</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>202</key>
@@ -13085,7 +13085,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>205</key>
-			<value>Baterka</value>
+			<value>Svítilna</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>206</key>
@@ -13109,7 +13109,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>211</key>
-			<value>Nasadit translátor</value>
+			<value>Nasadit překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>212</key>
@@ -13129,15 +13129,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>216</key>
-			<value>(stiskni a uvolni)</value>
+			<value>(podrž a uvolni)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>217</key>
-			<value>Rozhlédnout se kolem</value>
+			<value>Rozhlížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>218</key>
-			<value>Move</value>
+			<value>Pohyb</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>220</key>
@@ -13173,11 +13173,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>231</key>
-			<value>Zacílit sondomet</value>
+			<value>Namířit sondomet</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>232</key>
-			<value>Vypustit sondu</value>
+			<value>Vypálit sondu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>233</key>
@@ -13193,7 +13193,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>236</key>
-			<value>Frontální fotoaparát</value>
+			<value>Přední fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>237</key>
@@ -13209,7 +13209,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>240</key>
-			<value>Zacílit fotoaparát</value>
+			<value>Namířit fotoaparát</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>241</key>
@@ -13289,7 +13289,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>275</key>
-			<value>Nahodit skafandr</value>
+			<value>Obléknout skafandr</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>276</key>
@@ -13313,7 +13313,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>281</key>
-			<value>Letové kódy nutné</value>
+			<value>Vyžaduje letové kódy</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>282</key>
@@ -13325,7 +13325,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>284</key>
-			<value>Prostudovat</value>
+			<value>Číst</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>285</key>
@@ -13402,7 +13402,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>303</key>
-			<value>Detailní pohled</value>
+			<value>Přiblížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>304</key>
@@ -13490,7 +13490,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>335</key>
-			<value>Dost</value>
+			<value>Odložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>336</key>
@@ -13502,7 +13502,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>340</key>
-			<value>Zacílit translátor</value>
+			<value>Namířit překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>341</key>
@@ -13510,7 +13510,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>342</key>
-			<value>Použít translátor</value>
+			<value>Použít překladač</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>343</key>
@@ -13534,15 +13534,15 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>350</key>
-			<value>Sundat</value>
+			<value>Odložit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>351</key>
-			<value>Najet na cíl</value>
+			<value>Zamířit</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>352</key>
-			<value>Detail</value>
+			<value>Přiblížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>353</key>
@@ -13554,7 +13554,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>361</key>
-			<value>Detailní pohled</value>
+			<value>Přiblížení</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>362</key>
@@ -13694,7 +13694,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>421</key>
-			<value>Koordináty Oka: </value><!-- FIXME: Souřadnice jsou lepší -->
+			<value>Souřadnice Oka: </value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>430</key>
@@ -13878,11 +13878,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>503</key>
-			<value>UKONČIT CYKLUS A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
+			<value>UKONČIT SMYČKU A VRÁTIT SE DO HLAVNÍ NABÍDKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>504</key>
-			<value>MEDITOVAT DO DALŠÍHO CYKLU</value>
+			<value>MEDITOVAT DO DALŠÍ SMYČKY</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>505</key>
@@ -13906,7 +13906,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>521</key>
-			<value>Current user signed out.\\nPlease sign in again to continue.</value>
+			<value>Uživatel odhlášen.\\nProsím znovu se připoj pro pokračování.</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>522</key>
@@ -13994,7 +13994,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>567</key>
-			<value>Look / Move</value>
+			<value>Rozhlížení / Pohyb</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>568</key>
@@ -14366,7 +14366,7 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>734</key>
-			<value>ILUMINUJ TEMNÁ MÍSTA</value>
+			<value>OSVĚTLUJ TEMNÁ MÍSTA</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>735</key>
@@ -14654,11 +14654,11 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>956</key>
-			<value>OXYGEN REFILL:</value>
+			<value>DOPLNĚNÍ KYSLÍKU:</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>957</key>
-			<value>ZMERKUJ STROM</value>
+			<value>ZMERČI STROM</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>958</key>
@@ -15642,19 +15642,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1421</key>
-			<value>Automatické použití translátoru</value>
+			<value>Automatické použití překladače</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1422</key>
-			<value>Zastavit hodiny - studium textu</value>
+			<value>Zastavit čas při čtení textu</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1423</key>
-			<value>Zastavit hodiny - lodní deník</value>
+			<value>Zastavit čas při práci s lodním deníkem</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1424</key>
-			<value>Zastavit hodiny - rozhovory</value>
+			<value>Zastavit čas při rozhovorech</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1430</key>
@@ -15762,19 +15762,19 @@
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1512</key>
-			<value>Originální nastavení (hra)</value>
+			<value>Původní nastavení (hra)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1513</key>
-			<value>Originální nastavení (audio &amp; jazyk)</value>
+			<value>Původní nastavení (audio &amp; jazyk)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1514</key>
-			<value>Originální nastavení (ovládání)</value>
+			<value>Původní nastavení (ovládání)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1515</key>
-			<value>Originální nastavení (grafika)</value>
+			<value>Původní nastavení (grafika)</value>
 		</TranslationTableEntryUI>
 		<TranslationTableEntryUI>
 			<key>1520</key>
